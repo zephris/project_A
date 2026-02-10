@@ -1,4 +1,4 @@
-TODO:
+# TODO:
 - Extend box profile to 16 button (include left stick and right stick)
 - invert USB-A port to sit flush inside case
 - add pinout for display (doesnt need to carry one necessarily)
