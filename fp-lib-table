@@ -9,4 +9,5 @@
   (lib (name "ECMF02-4CMX8")(type "KiCad")(uri "${KIPRJMOD}/ECMF02-4CMX8.pretty")(options "")(descr ""))
   (lib (name "SOIC")(type "KiCad")(uri "${KIPRJMOD}/SOIC.pretty")(options "")(descr ""))
   (lib (name "project_A")(type "KiCad")(uri "C:/Users/zephyris.UCCDOMAYNE/Documents/KiCad/9.0/projects/project_A.pretty")(options "")(descr ""))
+  (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
 )
