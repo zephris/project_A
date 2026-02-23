@@ -7893,6 +7893,26 @@
 			)
 		)
 	)
+	(global_label "UP"
+		(shape input)
+		(at 41.91 113.03 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b2bdf2d4-7c60-4437-80e4-d09acbbfe9ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.91 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "OPT6"
 		(shape input)
 		(at 269.24 92.71 0)
@@ -15031,6 +15051,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 52.07 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "be13ad89-4eb8-4182-97f6-c4ebc14f0007")
+		(property "Reference" "#PWR019"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.197 117.4242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d7eecdd-db73-4f69-94e1-b3cfbaed03ef")
+		)
+		(instances
+			(project "Flatbox-rev8"
+				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 39.37 257.81 0)
 		(unit 1)
@@ -16010,6 +16095,82 @@
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
 					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 46.99 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "d8972c44-023e-4b73-9ed2-113b8c366f12")
+		(property "Reference" "SW21"
+			(at 46.99 105.791 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GPIO16"
+			(at 46.99 108.1024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+			(at 46.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 46.99 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8cc8ae8-8490-4e3f-9601-e7eafa818d51")
+		)
+		(pin "2"
+			(uuid "2ca79331-0a6e-4bfd-a18c-cc778f8a277c")
+		)
+		(instances
+			(project "Flatbox-rev8"
+				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
+					(reference "SW21")
 					(unit 1)
 				)
 			)
