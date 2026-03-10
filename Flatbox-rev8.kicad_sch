@@ -4910,10 +4910,6 @@
 		(uuid "1340858b-5f32-43b9-89a4-3e1b5f2830dd")
 	)
 	(no_connect
-		(at 269.24 123.19)
-		(uuid "15d1bed9-8398-4620-8732-32763fa40a76")
-	)
-	(no_connect
 		(at 135.89 246.38)
 		(uuid "195febb4-9357-4faa-b2d5-30e97e5c7378")
 	)
@@ -4926,20 +4922,12 @@
 		(uuid "6375338f-b09e-4185-9a55-3227c16dccdb")
 	)
 	(no_connect
-		(at 269.24 125.73)
-		(uuid "8d2f1eb3-f276-4ea6-8713-3533db4314ac")
-	)
-	(no_connect
 		(at 269.24 110.49)
 		(uuid "9211f3fb-8f61-499a-b352-fadca6768d3f")
 	)
 	(no_connect
 		(at 269.24 107.95)
 		(uuid "aefb17c1-ee0d-4446-b574-ad872a841e3b")
-	)
-	(no_connect
-		(at 269.24 120.65)
-		(uuid "eae7896b-1c6a-499b-a3df-5b02ab41a88b")
 	)
 	(no_connect
 		(at 110.49 231.14)
@@ -7369,7 +7357,7 @@
 			)
 		)
 	)
-	(global_label "C.RGB"
+	(global_label "RS"
 		(shape input)
 		(at 269.24 128.27 0)
 		(fields_autoplaced yes)
@@ -7381,7 +7369,7 @@
 		)
 		(uuid "2af243dc-cb9b-4887-afe6-abcac13b9368")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.2558 128.27 0)
+			(at 274.0505 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7673,6 +7661,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 269.24 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "79415f4f-0f4a-4eef-a668-286430f052b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.1391 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8063,6 +8073,28 @@
 			)
 		)
 	)
+	(global_label "LS"
+		(shape input)
+		(at 269.24 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d7947132-e5df-44e3-8552-7bb4bcb12f9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.8086 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "UP"
 		(shape input)
 		(at 269.24 130.81 0)
@@ -8076,6 +8108,28 @@
 		(uuid "dbce1312-be0d-4809-8136-26f1b76b6d36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 274.1715 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 269.24 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de1bc184-326d-471d-b21e-20fd3e2f19c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.0786 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,0 +1,8 @@
+### Footprint positions - created on 2026-03-10T15:20:26+0800 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                            PosX       PosY       Rot  Side
+C19       100u      CP_EIA-3528-21_Kemet-B          49.4177    32.7334  180.0000  bottom
+USB2      USB_A     USB_A_TE_292303-7_Horizontal    63.4677    32.7334  -90.0000  bottom
+## End
