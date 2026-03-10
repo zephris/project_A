@@ -1,0 +1,10 @@
+Info: Output directory 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order' created.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-F_Cu.gtl'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-B_Cu.gbl'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-F_Silkscreen.gto'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-F_Mask.gts'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-B_Mask.gbs'.
+Plotted to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\order\Flatbox-rev8-Edge_Cuts.gm1'.
+Info: Done.
+Info: Done.
