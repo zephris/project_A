@@ -1,0 +1,25 @@
+(kicad_symbol_lib
+  (version 20231120)
+  (generator "kicad_symbol_editor")
+  (symbol "HS91L02W2C01_Module"
+    (pin_names (offset 1.016))
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U" (at 0 8.89 0) (effects (font (size 1.27 1.27))))
+    (property "Value" "HS91L02W2C01" (at 0 -8.89 0) (effects (font (size 1.27 1.27))))
+    (property "Footprint" "EasyEDA_Lib:OLED-TH_L38.0-W12.0_HS91L02W2C01" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_HS-HS91L02W2C01_C5248081.pdf" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Description" "0.91-inch 128x32 I2C OLED module; PCB header: GND, +5V, SCL, SDA" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+    (symbol "HS91L02W2C01_Module_0_1"
+      (rectangle (start -5.08 -6.35) (end 5.08 6.35) (stroke (width 0.254) (type default)) (fill (type background)))
+    )
+    (symbol "HS91L02W2C01_Module_1_1"
+      (pin power_in line (at -10.16 3.81 0) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+      (pin power_in line (at -10.16 1.27 0) (length 5.08) (name "VCC" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -10.16 -1.27 0) (length 5.08) (name "SCL" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+      (pin input line (at -10.16 -3.81 0) (length 5.08) (name "SDA" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+    )
+    (embedded_fonts no)
+  )
+)
