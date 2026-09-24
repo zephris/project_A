@@ -4,4 +4,5 @@
   (lib (name "ECMF02-4CMX8")(type "KiCad")(uri "${KIPRJMOD}/ECMF02-4CMX8.pretty/ECMF02-4CMX8.kicad_sym")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_RP2350")(type "KiCad")(uri "${KIPRJMOD}/lib.pretty/MCU_RaspberryPi_RP2350.kicad_sym")(options "")(descr ""))
   (lib (name "EasyEDA_Lib")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
+  (lib (name "PHBox")(type "KiCad")(uri "${KIPRJMOD}/PHBox.kicad_sym")(options "")(descr ""))
 )

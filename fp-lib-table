@@ -11,4 +11,5 @@
   (lib (name "project_A")(type "KiCad")(uri "C:/Users/zephyris.UCCDOMAYNE/Documents/KiCad/9.0/projects/project_A.pretty")(options "")(descr ""))
   (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
   (lib (name "EasyEDA_Lib")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
+  (lib (name "PHBox")(type "KiCad")(uri "${KIPRJMOD}/PHBox.pretty")(options "")(descr ""))
 )

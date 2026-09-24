@@ -4501,6 +4501,27 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PHBox:HS91L02W2C01_Module"
+			(pin_names (offset 1.016))
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U" (at 0 8.89 0) (effects (font (size 1.27 1.27))))
+			(property "Value" "HS91L02W2C01" (at 0 -8.89 0) (effects (font (size 1.27 1.27))))
+			(property "Footprint" "EasyEDA_Lib:OLED-TH_L38.0-W12.0_HS91L02W2C01" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_HS-HS91L02W2C01_C5248081.pdf" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(property "Description" "0.91-inch 128x32 I2C OLED module; PCB header: GND, +5V, SCL, SDA" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(symbol "HS91L02W2C01_Module_0_1"
+				(rectangle (start -5.08 -6.35) (end 5.08 6.35) (stroke (width 0.254) (type default)) (fill (type background)))
+			)
+			(symbol "HS91L02W2C01_Module_1_1"
+				(pin power_in line (at -10.16 3.81 0) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+				(pin power_in line (at -10.16 1.27 0) (length 5.08) (name "VCC" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+				(pin input line (at -10.16 -1.27 0) (length 5.08) (name "SCL" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+				(pin input line (at -10.16 -3.81 0) (length 5.08) (name "SDA" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+			)
+			(embedded_fonts no)
+		)
 	)
 	(circle
 		(center 172.72 84.455)
@@ -4559,6 +4580,17 @@
 			(justify left bottom)
 		)
 		(uuid "f8dbaa1b-d01c-4ac1-87a2-c3a7723f744d")
+	)
+	(text "OLED status display (I2C)"
+		(exclude_from_sim no)
+		(at 266.7 213.36 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "d3a7a99e-c771-439e-8e45-f5d1071962bb")
 	)
 	(text "Power"
 		(exclude_from_sim no)
@@ -4720,12 +4752,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "620740a5-a0e7-492c-afcc-867018a06455")
-	)
-	(junction
-		(at 346.71 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78c256cb-8419-447a-b1b4-97f7d3efb3ba")
 	)
 	(junction
 		(at 372.11 54.61)
@@ -4902,20 +4928,12 @@
 		(uuid "f7a56ee4-7e8a-42a8-81a9-4f0b4a59c1c0")
 	)
 	(no_connect
-		(at 269.24 146.05)
-		(uuid "06725891-434c-4864-ab37-085592ef4683")
-	)
-	(no_connect
 		(at 269.24 90.17)
 		(uuid "1340858b-5f32-43b9-89a4-3e1b5f2830dd")
 	)
 	(no_connect
 		(at 135.89 246.38)
 		(uuid "195febb4-9357-4faa-b2d5-30e97e5c7378")
-	)
-	(no_connect
-		(at 269.24 148.59)
-		(uuid "4ab06c95-6c02-4a52-adb4-aded52f33af6")
 	)
 	(no_connect
 		(at 110.49 246.38)
@@ -5975,16 +5993,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 140.97) (xy 361.95 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7deac781-8930-4ff4-8dc0-874ab46a75eb")
-	)
-	(wire
-		(pts
 			(xy 334.01 166.37) (xy 349.25 166.37)
 		)
 		(stroke
@@ -5995,16 +6003,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 142.24) (xy 346.71 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7eb66421-b945-4c03-bae8-7d0847c2aa42")
-	)
-	(wire
-		(pts
 			(xy 266.7 39.37) (xy 278.13 39.37)
 		)
 		(stroke
@@ -6012,16 +6010,6 @@
 			(type default)
 		)
 		(uuid "82802d70-06a0-43be-8ae6-5dead574f3e6")
-	)
-	(wire
-		(pts
-			(xy 346.71 149.86) (xy 346.71 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "838ef95e-0d96-43cf-b602-a5726ca923e0")
 	)
 	(wire
 		(pts
@@ -7903,7 +7891,7 @@
 			)
 		)
 	)
-	(global_label "UP"
+	(global_label "UP2"
 		(shape input)
 		(at 41.91 113.03 270)
 		(effects
@@ -8276,7 +8264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e24ed8")
-		(property "Reference" "SW1"
+		(property "Reference" "OPSW1"
 			(at 33.02 29.591 0)
 			(effects
 				(font
@@ -8337,7 +8325,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW1")
+					(reference "OPSW1")
 					(unit 1)
 				)
 			)
@@ -8352,7 +8340,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e26611")
-		(property "Reference" "SW2"
+		(property "Reference" "OPSW2"
 			(at 50.8 29.591 0)
 			(effects
 				(font
@@ -8413,7 +8401,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW2")
+					(reference "OPSW2")
 					(unit 1)
 				)
 			)
@@ -8888,7 +8876,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ebc7d7")
-		(property "Reference" "SW7"
+		(property "Reference" "SW2"
 			(at 46.99 52.451 0)
 			(effects
 				(font
@@ -8904,7 +8892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 46.99 54.61 0)
 			(effects
 				(font
@@ -8949,7 +8937,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW7")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -8964,7 +8952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec0151")
-		(property "Reference" "SW18"
+		(property "Reference" "SW1"
 			(at 107.95 88.011 0)
 			(effects
 				(font
@@ -8980,7 +8968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 107.95 90.17 0)
 			(effects
 				(font
@@ -9025,7 +9013,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW18")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -9040,7 +9028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec0bb3")
-		(property "Reference" "SW12"
+		(property "Reference" "SW14"
 			(at 67.31 70.231 0)
 			(effects
 				(font
@@ -9056,7 +9044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 67.31 72.39 0)
 			(effects
 				(font
@@ -9101,7 +9089,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW12")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -9116,7 +9104,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec0fb1")
-		(property "Reference" "SW15"
+		(property "Reference" "SW9"
 			(at 46.99 88.011 0)
 			(effects
 				(font
@@ -9132,7 +9120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 46.99 90.17 0)
 			(effects
 				(font
@@ -9177,7 +9165,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW15")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -9192,7 +9180,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec2d3f")
-		(property "Reference" "SW8"
+		(property "Reference" "SW3"
 			(at 67.31 52.451 0)
 			(effects
 				(font
@@ -9208,7 +9196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 67.31 54.61 0)
 			(effects
 				(font
@@ -9253,7 +9241,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW8")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -9268,7 +9256,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec33be")
-		(property "Reference" "SW10"
+		(property "Reference" "SW12"
 			(at 107.95 52.451 0)
 			(effects
 				(font
@@ -9284,7 +9272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 107.95 54.61 0)
 			(effects
 				(font
@@ -9329,7 +9317,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW10")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -9344,7 +9332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec37aa")
-		(property "Reference" "SW13"
+		(property "Reference" "SW15"
 			(at 87.63 70.231 0)
 			(effects
 				(font
@@ -9360,7 +9348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 87.63 72.39 0)
 			(effects
 				(font
@@ -9405,7 +9393,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW13")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -9420,7 +9408,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec3cac")
-		(property "Reference" "SW16"
+		(property "Reference" "SW10"
 			(at 67.31 88.011 0)
 			(effects
 				(font
@@ -9436,7 +9424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 67.31 90.17 0)
 			(effects
 				(font
@@ -9481,7 +9469,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW16")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -9496,7 +9484,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec3fe9")
-		(property "Reference" "SW9"
+		(property "Reference" "SW4"
 			(at 87.63 52.451 0)
 			(effects
 				(font
@@ -9512,7 +9500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 87.63 54.61 0)
 			(effects
 				(font
@@ -9557,7 +9545,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW9")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -9572,7 +9560,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec4474")
-		(property "Reference" "SW11"
+		(property "Reference" "SW13"
 			(at 46.99 70.231 0)
 			(effects
 				(font
@@ -9588,7 +9576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 46.99 72.39 0)
 			(effects
 				(font
@@ -9633,7 +9621,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW11")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -9648,7 +9636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec4852")
-		(property "Reference" "SW14"
+		(property "Reference" "SW8"
 			(at 107.95 70.231 0)
 			(effects
 				(font
@@ -9664,7 +9652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 107.95 72.39 0)
 			(effects
 				(font
@@ -9709,7 +9697,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW14")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -9724,7 +9712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ec4d39")
-		(property "Reference" "SW17"
+		(property "Reference" "SW11"
 			(at 87.63 88.011 0)
 			(effects
 				(font
@@ -9740,7 +9728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 87.63 90.17 0)
 			(effects
 				(font
@@ -9785,7 +9773,7 @@
 		(instances
 			(project "Flatbox-rev6"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW17")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -11129,84 +11117,6 @@
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 346.71 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16863520-2dfa-439b-b9e6-011246b062bf")
-		(property "Reference" "R9"
-			(at 348.488 144.8816 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 348.488 147.193 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 344.932 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 346.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 346.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25744"
-			(at 346.71 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17090413-3be3-4b67-84c9-b5b97c8a49b2")
-		)
-		(pin "2"
-			(uuid "3a72ec99-8bc1-4cfd-8e65-ec5a145711cf")
-		)
-		(instances
-			(project "Flatbox-rev8"
-				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -14717,7 +14627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9601b9a-6c85-401f-b661-145233aea00c")
-		(property "Reference" "SW6"
+		(property "Reference" "OPSW6"
 			(at 120.65 29.591 0)
 			(effects
 				(font
@@ -14778,7 +14688,7 @@
 		(instances
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW6")
+					(reference "OPSW6")
 					(unit 1)
 				)
 			)
@@ -16008,7 +15918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2d22c19-54b6-4b0e-9b6e-22a51c8b5349")
-		(property "Reference" "SW5"
+		(property "Reference" "OPSW5"
 			(at 102.87 29.591 0)
 			(effects
 				(font
@@ -16069,7 +15979,7 @@
 		(instances
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW5")
+					(reference "OPSW5")
 					(unit 1)
 				)
 			)
@@ -16163,7 +16073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8972c44-023e-4b73-9ed2-113b8c366f12")
-		(property "Reference" "SW21"
+		(property "Reference" "SW5"
 			(at 46.99 105.791 0)
 			(effects
 				(font
@@ -16171,7 +16081,7 @@
 				)
 			)
 		)
-		(property "Value" "GPIO16"
+		(property "Value" "GPIO22"
 			(at 46.99 108.1024 0)
 			(effects
 				(font
@@ -16179,7 +16089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:Kailh_socket_PG1350_optional"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 46.99 107.95 0)
 			(effects
 				(font
@@ -16224,7 +16134,7 @@
 		(instances
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW21")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -16312,7 +16222,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de4ca704-13e9-4be6-a4a1-41b9f5d6bad6")
-		(property "Reference" "SW4"
+		(property "Reference" "OPSW4"
 			(at 85.09 29.591 0)
 			(effects
 				(font
@@ -16373,7 +16283,7 @@
 		(instances
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW4")
+					(reference "OPSW4")
 					(unit 1)
 				)
 			)
@@ -16596,7 +16506,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e688c26a-d26e-4c72-8377-3dbd30aead7f")
-		(property "Reference" "SW3"
+		(property "Reference" "OPSW3"
 			(at 67.31 29.591 0)
 			(effects
 				(font
@@ -16657,7 +16567,7 @@
 		(instances
 			(project "Flatbox-rev8"
 				(path "/15f2e5be-6a22-46eb-955b-5555ace1bee2"
-					(reference "SW3")
+					(reference "OPSW3")
 					(unit 1)
 				)
 			)
@@ -17101,6 +17011,191 @@
 			)
 		)
 	)
+	(global_label "UP2"
+		(shape input)
+		(at 269.24 146.05 0)
+		(effects (font (size 1.27 1.27)) (justify left))
+		(uuid "f107d398-7967-4e45-a80c-8755ef4f5261")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.59 146.05 0)
+			(effects (font (size 1.27 1.27)) (justify left) (hide yes))
+		)
+	)
+	(global_label "UP3"
+		(shape input)
+		(at 269.24 148.59 0)
+		(effects (font (size 1.27 1.27)) (justify left))
+		(uuid "a359717a-04ab-4f3e-9ded-13d7aa31b6ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.59 148.59 0)
+			(effects (font (size 1.27 1.27)) (justify left) (hide yes))
+		)
+	)
+	(global_label "UP3"
+		(shape input)
+		(at 62.23 113.03 270)
+		(effects (font (size 1.27 1.27)) (justify right))
+		(uuid "dcbe8dd9-46ac-4b52-9a43-21c55f669833")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 113.03 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+	)
+	(global_label "LS"
+		(shape input)
+		(at 82.55 113.03 270)
+		(effects (font (size 1.27 1.27)) (justify right))
+		(uuid "7f8ca833-caf0-4845-82eb-891a4a6235be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.55 113.03 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+	)
+	(global_label "RS"
+		(shape input)
+		(at 102.87 113.03 270)
+		(effects (font (size 1.27 1.27)) (justify right))
+		(uuid "1e6bf642-1be9-4b10-99d8-188459a11708")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.87 113.03 0)
+			(effects (font (size 1.27 1.27)) (hide yes))
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 67.31 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0620e90a-6b82-4ad6-a9d6-e5b51a6bb254")
+		(property "Reference" "SW6" (at 67.31 105.791 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "GPIO23" (at 67.31 108.1024 0) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2" (at 67.31 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "~" (at 67.31 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "6713d683-646b-4605-9988-badbf3894c4a"))
+		(pin "2" (uuid "6ca69a3c-d229-43c9-80b4-06fe4db273a2"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "SW6") (unit 1))))
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 87.63 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e7a92cc-f248-4af5-9b44-74c2f98e978e")
+		(property "Reference" "SW16" (at 87.63 105.791 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "GPIO14" (at 87.63 108.1024 0) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2" (at 87.63 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "~" (at 87.63 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "c738299c-6e17-4690-bfcf-c0ae52dc62ed"))
+		(pin "2" (uuid "4bff1c7f-4478-40df-be52-6aa3f1ee44ae"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "SW16") (unit 1))))
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 107.95 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "192574a0-945c-49a1-b9ba-f1b2e63ff33b")
+		(property "Reference" "SW7" (at 107.95 105.791 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "GPIO15" (at 107.95 108.1024 0) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2" (at 107.95 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "~" (at 107.95 107.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "f92b3873-45b6-4258-874d-b927f98dba3f"))
+		(pin "2" (uuid "13043a67-3881-45df-9279-6a73122a5983"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "SW7") (unit 1))))
+	)
+	(symbol
+		(lib_id "power:GND") (at 72.39 113.03 0) (unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "21188252-956b-4159-8812-6ed94b76557f")
+		(property "Reference" "#PWR047" (at 72.39 119.38 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Value" "GND" (at 72.517 117.4242 0) (effects (font (size 1.27 1.27))))
+		(pin "1" (uuid "189cf7ce-4806-4951-8968-570e999f2900"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "#PWR047") (unit 1))))
+	)
+	(symbol
+		(lib_id "power:GND") (at 92.71 113.03 0) (unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "fa7a37c7-2931-42d2-8fe2-8d972ead4322")
+		(property "Reference" "#PWR048" (at 92.71 119.38 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Value" "GND" (at 92.837 117.4242 0) (effects (font (size 1.27 1.27))))
+		(pin "1" (uuid "3df69ca0-dae4-4f8a-91f6-f51c42677325"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "#PWR048") (unit 1))))
+	)
+	(symbol
+		(lib_id "power:GND") (at 113.03 113.03 0) (unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "fc11e07d-b9bb-45c6-9b63-49e28e0c524e")
+		(property "Reference" "#PWR049" (at 113.03 119.38 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Value" "GND" (at 113.157 117.4242 0) (effects (font (size 1.27 1.27))))
+		(pin "1" (uuid "2150e8f7-d9ad-4e68-aa50-6413955b46b1"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "#PWR049") (unit 1))))
+	)
+	(symbol
+		(lib_id "PHBox:HS91L02W2C01_Module")
+		(at 279.4 234.95 0)
+		(unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "efaa23ee-a1fb-4b56-ae87-f595042273b2")
+		(property "Reference" "U5" (at 279.4 226.06 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "HS91L02W2C01" (at 279.4 243.84 0) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "EasyEDA_Lib:OLED-TH_L38.0-W12.0_HS91L02W2C01" (at 279.4 234.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_HS-HS91L02W2C01_C5248081.pdf" (at 279.4 234.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Manufacturer" "HS" (at 279.4 234.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "MPN" "HS91L02W2C01" (at 279.4 234.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "LCSC" "C5248081" (at 279.4 234.95 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "91cab2a8-f788-4768-93cc-6c5a4e64d311"))
+		(pin "2" (uuid "91cab2a8-f788-4768-93cc-6c5a4e64d312"))
+		(pin "3" (uuid "91cab2a8-f788-4768-93cc-6c5a4e64d313"))
+		(pin "4" (uuid "91cab2a8-f788-4768-93cc-6c5a4e64d314"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "U5") (unit 1))))
+	)
+	(global_label "GND" (shape input) (at 269.24 231.14 0) (effects (font (size 1.27 1.27)) (justify left)) (uuid "7bbc837a-95d1-4e4a-982f-715976b76311"))
+	(global_label "+5V" (shape input) (at 269.24 233.68 0) (effects (font (size 1.27 1.27)) (justify left)) (uuid "7bbc837a-95d1-4e4a-982f-715976b76312"))
+	(global_label "SCL" (shape input) (at 269.24 236.22 0) (effects (font (size 1.27 1.27)) (justify left)) (uuid "7bbc837a-95d1-4e4a-982f-715976b76313"))
+	(global_label "SDA" (shape input) (at 269.24 238.76 0) (effects (font (size 1.27 1.27)) (justify left)) (uuid "7bbc837a-95d1-4e4a-982f-715976b76314"))
+	(symbol
+		(lib_id "Device:R_Small") (at 304.8 227.33 0) (unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "4b03d0c3-2adc-4b91-9b10-a00eb64fc312")
+		(property "Reference" "R12" (at 306.2986 226.1616 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Value" "4.7k" (at 306.2986 228.473 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Footprint" "PHBox:R_0603_Compact" (at 304.8 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162" (at 304.8 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Manufacturer" "UNI-ROYAL" (at 304.8 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "MPN" "0603WAF4701T5E" (at 304.8 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "LCSC" "C23162" (at 304.8 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "b8e2311a-c452-43ac-931f-e2bf759d5211"))
+		(pin "2" (uuid "b8e2311a-c452-43ac-931f-e2bf759d5212"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "R12") (unit 1))))
+	)
+	(symbol
+		(lib_id "Device:R_Small") (at 325.12 227.33 0) (unit 1)
+		(exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
+		(uuid "4b03d0c3-2adc-4b91-9b10-a00eb64fc313")
+		(property "Reference" "R13" (at 326.6186 226.1616 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Value" "4.7k" (at 326.6186 228.473 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Footprint" "PHBox:R_0603_Compact" (at 325.12 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162" (at 325.12 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Manufacturer" "UNI-ROYAL" (at 325.12 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "MPN" "0603WAF4701T5E" (at 325.12 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "LCSC" "C23162" (at 325.12 227.33 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(pin "1" (uuid "b8e2311a-c452-43ac-931f-e2bf759d5311"))
+		(pin "2" (uuid "b8e2311a-c452-43ac-931f-e2bf759d5312"))
+		(instances (project "Flatbox-rev8" (path "/15f2e5be-6a22-46eb-955b-5555ace1bee2" (reference "R13") (unit 1))))
+	)
+	(global_label "SCL" (shape input) (at 304.8 224.79 90) (effects (font (size 1.27 1.27)) (justify right)) (uuid "a3441a9d-cb43-4ec5-b2c3-0ba010783411"))
+	(global_label "+3V3" (shape input) (at 304.8 229.87 90) (effects (font (size 1.27 1.27)) (justify right)) (uuid "a3441a9d-cb43-4ec5-b2c3-0ba010783412"))
+	(global_label "SDA" (shape input) (at 325.12 224.79 90) (effects (font (size 1.27 1.27)) (justify right)) (uuid "a3441a9d-cb43-4ec5-b2c3-0ba010783413"))
+	(global_label "+3V3" (shape input) (at 325.12 229.87 90) (effects (font (size 1.27 1.27)) (justify right)) (uuid "a3441a9d-cb43-4ec5-b2c3-0ba010783414"))
 	(sheet_instances
 		(path "/"
 			(page "1")
