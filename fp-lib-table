@@ -12,4 +12,6 @@
   (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
   (lib (name "EasyEDA_Lib")(type "EasyEDA / JLCEDA Pro")(uri "${KIPRJMOD}/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
   (lib (name "PHBox")(type "KiCad")(uri "${KIPRJMOD}/PHBox.pretty")(options "")(descr ""))
+  (lib (name "PCM_Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/PCM_Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr "Exact SW1-SW16 embedded Kailh Choc V1/V2 hot-swap footprint"))
+(lib (name "PHBox_Repair")(type "KiCad")(uri "${KIPRJMOD}/PHBox_Repair.pretty")(options "")(descr "PHBox assembly artwork variants; physical pads retained"))
 )

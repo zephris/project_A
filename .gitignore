@@ -3,3 +3,27 @@
 *.kicad_prl
 _autosave-*.kicad_pcb
 .history/
+AGENTS.md
+POWER_BUDGET.md
+scripts
+AGENTS.md
+
+# Local editor state, recovery files and analysis scratch data.
+.DS_Store
+__pycache__/
+*.pyc
+*.kicad_pcb.bak.*
+Flatbox-rev8-backups/
+Quilter_PHBox_*
+analysis/
+output/
+quilter_input/
+tmp/
+stage2_work/
+capability_mode.json
+cross_analysis.json
+emc_analysis.json
+pcb_analysis.json
+sch_analysis.json
+# Generic image is not a validated PHBox firmware/configuration release.
+GP2040-CE_0.7.12_Pico2.uf2

@@ -1,0 +1,29 @@
+{
+  "Flatbox-rev8.kicad_pcb": {
+    "sha256": "9fd86c4f995aa2a21399959bdbc122ada45858543d11e8e52d8516f274b95edf",
+    "matches_validated_candidate_objects": true
+  },
+  "Flatbox-rev8.kicad_sch": {
+    "sha256": "8168bd11de48a84b60679ee40ab181cb987501384c499a598394d7ca82aac633",
+    "matches_validated_candidate_objects": true
+  },
+  "Flatbox-rev8.kicad_pro": {
+    "unchanged_from_pre_edit": true
+  },
+  "Flatbox-rev8.kicad_dru": {
+    "unchanged_from_pre_edit": true
+  },
+  "PHBox.kicad_sym": {
+    "unchanged_from_pre_edit": true
+  },
+  "fp-lib-table": {
+    "unchanged_from_pre_edit": true
+  },
+  "sym-lib-table": {
+    "unchanged_from_pre_edit": true
+  },
+  "fresh_main_pad_audit": {
+    "matched_pad_entries": 440,
+    "footprints": 146
+  }
+}
