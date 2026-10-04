@@ -1,0 +1,224 @@
+(footprint "LED_SK6805_EC15_Optical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Converted from LCSC/JLCPCB EasyEDA C2890035 package LED-SMD_4P-L1.5-W1.5-BL, UUID 5cd91222f20c471691a5f1d18c6adac0; source https://easyeda.com/api/products/C2890035/components")
+	(tags "SK6805-EC15 OPSCO JLCPCB C2890035 RGB addressable")
+	(property "Reference" "REF**"
+		(at 0 -1.65 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d6ef27cf-34f7-4165-89fb-1278d16544ef")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "LED_SK6805_EC15_Optical"
+		(at 0 1.65 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7b49db7-2ee6-49fa-ab31-4ca5f9beb755")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/0f4b58ac8908ccf8037b2d7ca0ec1e91.pdf?productCode=C2890035"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd9f8561-0554-46ed-8449-fb199e1fa1f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32bda23f-3648-4054-a488-b7a40c43448e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LED_Position" "SW1"
+		(at 0 0 270)
+		(layer "F.SilkS")
+		(uuid "e18c8ec5-7545-4864-801b-de326d766ea4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "OPSCO"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4975cc82-cae9-4772-ad4e-8591043711a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "SK6805-EC15"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "939c430c-9a84-42b9-b1c3-dc279368f80d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2890035"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01cf8118-7950-4596-b342-54533e68f81e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Chosen_Distributor" "JLCPCB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4498f561-0e47-4b59-8630-6e8a806a1bf6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "BOM Comments" "C2890035 listing SK6805-EC15; linked OPSCO -001 datasheet, SAP 10205E6805A15001A0. 1.5x1.5x0.65mm RGB, GRB. Confirm supplied variant before assembly."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ebbaf57-df3e-4b02-b162-b0f18d0401aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "Flatbox-rev8.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.25 -1.25)
+		(end 1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "84d325cf-1083-435d-ae33-09e4e14321e4")
+	)
+	(fp_line
+		(start -1.1 0.5)
+		(end -1.1 1.1)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3ceb000a-80fa-4c09-804d-c9daebff741d")
+	)
+	(fp_line
+		(start -1.1 1.1)
+		(end -0.55 1.1)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "03f55100-0208-43fc-a8ce-5c5041383b3f")
+	)
+	(fp_rect
+		(start -0.9 -0.9)
+		(end 0.9 0.9)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "79858205-019f-4f91-a3eb-45ac7fbffce8")
+	)
+	(fp_rect
+		(start -0.75 -0.75)
+		(end 0.75 0.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f25bc1b6-62f3-4eb9-82bb-ef404d946038")
+	)
+	(fp_poly
+		(pts
+			(xy 0.25 -0.125) (xy 0.7 -0.125) (xy 0.475 0.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "648b4aa0-a8c0-47c6-b759-20dbabedfc8d")
+	)
+	(pad "1" smd rect
+		(at -0.475 0.475)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f18c488e-cb52-462a-98a7-0d54b339e4ff")
+	)
+	(pad "2" smd rect
+		(at 0.475 0.475)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "77f091a3-3bec-4122-8cd0-af30c00c37af")
+	)
+	(pad "3" smd rect
+		(at 0.475 -0.475)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0900b38b-2bf6-4f03-abf9-ad82f11d1897")
+	)
+	(pad "4" smd rect
+		(at -0.475 -0.475)
+		(size 0.55 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1426a642-f01f-4f51-8ab6-50c4b49b98ba")
+	)
+	(embedded_fonts no)
+)

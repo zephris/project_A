@@ -1,0 +1,3 @@
+# Preserve upstream CAD model bytes across platforms; avoid textual model diffs.
+3dmodels/*.step binary
+3dmodels/*.wrl binary

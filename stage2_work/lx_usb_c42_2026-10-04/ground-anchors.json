@@ -1,0 +1,4112 @@
+[
+  {
+    "layer": "F.Cu",
+    "contours": [
+      {
+        "contour": 0,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "52625b30-f51d-47e4-a073-2273b3effca5",
+            "kind": "via",
+            "at": [
+              184.58218,
+              191.087672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "96fad4be-0638-43c0-b24a-8b94434cf6bf",
+            "kind": "via",
+            "at": [
+              185.286085,
+              191.965082
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 1,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "8623c935-ea4c-4653-984f-0386daa9c1db",
+            "kind": "via",
+            "at": [
+              217.641758,
+              175.09725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 2,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "09a41c96-586c-4a15-9749-8a8362288697",
+            "kind": "via",
+            "at": [
+              144.641758,
+              191.04725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "33132422-f0f7-4e84-86a3-a9cee17b9b39",
+            "kind": "via",
+            "at": [
+              145.399659,
+              191.661121
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 3,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "65cb7ca2-7619-48fc-a9d6-e044002aa98a",
+            "kind": "via",
+            "at": [
+              278.641758,
+              152.54725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "6c280048-d95b-49f6-9b37-2e56566309d8",
+            "kind": "via",
+            "at": [
+              279.939697,
+              153.71459
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 4,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "002be16f-b24b-4781-ba63-f51b9d6fe11b",
+            "kind": "via",
+            "at": [
+              227.623105,
+              118.406937
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "38b5e8e3-591a-44d7-a2a7-2677ddc10e83",
+            "kind": "via",
+            "at": [
+              283.849306,
+              148.637385
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ac6c6d1c-dabc-4c1f-8c1b-e7c325255a81",
+            "kind": "via",
+            "at": [
+              285.49218,
+              144.118118
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 3
+      },
+      {
+        "contour": 5,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "ac74c536-38b5-4204-8003-238f2e977387",
+            "kind": "via",
+            "at": [
+              221.106389,
+              148.227735
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c8075638-187c-4816-a0cf-8781ed9722eb",
+            "kind": "via",
+            "at": [
+              220.591758,
+              147.39725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 6,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "69b2de30-3b5b-44d9-8cc0-eccbd79f0dfc",
+            "kind": "via",
+            "at": [
+              249.929904,
+              148.695048
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "fd00534d-8e89-48ac-8cae-53fff4b46f07",
+            "kind": "via",
+            "at": [
+              249.43218,
+              147.387672
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 7,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "0e822d9b-01ea-4e97-b2f2-aa329d6e1e88",
+            "kind": "via",
+            "at": [
+              127.141758,
+              138.04725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 8,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "7856c266-5ae5-40e9-b18e-b3e2bac0ca3a",
+            "kind": "via",
+            "at": [
+              200.714777,
+              128.048161
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a054cffd-2b47-4c13-b28c-52187b6d0500",
+            "kind": "via",
+            "at": [
+              199.58218,
+              127.437672
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 9,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "0fef00e7-3681-4e8a-885c-a7ad124727d9",
+            "kind": "via",
+            "at": [
+              71.756586,
+              127.419063
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "eba8b5fd-68db-48b4-90d2-83069d2b9e8a",
+            "kind": "via",
+            "at": [
+              71.441758,
+              126.49725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 10,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "3cc42532-91bd-49bd-a7bc-d75bd4a32484",
+            "kind": "via",
+            "at": [
+              100.541758,
+              126.59725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 11,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "4c4ecaf3-3681-4373-a831-af5170587c64",
+            "kind": "via",
+            "at": [
+              284.08218,
+              121.187672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "efded505-4ba4-45b3-bb47-a16b930f5564",
+            "kind": "via",
+            "at": [
+              282.926774,
+              122.488113
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 12,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "78b5bd6e-dc4a-4f8d-8091-dd7719369b9d",
+            "kind": "via",
+            "at": [
+              255.941634,
+              116.404697
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "baeec528-f284-46fa-97f6-9d39fa42e693",
+            "kind": "via",
+            "at": [
+              255.141758,
+              115.79725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 13,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "e983cf55-5b1f-4bff-b4f1-95ac1780d7c6",
+            "kind": "via",
+            "at": [
+              225.841758,
+              115.89725
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 14,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "13b188de-6343-4ae9-a643-237d191d3940",
+            "kind": "via",
+            "at": [
+              154.779907,
+              84.263086
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7390ca83-69c8-4058-b0d2-252cf3dc67d4",
+            "kind": "via",
+            "at": [
+              156.45,
+              76.55
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "86c5ecc4-ed8e-4aeb-a506-1f6bbe539cd2",
+            "kind": "via",
+            "at": [
+              149.78218,
+              62.766558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8a5962de-3234-4481-9a76-d727c5aae254",
+            "kind": "via",
+            "at": [
+              154.254705,
+              64.646167
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "96bdc370-984a-47d5-969b-0dda3368f79e",
+            "kind": "via",
+            "at": [
+              150.611895,
+              70.491873
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 5
+      },
+      {
+        "contour": 15,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "8b912cf5-ed68-4f08-a54a-903c4ad314a8",
+            "kind": "via",
+            "at": [
+              122.968677,
+              68.801795
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "93b58d27-537a-4be0-ac90-8b1316a06829",
+            "kind": "via",
+            "at": [
+              131.23218,
+              71.928118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a14cbdd3-8f8b-44cf-83e9-12b2daf57792",
+            "kind": "via",
+            "at": [
+              123.008058,
+              76.59911
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "e2d0f339-6f2a-4525-b98a-97ac4662c7d1",
+            "kind": "via",
+            "at": [
+              122.807256,
+              62.145747
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "fd046c54-1492-4f6d-a305-0978fb50af11",
+            "kind": "via",
+            "at": [
+              144.658019,
+              77.674515
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 5
+      },
+      {
+        "contour": 16,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "217c075e-4946-4edf-b879-4cc665faae21",
+            "kind": "via",
+            "at": [
+              140.98218,
+              69.478118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "2669e74a-c9f4-454b-9acc-061dec88ac31",
+            "kind": "via",
+            "at": [
+              141.910618,
+              68.203551
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "36c1f303-73e2-4384-bcb9-158fb7d9007a",
+            "kind": "via",
+            "at": [
+              146.38218,
+              66.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "508c467c-6fd3-4079-8b52-abde4038c475",
+            "kind": "via",
+            "at": [
+              141.058538,
+              68.090361
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "680eeb90-68dc-4f58-8f60-dc5d65183ac1",
+            "kind": "via",
+            "at": [
+              144.800091,
+              72.302479
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "69abc8e2-8d5c-4133-967f-f17a5d53b720",
+            "kind": "via",
+            "at": [
+              140.98218,
+              66.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "7bb60afc-4c4f-4f31-a3cc-aed8ddde88e1",
+            "kind": "via",
+            "at": [
+              137.978115,
+              71.511802
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7c319bc5-78b9-4c7f-a14e-a7f820e0a8e9",
+            "kind": "via",
+            "at": [
+              146.409897,
+              65.940301
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "96b7a82d-b778-40ec-b665-0e0183a400c9",
+            "kind": "via",
+            "at": [
+              140.75218,
+              65.378118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a610bde3-72d3-4780-af36-cac8eccc67f4",
+            "kind": "via",
+            "at": [
+              146.28218,
+              71.178118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d2fc49e3-1845-446c-bf44-a3bb8c2f8516",
+            "kind": "via",
+            "at": [
+              146.578987,
+              70.093227
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ea88855a-312e-4157-8bfe-55ff330ce21b",
+            "kind": "via",
+            "at": [
+              145.93218,
+              64.766558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 12
+      },
+      {
+        "contour": 17,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "48e5a601-99e8-4823-b545-8aa60ecad1fb",
+            "kind": "via",
+            "at": [
+              146.846985,
+              55.899007
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "81bbbe71-0a25-4290-8df5-9384bee7b3b4",
+            "kind": "via",
+            "at": [
+              146.37271,
+              56.269998
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b86f92f3-7602-4ba3-9f0b-27d988b66b17",
+            "kind": "via",
+            "at": [
+              142.007679,
+              55.708399
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c5ce6681-e61d-46aa-bbbe-e7097a714482",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              56.641558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a4daacbd-e049-4746-bf28-7b0c02cd53f1",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              58.016558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9f4f9916-ace5-466e-922b-5edea5bbed30",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              59.391558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "26840793-ab00-45f5-989a-ccf187e06dc3",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              56.641558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "be1fb4a9-eb0c-49ae-b1dc-09f8c0351e06",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              58.016558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "76b1e5b3-b973-4ac4-ab28-7c7a4b9b12dc",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              59.391558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c6c6d6b3-4244-4cc5-9774-4ab04ace23d6",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              56.641558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c4c2d4ba-d420-4d88-94c6-df8739a2a9d7",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              58.016558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "14f32925-a878-44b1-bd10-048669ec4bd9",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              59.391558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 12
+      },
+      {
+        "contour": 18,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "cf920352-83ad-4d74-a025-4aabd1bcab73",
+            "kind": "via",
+            "at": [
+              132.792502,
+              59.46125
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 19,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "4377a565-fc64-4f8f-99b7-ed2ce22c43db",
+            "kind": "via",
+            "at": [
+              156.18218,
+              58.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "b90277a5-ef50-4fde-8fda-7e788309e5d5",
+            "kind": "via",
+            "at": [
+              156.18218,
+              57.928118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d77bf849-428d-4e13-ab87-32b991567da1",
+            "kind": "via",
+            "at": [
+              161.161914,
+              58.442019
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 3
+      },
+      {
+        "contour": 20,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "6a084016-7e9f-4b6b-b1fe-67b6ac7bf001",
+            "kind": "via",
+            "at": [
+              136.38218,
+              57.466558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 21,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "1ac75138-b0fa-448e-9538-091f6ac2dcbe",
+            "kind": "via",
+            "at": [
+              138.63218,
+              55.316558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "90999a04-56ea-41ea-9cd2-5aad657048f5",
+            "kind": "via",
+            "at": [
+              140.11113,
+              54.897476
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 22,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "e3336df9-71d3-4400-838d-872a784ebe00",
+            "kind": "via",
+            "at": [
+              151.03218,
+              55.316558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 23,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "9700a82b-fc7f-438a-a287-9f8328ff0be4",
+            "kind": "via",
+            "at": [
+              148.18218,
+              54.166558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 24,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "1b3adbff-f708-4d24-933c-c1072ed61a6d",
+            "kind": "via",
+            "at": [
+              137.895292,
+              48.081361
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a013623b-6b3b-42ab-8d5e-2e7bad60a196",
+            "kind": "via",
+            "at": [
+              139.53218,
+              50.166558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 25,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "d1213519-e820-43a6-88c2-3d86f0df4423",
+            "kind": "via",
+            "at": [
+              282.223994,
+              45.029995
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "e940bced-9df0-4ad9-b3ba-45dbb3d94a87",
+            "kind": "via",
+            "at": [
+              282.413091,
+              45.804121
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 26,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "2e6cce06-87cd-40fa-8c3c-d7e06db59268",
+            "kind": "via",
+            "at": [
+              285.215046,
+              45.000667
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "535e5f87-62a5-4f59-a981-7f2053c65093",
+            "kind": "via",
+            "at": [
+              285.288651,
+              46.056396
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 27,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "448661f7-aba9-404d-b84b-94d53a5bf898",
+            "kind": "via",
+            "at": [
+              288.245072,
+              45.728664
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 28,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "03ad3262-4be5-4b0b-a5e8-aee7def5f4ce",
+            "kind": "via",
+            "at": [
+              224.746776,
+              167.19272
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "0465f791-dcd5-47f2-9b87-120437e402a8",
+            "kind": "via",
+            "at": [
+              157.18218,
+              52.656558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "06aa00d8-0303-4c2b-b871-788bff1d43ac",
+            "kind": "via",
+            "at": [
+              220.469705,
+              204.559997
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "074f6e7b-0b77-4d9b-8473-9f278e1d8436",
+            "kind": "via",
+            "at": [
+              286.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "079be30c-6e9a-4c71-ab16-a182c5010f0c",
+            "kind": "via",
+            "at": [
+              196.42218,
+              126.458118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0b454537-c1bd-487c-85f5-f2c6536e9d13",
+            "kind": "via",
+            "at": [
+              217.43218,
+              146.388118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0e06cdb0-b885-4f9f-9da6-9687dadc047c",
+            "kind": "via",
+            "at": [
+              123.991758,
+              136.94225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0e274a86-7661-436c-9d8f-d561c57d7798",
+            "kind": "via",
+            "at": [
+              214.480005,
+              174.119118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "100b74af-cd92-4f20-9bc5-077a02b27075",
+            "kind": "via",
+            "at": [
+              89.661928,
+              204.560683
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "141c48ad-320f-49e9-801e-6a9f4f5ef93f",
+            "kind": "via",
+            "at": [
+              258.032179,
+              137.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "155230c1-c536-43d8-b1bb-616ba3e1a558",
+            "kind": "via",
+            "at": [
+              309.582106,
+              35.472263
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "194d50be-ac78-4909-93b6-57b50f8afd4c",
+            "kind": "via",
+            "at": [
+              198.931886,
+              157.95495
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "19dcfac2-0881-4485-a5e1-a79d9f563a07",
+            "kind": "via",
+            "at": [
+              207.959098,
+              91.004617
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "1a92ba65-5d3a-4289-9209-ec9c8896a297",
+            "kind": "via",
+            "at": [
+              264.524232,
+              45.796944
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "1ec2f5fa-61b3-4de4-a99a-8b41c657c3b4",
+            "kind": "via",
+            "at": [
+              206.69285,
+              78.521727
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "209ca5b9-90a7-4af6-b978-73e6184fcab5",
+            "kind": "via",
+            "at": [
+              256.36125,
+              142.901848
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "21163ff6-bb24-46a1-b5fb-11e7852342b7",
+            "kind": "via",
+            "at": [
+              245.095307,
+              136.861721
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "2186500a-039f-49bd-b4f7-101fcf6f1cbe",
+            "kind": "via",
+            "at": [
+              212.88218,
+              62.478118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "23eba220-5b24-491b-b7d6-192ec89f30e4",
+            "kind": "via",
+            "at": [
+              161.68218,
+              45.066558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "2f88641a-eb40-48b9-ab24-6b7dd03a4d9c",
+            "kind": "via",
+            "at": [
+              225.735722,
+              64.969496
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "30903699-3958-444b-862e-df760f1df961",
+            "kind": "via",
+            "at": [
+              153.241758,
+              180.86725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "39be9c5d-59ea-4ae8-8b9a-9b4177469048",
+            "kind": "via",
+            "at": [
+              164.819236,
+              45.891688
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "3a6f8677-8423-4d1a-bccb-36437e1ea84e",
+            "kind": "via",
+            "at": [
+              147.420746,
+              53.187933
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "3b115699-be38-4e03-b7e9-2c7326b5ec25",
+            "kind": "via",
+            "at": [
+              95.587308,
+              42.322204
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "3e8e881e-43c0-441a-af0c-2a093d7c767a",
+            "kind": "via",
+            "at": [
+              67.860632,
+              204.560798
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "407137cb-be66-40aa-a962-5bad3acfc1a6",
+            "kind": "via",
+            "at": [
+              242.271001,
+              204.559882
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "41b7949d-1e67-41b1-be61-1a138f79c6fa",
+            "kind": "via",
+            "at": [
+              131.112408,
+              56.170228
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4607b3cf-38e7-4fe6-98e1-f469ef7f0d69",
+            "kind": "via",
+            "at": [
+              190.140608,
+              177.458116
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "46fb4886-4917-44e5-ae6f-7fde9672f2bc",
+            "kind": "via",
+            "at": [
+              323.926475,
+              66.466147
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4b1f7a6e-e18c-480c-8d1e-7d5c1f344964",
+            "kind": "via",
+            "at": [
+              228.814217,
+              48.353811
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4beee7f5-18b8-493f-ad35-23481ebbb130",
+            "kind": "via",
+            "at": [
+              220.131752,
+              68.428243
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4c25d51f-044b-415a-9f35-81267b0ca87e",
+            "kind": "via",
+            "at": [
+              210.487883,
+              62.024594
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4dba06c1-43c2-4278-8e68-d7b19bebab89",
+            "kind": "via",
+            "at": [
+              323.926475,
+              110.068739
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4fa3c995-6d67-4305-8fb5-ff9cc1bf5153",
+            "kind": "via",
+            "at": [
+              279.746847,
+              78.09668
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "51980417-7e38-4952-9960-537e3787f07b",
+            "kind": "via",
+            "at": [
+              223.05405,
+              72.490553
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5957bf8d-207e-4099-9f1e-0a97fa3acf2c",
+            "kind": "via",
+            "at": [
+              53.238103,
+              173.844313
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5cad9daf-a784-486e-bd33-f8261baabc3f",
+            "kind": "via",
+            "at": [
+              53.237926,
+              64.837833
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5ce7c156-46dc-4b48-bd4e-909720268aa5",
+            "kind": "via",
+            "at": [
+              207.351696,
+              114.224605
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "60056f92-c935-4e2a-8555-4655e1de26cd",
+            "kind": "via",
+            "at": [
+              218.895005,
+              177.449123
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "6073cec2-0af6-4a4f-8c7a-79aa94899ae4",
+            "kind": "via",
+            "at": [
+              190.82218,
+              157.498118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "633f9488-bdd8-4607-9050-c5a80454be8e",
+            "kind": "via",
+            "at": [
+              97.391758,
+              125.59225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "647effe1-a54e-4b49-aa26-b58d09692a75",
+            "kind": "via",
+            "at": [
+              114.752949,
+              91.567895
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "64adaa3c-2350-40f3-bf0a-d3ae96f14d2f",
+            "kind": "via",
+            "at": [
+              141.491758,
+              190.04225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "66644879-b3f8-47b3-9c9e-6814aec71416",
+            "kind": "via",
+            "at": [
+              147.40718,
+              52.478118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "693aefd7-2a7c-445f-b87c-f32fbd6821a5",
+            "kind": "via",
+            "at": [
+              229.18218,
+              137.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "69e5c4cf-1b91-4a5f-be7f-56074abd7422",
+            "kind": "via",
+            "at": [
+              264.072297,
+              204.559768
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "70d49b2d-32ce-4a18-a405-fce418761fe7",
+            "kind": "via",
+            "at": [
+              292.68218,
+              111.028118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "72fcb2ff-1807-4095-aa44-89e9a413a771",
+            "kind": "via",
+            "at": [
+              279.142542,
+              45.883168
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "78a178aa-188d-4868-bce4-4e2ecab397db",
+            "kind": "via",
+            "at": [
+              206.161487,
+              74.856064
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7c39c9bb-a084-4212-990b-af998fe5b00f",
+            "kind": "via",
+            "at": [
+              154.989274,
+              46.066828
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7ca816c5-9de3-411e-a35c-52a00abdb1fc",
+            "kind": "via",
+            "at": [
+              246.28218,
+              146.388118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "7ffa24d6-638f-4812-a044-f6bb8641db94",
+            "kind": "via",
+            "at": [
+              275.49218,
+              151.548118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "82a6d2d2-dc37-4371-ae31-550de32ed03e",
+            "kind": "via",
+            "at": [
+              323.926475,
+              131.870035
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "879b4af1-1ad7-4b82-9b3e-f756173075b7",
+            "kind": "via",
+            "at": [
+              142.23218,
+              49.416558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8bdd0041-b04f-43b0-9750-ddb1549d5b57",
+            "kind": "via",
+            "at": [
+              222.691758,
+              115.01725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8be3cf48-dc15-49a7-88fd-724834695299",
+            "kind": "via",
+            "at": [
+              201.08218,
+              99.287672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8c75c6d6-c9ac-4271-893d-ed7fd83998dd",
+            "kind": "via",
+            "at": [
+              280.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8d70a016-44ae-454c-a460-05ed0120cb59",
+            "kind": "via",
+            "at": [
+              218.5,
+              72.0
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8dd67acb-5e2d-456e-a38d-a397bfdf6639",
+            "kind": "via",
+            "at": [
+              285.873593,
+              204.559654
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8e9c1210-10ba-4f3b-8675-038b9ec24d05",
+            "kind": "via",
+            "at": [
+              193.97218,
+              158.477672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8ed34b28-5698-4efb-8327-3937b0f36107",
+            "kind": "via",
+            "at": [
+              229.834777,
+              42.493092
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8ef8bc99-125c-4e2a-9e51-1ab4daf72760",
+            "kind": "via",
+            "at": [
+              208.77,
+              70.5
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8f12f8be-a27e-4019-8e65-2ff8292c7658",
+            "kind": "via",
+            "at": [
+              145.756758,
+              193.96725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "93e484e8-fdff-41f2-bef8-7cb75c0f3925",
+            "kind": "via",
+            "at": [
+              156.5,
+              49.2
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9510a626-a7b3-4b99-b685-8337505f1d6d",
+            "kind": "via",
+            "at": [
+              151.533974,
+              40.833455
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "976ae531-125f-4a2a-b8b1-da1b911183dd",
+            "kind": "via",
+            "at": [
+              134.08218,
+              43.016558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9a20d10e-ed4f-43f1-b459-167d7820f110",
+            "kind": "via",
+            "at": [
+              53.239619,
+              39.400945
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9c41fdc9-3c30-48a5-ac7e-c65457686fca",
+            "kind": "via",
+            "at": [
+              323.926475,
+              153.671331
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9c70b548-3d04-453d-b5a9-3132d1c3b2b9",
+            "kind": "via",
+            "at": [
+              197.93218,
+              98.309118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9d8e0cdc-9a67-456b-bcca-bdca1cd132da",
+            "kind": "via",
+            "at": [
+              153.44694,
+              44.676428
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9dbe0037-44b5-4e22-8c24-c08db03dc61d",
+            "kind": "via",
+            "at": [
+              289.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a4901a66-77f8-484d-9120-e5721f122372",
+            "kind": "via",
+            "at": [
+              109.019817,
+              87.824996
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a704bcc4-099f-4bcf-823c-b37d7006dcab",
+            "kind": "via",
+            "at": [
+              163.807777,
+              39.521527
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a7319fdc-335c-40b5-9a86-c2124edbfece",
+            "kind": "via",
+            "at": [
+              251.97218,
+              114.808118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "aa3f9ab1-873f-4c6d-9d97-47841d0e1bda",
+            "kind": "via",
+            "at": [
+              323.926475,
+              197.273924
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "aa54b2cc-742b-4f48-84d5-155d7ffcbba9",
+            "kind": "via",
+            "at": [
+              200.941076,
+              100.370873
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ad01712d-6f85-4a90-b152-3d49ca558e1e",
+            "kind": "via",
+            "at": [
+              240.697003,
+              42.104993
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b2e94010-0acb-43b9-bc91-7adc4459458e",
+            "kind": "via",
+            "at": [
+              105.441758,
+              98.41725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "b35c2277-1eb2-4ed5-9ad8-bbb70c8e5328",
+            "kind": "via",
+            "at": [
+              262.882509,
+              107.664401
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b3c1fd43-f265-4e08-b004-520d312212fa",
+            "kind": "via",
+            "at": [
+              151.621447,
+              44.988009
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b7819f1e-43b7-48ca-b0d5-5dfcc0c14de9",
+            "kind": "via",
+            "at": [
+              132.319481,
+              52.833955
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c0a050cb-9fda-412f-bb47-5bc5fec4bf1c",
+            "kind": "via",
+            "at": [
+              153.738815,
+              52.61898
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c1fedd5e-ab21-4ee3-9518-96514a1c1996",
+            "kind": "via",
+            "at": [
+              164.3,
+              47.0
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c338016b-b9d3-4640-9bd7-1a71366adbd6",
+            "kind": "via",
+            "at": [
+              253.297347,
+              44.892724
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c7b14758-4db3-467c-b941-d20f7e817fdc",
+            "kind": "via",
+            "at": [
+              159.98218,
+              46.916558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "cb16a708-38b2-4732-8954-e4b70efcf1fb",
+            "kind": "via",
+            "at": [
+              218.233205,
+              48.924515
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "cce9ae58-6771-415b-9cc9-beb2a944adae",
+            "kind": "via",
+            "at": [
+              220.288577,
+              84.326551
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ce6f7c95-9dd7-4aad-b876-9d301f2a1790",
+            "kind": "via",
+            "at": [
+              135.741758,
+              127.76725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "cf936566-f473-4e4d-9b1c-36fde8f12ab4",
+            "kind": "via",
+            "at": [
+              151.15218,
+              51.776558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d0e59e0c-628c-4b46-a512-6c94d0bc90d9",
+            "kind": "via",
+            "at": [
+              153.659104,
+              51.591089
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d272c08e-e2f5-4c7d-857d-7c28c3500b58",
+            "kind": "via",
+            "at": [
+              108.591758,
+              99.19725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d6d43ace-6d22-461a-9ffa-34014b423e38",
+            "kind": "via",
+            "at": [
+              233.374049,
+              103.894515
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d74163dd-cea6-4393-970b-1e069da861eb",
+            "kind": "via",
+            "at": [
+              202.57218,
+              148.318118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d7c09182-8676-4e40-92e1-6eefa503825e",
+            "kind": "via",
+            "at": [
+              280.93218,
+              120.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d81cea25-c2d5-41bf-8836-f391bc222167",
+            "kind": "via",
+            "at": [
+              323.926475,
+              175.472628
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d8a38c3a-61a2-4f9c-a139-5ea2a2f48ed5",
+            "kind": "via",
+            "at": [
+              181.43218,
+              190.059123
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "daefd474-63b5-4aef-903e-a6fca71326af",
+            "kind": "via",
+            "at": [
+              323.926475,
+              88.267443
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "dd3c4310-6517-404d-894d-6b4eb80b125f",
+            "kind": "via",
+            "at": [
+              222.075389,
+              66.571453
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "dee3743d-1579-4595-b00c-6e62439a1f47",
+            "kind": "via",
+            "at": [
+              68.291758,
+              125.46725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "e9c573b8-5472-4cec-ad1b-f0847e10f86b",
+            "kind": "via",
+            "at": [
+              221.0,
+              62.4
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "ed53cb52-57e1-4bf2-9b69-110cc07a587f",
+            "kind": "via",
+            "at": [
+              156.985725,
+              49.708503
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f3691419-cb1f-4525-a784-3e3641a15d11",
+            "kind": "via",
+            "at": [
+              109.141758,
+              116.41725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f48b3a6a-a155-481e-aa2f-f44f30c7d62f",
+            "kind": "via",
+            "at": [
+              229.669375,
+              45.207556
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f4f32db7-a323-4866-be65-292a7e998830",
+            "kind": "via",
+            "at": [
+              215.35,
+              69.4
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f61ef0ec-4e2d-42b5-814b-07cf90aa121b",
+            "kind": "via",
+            "at": [
+              156.23218,
+              46.1
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f823ff5b-cc9a-4056-88b4-19a039236f58",
+            "kind": "via",
+            "at": [
+              200.300405,
+              153.964593
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f92e09fa-d4d9-4b2d-934d-16c714997ffd",
+            "kind": "via",
+            "at": [
+              80.046758,
+              116.29725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fc10efb0-b72b-4f5b-8c77-b720831a37c2",
+            "kind": "via",
+            "at": [
+              283.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fce58cd2-760a-4221-b5c3-97e407f9e89e",
+            "kind": "via",
+            "at": [
+              221.23218,
+              65.928118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "ff20ec72-4eaf-4f54-aa6f-9b5e47bd020a",
+            "kind": "via",
+            "at": [
+              111.463224,
+              204.560569
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "826e690a-f554-4086-9c72-71bfcd65e689",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              162.75218,
+              40.589118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "3e2b8a47-9ae6-4f24-92cb-070e969b9586",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              162.75218,
+              36.409118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "537565b4-fe0e-441c-8b50-78cf295ab120",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              154.11218,
+              40.589118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "11ec9d71-b5b1-48cc-86de-83938c0d7826",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              154.11218,
+              36.409118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "4f90d935-f079-4dfa-855f-e743f96f9412",
+            "kind": "PTH",
+            "ref": "U5",
+            "pad": "2",
+            "at": [
+              94.81218,
+              40.056558
+            ],
+            "radius": 900000.0
+          },
+          {
+            "uuid": "d4cded90-ecc6-47a5-bd87-6950cf89902d",
+            "kind": "PTH",
+            "ref": "OPSW2",
+            "pad": "2",
+            "at": [
+              229.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "276d1e40-8992-4d1a-9808-a7b7f88f745d",
+            "kind": "PTH",
+            "ref": "OPSW2",
+            "pad": "2",
+            "at": [
+              229.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "5a871ea6-0f5a-4669-977f-85de6814db17",
+            "kind": "PTH",
+            "ref": "OPSW5",
+            "pad": "2",
+            "at": [
+              262.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "eebf34ed-c236-4d06-b64b-14b60887dd92",
+            "kind": "PTH",
+            "ref": "OPSW5",
+            "pad": "2",
+            "at": [
+              262.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "03c46495-324c-4645-b607-c036a512dacb",
+            "kind": "PTH",
+            "ref": "OPSW6",
+            "pad": "2",
+            "at": [
+              272.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "d2e77694-e1da-4a20-b21a-61a1ca719292",
+            "kind": "PTH",
+            "ref": "OPSW6",
+            "pad": "2",
+            "at": [
+              272.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "40f10e4b-0487-40d9-b2ec-4373e17ba000",
+            "kind": "PTH",
+            "ref": "OPSW3",
+            "pad": "2",
+            "at": [
+              239.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "d202ea34-26a8-46e5-8f90-93159afabf5b",
+            "kind": "PTH",
+            "ref": "OPSW3",
+            "pad": "2",
+            "at": [
+              239.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "f7e70cce-1f00-445f-b8e5-428aa28547ca",
+            "kind": "PTH",
+            "ref": "OPSW1",
+            "pad": "2",
+            "at": [
+              219.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "a13a27c5-6c8d-437e-8fa8-9fb929c74a0b",
+            "kind": "PTH",
+            "ref": "OPSW1",
+            "pad": "2",
+            "at": [
+              219.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "9db588f1-4458-4306-b654-f77d5a6dd851",
+            "kind": "PTH",
+            "ref": "OPSW4",
+            "pad": "2",
+            "at": [
+              252.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "134ff018-8add-4a9c-9cef-0fe88624743e",
+            "kind": "PTH",
+            "ref": "OPSW4",
+            "pad": "2",
+            "at": [
+              252.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "fa63aff6-ff47-4a39-9e8c-226735952505",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              232.45818,
+              54.566558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "d362f30f-4946-43d4-8a80-bbe8ec4c3976",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              225.55818,
+              54.566558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "e46149e4-cd27-416c-a1ce-1f668d9f1d15",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              232.45818,
+              70.266558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "1b4634a4-82d4-4cb9-8f8f-6e0dcf20b978",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              225.55818,
+              70.266558
+            ],
+            "radius": 750000.0
+          }
+        ],
+        "anchor_count": 131
+      }
+    ],
+    "unanchored": []
+  },
+  {
+    "layer": "B.Cu",
+    "contours": [
+      {
+        "contour": 0,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "217c075e-4946-4edf-b879-4cc665faae21",
+            "kind": "via",
+            "at": [
+              140.98218,
+              69.478118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "2669e74a-c9f4-454b-9acc-061dec88ac31",
+            "kind": "via",
+            "at": [
+              141.910618,
+              68.203551
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "36c1f303-73e2-4384-bcb9-158fb7d9007a",
+            "kind": "via",
+            "at": [
+              146.38218,
+              66.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "508c467c-6fd3-4079-8b52-abde4038c475",
+            "kind": "via",
+            "at": [
+              141.058538,
+              68.090361
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "680eeb90-68dc-4f58-8f60-dc5d65183ac1",
+            "kind": "via",
+            "at": [
+              144.800091,
+              72.302479
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "69abc8e2-8d5c-4133-967f-f17a5d53b720",
+            "kind": "via",
+            "at": [
+              140.98218,
+              66.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "7c319bc5-78b9-4c7f-a14e-a7f820e0a8e9",
+            "kind": "via",
+            "at": [
+              146.409897,
+              65.940301
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "96b7a82d-b778-40ec-b665-0e0183a400c9",
+            "kind": "via",
+            "at": [
+              140.75218,
+              65.378118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "96bdc370-984a-47d5-969b-0dda3368f79e",
+            "kind": "via",
+            "at": [
+              150.611895,
+              70.491873
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a610bde3-72d3-4780-af36-cac8eccc67f4",
+            "kind": "via",
+            "at": [
+              146.28218,
+              71.178118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d2fc49e3-1845-446c-bf44-a3bb8c2f8516",
+            "kind": "via",
+            "at": [
+              146.578987,
+              70.093227
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ea88855a-312e-4157-8bfe-55ff330ce21b",
+            "kind": "via",
+            "at": [
+              145.93218,
+              64.766558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 12
+      },
+      {
+        "contour": 1,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "86c5ecc4-ed8e-4aeb-a506-1f6bbe539cd2",
+            "kind": "via",
+            "at": [
+              149.78218,
+              62.766558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8a5962de-3234-4481-9a76-d727c5aae254",
+            "kind": "via",
+            "at": [
+              154.254705,
+              64.646167
+            ],
+            "radius": 225225.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 2,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "4377a565-fc64-4f8f-99b7-ed2ce22c43db",
+            "kind": "via",
+            "at": [
+              156.18218,
+              58.978118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "b90277a5-ef50-4fde-8fda-7e788309e5d5",
+            "kind": "via",
+            "at": [
+              156.18218,
+              57.928118
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 3,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "e9c573b8-5472-4cec-ad1b-f0847e10f86b",
+            "kind": "via",
+            "at": [
+              221.0,
+              62.4
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 4,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "9f4f9916-ace5-466e-922b-5edea5bbed30",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              59.391558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 5,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "76b1e5b3-b973-4ac4-ab28-7c7a4b9b12dc",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              59.391558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 6,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "14f32925-a878-44b1-bd10-048669ec4bd9",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              59.391558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 7,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "a4daacbd-e049-4746-bf28-7b0c02cd53f1",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              58.016558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 8,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "be1fb4a9-eb0c-49ae-b1dc-09f8c0351e06",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              58.016558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 9,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "c4c2d4ba-d420-4d88-94c6-df8739a2a9d7",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              58.016558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 10,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "6a084016-7e9f-4b6b-b1fe-67b6ac7bf001",
+            "kind": "via",
+            "at": [
+              136.38218,
+              57.466558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 11,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "48e5a601-99e8-4823-b545-8aa60ecad1fb",
+            "kind": "via",
+            "at": [
+              146.846985,
+              55.899007
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "81bbbe71-0a25-4290-8df5-9384bee7b3b4",
+            "kind": "via",
+            "at": [
+              146.37271,
+              56.269998
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c6c6d6b3-4244-4cc5-9774-4ab04ace23d6",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              145.70718,
+              56.641558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 3
+      },
+      {
+        "contour": 12,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "c5ce6681-e61d-46aa-bbbe-e7097a714482",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              142.95718,
+              56.641558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 13,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "26840793-ab00-45f5-989a-ccf187e06dc3",
+            "kind": "PTH",
+            "ref": "U1",
+            "pad": "61",
+            "at": [
+              144.33218,
+              56.641558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 14,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "1ac75138-b0fa-448e-9538-091f6ac2dcbe",
+            "kind": "via",
+            "at": [
+              138.63218,
+              55.316558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 15,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "e3336df9-71d3-4400-838d-872a784ebe00",
+            "kind": "via",
+            "at": [
+              151.03218,
+              55.316558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 16,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "9700a82b-fc7f-438a-a287-9f8328ff0be4",
+            "kind": "via",
+            "at": [
+              148.18218,
+              54.166558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 17,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "3a6f8677-8423-4d1a-bccb-36437e1ea84e",
+            "kind": "via",
+            "at": [
+              147.420746,
+              53.187933
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "66644879-b3f8-47b3-9c9e-6814aec71416",
+            "kind": "via",
+            "at": [
+              147.40718,
+              52.478118
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 2
+      },
+      {
+        "contour": 18,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "cf936566-f473-4e4d-9b1c-36fde8f12ab4",
+            "kind": "via",
+            "at": [
+              151.15218,
+              51.776558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 19,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "a013623b-6b3b-42ab-8d5e-2e7bad60a196",
+            "kind": "via",
+            "at": [
+              139.53218,
+              50.166558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 20,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "879b4af1-1ad7-4b82-9b3e-f756173075b7",
+            "kind": "via",
+            "at": [
+              142.23218,
+              49.416558
+            ],
+            "radius": 300000.0
+          }
+        ],
+        "anchor_count": 1
+      },
+      {
+        "contour": 21,
+        "plated_anchors_to_both_inner_planes": [
+          {
+            "uuid": "002be16f-b24b-4781-ba63-f51b9d6fe11b",
+            "kind": "via",
+            "at": [
+              227.623105,
+              118.406937
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "03ad3262-4be5-4b0b-a5e8-aee7def5f4ce",
+            "kind": "via",
+            "at": [
+              224.746776,
+              167.19272
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "0465f791-dcd5-47f2-9b87-120437e402a8",
+            "kind": "via",
+            "at": [
+              157.18218,
+              52.656558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "06aa00d8-0303-4c2b-b871-788bff1d43ac",
+            "kind": "via",
+            "at": [
+              220.469705,
+              204.559997
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "074f6e7b-0b77-4d9b-8473-9f278e1d8436",
+            "kind": "via",
+            "at": [
+              286.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "079be30c-6e9a-4c71-ab16-a182c5010f0c",
+            "kind": "via",
+            "at": [
+              196.42218,
+              126.458118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "09a41c96-586c-4a15-9749-8a8362288697",
+            "kind": "via",
+            "at": [
+              144.641758,
+              191.04725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0b454537-c1bd-487c-85f5-f2c6536e9d13",
+            "kind": "via",
+            "at": [
+              217.43218,
+              146.388118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0e06cdb0-b885-4f9f-9da6-9687dadc047c",
+            "kind": "via",
+            "at": [
+              123.991758,
+              136.94225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0e274a86-7661-436c-9d8f-d561c57d7798",
+            "kind": "via",
+            "at": [
+              214.480005,
+              174.119118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0e822d9b-01ea-4e97-b2f2-aa329d6e1e88",
+            "kind": "via",
+            "at": [
+              127.141758,
+              138.04725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "0fef00e7-3681-4e8a-885c-a7ad124727d9",
+            "kind": "via",
+            "at": [
+              71.756586,
+              127.419063
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "100b74af-cd92-4f20-9bc5-077a02b27075",
+            "kind": "via",
+            "at": [
+              89.661928,
+              204.560683
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "13b188de-6343-4ae9-a643-237d191d3940",
+            "kind": "via",
+            "at": [
+              154.779907,
+              84.263086
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "141c48ad-320f-49e9-801e-6a9f4f5ef93f",
+            "kind": "via",
+            "at": [
+              258.032179,
+              137.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "155230c1-c536-43d8-b1bb-616ba3e1a558",
+            "kind": "via",
+            "at": [
+              309.582106,
+              35.472263
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "194d50be-ac78-4909-93b6-57b50f8afd4c",
+            "kind": "via",
+            "at": [
+              198.931886,
+              157.95495
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "19dcfac2-0881-4485-a5e1-a79d9f563a07",
+            "kind": "via",
+            "at": [
+              207.959098,
+              91.004617
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "1a92ba65-5d3a-4289-9209-ec9c8896a297",
+            "kind": "via",
+            "at": [
+              264.524232,
+              45.796944
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "1b3adbff-f708-4d24-933c-c1072ed61a6d",
+            "kind": "via",
+            "at": [
+              137.895292,
+              48.081361
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "1ec2f5fa-61b3-4de4-a99a-8b41c657c3b4",
+            "kind": "via",
+            "at": [
+              206.69285,
+              78.521727
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "209ca5b9-90a7-4af6-b978-73e6184fcab5",
+            "kind": "via",
+            "at": [
+              256.36125,
+              142.901848
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "21163ff6-bb24-46a1-b5fb-11e7852342b7",
+            "kind": "via",
+            "at": [
+              245.095307,
+              136.861721
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "2186500a-039f-49bd-b4f7-101fcf6f1cbe",
+            "kind": "via",
+            "at": [
+              212.88218,
+              62.478118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "23eba220-5b24-491b-b7d6-192ec89f30e4",
+            "kind": "via",
+            "at": [
+              161.68218,
+              45.066558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "2e6cce06-87cd-40fa-8c3c-d7e06db59268",
+            "kind": "via",
+            "at": [
+              285.215046,
+              45.000667
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "2f88641a-eb40-48b9-ab24-6b7dd03a4d9c",
+            "kind": "via",
+            "at": [
+              225.735722,
+              64.969496
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "30903699-3958-444b-862e-df760f1df961",
+            "kind": "via",
+            "at": [
+              153.241758,
+              180.86725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "33132422-f0f7-4e84-86a3-a9cee17b9b39",
+            "kind": "via",
+            "at": [
+              145.399659,
+              191.661121
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "38b5e8e3-591a-44d7-a2a7-2677ddc10e83",
+            "kind": "via",
+            "at": [
+              283.849306,
+              148.637385
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "39be9c5d-59ea-4ae8-8b9a-9b4177469048",
+            "kind": "via",
+            "at": [
+              164.819236,
+              45.891688
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "3b115699-be38-4e03-b7e9-2c7326b5ec25",
+            "kind": "via",
+            "at": [
+              95.587308,
+              42.322204
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "3cc42532-91bd-49bd-a7bc-d75bd4a32484",
+            "kind": "via",
+            "at": [
+              100.541758,
+              126.59725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "3e8e881e-43c0-441a-af0c-2a093d7c767a",
+            "kind": "via",
+            "at": [
+              67.860632,
+              204.560798
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "407137cb-be66-40aa-a962-5bad3acfc1a6",
+            "kind": "via",
+            "at": [
+              242.271001,
+              204.559882
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "41b7949d-1e67-41b1-be61-1a138f79c6fa",
+            "kind": "via",
+            "at": [
+              131.112408,
+              56.170228
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "448661f7-aba9-404d-b84b-94d53a5bf898",
+            "kind": "via",
+            "at": [
+              288.245072,
+              45.728664
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4607b3cf-38e7-4fe6-98e1-f469ef7f0d69",
+            "kind": "via",
+            "at": [
+              190.140608,
+              177.458116
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "46fb4886-4917-44e5-ae6f-7fde9672f2bc",
+            "kind": "via",
+            "at": [
+              323.926475,
+              66.466147
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4b1f7a6e-e18c-480c-8d1e-7d5c1f344964",
+            "kind": "via",
+            "at": [
+              228.814217,
+              48.353811
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4beee7f5-18b8-493f-ad35-23481ebbb130",
+            "kind": "via",
+            "at": [
+              220.131752,
+              68.428243
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4c25d51f-044b-415a-9f35-81267b0ca87e",
+            "kind": "via",
+            "at": [
+              210.487883,
+              62.024594
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4c4ecaf3-3681-4373-a831-af5170587c64",
+            "kind": "via",
+            "at": [
+              284.08218,
+              121.187672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "4dba06c1-43c2-4278-8e68-d7b19bebab89",
+            "kind": "via",
+            "at": [
+              323.926475,
+              110.068739
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "4fa3c995-6d67-4305-8fb5-ff9cc1bf5153",
+            "kind": "via",
+            "at": [
+              279.746847,
+              78.09668
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "51980417-7e38-4952-9960-537e3787f07b",
+            "kind": "via",
+            "at": [
+              223.05405,
+              72.490553
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "52625b30-f51d-47e4-a073-2273b3effca5",
+            "kind": "via",
+            "at": [
+              184.58218,
+              191.087672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "535e5f87-62a5-4f59-a981-7f2053c65093",
+            "kind": "via",
+            "at": [
+              285.288651,
+              46.056396
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5957bf8d-207e-4099-9f1e-0a97fa3acf2c",
+            "kind": "via",
+            "at": [
+              53.238103,
+              173.844313
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5cad9daf-a784-486e-bd33-f8261baabc3f",
+            "kind": "via",
+            "at": [
+              53.237926,
+              64.837833
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "5ce7c156-46dc-4b48-bd4e-909720268aa5",
+            "kind": "via",
+            "at": [
+              207.351696,
+              114.224605
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "60056f92-c935-4e2a-8555-4655e1de26cd",
+            "kind": "via",
+            "at": [
+              218.895005,
+              177.449123
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "6073cec2-0af6-4a4f-8c7a-79aa94899ae4",
+            "kind": "via",
+            "at": [
+              190.82218,
+              157.498118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "633f9488-bdd8-4607-9050-c5a80454be8e",
+            "kind": "via",
+            "at": [
+              97.391758,
+              125.59225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "647effe1-a54e-4b49-aa26-b58d09692a75",
+            "kind": "via",
+            "at": [
+              114.752949,
+              91.567895
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "64adaa3c-2350-40f3-bf0a-d3ae96f14d2f",
+            "kind": "via",
+            "at": [
+              141.491758,
+              190.04225
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "65cb7ca2-7619-48fc-a9d6-e044002aa98a",
+            "kind": "via",
+            "at": [
+              278.641758,
+              152.54725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "693aefd7-2a7c-445f-b87c-f32fbd6821a5",
+            "kind": "via",
+            "at": [
+              229.18218,
+              137.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "69b2de30-3b5b-44d9-8cc0-eccbd79f0dfc",
+            "kind": "via",
+            "at": [
+              249.929904,
+              148.695048
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "69e5c4cf-1b91-4a5f-be7f-56074abd7422",
+            "kind": "via",
+            "at": [
+              264.072297,
+              204.559768
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "6c280048-d95b-49f6-9b37-2e56566309d8",
+            "kind": "via",
+            "at": [
+              279.939697,
+              153.71459
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "70d49b2d-32ce-4a18-a405-fce418761fe7",
+            "kind": "via",
+            "at": [
+              292.68218,
+              111.028118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "72fcb2ff-1807-4095-aa44-89e9a413a771",
+            "kind": "via",
+            "at": [
+              279.142542,
+              45.883168
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7390ca83-69c8-4058-b0d2-252cf3dc67d4",
+            "kind": "via",
+            "at": [
+              156.45,
+              76.55
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "7856c266-5ae5-40e9-b18e-b3e2bac0ca3a",
+            "kind": "via",
+            "at": [
+              200.714777,
+              128.048161
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "78a178aa-188d-4868-bce4-4e2ecab397db",
+            "kind": "via",
+            "at": [
+              206.161487,
+              74.856064
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "78b5bd6e-dc4a-4f8d-8091-dd7719369b9d",
+            "kind": "via",
+            "at": [
+              255.941634,
+              116.404697
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7bb60afc-4c4f-4f31-a3cc-aed8ddde88e1",
+            "kind": "via",
+            "at": [
+              137.978115,
+              71.511802
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7c39c9bb-a084-4212-990b-af998fe5b00f",
+            "kind": "via",
+            "at": [
+              154.989274,
+              46.066828
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "7ca816c5-9de3-411e-a35c-52a00abdb1fc",
+            "kind": "via",
+            "at": [
+              246.28218,
+              146.388118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "7ffa24d6-638f-4812-a044-f6bb8641db94",
+            "kind": "via",
+            "at": [
+              275.49218,
+              151.548118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "82a6d2d2-dc37-4371-ae31-550de32ed03e",
+            "kind": "via",
+            "at": [
+              323.926475,
+              131.870035
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8623c935-ea4c-4653-984f-0386daa9c1db",
+            "kind": "via",
+            "at": [
+              217.641758,
+              175.09725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8b912cf5-ed68-4f08-a54a-903c4ad314a8",
+            "kind": "via",
+            "at": [
+              122.968677,
+              68.801795
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8bdd0041-b04f-43b0-9750-ddb1549d5b57",
+            "kind": "via",
+            "at": [
+              222.691758,
+              115.01725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8be3cf48-dc15-49a7-88fd-724834695299",
+            "kind": "via",
+            "at": [
+              201.08218,
+              99.287672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8c75c6d6-c9ac-4271-893d-ed7fd83998dd",
+            "kind": "via",
+            "at": [
+              280.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8d70a016-44ae-454c-a460-05ed0120cb59",
+            "kind": "via",
+            "at": [
+              218.5,
+              72.0
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8dd67acb-5e2d-456e-a38d-a397bfdf6639",
+            "kind": "via",
+            "at": [
+              285.873593,
+              204.559654
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8e9c1210-10ba-4f3b-8675-038b9ec24d05",
+            "kind": "via",
+            "at": [
+              193.97218,
+              158.477672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8ed34b28-5698-4efb-8327-3937b0f36107",
+            "kind": "via",
+            "at": [
+              229.834777,
+              42.493092
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "8ef8bc99-125c-4e2a-9e51-1ab4daf72760",
+            "kind": "via",
+            "at": [
+              208.77,
+              70.5
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "8f12f8be-a27e-4019-8e65-2ff8292c7658",
+            "kind": "via",
+            "at": [
+              145.756758,
+              193.96725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "93b58d27-537a-4be0-ac90-8b1316a06829",
+            "kind": "via",
+            "at": [
+              131.23218,
+              71.928118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "93e484e8-fdff-41f2-bef8-7cb75c0f3925",
+            "kind": "via",
+            "at": [
+              156.5,
+              49.2
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9510a626-a7b3-4b99-b685-8337505f1d6d",
+            "kind": "via",
+            "at": [
+              151.533974,
+              40.833455
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "96fad4be-0638-43c0-b24a-8b94434cf6bf",
+            "kind": "via",
+            "at": [
+              185.286085,
+              191.965082
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "976ae531-125f-4a2a-b8b1-da1b911183dd",
+            "kind": "via",
+            "at": [
+              134.08218,
+              43.016558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9a20d10e-ed4f-43f1-b459-167d7820f110",
+            "kind": "via",
+            "at": [
+              53.239619,
+              39.400945
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9c41fdc9-3c30-48a5-ac7e-c65457686fca",
+            "kind": "via",
+            "at": [
+              323.926475,
+              153.671331
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9c70b548-3d04-453d-b5a9-3132d1c3b2b9",
+            "kind": "via",
+            "at": [
+              197.93218,
+              98.309118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "9d8e0cdc-9a67-456b-bcca-bdca1cd132da",
+            "kind": "via",
+            "at": [
+              153.44694,
+              44.676428
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "9dbe0037-44b5-4e22-8c24-c08db03dc61d",
+            "kind": "via",
+            "at": [
+              289.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a054cffd-2b47-4c13-b28c-52187b6d0500",
+            "kind": "via",
+            "at": [
+              199.58218,
+              127.437672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "a14cbdd3-8f8b-44cf-83e9-12b2daf57792",
+            "kind": "via",
+            "at": [
+              123.008058,
+              76.59911
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a4901a66-77f8-484d-9120-e5721f122372",
+            "kind": "via",
+            "at": [
+              109.019817,
+              87.824996
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a704bcc4-099f-4bcf-823c-b37d7006dcab",
+            "kind": "via",
+            "at": [
+              163.807777,
+              39.521527
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "a7319fdc-335c-40b5-9a86-c2124edbfece",
+            "kind": "via",
+            "at": [
+              251.97218,
+              114.808118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "aa3f9ab1-873f-4c6d-9d97-47841d0e1bda",
+            "kind": "via",
+            "at": [
+              323.926475,
+              197.273924
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "aa54b2cc-742b-4f48-84d5-155d7ffcbba9",
+            "kind": "via",
+            "at": [
+              200.941076,
+              100.370873
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ac6c6d1c-dabc-4c1f-8c1b-e7c325255a81",
+            "kind": "via",
+            "at": [
+              285.49218,
+              144.118118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "ac74c536-38b5-4204-8003-238f2e977387",
+            "kind": "via",
+            "at": [
+              221.106389,
+              148.227735
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ad01712d-6f85-4a90-b152-3d49ca558e1e",
+            "kind": "via",
+            "at": [
+              240.697003,
+              42.104993
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b2e94010-0acb-43b9-bc91-7adc4459458e",
+            "kind": "via",
+            "at": [
+              105.441758,
+              98.41725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "b35c2277-1eb2-4ed5-9ad8-bbb70c8e5328",
+            "kind": "via",
+            "at": [
+              262.882509,
+              107.664401
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b3c1fd43-f265-4e08-b004-520d312212fa",
+            "kind": "via",
+            "at": [
+              151.621447,
+              44.988009
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "b7819f1e-43b7-48ca-b0d5-5dfcc0c14de9",
+            "kind": "via",
+            "at": [
+              132.319481,
+              52.833955
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "baeec528-f284-46fa-97f6-9d39fa42e693",
+            "kind": "via",
+            "at": [
+              255.141758,
+              115.79725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c1fedd5e-ab21-4ee3-9518-96514a1c1996",
+            "kind": "via",
+            "at": [
+              164.3,
+              47.0
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c338016b-b9d3-4640-9bd7-1a71366adbd6",
+            "kind": "via",
+            "at": [
+              253.297347,
+              44.892724
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c502aac4-fc3e-41c1-b172-f9cb84b53e62",
+            "kind": "via",
+            "at": [
+              136.368126,
+              47.239821
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "c7b14758-4db3-467c-b941-d20f7e817fdc",
+            "kind": "via",
+            "at": [
+              159.98218,
+              46.916558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "c8075638-187c-4816-a0cf-8781ed9722eb",
+            "kind": "via",
+            "at": [
+              220.591758,
+              147.39725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "cb16a708-38b2-4732-8954-e4b70efcf1fb",
+            "kind": "via",
+            "at": [
+              218.233205,
+              48.924515
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "cce9ae58-6771-415b-9cc9-beb2a944adae",
+            "kind": "via",
+            "at": [
+              220.288577,
+              84.326551
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ce6f7c95-9dd7-4aad-b876-9d301f2a1790",
+            "kind": "via",
+            "at": [
+              135.741758,
+              127.76725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "cf920352-83ad-4d74-a025-4aabd1bcab73",
+            "kind": "via",
+            "at": [
+              132.792502,
+              59.46125
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d1213519-e820-43a6-88c2-3d86f0df4423",
+            "kind": "via",
+            "at": [
+              282.223994,
+              45.029995
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d272c08e-e2f5-4c7d-857d-7c28c3500b58",
+            "kind": "via",
+            "at": [
+              108.591758,
+              99.19725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d6d43ace-6d22-461a-9ffa-34014b423e38",
+            "kind": "via",
+            "at": [
+              233.374049,
+              103.894515
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d74163dd-cea6-4393-970b-1e069da861eb",
+            "kind": "via",
+            "at": [
+              202.57218,
+              148.318118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d7c09182-8676-4e40-92e1-6eefa503825e",
+            "kind": "via",
+            "at": [
+              280.93218,
+              120.208118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "d81cea25-c2d5-41bf-8836-f391bc222167",
+            "kind": "via",
+            "at": [
+              323.926475,
+              175.472628
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "d8a38c3a-61a2-4f9c-a139-5ea2a2f48ed5",
+            "kind": "via",
+            "at": [
+              181.43218,
+              190.059123
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "daefd474-63b5-4aef-903e-a6fca71326af",
+            "kind": "via",
+            "at": [
+              323.926475,
+              88.267443
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "dd3c4310-6517-404d-894d-6b4eb80b125f",
+            "kind": "via",
+            "at": [
+              222.075389,
+              66.571453
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "dee3743d-1579-4595-b00c-6e62439a1f47",
+            "kind": "via",
+            "at": [
+              68.291758,
+              125.46725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "e2d0f339-6f2a-4525-b98a-97ac4662c7d1",
+            "kind": "via",
+            "at": [
+              122.807256,
+              62.145747
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "e940bced-9df0-4ad9-b3ba-45dbb3d94a87",
+            "kind": "via",
+            "at": [
+              282.413091,
+              45.804121
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "e983cf55-5b1f-4bff-b4f1-95ac1780d7c6",
+            "kind": "via",
+            "at": [
+              225.841758,
+              115.89725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "eba8b5fd-68db-48b4-90d2-83069d2b9e8a",
+            "kind": "via",
+            "at": [
+              71.441758,
+              126.49725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "ed53cb52-57e1-4bf2-9b69-110cc07a587f",
+            "kind": "via",
+            "at": [
+              156.985725,
+              49.708503
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "efded505-4ba4-45b3-bb47-a16b930f5564",
+            "kind": "via",
+            "at": [
+              282.926774,
+              122.488113
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f3691419-cb1f-4525-a784-3e3641a15d11",
+            "kind": "via",
+            "at": [
+              109.141758,
+              116.41725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f48b3a6a-a155-481e-aa2f-f44f30c7d62f",
+            "kind": "via",
+            "at": [
+              229.669375,
+              45.207556
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f4f32db7-a323-4866-be65-292a7e998830",
+            "kind": "via",
+            "at": [
+              215.35,
+              69.4
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f61ef0ec-4e2d-42b5-814b-07cf90aa121b",
+            "kind": "via",
+            "at": [
+              156.23218,
+              46.1
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "f823ff5b-cc9a-4056-88b4-19a039236f58",
+            "kind": "via",
+            "at": [
+              200.300405,
+              153.964593
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "f92e09fa-d4d9-4b2d-934d-16c714997ffd",
+            "kind": "via",
+            "at": [
+              80.046758,
+              116.29725
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fc10efb0-b72b-4f5b-8c77-b720831a37c2",
+            "kind": "via",
+            "at": [
+              283.28218,
+              42.541558
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fce58cd2-760a-4221-b5c3-97e407f9e89e",
+            "kind": "via",
+            "at": [
+              221.23218,
+              65.928118
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fd00534d-8e89-48ac-8cae-53fff4b46f07",
+            "kind": "via",
+            "at": [
+              249.43218,
+              147.387672
+            ],
+            "radius": 300000.0
+          },
+          {
+            "uuid": "fd046c54-1492-4f6d-a305-0978fb50af11",
+            "kind": "via",
+            "at": [
+              144.658019,
+              77.674515
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "ff20ec72-4eaf-4f54-aa6f-9b5e47bd020a",
+            "kind": "via",
+            "at": [
+              111.463224,
+              204.560569
+            ],
+            "radius": 225225.0
+          },
+          {
+            "uuid": "826e690a-f554-4086-9c72-71bfcd65e689",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              162.75218,
+              40.589118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "3e2b8a47-9ae6-4f24-92cb-070e969b9586",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              162.75218,
+              36.409118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "537565b4-fe0e-441c-8b50-78cf295ab120",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              154.11218,
+              40.589118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "11ec9d71-b5b1-48cc-86de-83938c0d7826",
+            "kind": "PTH",
+            "ref": "USB1",
+            "pad": "13",
+            "at": [
+              154.11218,
+              36.409118
+            ],
+            "radius": 500000.0
+          },
+          {
+            "uuid": "4f90d935-f079-4dfa-855f-e743f96f9412",
+            "kind": "PTH",
+            "ref": "U5",
+            "pad": "2",
+            "at": [
+              94.81218,
+              40.056558
+            ],
+            "radius": 900000.0
+          },
+          {
+            "uuid": "d4cded90-ecc6-47a5-bd87-6950cf89902d",
+            "kind": "PTH",
+            "ref": "OPSW2",
+            "pad": "2",
+            "at": [
+              229.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "276d1e40-8992-4d1a-9808-a7b7f88f745d",
+            "kind": "PTH",
+            "ref": "OPSW2",
+            "pad": "2",
+            "at": [
+              229.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "5a871ea6-0f5a-4669-977f-85de6814db17",
+            "kind": "PTH",
+            "ref": "OPSW5",
+            "pad": "2",
+            "at": [
+              262.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "eebf34ed-c236-4d06-b64b-14b60887dd92",
+            "kind": "PTH",
+            "ref": "OPSW5",
+            "pad": "2",
+            "at": [
+              262.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "03c46495-324c-4645-b607-c036a512dacb",
+            "kind": "PTH",
+            "ref": "OPSW6",
+            "pad": "2",
+            "at": [
+              272.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "d2e77694-e1da-4a20-b21a-61a1ca719292",
+            "kind": "PTH",
+            "ref": "OPSW6",
+            "pad": "2",
+            "at": [
+              272.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "40f10e4b-0487-40d9-b2ec-4373e17ba000",
+            "kind": "PTH",
+            "ref": "OPSW3",
+            "pad": "2",
+            "at": [
+              239.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "d202ea34-26a8-46e5-8f90-93159afabf5b",
+            "kind": "PTH",
+            "ref": "OPSW3",
+            "pad": "2",
+            "at": [
+              239.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "f7e70cce-1f00-445f-b8e5-428aa28547ca",
+            "kind": "PTH",
+            "ref": "OPSW1",
+            "pad": "2",
+            "at": [
+              219.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "a13a27c5-6c8d-437e-8fa8-9fb929c74a0b",
+            "kind": "PTH",
+            "ref": "OPSW1",
+            "pad": "2",
+            "at": [
+              219.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "9db588f1-4458-4306-b654-f77d5a6dd851",
+            "kind": "PTH",
+            "ref": "OPSW4",
+            "pad": "2",
+            "at": [
+              252.98218,
+              47.166558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "134ff018-8add-4a9c-9cef-0fe88624743e",
+            "kind": "PTH",
+            "ref": "OPSW4",
+            "pad": "2",
+            "at": [
+              252.98218,
+              40.666558
+            ],
+            "radius": 1000000.0
+          },
+          {
+            "uuid": "fa63aff6-ff47-4a39-9e8c-226735952505",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              232.45818,
+              54.566558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "d362f30f-4946-43d4-8a80-bbe8ec4c3976",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              225.55818,
+              54.566558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "e46149e4-cd27-416c-a1ce-1f668d9f1d15",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              232.45818,
+              70.266558
+            ],
+            "radius": 750000.0
+          },
+          {
+            "uuid": "1b4634a4-82d4-4cb9-8f8f-6e0dcf20b978",
+            "kind": "PTH",
+            "ref": "USB2",
+            "pad": "5",
+            "at": [
+              225.55818,
+              70.266558
+            ],
+            "radius": 750000.0
+          }
+        ],
+        "anchor_count": 165
+      }
+    ],
+    "unanchored": []
+  }
+]
