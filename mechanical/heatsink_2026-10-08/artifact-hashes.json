@@ -1,0 +1,12 @@
+{
+  "STEP\\heatsink_plate.step": "3d3cfe8f036c492ba06278a21609d031c70f96b558554214a340339c9a66ed6e",
+  "STEP\\heatsink_fit.step": "3d6b0ce4ce636011261c45dc47e7c2e168e303ca1fd528511681ebd03a7b14c2",
+  "constraints.json": "623ded9457d9a2e13c80cc38ac155edd3e3c47f583fbabad4d152c6b10910517",
+  "fit-check.json": "8e8ad3f1aef955ae94552ee43c8045a5d2ff3587ee08df7b62306c1595addc12",
+  "thermal-mass.json": "a7a167577c26180948e22c2d5831aac421214820a0615f2e983ce8ccfb4e2b8a",
+  "STEP\\heatsink_mounting.step": "ac85001d3e9a2cc2b16171bdce20bb59b41de7af957a48ba3bc2cab234fb71c1",
+  "STEP\\heatsink_mounting_exploded.step": "dae57b024ea49d94c3c2c119f261607772dc0413f7482a2278104103dfca649d",
+  "mounting-check.json": "bd8d3054eea0aeb704ab89930b750383a792499aae7a5926cc8dfcf239ec9d5b",
+  "STEP\\mounting_dimensions.step": "4cece23a95cfeac66a25387ff5ce86bd319a95c556c801d5faffaa60e5ea5c9e",
+  "dimensions.json": "f8638241076ed62c26490cb5fc830bd51ec1c5554f285b7035bdb8d11bf910d4"
+}

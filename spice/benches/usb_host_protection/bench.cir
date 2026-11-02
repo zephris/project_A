@@ -1,0 +1,6 @@
+PHBox usb_host_protection planning model
+.include "circuit.inc"
+.tran 1n 5u
+.meas tran clamp_positive FIND v(dp) AT=1.5u
+.meas tran clamp_negative FIND v(dp) AT=3.5u
+.end

@@ -1,0 +1,30 @@
+{
+  "status": "prototype local interface coupon, not full enclosure",
+  "coordinates": "X=0 socket centre, Y=0 mating face, Y positive outward; Z=PCB front datum",
+  "kicad_socket_face": [
+    192,
+    32.5
+  ],
+  "slot_width_mm": 21,
+  "thermal_relief_recommended_width_mm": 23,
+  "plate_thickness_mm": 3,
+  "plate_top_z_mm": -10.55,
+  "guide_top_z_mm": -11.3,
+  "guide_clearance_to_assumed_dongle_mm": 0.75,
+  "entry_ramp_length_mm": 15,
+  "entry_ramp_drop_mm": 2,
+  "target_body_mm": [
+    15,
+    15,
+    8
+  ],
+  "body_centre_z_assumed_mm": -6.55,
+  "insertion_sweep_mm": 50,
+  "limits": [
+    "body-to-plug offset unverified",
+    "gasket travel and case wall geometry unresolved",
+    "rails must not rigidly constrain floating PCB",
+    "thermal relief is a local template, not complete heat spreader"
+  ],
+  "brep_valid": true
+}

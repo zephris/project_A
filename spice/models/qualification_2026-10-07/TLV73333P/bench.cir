@@ -1,0 +1,10 @@
+TLV73333P isolated compatibility smoke check
+.include "C:/Users/admin/Documents/KiCad/9.0/projects/project_a_latest/project_A/spice/models/vendor/TLV73333P/tlv73333p_trans.lib"
+V1 vin 0 PWL(0 0 100u 5)
+Ven en 0 PWL(0 0 200u 0 201u 3.3)
+Xreg en vin vout 0 TLV73333P_TRANS
+Cout vout 0 1u
+Rload vout 0 165
+.tran 1u 5m
+.meas tran output_final FIND v(vout) AT=4.9m
+.end

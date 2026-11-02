@@ -1,0 +1,630 @@
+- text: 
+- main:
+  - generic: Bill of Materials
+  - generic: Component Placements
+  - navigation:
+    - list:
+      - text: Total
+      - generic: "35"
+      - text: parts detected
+      - generic: "35"
+      - text: Parts confirmed
+  - button "Upload BOM/CPL":
+    - generic: Upload BOM/CPL
+  - text: 
+  - table:
+    - rowgroup:
+      - row "Top Designator Bottom Designator Comment Footprint Matched Part Detail Select ":
+        - columnheader
+        - columnheader "Top Designator":
+          - generic: Top Designator
+        - columnheader "Bottom Designator":
+          - generic: Bottom Designator
+        - columnheader "Comment":
+          - generic: Comment
+        - columnheader "Footprint":
+          - generic: Footprint
+        - columnheader "Matched Part Detail":
+          - generic: Matched Part Detail
+        - columnheader "Select ":
+          - text: Select
+          - generic: 
+  - table:
+    - rowgroup:
+      - row "C1,C3,C4,C5,C6,C7,C8,C9,C10,C18 100n Capacitor_SMD:C_0402_1005Metric CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C1,C3,C4,C5,C6,C7,C8,C9,C10,C18":
+          - generic: C1,C3,C4,C5,C6,C7,C8,C9,C10,C18
+        - cell
+        - cell "100n":
+          - generic: 100n
+        - cell "Capacitor_SMD:C_0402_1005Metric":
+          - generic: Capacitor_SMD:C_0402_1005Metric
+        - cell "CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05B104KO5NNNC
+          - generic: C1525
+          - generic: 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C38,C39,C40 100n PHBox:Samsung_1005_Tolerance005 CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C38,C39,C40":
+          - generic: C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C38,C39,C40
+        - cell
+        - cell "100n":
+          - generic: 100n
+        - cell "PHBox:Samsung_1005_Tolerance005":
+          - generic: PHBox:Samsung_1005_Tolerance005
+        - cell "CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05B104KO5NNNC
+          - generic: C1525
+          - generic: 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C44 C42 100n Capacitor_SMD:C_0402_1005Metric CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C44":
+          - generic: C44
+        - cell "C42":
+          - generic: C42
+        - cell "100n":
+          - generic: 100n
+        - cell "Capacitor_SMD:C_0402_1005Metric":
+          - generic: Capacitor_SMD:C_0402_1005Metric
+        - cell "CL05B104KO5NNNC C1525 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05B104KO5NNNC
+          - generic: C1525
+          - generic: 100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C2,C11 4.7u Capacitor_SMD:C_0402_1005Metric CL05A475MP5NRNC C23733 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C2,C11":
+          - generic: C2,C11
+        - cell
+        - cell "4.7u":
+          - generic: 4.7u
+        - cell "Capacitor_SMD:C_0402_1005Metric":
+          - generic: Capacitor_SMD:C_0402_1005Metric
+        - cell "CL05A475MP5NRNC C23733 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05A475MP5NRNC
+          - generic: C23733
+          - generic: 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C12,C13 4.7u PHBox:Samsung_1005_Tolerance015 CL05A475MP5NRNC C23733 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C12,C13":
+          - generic: C12,C13
+        - cell
+        - cell "4.7u":
+          - generic: 4.7u
+        - cell "PHBox:Samsung_1005_Tolerance015":
+          - generic: PHBox:Samsung_1005_Tolerance015
+        - cell "CL05A475MP5NRNC C23733 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05A475MP5NRNC
+          - generic: C23733
+          - generic: 10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C14,C15 1u Capacitor_SMD:C_0402_1005Metric CL05A105KA5NQNC C52923 1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C14,C15":
+          - generic: C14,C15
+        - cell
+        - cell "1u":
+          - generic: 1u
+        - cell "Capacitor_SMD:C_0402_1005Metric":
+          - generic: Capacitor_SMD:C_0402_1005Metric
+        - cell "CL05A105KA5NQNC C52923 1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: CL05A105KA5NQNC
+          - generic: C52923
+          - generic: 1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C16,C17 15p Capacitor_SMD:C_0402_1005Metric 0402CG150J500NT C1548 15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+        - cell:
+          - generic: 
+        - cell "C16,C17":
+          - generic: C16,C17
+        - cell
+        - cell "15p":
+          - generic: 15p
+        - cell "Capacitor_SMD:C_0402_1005Metric":
+          - generic: Capacitor_SMD:C_0402_1005Metric
+        - cell "0402CG150J500NT C1548 15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS Search":
+          - generic: 0402CG150J500NT
+          - generic: C1548
+          - generic: 15pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "C19,C43 100u/10V PHBox:CP_KEMET_T520B_3528_21 T520B107M010ATE070 C600583 -55℃~+105℃ 100uF 10V 70mΩ@100kHz ±20% CASE-B-3528-21(mm) Tantalum Capacitors ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "C19,C43":
+          - generic: C19,C43
+        - cell "100u/10V":
+          - generic: 100u/10V
+        - cell "PHBox:CP_KEMET_T520B_3528_21":
+          - generic: PHBox:CP_KEMET_T520B_3528_21
+        - cell "T520B107M010ATE070 C600583 -55℃~+105℃ 100uF 10V 70mΩ@100kHz ±20% CASE-B-3528-21(mm) Tantalum Capacitors ROHS Search":
+          - generic: T520B107M010ATE070
+          - generic: C600583
+          - generic: "-55℃~+105℃ 100uF 10V 70mΩ@100kHz ±20% CASE-B-3528-21(mm) Tantalum Capacitors ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20 SK6805-EC15 PHBox_Repair:LED_SK6805_EC15_Optical SK6805-EC15 C2890035 -40℃~+80℃ 0.5mA 0.65mm 1.5mm 1.5mm 120mcd~240mcd 160° 1kHz 2000V 20mcd~40mcd 3.5V~5.5V 460nm~470nm 50mcd~100mcd 520nm~530nm 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in one-way transmission function Semi-transparent lens SMD-4P,1.5x1.5mm RGB LEDs(Built-in IC) ROHS Search":
+        - cell:
+          - generic: 
+        - cell "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20":
+          - generic: D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20
+        - cell
+        - cell "SK6805-EC15":
+          - generic: SK6805-EC15
+        - cell "PHBox_Repair:LED_SK6805_EC15_Optical":
+          - generic: PHBox_Repair:LED_SK6805_EC15_Optical
+        - cell "SK6805-EC15 C2890035 -40℃~+80℃ 0.5mA 0.65mm 1.5mm 1.5mm 120mcd~240mcd 160° 1kHz 2000V 20mcd~40mcd 3.5V~5.5V 460nm~470nm 50mcd~100mcd 520nm~530nm 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in one-way transmission function Semi-transparent lens SMD-4P,1.5x1.5mm RGB LEDs(Built-in IC) ROHS Search":
+          - generic: SK6805-EC15
+          - generic: C2890035
+          - generic: "-40℃~+80℃ 0.5mA 0.65mm 1.5mm 1.5mm 120mcd~240mcd 160° 1kHz 2000V 20mcd~40mcd 3.5V~5.5V 460nm~470nm 50mcd~100mcd 520nm~530nm 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in one-way transmission function Semi-transparent lens SMD-4P,1.5x1.5mm RGB LEDs(Built-in IC) ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "D21 ESDA7P120-1U1M PHBox:ESDA7P120_1U1M_ST_Recommended ESDA7P120-1U1M C2969802 -55℃~+150℃ 1 1.4kW@8/20us 1.5uA 11.5V 120A@8/20us 5.5V 6.8V ESD IEC 61000-4-2 Unidirectional 1610 ESD and Surge Protection (TVS/ESD) ROHS Search":
+        - cell:
+          - generic: 
+        - cell "D21":
+          - generic: D21
+        - cell
+        - cell "ESDA7P120-1U1M":
+          - generic: ESDA7P120-1U1M
+        - cell "PHBox:ESDA7P120_1U1M_ST_Recommended":
+          - generic: PHBox:ESDA7P120_1U1M_ST_Recommended
+        - cell "ESDA7P120-1U1M C2969802 -55℃~+150℃ 1 1.4kW@8/20us 1.5uA 11.5V 120A@8/20us 5.5V 6.8V ESD IEC 61000-4-2 Unidirectional 1610 ESD and Surge Protection (TVS/ESD) ROHS Search":
+          - generic: ESDA7P120-1U1M
+          - generic: C2969802
+          - generic: "-55℃~+150℃ 1 1.4kW@8/20us 1.5uA 11.5V 120A@8/20us 5.5V 6.8V ESD IEC 61000-4-2 Unidirectional 1610 ESD and Surge Protection (TVS/ESD) ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "F1 750mAhold PHBox:Fuse_TECHFUSE_SMD0805_075_12V SMD0805-075-12V C19108399 -40℃~+85℃ 1.5A 100A 12V 2.2mm 200ms 385mΩ 600mW 750mA 90mΩ 0805 Resettable Fuses ROHS Search":
+        - cell:
+          - generic: 
+        - cell "F1":
+          - generic: F1
+        - cell
+        - cell "750mAhold":
+          - generic: 750mAhold
+        - cell "PHBox:Fuse_TECHFUSE_SMD0805_075_12V":
+          - generic: PHBox:Fuse_TECHFUSE_SMD0805_075_12V
+        - cell "SMD0805-075-12V C19108399 -40℃~+85℃ 1.5A 100A 12V 2.2mm 200ms 385mΩ 600mW 750mA 90mΩ 0805 Resettable Fuses ROHS Search":
+          - generic: SMD0805-075-12V
+          - generic: C19108399
+          - generic: "-40℃~+85℃ 1.5A 100A 12V 2.2mm 200ms 385mΩ 600mW 750mA 90mΩ 0805 Resettable Fuses ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "L1 3.3u lib:L_pol_2016 AOTA-B201610S3R3-101-T C42411119 0806 Molding Power Inductors ROHS Search":
+        - cell:
+          - generic: 
+        - cell "L1":
+          - generic: L1
+        - cell
+        - cell "3.3u":
+          - generic: 3.3u
+        - cell "lib:L_pol_2016":
+          - generic: lib:L_pol_2016
+        - cell "AOTA-B201610S3R3-101-T C42411119 0806 Molding Power Inductors ROHS Search":
+          - generic: AOTA-B201610S3R3-101-T
+          - generic: C42411119
+          - generic: 0806 Molding Power Inductors ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R1 33 Resistor_SMD:R_0402_1005Metric 0402WGF330JTCE C25105 -55℃~+155℃ 33Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R1":
+          - generic: R1
+        - cell
+        - cell "33":
+          - generic: "33"
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF330JTCE C25105 -55℃~+155℃ 33Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF330JTCE
+          - generic: C25105
+          - generic: "-55℃~+155℃ 33Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R2,R3 27 Resistor_SMD:R_0402_1005Metric RC0402FR-0727RL C138021 -55℃~+155℃ 27Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R2,R3":
+          - generic: R2,R3
+        - cell
+        - cell "27":
+          - generic: "27"
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "RC0402FR-0727RL C138021 -55℃~+155℃ 27Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: RC0402FR-0727RL
+          - generic: C138021
+          - generic: "-55℃~+155℃ 27Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R4,R6,R8 1k Resistor_SMD:R_0402_1005Metric 0402WGF1001TCE C11702 -55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R4,R6,R8":
+          - generic: R4,R6,R8
+        - cell
+        - cell "1k":
+          - generic: 1k
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF1001TCE C11702 -55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF1001TCE
+          - generic: C11702
+          - generic: "-55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R5,R7 22 Resistor_SMD:R_0402_1005Metric RTT0222R6FTH C102906 -55℃~+155℃ 22.6Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R5,R7":
+          - generic: R5,R7
+        - cell
+        - cell "22":
+          - generic: "22"
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "RTT0222R6FTH C102906 -55℃~+155℃ 22.6Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: RTT0222R6FTH
+          - generic: C102906
+          - generic: "-55℃~+155℃ 22.6Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R10,R11 5.1k Resistor_SMD:R_0402_1005Metric 0402WGF5101TCE C25905 -55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R10,R11":
+          - generic: R10,R11
+        - cell
+        - cell "5.1k":
+          - generic: 5.1k
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF5101TCE C25905 -55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF5101TCE
+          - generic: C25905
+          - generic: "-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R12,R13 4.7k PHBox:R_0603_Compact 0603WAF4701T5E C23162 -55℃~+155℃ 100mW 4.7kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R12,R13":
+          - generic: R12,R13
+        - cell
+        - cell "4.7k":
+          - generic: 4.7k
+        - cell "PHBox:R_0603_Compact":
+          - generic: PHBox:R_0603_Compact
+        - cell "0603WAF4701T5E C23162 -55℃~+155℃ 100mW 4.7kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0603WAF4701T5E
+          - generic: C23162
+          - generic: "-55℃~+155℃ 100mW 4.7kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R14 510R Resistor_SMD:R_0402_1005Metric 0402WGF5100TCE C25123 -55℃~+155℃ 50V 510Ω 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R14":
+          - generic: R14
+        - cell
+        - cell "510R":
+          - generic: 510R
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF5100TCE C25123 -55℃~+155℃ 50V 510Ω 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF5100TCE
+          - generic: C25123
+          - generic: "-55℃~+155℃ 50V 510Ω 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R15 200k1% Resistor_SMD:R_0402_1005Metric 0402WGF2003TCE C25764 -55℃~+155℃ 200kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "R15":
+          - generic: R15
+        - cell "200k1%":
+          - generic: 200k1%
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF2003TCE C25764 -55℃~+155℃ 200kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF2003TCE
+          - generic: C25764
+          - generic: "-55℃~+155℃ 200kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R16 220k Resistor_SMD:R_0402_1005Metric 0402WGF2203TCE C25767 -55℃~+155℃ 220kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "R16":
+          - generic: R16
+        - cell "220k":
+          - generic: 220k
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF2203TCE C25767 -55℃~+155℃ 220kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF2203TCE
+          - generic: C25767
+          - generic: "-55℃~+155℃ 220kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R17 10k Resistor_SMD:R_0402_1005Metric 0402WGF1002TCE C25744 -55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "R17":
+          - generic: R17
+        - cell "10k":
+          - generic: 10k
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF1002TCE C25744 -55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF1002TCE
+          - generic: C25744
+          - generic: "-55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33 100R Resistor_SMD:R_0402_1005Metric 0402WGF1000TCE C25076 -55℃~+155℃ 100Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+        - cell:
+          - generic: 
+        - cell "R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33":
+          - generic: R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33
+        - cell
+        - cell "100R":
+          - generic: 100R
+        - cell "Resistor_SMD:R_0402_1005Metric":
+          - generic: Resistor_SMD:R_0402_1005Metric
+        - cell "0402WGF1000TCE C25076 -55℃~+155℃ 100Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS Search":
+          - generic: 0402WGF1000TCE
+          - generic: C25076
+          - generic: "-55℃~+155℃ 100Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "SW19,SW20 SW_Push PHBox_Repair:SW_C318884_FabOnly TS-1187A-B-A-B C318884 -30℃~+85℃ 1.5mm 1.6N 100,000 cycles 12V 5.1mm 5.1mm 50mA Gold No Round Button SPST Surface Mount,Vertical Without Bracket SMD-4P,5.1x5.1mm Tactile Switches ROHS Search":
+        - cell:
+          - generic: 
+        - cell "SW19,SW20":
+          - generic: SW19,SW20
+        - cell
+        - cell "SW_Push":
+          - generic: SW_Push
+        - cell "PHBox_Repair:SW_C318884_FabOnly":
+          - generic: PHBox_Repair:SW_C318884_FabOnly
+        - cell "TS-1187A-B-A-B C318884 -30℃~+85℃ 1.5mm 1.6N 100,000 cycles 12V 5.1mm 5.1mm 50mA Gold No Round Button SPST Surface Mount,Vertical Without Bracket SMD-4P,5.1x5.1mm Tactile Switches ROHS Search":
+          - generic: TS-1187A-B-A-B
+          - generic: C318884
+          - generic: "-30℃~+85℃ 1.5mm 1.6N 100,000 cycles 12V 5.1mm 5.1mm 50mA Gold No Round Button SPST Surface Mount,Vertical Without Bracket SMD-4P,5.1x5.1mm Tactile Switches ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U1 RP2350_60QFN lib:RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias RP2350A C42411118 Power-on reset (POR)、Undervoltage detection (BOR/LVD/LVR/LVI)、Watchdog reset、Integrated LDO、True random number generator (TRNG)、Hardware ECC check QFN-60-EP(7x7) Microcontrollers (MCU/MPU/SOC) ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U1":
+          - generic: U1
+        - cell
+        - cell "RP2350_60QFN":
+          - generic: RP2350_60QFN
+        - cell "lib:RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias":
+          - generic: lib:RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias
+        - cell "RP2350A C42411118 Power-on reset (POR)、Undervoltage detection (BOR/LVD/LVR/LVI)、Watchdog reset、Integrated LDO、True random number generator (TRNG)、Hardware ECC check QFN-60-EP(7x7) Microcontrollers (MCU/MPU/SOC) ROHS Search":
+          - generic: RP2350A
+          - generic: C42411118
+          - generic: Power-on reset (POR)、Undervoltage detection (BOR/LVD/LVR/LVI)、Watchdog reset、Integrated LDO、True random number generator (TRNG)、Hardware ECC check QFN-60-EP(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U2 TLV73333PDBV SOT-23-5:SOT-23-5 TLV73333PDBVR C134139 -40℃~+125℃@(Tj) 1 125mV@(300mA) 28uVrms 3.3V 300mA 34uA 5.5V 50dB@(1kHz) Fixed Positive Under Voltage Lockout、Over Current Protection、Over Temperature Protection、Enable SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U2":
+          - generic: U2
+        - cell
+        - cell "TLV73333PDBV":
+          - generic: TLV73333PDBV
+        - cell "SOT-23-5:SOT-23-5":
+          - generic: SOT-23-5:SOT-23-5
+        - cell "TLV73333PDBVR C134139 -40℃~+125℃@(Tj) 1 125mV@(300mA) 28uVrms 3.3V 300mA 34uA 5.5V 50dB@(1kHz) Fixed Positive Under Voltage Lockout、Over Current Protection、Over Temperature Protection、Enable SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS Search":
+          - generic: TLV73333PDBVR
+          - generic: C134139
+          - generic: "-40℃~+125℃@(Tj) 1 125mV@(300mA) 28uVrms 3.3V 300mA 34uA 5.5V 50dB@(1kHz) Fixed Positive Under Voltage Lockout、Over Current Protection、Over Temperature Protection、Enable SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U3 W25Q128JVS SOIC:SOIC-8_5.23x5.23mm_P1.27mm W25Q128JVSIQ C97521 -40℃~+85℃ 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms Power-on reset、Hardware write protection、Software write protection、Write enable latch、Absolute write protection SPI SOIC-8-208mil NOR FLASH ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U3":
+          - generic: U3
+        - cell
+        - cell "W25Q128JVS":
+          - generic: W25Q128JVS
+        - cell "SOIC:SOIC-8_5.23x5.23mm_P1.27mm":
+          - generic: SOIC:SOIC-8_5.23x5.23mm_P1.27mm
+        - cell "W25Q128JVSIQ C97521 -40℃~+85℃ 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms Power-on reset、Hardware write protection、Software write protection、Write enable latch、Absolute write protection SPI SOIC-8-208mil NOR FLASH ROHS Search":
+          - generic: W25Q128JVSIQ
+          - generic: C97521
+          - generic: "-40℃~+85℃ 100,000 cycles 120ms@(32KB) 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years 3ms Power-on reset、Hardware write protection、Software write protection、Write enable latch、Absolute write protection SPI SOIC-8-208mil NOR FLASH ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U4 ECMF2-40A100N6 PHBox:ECMF2-40A100N6 ECMF2-40A100N6 C5267592 -55℃~+125℃ 10.7GHz 100mA 15dB@2.4GHz、17dB@6GHz、21dB@5GHz 2 3Ω 400fF 5V Yes QFN-6L EMI/RFI Filters (LC, RC Networks) ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U4":
+          - generic: U4
+        - cell
+        - cell "ECMF2-40A100N6":
+          - generic: ECMF2-40A100N6
+        - cell "PHBox:ECMF2-40A100N6":
+          - generic: PHBox:ECMF2-40A100N6
+        - cell "ECMF2-40A100N6 C5267592 -55℃~+125℃ 10.7GHz 100mA 15dB@2.4GHz、17dB@6GHz、21dB@5GHz 2 3Ω 400fF 5V Yes QFN-6L EMI/RFI Filters (LC, RC Networks) ROHS Search":
+          - generic: ECMF2-40A100N6
+          - generic: C5267592
+          - generic: "-55℃~+125℃ 10.7GHz 100mA 15dB@2.4GHz、17dB@6GHz、21dB@5GHz 2 3Ω 400fF 5V Yes QFN-6L EMI/RFI Filters (LC, RC Networks) ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U5 HS13L03W2C01 PHBox:OLED_HS13L03W2C01 HS13L03W2C01 C7465997 -40℃~+70℃ 1.3 128x64 150cd/m2 29.42x14.7mm I2C Passive (PMOLED) SH1106 chip White - OLED Display ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U5":
+          - generic: U5
+        - cell
+        - cell "HS13L03W2C01":
+          - generic: HS13L03W2C01
+        - cell "PHBox:OLED_HS13L03W2C01":
+          - generic: PHBox:OLED_HS13L03W2C01
+        - cell "HS13L03W2C01 C7465997 -40℃~+70℃ 1.3 128x64 150cd/m2 29.42x14.7mm I2C Passive (PMOLED) SH1106 chip White - OLED Display ROHS Search":
+          - generic: HS13L03W2C01
+          - generic: C7465997
+          - generic: "-40℃~+70℃ 1.3 128x64 150cd/m2 29.42x14.7mm I2C Passive (PMOLED) SH1106 chip White - OLED Display ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U6 SN74LV1T34DBVR SOT-23-5:SOT-23-5 SN74LV1T34DBVR C100024 -40℃~+125℃ 1 1 1.6V~5.5V 10uA 5.5ns@5V,15pF 74LV 8mA 8mA Level shifting Push-pull Unidirectional SOT-23-5 Buffers, Drivers, Receivers, Transceivers ROHS Search":
+        - cell:
+          - generic: 
+        - cell "U6":
+          - generic: U6
+        - cell
+        - cell "SN74LV1T34DBVR":
+          - generic: SN74LV1T34DBVR
+        - cell "SOT-23-5:SOT-23-5":
+          - generic: SOT-23-5:SOT-23-5
+        - cell "SN74LV1T34DBVR C100024 -40℃~+125℃ 1 1 1.6V~5.5V 10uA 5.5ns@5V,15pF 74LV 8mA 8mA Level shifting Push-pull Unidirectional SOT-23-5 Buffers, Drivers, Receivers, Transceivers ROHS Search":
+          - generic: SN74LV1T34DBVR
+          - generic: C100024
+          - generic: "-40℃~+125℃ 1 1 1.6V~5.5V 10uA 5.5ns@5V,15pF 74LV 8mA 8mA Level shifting Push-pull Unidirectional SOT-23-5 Buffers, Drivers, Receivers, Transceivers ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U7 TPS2553DBVR Package_TO_SOT_SMD:SOT-23-6 TPS2553DBVR C55266 -40℃~+150℃ 1 1.5A 2.5V~6.5V 85mΩ Active High High Side Switch 过压保护、软启动、欠压锁定、反向电压保护、集成电荷泵、Overcurrent Protection、Over temperature protection、锁存保护、Short-Circuit Protection SOT-23-6 Power Distribution Switches ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "U7":
+          - generic: U7
+        - cell "TPS2553DBVR":
+          - generic: TPS2553DBVR
+        - cell "Package_TO_SOT_SMD:SOT-23-6":
+          - generic: Package_TO_SOT_SMD:SOT-23-6
+        - cell "TPS2553DBVR C55266 -40℃~+150℃ 1 1.5A 2.5V~6.5V 85mΩ Active High High Side Switch 过压保护、软启动、欠压锁定、反向电压保护、集成电荷泵、Overcurrent Protection、Over temperature protection、锁存保护、Short-Circuit Protection SOT-23-6 Power Distribution Switches ROHS Search":
+          - generic: TPS2553DBVR
+          - generic: C55266
+          - generic: "-40℃~+150℃ 1 1.5A 2.5V~6.5V 85mΩ Active High High Side Switch 过压保护、软启动、欠压锁定、反向电压保护、集成电荷泵、Overcurrent Protection、Over temperature protection、锁存保护、Short-Circuit Protection SOT-23-6 Power Distribution Switches ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "U8 USBLC6-2SC6 Package_TO_SOT_SMD:SOT-23-6 USBLC6-2SC6 C7519 -40℃~+125℃ 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "U8":
+          - generic: U8
+        - cell "USBLC6-2SC6":
+          - generic: USBLC6-2SC6
+        - cell "Package_TO_SOT_SMD:SOT-23-6":
+          - generic: Package_TO_SOT_SMD:SOT-23-6
+        - cell "USBLC6-2SC6 C7519 -40℃~+125℃ 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS Search":
+          - generic: USBLC6-2SC6
+          - generic: C7519
+          - generic: "-40℃~+125℃ 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "USB1 HRO-TYPE-C-31-M-12 Type-C:HRO-TYPE-C-31-M-12-Assembly TYPE-C-31-M-12 C165948 -30℃~+80℃ 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS Search":
+        - cell:
+          - generic: 
+        - cell "USB1":
+          - generic: USB1
+        - cell
+        - cell "HRO-TYPE-C-31-M-12":
+          - generic: HRO-TYPE-C-31-M-12
+        - cell "Type-C:HRO-TYPE-C-31-M-12-Assembly":
+          - generic: Type-C:HRO-TYPE-C-31-M-12-Assembly
+        - cell "TYPE-C-31-M-12 C165948 -30℃~+80℃ 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS Search":
+          - generic: TYPE-C-31-M-12
+          - generic: C165948
+          - generic: "-30℃~+80℃ 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "USB2 USB_A PHBox:USB_A_904-131A2032S10200 904-131A2032S10200 C46400 1 1.5A 13.6mm 1500 Cycles 30V 4P Female Surface Mount, Right Angle Type-A USB 2.0 SMD USB Connectors ROHS Search":
+        - cell:
+          - generic: 
+        - cell
+        - cell "USB2":
+          - generic: USB2
+        - cell "USB_A":
+          - generic: USB_A
+        - cell "PHBox:USB_A_904-131A2032S10200":
+          - generic: PHBox:USB_A_904-131A2032S10200
+        - cell "904-131A2032S10200 C46400 1 1.5A 13.6mm 1500 Cycles 30V 4P Female Surface Mount, Right Angle Type-A USB 2.0 SMD USB Connectors ROHS Search":
+          - generic: 904-131A2032S10200
+          - generic: C46400
+          - generic: 1 1.5A 13.6mm 1500 Cycles 30V 4P Female Surface Mount, Right Angle Type-A USB 2.0 SMD USB Connectors ROHS
+          - text: Search
+        - cell:
+          - checkbox [checked]
+      - row "Y1 ABM8-272-T3 Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm ABM8-272-T3 C20625731 -40℃~+85℃ 10pF 12MHz 50Ω Crystal Oscillator ±30ppm ±30ppm SMD3225-4P Crystals ROHS Search":
+        - cell:
+          - generic: 
+        - cell "Y1":
+          - generic: Y1
+        - cell
+        - cell "ABM8-272-T3":
+          - generic: ABM8-272-T3
+        - cell "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm":
+          - generic: Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm
+        - cell "ABM8-272-T3 C20625731 -40℃~+85℃ 10pF 12MHz 50Ω Crystal Oscillator ±30ppm ±30ppm SMD3225-4P Crystals ROHS Search":
+          - generic: ABM8-272-T3
+          - generic: C20625731
+          - generic: "-40℃~+85℃ 10pF 12MHz 50Ω Crystal Oscillator ±30ppm ±30ppm SMD3225-4P Crystals ROHS"
+          - text: Search
+        - cell:
+          - checkbox [checked]
+  - button "Next"

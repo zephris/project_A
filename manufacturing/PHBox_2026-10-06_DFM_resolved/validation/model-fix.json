@@ -1,0 +1,21 @@
+{
+  "source": "https://pip.raspberrypi.com/documents/RP-010328-CA",
+  "reference": "RPI-RP2350A-MINIMAL_R4-S1_public",
+  "model": "${KIPRJMOD}/3dmodels/RP2350A_official.step",
+  "reference_model_offset": [
+    0,
+    0,
+    0
+  ],
+  "reference_model_rotation": [
+    0,
+    0,
+    0
+  ],
+  "replacement": "QFN56 wrong model replaced with official project-local RP2350A model",
+  "physical_board_changes": false,
+  "files": [
+    "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\Flatbox-rev8.kicad_pcb",
+    "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\lib.pretty\\RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias.kicad_mod"
+  ]
+}

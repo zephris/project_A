@@ -1,0 +1,34 @@
+{
+  "foam.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 59,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "switch_plate.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 111,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "top_acrylic.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 95,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "upper_foam.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 24,
+    "layers": [
+      "CUT"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "case_head_overlap_mm3": 0,
+  "plate_heatsink_overlap_mm3": 0,
+  "plate_top_spacer_overlap_mm3": 0,
+  "screen_frame_module_overlap_mm3": 0.0,
+  "internal_mount_piece_overlap_mm3": 0
+}

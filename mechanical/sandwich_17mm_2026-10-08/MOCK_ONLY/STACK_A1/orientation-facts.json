@@ -1,0 +1,51 @@
+{
+  "file": "mechanical/sandwich_17mm_2026-10-08/MOCK_ONLY/STACK_A1/stacked_kit.3mf",
+  "scale": {
+    "bbox_diagonal_mm": 348.3349,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 191678.9,
+        "support_area_pct": 36.0,
+        "build_height_mm": 44.95
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 235177.58,
+        "support_area_pct": 44.2,
+        "build_height_mm": 44.95
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 11213.83,
+        "support_area_pct": 2.1,
+        "build_height_mm": 243.7
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 14781.65,
+        "support_area_pct": 2.8,
+        "build_height_mm": 243.7
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 12517.23,
+        "support_area_pct": 2.4,
+        "build_height_mm": 244.8
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 9492.9,
+        "support_area_pct": 1.8,
+        "build_height_mm": 244.8
+      }
+    ]
+  },
+  "partial": false
+}

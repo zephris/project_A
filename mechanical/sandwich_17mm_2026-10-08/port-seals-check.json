@@ -1,0 +1,46 @@
+{
+  "units": "mm",
+  "saved_collars_valid": true,
+  "collars": {
+    "A": {
+      "rigid_access_mm": [
+        15.8,
+        6.6
+      ],
+      "free_mating_hole_mm": [
+        14.2,
+        5.5
+      ],
+      "gap_fill_expected_mm3": 1.3099657177540607,
+      "gap_fill_found_mm3": 1.3099657177541997,
+      "axial_stock_mm": 2.0,
+      "outer_interference_mm": 0.2
+    },
+    "C": {
+      "rigid_access_mm": [
+        10.34,
+        4.11
+      ],
+      "free_mating_hole_mm": [
+        8.74,
+        3.01
+      ],
+      "gap_fill_expected_mm3": 0.7758933591644159,
+      "gap_fill_found_mm3": 0.7758933591643326,
+      "axial_stock_mm": 2.0,
+      "outer_interference_mm": 0.2
+    }
+  },
+  "native_PCB_edge_poses_checked": 9,
+  "PCB_overlap_hits": [],
+  "rear_PCB_rebate": {
+    "front_limit_y": -33.916557999995995,
+    "z_limits": [
+      -1.9512040000000002,
+      0.35
+    ],
+    "uncut_front_membrane_mm": 0.3165579999959931
+  },
+  "material": "unfilled nonconductive TPU 95A trial",
+  "limitations": "Free-state projection only; outer/inner interference intentional. TPU compliance, membrane print quality, creep, retention strength, dust and liquid ingress require physical trials."
+}

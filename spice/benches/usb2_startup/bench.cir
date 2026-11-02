@@ -1,0 +1,8 @@
+PHBox usb2_startup planning model
+.include "circuit.inc"
+.tran 10u 100m
+.meas tran host_final FIND v(host) AT=95m
+.meas tran source_peak MAX i(Vsense) FROM=0 TO=100m
+.meas tran rise_4v WHEN v(host)=4 RISE=1
+.meas tran host_off FIND v(host) AT=4m
+.end

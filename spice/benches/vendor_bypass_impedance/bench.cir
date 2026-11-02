@@ -1,0 +1,6 @@
+PHBox vendor_bypass_impedance planning model
+.include "circuit.inc"
+.ac dec 100 1k 100Meg
+.meas ac z_1meg FIND vm(pdn) AT=1Meg
+.meas ac z_min MIN vm(pdn)
+.end

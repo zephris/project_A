@@ -1,0 +1,169 @@
+{
+  "file": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\REPRINT_A1\\reprint_stack.gcode.3mf",
+  "sha256": "97b1c7ed71c0835d2763b8a1017e639dc3036aeb44687b86c5a092bc428b7be3",
+  "printer": "Bambu Lab A1",
+  "printable_area": [
+    "0x0",
+    "256x0",
+    "256x256",
+    "0x256"
+  ],
+  "print_sequence": "by layer",
+  "required_edge_margin_mm": 5,
+  "xy_bounds_mm": {
+    "service_move_envelope": [
+      -48.2,
+      -0.5,
+      267.0,
+      262.5
+    ],
+    "generated_destinations": [
+      10.501,
+      10.345,
+      243.732,
+      218.621
+    ],
+    "deposition_centerlines": [
+      10.501,
+      10.345,
+      243.732,
+      218.621
+    ],
+    "deposition_with_line_width": [
+      10.201,
+      10.045,
+      244.032,
+      218.921
+    ],
+    "feature/Prime tower": [
+      192.829,
+      176.829,
+      234.171,
+      218.921
+    ],
+    "generated_travel_envelope": [
+      9.516,
+      9.36,
+      240.816,
+      218.621
+    ],
+    "feature/Support": [
+      10.201,
+      10.045,
+      227.807,
+      217.456
+    ],
+    "feature/Brim": [
+      170.968,
+      10.975,
+      244.032,
+      87.687
+    ],
+    "feature/Inner wall": [
+      14.188,
+      14.32116,
+      240.676,
+      213.242
+    ],
+    "feature/Outer wall": [
+      13.9,
+      13.898,
+      241.09001,
+      213.739
+    ],
+    "feature/Bottom surface": [
+      14.695,
+      14.90884,
+      240.303,
+      212.805
+    ],
+    "service_return_move_envelope": [
+      0.0,
+      113.75,
+      261.0,
+      250.0
+    ],
+    "feature/Internal solid infill": [
+      14.493,
+      14.493,
+      240.263,
+      213.007
+    ],
+    "feature/Sparse infill": [
+      14.64786,
+      14.65046,
+      240.31351,
+      212.84918
+    ],
+    "feature/Floating vertical shell": [
+      14.677,
+      14.691,
+      240.295,
+      212.808
+    ],
+    "feature/Bridge": [
+      14.493,
+      14.493,
+      240.502,
+      213.007
+    ],
+    "feature/Top surface": [
+      14.129,
+      14.129,
+      240.871,
+      213.371
+    ],
+    "feature/Gap infill": [
+      14.109,
+      14.109,
+      237.798,
+      213.391
+    ],
+    "feature/Support transition": [
+      11.47,
+      11.315,
+      226.537,
+      216.186
+    ],
+    "feature/Support interface": [
+      11.826,
+      11.315,
+      226.436,
+      216.186
+    ]
+  },
+  "moves": {
+    "service": 8317,
+    "generated": 623140
+  },
+  "arcs": {
+    "service": 150,
+    "generated": 55100
+  },
+  "samples": {
+    "service": [
+      {
+        "line": 687,
+        "command": "G1 X-28.5 F30000"
+      },
+      {
+        "line": 688,
+        "command": "G1 X-48.2 F3000"
+      },
+      {
+        "line": 701,
+        "command": "G1 X-48.2 F3000"
+      },
+      {
+        "line": 728,
+        "command": "G1 X-28.5 F30000"
+      },
+      {
+        "line": 730,
+        "command": "G1 X-48.2 F3000"
+      }
+    ]
+  },
+  "failures": [],
+  "limits": "Generated XY audit, including circular extrema and deposited line width. Custom startup/change/end movements are reported separately and must match the stock A1 profile; their off-bed service travel is not classified as a model-boundary violation. No physical machine motion or clearance observation."
+}

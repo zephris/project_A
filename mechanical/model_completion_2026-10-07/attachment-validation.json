@@ -1,0 +1,1364 @@
+{
+  "non_model_board_data_unchanged": true,
+  "added_or_replaced_references": [
+    "SW3",
+    "SW4",
+    "SW5",
+    "SW12",
+    "SW13",
+    "SW14",
+    "SW15",
+    "SW8",
+    "SW9",
+    "SW10",
+    "SW11",
+    "SW2",
+    "D17",
+    "D16",
+    "U4",
+    "D4",
+    "D20",
+    "SW6",
+    "D8",
+    "D9",
+    "D3",
+    "D15",
+    "D18",
+    "SW1",
+    "SW16",
+    "D1",
+    "D19",
+    "L1",
+    "D2",
+    "D6",
+    "SW7",
+    "D7",
+    "D5",
+    "D14",
+    "D11",
+    "D13",
+    "D10",
+    "D12",
+    "D21"
+  ],
+  "footprints": [
+    {
+      "reference": "SW3",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW4",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW5",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW12",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW13",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW14",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW15",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW8",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW9",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW10",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW11",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H6",
+      "models": []
+    },
+    {
+      "reference": "H1",
+      "models": []
+    },
+    {
+      "reference": "H3",
+      "models": []
+    },
+    {
+      "reference": "H4",
+      "models": []
+    },
+    {
+      "reference": "SW2",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H5",
+      "models": []
+    },
+    {
+      "reference": "H2",
+      "models": []
+    },
+    {
+      "reference": "R11",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "USB1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/Type-C.pretty/HRO-TYPE-C-31-M-12.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R10",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D17",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C29",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C25",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D16",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R7",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C44",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C6",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R5",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW19",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_TS-1187A-B-A-B_C318884.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C9",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R29",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C39",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C38",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C40",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R20",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U4",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/ECMF2_40A100N6_ST_reference.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R31",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R23",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C12",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H10",
+      "models": []
+    },
+    {
+      "reference": "D4",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C17",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C31",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C21",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C14",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R12",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D20",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R3",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C13",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW6",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U6",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C22",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C36",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "F1",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0805_2012Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D8",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R13",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C11",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D9",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U5",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/OLED_HS13L03W2C01.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R2",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H11",
+      "models": []
+    },
+    {
+      "reference": "D3",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C8",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H9",
+      "models": []
+    },
+    {
+      "reference": "U2",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D15",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "OPSW2",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D18",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C10",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C16",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U3",
+      "models": [
+        {
+          "path": "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.3x5.3mm_P1.27mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R18",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R6",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/RP2350A_official.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW16",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R4",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R33",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "OPSW5",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C32",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C2",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C26",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R24",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R32",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H8",
+      "models": []
+    },
+    {
+      "reference": "OPSW6",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R8",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C37",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D19",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C20",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "OPSW3",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "L1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/AOTA_B201610S3R3_101_T_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R21",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R14",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D2",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D6",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R25",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW20",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_TS-1187A-B-A-B_C318884.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C28",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C18",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "SW7",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true
+        },
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_Kailh_Choc_V2_red.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C33",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C23",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H7",
+      "models": []
+    },
+    {
+      "reference": "D7",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R27",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C7",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R19",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D5",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D14",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D11",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R22",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D13",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R30",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "OPSW1",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C24",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R26",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R1",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D10",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "H12",
+      "models": []
+    },
+    {
+      "reference": "Y1",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D12",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C5",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C35",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C4",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "OPSW4",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R28",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "D21",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/ESDA7P120_1U1M_ST_reference.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C15",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C30",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C3",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C34",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C27",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R17",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "USB2",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/USB_A_904-131A2032S10200_reference.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C19",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C43",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R16",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C42",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U8",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "U7",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "R15",
+      "models": [
+        {
+          "path": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "reference": "C41",
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+          "exists": true
+        }
+      ]
+    }
+  ]
+}

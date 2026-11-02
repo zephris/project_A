@@ -1,0 +1,34 @@
+Adding duplicate image handler for 'PNG file'
+Adding duplicate image handler for 'JPEG file'
+Adding duplicate image handler for 'TIFF file'
+Adding duplicate image handler for 'GIF file'
+Adding duplicate image handler for 'PNM file'
+Adding duplicate image handler for 'PCX file'
+Adding duplicate image handler for 'IFF file'
+Adding duplicate image handler for 'Windows icon file'
+Adding duplicate image handler for 'Windows cursor file'
+Adding duplicate image handler for 'Windows animated cursor file'
+Adding duplicate image handler for 'TGA file'
+Adding duplicate image handler for 'XPM file'
+Adding duplicate image handler for 'WebP file'
+{
+  "pin_maps_identical": true,
+  "footprints": 146,
+  "moved_footprints": 71,
+  "fixed_footprints_exactly_preserved": 75,
+  "max_main_switch_centre_error_mm": 1.414213558802549e-06,
+  "protected_core_tracks_requested": 1117,
+  "original_root_board_unchanged": true,
+  "candidate_sha256": "cc6e09d7bb8c85964da51ce74d79c96b29d2760e197bdce856f3d628bdba66eb",
+  "drc_error_count": 0,
+  "drc_warning_types": {
+    "track_dangling": 82,
+    "via_dangling": 6,
+    "silk_over_copper": 28,
+    "silk_overlap": 66
+  },
+  "unconnected_items": 22,
+  "fabrication_ready": false,
+  "scope": "Physical layout candidate only; remaining connections and dangling copper need completion. No electrical release claim."
+}
+missing preserved tracks 0 modified 0

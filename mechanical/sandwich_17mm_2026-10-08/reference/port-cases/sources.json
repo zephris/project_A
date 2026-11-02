@@ -1,0 +1,11 @@
+{
+  "flatbox-rev8-pcb.step": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/extras/Flatbox-rev8-pcb.step",
+  "open-core0-frame-top.stl": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Top.stl",
+  "open-core0-frame-full.stl": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Full.stl",
+  "open-core0-frame-bottom.stl": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Bottom.stl",
+  "flatbox-rev8-case-B.step": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/extras/Flatbox-rev8-case-B.step",
+  "flatbox-rev8-top-A.stl": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/3d-printed-case/Flatbox-rev8-Top-A.stl",
+  "flatbox-rev8-top-B.stl": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/3d-printed-case/Flatbox-rev8-Top-B.stl",
+  "open-core0-top-insert.stl": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Top%20insert.stl",
+  "open-core0-bom.csv": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/Hardware%20files/BOM%20-%20Open_Core0%20v2.0.csv"
+}

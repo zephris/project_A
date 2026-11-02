@@ -1,0 +1,58 @@
+{
+  "bottom_acrylic.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 16,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "foam.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 59,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "port_seals.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 32,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "switch_coupon.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 16,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "switch_plate.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 99,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "top_acrylic.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 103,
+    "layers": [
+      "CUT"
+    ]
+  },
+  "upper_foam.dxf": {
+    "INSUNITS": 4,
+    "audit_errors": 0,
+    "entity_count": 24,
+    "layers": [
+      "CUT"
+    ]
+  }
+}

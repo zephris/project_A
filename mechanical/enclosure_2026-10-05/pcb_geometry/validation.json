@@ -1,0 +1,21 @@
+{
+  "status": "nominal geometry verified; supplier-specific fit tolerances partly unconfirmed",
+  "source_hash_unchanged": true,
+  "outline_mm": [
+    272.6,
+    171.0,
+    5.0,
+    1.6
+  ],
+  "holes": 451,
+  "hole_counts": {
+    "NPTH_round": 116,
+    "PTH_slot": 4,
+    "PTH_round": 331
+  },
+  "mounting_holes": 12,
+  "screen_holes": 4,
+  "switches": 16,
+  "bare_step_solid_valid": true,
+  "dxf_audit_errors": 0
+}

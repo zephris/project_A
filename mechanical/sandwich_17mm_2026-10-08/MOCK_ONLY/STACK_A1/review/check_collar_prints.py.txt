@@ -1,0 +1,29 @@
+{
+  "parts": {
+    "a": {
+      "valid_single_solid": true,
+      "size_mm": [
+        20.40000000000002,
+        9.5,
+        2.0
+      ],
+      "volume_mm3": 174.6835605541246,
+      "front_face_down": true,
+      "STL_triangles": 328,
+      "STL_closed_edge_check": true
+    },
+    "c": {
+      "valid_single_solid": true,
+      "size_mm": [
+        18.400000000000006,
+        10.9,
+        2.0
+      ],
+      "volume_mm3": 282.35866704558083,
+      "front_face_down": true,
+      "STL_triangles": 464,
+      "STL_closed_edge_check": true
+    }
+  },
+  "limitations": "Geometry and mesh checks only; thin membrane printability and TPU mechanical response require trials."
+}

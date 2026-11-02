@@ -173,4 +173,7 @@
 		(uuid "97ba93ce-1522-4e76-954a-08d93a945f18")
 	)
 	(embedded_fonts no)
+
+		(model "${KIPRJMOD}/3dmodels/USB_A_905-761A203S10200_reference.step" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
+
 )

@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "qualification": "pending",
+  "cases": [
+    {
+      "id": "usb2_enable",
+      "description": "R16 weak-pull-up enable compatibility: reset, configured host, pull-up release",
+      "analysis": ".tran 1u 20m",
+      "measures": [
+        ".meas tran en_reset_max MAX v(en) FROM=0 TO=4m",
+        ".meas tran en_enabled_min MIN v(en) FROM=6m TO=14m",
+        ".meas tran en_release_max MAX v(en) FROM=16m TO=20m",
+        ".meas tran old_en_max MAX v(old_en) FROM=6m TO=14m"
+      ],
+      "sweeps": {
+        "rail_v": [
+          "3.2",
+          "3.4"
+        ],
+        "rpu": [
+          "32k",
+          "86k"
+        ],
+        "rpd": [
+          "215.6k",
+          "224.4k"
+        ],
+        "leak_a": [
+          "-1.5u",
+          "1.5u"
+        ]
+      },
+      "signals": [
+        "v(en)",
+        "v(old_en)"
+      ],
+      "todo": "Require EN enabled >=2.0V and reset/release <=0.66V for specified-leakage silicon; inspect A2 E9 separately. Pull capacitance is illustrative. Stock firmware never releases pull-up during suspend; this release test is an electrical envelope only.",
+      "asset_hashes": {},
+      "model_fidelity": "planning abstraction",
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/usb2_enable"
+    },
+    {
+      "id": "usb2_startup",
+      "description": "U7, C42, output bank and C44: enable into capacitive/dongle load",
+      "analysis": ".tran 10u 100m",
+      "measures": [
+        ".meas tran host_final FIND v(host) AT=95m",
+        ".meas tran source_peak MAX i(Vsense) FROM=0 TO=100m",
+        ".meas tran rise_4v WHEN v(host)=4 RISE=1",
+        ".meas tran host_off FIND v(host) AT=4m"
+      ],
+      "sweeps": {
+        "cout": [
+          "160u",
+          "200u",
+          "240u"
+        ],
+        "load_a": [
+          "0",
+          "0.060",
+          "0.100"
+        ],
+        "r_ilim": [
+          "198k",
+          "202k"
+        ]
+      },
+      "signals": [
+        "v(vin)",
+        "v(host)",
+        "v(en)",
+        "v(fault)",
+        "i(Vsense)"
+      ],
+      "todo": "Compare against TI reference and physical hardware; thermal/USB protocol qualification remains pending. R15 sweep covers initial 1% resistor tolerance, not all IC current-limit tolerance.",
+      "assets": {
+        "u7.lib": "models/adapters/TPS2553_TRANS_ngspice.lib"
+      },
+      "spice_compatibility": "ps",
+      "model_fidelity": "TI transient model, one documented ngspice compatibility edit; synthetic dongle load",
+      "asset_hashes": {
+        "u7.lib": "00a4d0373161b842d358b9661dc0035b5f07d1b21712e06bedba46776ba98b8d"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/usb2_startup"
+    },
+    {
+      "id": "usb2_overload",
+      "description": "U7: load above the limit, removal and recovery",
+      "analysis": ".tran 10u 100m",
+      "measures": [
+        ".meas tran host_fault_min MIN v(host) FROM=40m TO=65m",
+        ".meas tran host_recovered FIND v(host) AT=95m",
+        ".meas tran switch_peak MAX i(Vsense) FROM=40m TO=65m",
+        ".meas tran limit_current FIND i(Vsense) AT=60m",
+        ".meas tran fault_asserted FIND v(fault) AT=60m",
+        ".meas tran fault_released FIND v(fault) AT=95m"
+      ],
+      "sweeps": {
+        "cout": [
+          "160u",
+          "240u"
+        ],
+        "r_ilim": [
+          "198k",
+          "202k"
+        ]
+      },
+      "signals": [
+        "v(host)",
+        "v(fault)",
+        "i(Vsense)"
+      ],
+      "todo": "Compare against TI reference and physical hardware; thermal/USB protocol qualification remains pending. R15 sweep covers initial 1% resistor tolerance, not all IC current-limit tolerance.",
+      "assets": {
+        "u7.lib": "models/adapters/TPS2553_TRANS_ngspice.lib"
+      },
+      "spice_compatibility": "ps",
+      "model_fidelity": "TI transient model, one documented ngspice compatibility edit; synthetic dongle load",
+      "asset_hashes": {
+        "u7.lib": "00a4d0373161b842d358b9661dc0035b5f07d1b21712e06bedba46776ba98b8d"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/usb2_overload"
+    },
+    {
+      "id": "shared_5v",
+      "description": "Cable/source impedance, RGB pulse load and host hot-plug demand",
+      "analysis": ".tran 1u 30m",
+      "measures": [
+        ".meas tran rail_min MIN v(rail5) FROM=2m TO=30m",
+        ".meas tran source_peak MAX par('-i(Vsource)') FROM=2m TO=30m",
+        ".meas tran source_avg AVG par('-i(Vsource)') FROM=2m TO=30m"
+      ],
+      "sweeps": {
+        "cable_r": [
+          "0.1",
+          "0.3",
+          "0.6"
+        ],
+        "rgb_a": [
+          "0.189",
+          "0.378"
+        ],
+        "supply": [
+          "4.75",
+          "5"
+        ]
+      },
+      "signals": [
+        "v(rail5)",
+        "i(Vsource)"
+      ],
+      "todo": "Extract actual effective board capacitance; measure RGB PWM, source/cable/fuse impedance and host inrush; define USB power declaration and voltage limits.",
+      "asset_hashes": {},
+      "model_fidelity": "planning abstraction",
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/shared_5v"
+    },
+    {
+      "id": "rail_3v3",
+      "description": "U2 TLV73333 and OLED/MCU load-step planning envelope",
+      "analysis": ".tran 1u 20m",
+      "measures": [
+        ".meas tran rail_min MIN v(rail3) FROM=4m TO=15m",
+        ".meas tran rail_max MAX v(rail3) FROM=4m TO=15m"
+      ],
+      "sweeps": {
+        "cout": [
+          "2.35u",
+          "4.7u"
+        ],
+        "step_a": [
+          "0.025",
+          "0.100"
+        ]
+      },
+      "signals": [
+        "v(rail3)",
+        "i(Vinput)"
+      ],
+      "todo": "Verify effective C12 under bias, distributed decoupling, LDO thermal limits and actual load. Core regulator remains outside this bench.",
+      "assets": {
+        "u2.lib": "models/vendor/TLV73333P/tlv73333p_trans.lib"
+      },
+      "spice_compatibility": "ps",
+      "model_fidelity": "TI TLV73333P transient model; local C12 and synthetic load",
+      "asset_hashes": {
+        "u2.lib": "b9d999b20db395a4f2c16a2a49bf7ee120f14fad3602f17af63a62a971221838"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/rail_3v3"
+    },
+    {
+      "id": "bypass_impedance",
+      "description": "Single bypass branch AC impedance with assumed ESR/ESL",
+      "analysis": ".ac dec 100 1k 100Meg",
+      "measures": [
+        ".meas ac z_1meg FIND vm(pdn) AT=1Meg",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {
+        "c_eff": [
+          "50n",
+          "100n"
+        ],
+        "esl": [
+          "0.5n",
+          "2n"
+        ]
+      },
+      "signals": [
+        "v(pdn)"
+      ],
+      "todo": "Add measured/bias-adjusted capacitor banks and trace/via parasitics. USB/RGB driver/receiver ringing needs validated IBIS/SPICE models and a separate bench; this does not test data compliance.",
+      "asset_hashes": {},
+      "model_fidelity": "planning abstraction",
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/bypass_impedance"
+    },
+    {
+      "id": "vendor_bypass_impedance",
+      "description": "Samsung 100nF base-part model at 0V bias, 25C",
+      "analysis": ".ac dec 100 1k 100Meg",
+      "measures": [
+        ".meas ac z_1meg FIND vm(pdn) AT=1Meg",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(pdn)"
+      ],
+      "assets": {
+        "cap.lib": "models/vendor/Samsung/CL05B104KO5NNN_Precise_DC0V_25degC_P.lib"
+      },
+      "model_fidelity": "Samsung static precise model, 0V DC bias, 25C",
+      "todo": "Confirm full ordering-code equivalence and obtain biased model before using for energized board PDN. No routing parasitics.",
+      "asset_hashes": {
+        "cap.lib": "6ca2f2d73f42714c0feb4ebdd3d3097b60ac3d0f612a46bfa22a45c4b6f3ee3d"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/vendor_bypass_impedance"
+    },
+    {
+      "id": "input_tvs",
+      "description": "D21 exact ST model: positive/negative injection fixture",
+      "analysis": ".tran 1n 5u",
+      "measures": [
+        ".meas tran clamp_positive FIND v(input) AT=1.5u",
+        ".meas tran clamp_negative FIND v(input) AT=3.5u"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(input)"
+      ],
+      "assets": {
+        "d21.lib": "models/vendor/ESDA7P120-1U1M/ESDA7P120_1U1M.lib"
+      },
+      "model_fidelity": "ST room-temperature TVS model; artificial 100mA injection",
+      "todo": "Not surge/ESD certification. Source/fuse/PCB parasitics excluded; vendor model covers room temperature only.",
+      "asset_hashes": {
+        "d21.lib": "a73063a18083575930fd6baa82d821312482fc35e6e25a004d78b0aa6c75c741"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/input_tvs"
+    },
+    {
+      "id": "rgb_buffer",
+      "description": "U6 level shifter and R14 first LED input",
+      "analysis": ".tran 1n 5u",
+      "measures": [
+        ".meas tran led_high FIND v(led_in) AT=1.3u",
+        ".meas tran led_low FIND v(led_in) AT=1.8u",
+        ".meas tran rise_time TRIG v(led_in) VAL=0.5 RISE=1 TARG v(led_in) VAL=4.5 RISE=1"
+      ],
+      "sweeps": {
+        "c_led": [
+          "5p",
+          "30p"
+        ],
+        "vcc": [
+          "4.75",
+          "5"
+        ]
+      },
+      "signals": [
+        "v(gpio)",
+        "v(buffered)",
+        "v(led_in)"
+      ],
+      "assets": {
+        "u6.lib": "models/vendor/SN74LV1T34_SPICE/SN74LV1T34.cir"
+      },
+      "spice_compatibility": "ps",
+      "model_fidelity": "TI buffer model; assumed LED load",
+      "todo": "Actual SK6805 input waveform/threshold and routed parasitics required; no LED firmware model.",
+      "asset_hashes": {
+        "u6.lib": "e25c0586c17a17864f4c22062fd3dfa70a530d57d3b1f955fd60b178be3814f3"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/rgb_buffer"
+    },
+    {
+      "id": "usb_host_protection",
+      "description": "U8 USBLC6-2SC6 positive/negative injection fixture",
+      "analysis": ".tran 1n 5u",
+      "measures": [
+        ".meas tran clamp_positive FIND v(dp) AT=1.5u",
+        ".meas tran clamp_negative FIND v(dp) AT=3.5u"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(dp)",
+        "v(dm)"
+      ],
+      "assets": {
+        "u8.lib": "models/vendor/USBLC6-2SC6/USBLC6-2SC6.lib"
+      },
+      "model_fidelity": "ST ESD array model; artificial 100mA injection",
+      "todo": "Sanity fixture only: not IEC ESD certification or USB eye/compliance. Supply ideal-clamped; PCB parasitics excluded.",
+      "asset_hashes": {
+        "u8.lib": "9462b9a7736a47648c66f6db4db209932ef457fefef8d31ce4500c690e483d2f"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/usb_host_protection"
+    },
+    {
+      "id": "vendor_cap_4u7",
+      "description": "C2/C11/C12/C13: Samsung static impedance, 0V bias, 25C",
+      "analysis": ".ac dec 100 1k 100Meg",
+      "measures": [
+        ".meas ac z_100k FIND vm(pdn) AT=100k",
+        ".meas ac z_1meg FIND vm(pdn) AT=1Meg",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(pdn)"
+      ],
+      "assets": {
+        "cap.lib": "models/vendor/Samsung/CL05A475MP5NRN_Precise_DC0V_25degC_P.lib"
+      },
+      "model_fidelity": "Samsung fixed 0V DC bias, 25C; no PCB parasitics",
+      "todo": "Bias/temperature qualification and ordering suffix equivalence remain pending.",
+      "asset_hashes": {
+        "cap.lib": "f9c10659bc331bb15de23a92eb0997f2082ab91bc3b6c5e5a680cd3e4d0d6e4c"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/vendor_cap_4u7"
+    },
+    {
+      "id": "vendor_cap_1u",
+      "description": "C14/C15: Samsung static impedance, 0V bias, 25C",
+      "analysis": ".ac dec 100 1k 100Meg",
+      "measures": [
+        ".meas ac z_100k FIND vm(pdn) AT=100k",
+        ".meas ac z_1meg FIND vm(pdn) AT=1Meg",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(pdn)"
+      ],
+      "assets": {
+        "cap.lib": "models/vendor/Samsung/CL05A105KA5NQN_Precise_DC0V_25degC_P.lib"
+      },
+      "model_fidelity": "Samsung fixed 0V DC bias, 25C; no PCB parasitics",
+      "todo": "Bias/temperature qualification and ordering suffix equivalence remain pending.",
+      "asset_hashes": {
+        "cap.lib": "ada0e7408c702637ed4913efdf31bdae41ac57db2065622f974176b8cd155ac9"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/vendor_cap_1u"
+    },
+    {
+      "id": "vendor_cap_c41",
+      "description": "C41 candidate C29936: Samsung static impedance, 0V bias, 25C",
+      "analysis": ".ac dec 100 1k 100Meg",
+      "measures": [
+        ".meas ac z_100k FIND vm(pdn) AT=100k",
+        ".meas ac z_1meg FIND vm(pdn) AT=1Meg",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(pdn)"
+      ],
+      "assets": {
+        "cap.lib": "models/vendor/Samsung/CL10B105KA8NNN_Precise_DC0V_25degC_P.lib"
+      },
+      "model_fidelity": "Samsung fixed 0V DC bias, 25C; no PCB parasitics",
+      "todo": "Bias/temperature qualification and ordering suffix equivalence remain pending.",
+      "asset_hashes": {
+        "cap.lib": "1213c5b11a3458b18009accb11879ecd550ab59492c6b859208c6e669a60480f"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/vendor_cap_c41"
+    },
+    {
+      "id": "vendor_kemet_bank",
+      "description": "C19/C43 exact KEMET parallel bank impedance, 5V/25C",
+      "analysis": ".ac dec 100 10k 1Meg",
+      "measures": [
+        ".meas ac z_100k FIND vm(pdn) AT=100k",
+        ".meas ac z_min MIN vm(pdn)"
+      ],
+      "sweeps": {},
+      "signals": [
+        "v(pdn)"
+      ],
+      "assets": {
+        "cap.lib": "models/adapters/T520B107M010ATE070_5V_25C_100kHz.lib"
+      },
+      "model_fidelity": "KEMET fixed 5V/25C/100kHz center-frequency export, two parallel parts",
+      "todo": "Check fitted bandwidth against vendor curves before transient substitution; no tolerance/PCB parasitics.",
+      "asset_hashes": {
+        "cap.lib": "deee102f55dc60578413b3d154de4a5441ebe4906d0ea834e83ac6173f59a5b9"
+      },
+      "acceptance_limits": null,
+      "acceptance_status": "pending",
+      "path": "benches/vendor_kemet_bank"
+    }
+  ],
+  "source_hashes_lf": {
+    "Flatbox-rev8.kicad_sch": "3de76a237c382f5f98dabc6f06fbf4ebbe6d9244a09c2f9da4438da9d449b777",
+    "Flatbox-rev8.kicad_pcb": "11697274d842131bd6addc16371991acf702516819850ae38afbac23443ed6d4"
+  }
+}

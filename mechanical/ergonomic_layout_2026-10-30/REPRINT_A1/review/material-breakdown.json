@@ -1,0 +1,36 @@
+{
+  "estimated_hours": 28.57853298611111,
+  "AMS_changes": 74,
+  "totals_g": {
+    "PLA": 321.4914855957031,
+    "PETG": 95.75550842285156
+  },
+  "categories": [
+    {
+      "category": "Models and adhesion brim",
+      "PLA_g": 183.87561986758837,
+      "PETG_g": 0
+    },
+    {
+      "category": "Support scaffold and transition",
+      "PLA_g": 80.19634058163038,
+      "PETG_g": 0
+    },
+    {
+      "category": "Release interfaces",
+      "PLA_g": 0,
+      "PETG_g": 53.411888122558594
+    },
+    {
+      "category": "Prime tower",
+      "PLA_g": 22.07032647887922,
+      "PETG_g": 6.713865694478138
+    },
+    {
+      "category": "Purge and material-change waste (inferred)",
+      "PLA_g": 35.34919866760515,
+      "PETG_g": 35.62975460581483
+    }
+  ],
+  "method": "Slicer totals; feature extrusion volumes partition supports/tower. Purge is total minus main minus tower, including rounding residuals. No weighed consumption."
+}

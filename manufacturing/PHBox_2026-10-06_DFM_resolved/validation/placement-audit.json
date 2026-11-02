@@ -1,0 +1,14 @@
+{
+  "cpl_rows": 112,
+  "bom_refs": 112,
+  "bom_groups": 36,
+  "changed_origins": {
+    "C12_y_board_mm": -0.06,
+    "C13_y_board_mm": -0.04
+  },
+  "all_other_placements_identical": true,
+  "rotation_changes": 0,
+  "C41_added": true,
+  "C41_rotation_deg": 0,
+  "C41_layer": "Bottom"
+}

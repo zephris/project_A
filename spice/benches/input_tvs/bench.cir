@@ -1,0 +1,6 @@
+PHBox input_tvs planning model
+.include "circuit.inc"
+.tran 1n 5u
+.meas tran clamp_positive FIND v(input) AT=1.5u
+.meas tran clamp_negative FIND v(input) AT=3.5u
+.end

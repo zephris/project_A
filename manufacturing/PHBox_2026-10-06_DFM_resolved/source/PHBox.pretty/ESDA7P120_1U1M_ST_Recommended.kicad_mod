@@ -1,0 +1,277 @@
+(footprint "ESDA7P120_1U1M_ST_Recommended"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Unidirectional high power transient voltage suppressor (https://www.st.com/resource/en/datasheet/esda7p120-1u1m.pdf)")
+	(tags "QFN-2L Diode")
+	(property "Reference" "REF**"
+		(at 0.5 -2.3 0)
+		(layer "F.SilkS")
+		(uuid "86e8387e-d5a2-4204-9d32-ff55be5e8c32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ESDA7P120_1U1M_ST_Recommended"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "6104e048-c5be-45f8-8f93-94f861274fa9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.st.com/resource/en/datasheet/esda7p60-1u1m.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e861ddcb-f098-47ad-8cac-d0cd4487661d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "5.5 V unidirectional VBUS TVS, pin 1 cathode"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1020c14-419e-4c56-8601-a6190b7571ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "ESDA7P120-1U1M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9647e89-db92-4b0f-9e12-049b7336cf84")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf0beecf-1fe8-444f-9f6f-986d146a0ca4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2969802"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c11f521a-69f5-4291-b3dd-4d5d49e5ec8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "Flatbox-rev8.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 1.05 0.75)
+		(end -1.05 -0.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d431d63a-cfb6-4f74-b6a8-857a08801be4")
+	)
+	(fp_line
+		(start -0.96 -0.66)
+		(end -0.96 0.66)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1f99d090-aa38-4b94-adb7-d9c75954cf14")
+	)
+	(fp_line
+		(start -0.96 0.66)
+		(end 0.5 0.66)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a508a769-d669-4aca-927b-4ec36602e6c4")
+	)
+	(fp_line
+		(start -0.8 -0.5)
+		(end -0.8 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81e3b3b3-d741-4ab2-872b-5b97c8401b04")
+	)
+	(fp_line
+		(start -0.8 -0.5)
+		(end 0.8 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab2ad871-7df1-4d61-9404-110c02628c56")
+	)
+	(fp_line
+		(start -0.2 -0.275)
+		(end -0.2 0.275)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c5ca2de-f774-4781-97bc-d30c4e65db0b")
+	)
+	(fp_line
+		(start -0.2 0)
+		(end -0.475 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "09716c75-73d7-417f-bff4-2c5a4b1c742d")
+	)
+	(fp_line
+		(start -0.2 0)
+		(end 0.2 -0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff92c520-e996-4b50-9d38-136444b4dc47")
+	)
+	(fp_line
+		(start 0.2 -0.225)
+		(end 0.2 0.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "581e8573-b25e-44bd-b445-ef65e1861742")
+	)
+	(fp_line
+		(start 0.2 0)
+		(end 0.45 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07a81f51-a671-497e-bf0f-b3e715f6a990")
+	)
+	(fp_line
+		(start 0.2 0.225)
+		(end -0.2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f1830136-b0ca-4b5e-b66a-26316d6fd57e")
+	)
+	(fp_line
+		(start 0.5 -0.66)
+		(end -0.96 -0.66)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5b9a63fc-f3da-4244-9851-d176ac7d5cb7")
+	)
+	(fp_line
+		(start 0.8 -0.5)
+		(end 0.8 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b02c86d7-6ec4-4039-b99f-1d405188ed22")
+	)
+	(fp_line
+		(start 0.8 0.5)
+		(end -0.8 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "06f74112-21c7-48ba-93ec-d48e8ae62450")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2 0)
+		(layer "F.Fab")
+		(uuid "9ed0aa28-03a9-48cd-91e5-9d450da6999b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.625 0)
+		(size 0.55 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "8d7bbecb-f2a0-47b3-b720-6719b0dd2206")
+	)
+	(pad "2" smd roundrect
+		(at 0.625 0)
+		(size 0.55 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "01016f41-4570-4833-b7a7-bfcc5cbb45c8")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/ST_QFN-2L_1.6x1.0mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

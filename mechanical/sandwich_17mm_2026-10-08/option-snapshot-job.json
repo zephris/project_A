@@ -1,0 +1,102 @@
+{
+  "jobs": [
+    {
+      "input": "STEP/top_acrylic.step",
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/top_acrylic.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "input": "STEP/bottom_acrylic.step",
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/bottom_acrylic.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "input": "STEP/top_spacer.step",
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/top_spacer.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "input": "STEP/bottom_spacer.step",
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/bottom_spacer.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "input": "STEP/option_caps.step",
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/option_caps.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "input": "STEP/option_retainer.step",
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/option_retainer.png",
+          "camera": "iso"
+        }
+      ]
+    },
+    {
+      "output": {
+        "viewLabels": true,
+        "sizeProfile": "simple"
+      },
+      "input": "STEP/option_hardware.step",
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/option_hardware.png",
+          "camera": "iso"
+        }
+      ]
+    }
+  ]
+}

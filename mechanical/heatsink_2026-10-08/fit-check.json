@@ -1,0 +1,398 @@
+{
+  "units": "mm",
+  "board_sha256": "3f6aadb20eb35b7df2a3d103c082da9fad3d124a0a84a652d2cac04c88c36e6a",
+  "plate_valid": true,
+  "solid_count": 1,
+  "bounds_mm": [
+    [
+      120.9999999,
+      -91.3165581,
+      1.3
+    ],
+    [
+      181.0000001,
+      -38.4165579,
+      7.0000001
+    ]
+  ],
+  "volume_mm3": 6342.07801846322,
+  "mass_g_at_2p70_g_cm3": 17.123610649850697,
+  "board_collision_hits": [],
+  "stop_collision_hits": [],
+  "component_clearances": [
+    {
+      "ref": "#o1.83.1.1",
+      "label": "Package",
+      "distance_mm": 0.4499999999999996
+    },
+    {
+      "ref": "#o1.80.1",
+      "label": "=>[0:1:1:51]",
+      "distance_mm": 0.44999999999999973
+    },
+    {
+      "ref": "#o1.83.1.5",
+      "label": "Logo",
+      "distance_mm": 0.4599999999999995
+    },
+    {
+      "ref": "#o1.83.1.3",
+      "label": "Pin1Indicator",
+      "distance_mm": 0.4600000000000001
+    },
+    {
+      "ref": "#o1.83.1.4",
+      "label": "Pins",
+      "distance_mm": 1.1015484555842283
+    },
+    {
+      "ref": "#o1.83.1.2",
+      "label": "EP",
+      "distance_mm": 1.29
+    },
+    {
+      "ref": "#o1.151",
+      "label": "=>[0:1:1:74]",
+      "distance_mm": 1.3850010000000001
+    },
+    {
+      "ref": "#o1.47.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 1.6284234892769596
+    },
+    {
+      "ref": "#o1.131.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 1.759865913573736
+    },
+    {
+      "ref": "#o1.71.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.0369372366099254
+    },
+    {
+      "ref": "#o1.37.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.154065922853802
+    },
+    {
+      "ref": "#o1.26.1",
+      "label": "=>[0:1:1:17]",
+      "distance_mm": 2.2001772747574075
+    },
+    {
+      "ref": "#o1.66.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.23848381663069
+    },
+    {
+      "ref": "#o1.59.1",
+      "label": "=>[0:1:1:31]",
+      "distance_mm": 2.45
+    },
+    {
+      "ref": "#o1.72.1",
+      "label": "=>[0:1:1:31]",
+      "distance_mm": 2.45
+    },
+    {
+      "ref": "#o1.56.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.478399487672064
+    },
+    {
+      "ref": "#o1.91.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.8448022778393485
+    },
+    {
+      "ref": "#o1.96.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 2.9190565329729177
+    },
+    {
+      "ref": "#o1.109.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 2.921309137649017
+    },
+    {
+      "ref": "#o1.101.1.3",
+      "label": "o1.101.1.3",
+      "distance_mm": 3.0
+    },
+    {
+      "ref": "#o1.133.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.205736634959697
+    },
+    {
+      "ref": "#o1.42.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.2984845004941175
+    },
+    {
+      "ref": "#o1.129.1",
+      "label": "=>[0:1:1:65]",
+      "distance_mm": 3.36
+    },
+    {
+      "ref": "#o1.136.1",
+      "label": "=>[0:1:1:67]",
+      "distance_mm": 3.45
+    },
+    {
+      "ref": "#o1.34.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.41.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.49.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.52.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.78.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.79.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.116.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.137.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.139.1",
+      "label": "=>[0:1:1:23]",
+      "distance_mm": 3.5
+    },
+    {
+      "ref": "#o1.44.1",
+      "label": "=>[0:1:1:27]",
+      "distance_mm": 3.55
+    },
+    {
+      "ref": "#o1.62.1",
+      "label": "=>[0:1:1:33]",
+      "distance_mm": 3.55
+    },
+    {
+      "ref": "#o1.101.1.1",
+      "label": "o1.101.1.1",
+      "distance_mm": 3.6224991373359963
+    },
+    {
+      "ref": "#o1.101.1.2",
+      "label": "o1.101.1.2",
+      "distance_mm": 3.6224991373359963
+    },
+    {
+      "ref": "#o1.25.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.27.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.32.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.35.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.55.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.69.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.86.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.127.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 3.65
+    },
+    {
+      "ref": "#o1.65.1.8",
+      "label": "SMT_shell_1",
+      "distance_mm": 3.712478956169309
+    },
+    {
+      "ref": "#o1.103.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 4.263501632188122
+    },
+    {
+      "ref": "#o1.82.1",
+      "label": "=>[0:1:1:15]",
+      "distance_mm": 4.613623090579031
+    },
+    {
+      "ref": "#o1.107.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 5.138049212483611
+    },
+    {
+      "ref": "#o1.107.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 5.238049212483603
+    },
+    {
+      "ref": "#o1.36.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 5.386042997170003
+    },
+    {
+      "ref": "#o1.36.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 5.493683595571355
+    },
+    {
+      "ref": "#o1.107.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 6.135718366988701
+    },
+    {
+      "ref": "#o1.36.1",
+      "label": "=>[0:1:1:25]",
+      "distance_mm": 6.54622312049212
+    }
+  ],
+  "button_service_zones": [
+    {
+      "ref": "SW19",
+      "net": [
+        "GND",
+        "GND",
+        "/~{USB_BOOT}",
+        "/~{USB_BOOT}"
+      ],
+      "margin_mm": 1.5,
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.3674680000000023
+    },
+    {
+      "ref": "SW20",
+      "net": [
+        "Net-(R6-Pad1)",
+        "Net-(R6-Pad1)",
+        "/RUN",
+        "/RUN"
+      ],
+      "margin_mm": 1.5,
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.3433454066565325
+    }
+  ],
+  "mount_bores": [
+    {
+      "ref": "H5",
+      "pcb_xy": [
+        173.03218,
+        43.916558
+      ],
+      "plate_hole_diameter_mm": 3.4,
+      "through_bore_overlap_mm3": 0.0
+    },
+    {
+      "ref": "H7",
+      "pcb_xy": [
+        143.53218,
+        86.316558
+      ],
+      "plate_hole_diameter_mm": 3.4,
+      "through_bore_overlap_mm3": 0.0
+    },
+    {
+      "ref": "H12",
+      "pcb_xy": [
+        146.93218,
+        43.916558
+      ],
+      "plate_hole_diameter_mm": 2.4,
+      "through_bore_overlap_mm3": 0.0
+    }
+  ],
+  "pad_contact": [
+    {
+      "label": "insulating_thermal_pad_U1",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "insulating_thermal_pad_U3",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 4.440892098500626e-16
+    }
+  ],
+  "support_contacts": [
+    {
+      "label": "custom_POM_stop_H5",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "custom_POM_stop_H7",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "custom_POM_stop_H12",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "insulating_support_washer_H5",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "insulating_support_washer_H7",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    },
+    {
+      "label": "insulating_support_washer_H12",
+      "plate_overlap_mm3": 0.0,
+      "distance_to_plate_mm": 0.0
+    }
+  ],
+  "contact_face_z_mm": {
+    "U1": 1.3,
+    "U3": 2.61
+  },
+  "coverage": "Nominal native STEP geometry. Package maxima, placement error, solder variation, pad force, hardware/case travel and thermal performance remain to be qualified."
+}

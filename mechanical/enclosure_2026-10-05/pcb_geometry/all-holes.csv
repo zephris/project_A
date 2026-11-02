@@ -1,0 +1,452 @@
+ID,Reference,Pad,X_mm,Y_mm,Drill_X_mm,Drill_Y_mm,Angle_deg,Plating,Shape,Size_minus_mm,Size_plus_mm,Position_mm,Tolerance_status
+SW3::1,SW3,,41.109578,85.299308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW3::2,SW3,,41.609578,80.149308,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW3::3,SW3,,46.609578,91.199308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW3::4,SW3,,46.609578,85.299308,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW3::5,SW3,,51.609578,89.099308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW3::6,SW3,,52.109578,85.299308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::7,SW4,,67.709578,73.949308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::8,SW4,,68.209578,68.799308,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::9,SW4,,73.209578,79.849308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::10,SW4,,73.209578,73.949308,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::11,SW4,,78.209578,77.749308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW4::12,SW4,,78.709578,73.949308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::13,SW5,,85.209578,20.849308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::14,SW5,,85.709578,15.699308,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::15,SW5,,90.709578,26.749308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::16,SW5,,90.709578,20.849308,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::17,SW5,,95.709578,24.649308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW5::18,SW5,,96.209578,20.849308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::19,SW12,,140.15,84.43844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::20,SW12,,140.65,79.28844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::21,SW12,,145.65,90.33844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::22,SW12,,145.65,84.43844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::23,SW12,,150.65,88.23844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW12::24,SW12,,151.15,84.43844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::25,SW13,,166.71,95.96844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::26,SW13,,167.21,90.81844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::27,SW13,,172.21,101.86844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::28,SW13,,172.21,95.96844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::29,SW13,,177.21,99.76844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW13::30,SW13,,177.71,95.96844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::31,SW14,,195.68,96.08844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::32,SW14,,196.18,90.93844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::33,SW14,,201.18,101.98844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::34,SW14,,201.18,96.08844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::35,SW14,,206.18,99.88844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW14::36,SW14,,206.68,96.08844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::37,SW15,,224.65,90.68844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::38,SW15,,225.15,85.53844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::39,SW15,,230.15,96.58844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::40,SW15,,230.15,90.68844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::41,SW15,,235.15,94.48844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW15::42,SW15,,235.65,90.68844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::43,SW8,,134.54,53.39844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::44,SW8,,135.04,48.24844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::45,SW8,,140.04,59.29844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::46,SW8,,140.04,53.39844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::47,SW8,,145.04,57.19844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW8::48,SW8,,145.54,53.39844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::49,SW9,,161.15,64.50844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::50,SW9,,161.65,59.35844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::51,SW9,,166.65,70.40844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::52,SW9,,166.65,64.50844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::53,SW9,,171.65,68.30844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW9::54,SW9,,172.15,64.50844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::55,SW10,,190.0,64.50844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::56,SW10,,190.5,59.35844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::57,SW10,,195.5,70.40844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::58,SW10,,195.5,64.50844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::59,SW10,,200.5,68.30844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW10::60,SW10,,201.0,64.50844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::61,SW11,,219.21,59.34844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::62,SW11,,219.71,54.19844,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::63,SW11,,224.71,65.24844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::64,SW11,,224.71,59.34844,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::65,SW11,,229.71,63.14844,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW11::66,SW11,,230.21,59.34844,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H6::67,H6,,8.15,161.6,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H1::68,H1,,8.15,7.6,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H3::69,H3,,262.15,7.6,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H4::70,H4,,262.15,161.6,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+SW2::71,SW2,,12.014578,85.419308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW2::72,SW2,,12.514578,80.269308,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW2::73,SW2,,17.514578,91.319308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW2::74,SW2,,17.514578,85.419308,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW2::75,SW2,,22.514578,89.219308,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW2::76,SW2,,23.014578,85.419308,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H5::77,H5,,120.75,161.6,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H2::78,H2,,93.5,56.0,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+USB1::79,USB1,,109.04,165.45744,0.65,0.65,180.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+USB1::80,USB1,,103.26,165.45744,0.65,0.65,180.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+USB1:13:81,USB1,13,110.47,164.92744,0.6,1.7,180.0,PTH,slot,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+USB1:13:82,USB1,13,110.47,169.10744,0.6,1.2,180.0,PTH,slot,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+USB1:13:83,USB1,13,101.83,164.92744,0.6,1.7,180.0,PTH,slot,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+USB1:13:84,USB1,13,101.83,169.10744,0.6,1.2,180.0,PTH,slot,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+H10::85,H10,,249.15,161.6,2.2,2.2,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::86,SW6,,125.15,20.83744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::87,SW6,,125.65,15.68744,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::88,SW6,,130.65,26.73744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::89,SW6,,130.65,20.83744,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::90,SW6,,135.65,24.63744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW6::91,SW6,,136.15,20.83744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5::92,U5,,32.81782,165.766558,3.0,3.0,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5::93,U5,,32.81782,137.266558,3.0,3.0,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5::94,U5,,63.21782,165.766558,3.0,3.0,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5::95,U5,,63.21782,137.266558,3.0,3.0,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5:1:96,U5,1,44.20782,166.266558,1.0,1.0,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U5:2:97,U5,2,46.74782,166.266558,1.0,1.0,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U5:3:98,U5,3,49.28782,166.266558,1.0,1.0,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U5:4:99,U5,4,51.82782,166.266558,1.0,1.0,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+H11::100,H11,,8.15,148.6,2.2,2.2,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H9::101,H9,,249.15,7.6,2.2,2.2,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+OPSW2:1:102,OPSW2,1,173.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW2:1:103,OPSW2,1,173.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW2:2:104,OPSW2,2,177.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW2:2:105,OPSW2,2,177.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+SW1::106,SW1,,49.3,112.68744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW1::107,SW1,,49.8,107.53744,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW1::108,SW1,,54.8,118.58744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW1::109,SW1,,54.8,112.68744,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW1::110,SW1,,59.8,116.48744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW1::111,SW1,,60.3,112.68744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U1:61:112,U1,61,90.675,148.875,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:113,U1,61,90.675,147.5,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:114,U1,61,90.675,146.125,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:115,U1,61,92.05,148.875,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:116,U1,61,92.05,147.5,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:117,U1,61,92.05,146.125,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:118,U1,61,93.425,148.875,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:119,U1,61,93.425,147.5,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+U1:61:120,U1,61,93.425,146.125,0.35,0.35,0.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+SW16::121,SW16,,141.65,112.58744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW16::122,SW16,,142.15,107.43744,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW16::123,SW16,,147.15,118.48744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW16::124,SW16,,147.15,112.58744,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW16::125,SW16,,152.15,116.38744,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW16::126,SW16,,152.65,112.58744,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+OPSW5:1:127,OPSW5,1,206.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW5:1:128,OPSW5,1,206.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW5:2:129,OPSW5,2,210.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW5:2:130,OPSW5,2,210.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+H8::131,H8,,21.15,7.6,2.2,2.2,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+OPSW6:1:132,OPSW6,1,216.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW6:1:133,OPSW6,1,216.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW6:2:134,OPSW6,2,220.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW6:2:135,OPSW6,2,220.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW3:1:136,OPSW3,1,183.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW3:1:137,OPSW3,1,183.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW3:2:138,OPSW3,2,187.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW3:2:139,OPSW3,2,187.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+SW7::140,SW7,,158.197825,36.667435,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW7::141,SW7,,158.697825,31.517435,1.6,1.6,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW7::142,SW7,,163.697825,42.567435,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW7::143,SW7,,163.697825,36.667435,5.05,5.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW7::144,SW7,,168.697825,40.467435,3.05,3.05,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+SW7::145,SW7,,169.197825,36.667435,1.9,1.9,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H7::146,H7,,91.25,119.2,6.4,6.4,0.0,NPTH,round,-0.2,0.2,,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+OPSW1:1:147,OPSW1,1,163.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW1:1:148,OPSW1,1,163.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW1:2:149,OPSW1,2,167.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW1:2:150,OPSW1,2,167.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+H12::151,H12,,94.65,161.6,2.2,2.2,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+OPSW4:1:152,OPSW4,1,196.2,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW4:1:153,OPSW4,1,196.2,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW4:2:154,OPSW4,2,200.7,158.35,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+OPSW4:2:155,OPSW4,2,200.7,164.85,1.1,1.1,180.0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+USB2::156,USB2,,137.21782,162.916558,1.3,1.3,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+USB2::157,USB2,,142.21782,162.916558,1.3,1.3,0.0,NPTH,round,-0.2,0.2,0.075,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+VIA:158,VIA,,83.0,137.68844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:159,VIA,,175.340925,87.109621,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:160,VIA,,172.464596,38.323838,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:161,VIA,,104.9,152.86,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:162,VIA,,168.187525,0.956561,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:163,VIA,,234.0,162.975,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:164,VIA,,144.14,79.05844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:165,VIA,,92.359578,14.469308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:166,VIA,,165.15,59.12844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:167,VIA,,71.709578,68.574308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:168,VIA,,162.197825,31.39744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:169,VIA,,74.859578,67.469308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:170,VIA,,19.474406,78.097495,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:171,VIA,,37.379748,0.955875,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:172,VIA,,102.497727,121.253472,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:173,VIA,,205.749999,68.30844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:174,VIA,,257.299926,170.044295,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:175,VIA,,146.649706,47.561608,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:176,VIA,,155.676918,114.511941,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:177,VIA,,212.242052,159.719614,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:178,VIA,,86.35,150.2,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:179,VIA,,85.613112,157.435197,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:180,VIA,,154.41067,126.994831,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:181,VIA,,204.07907,62.61471,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:182,VIA,,192.813127,68.654837,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:183,VIA,,88.7,136.03844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:184,VIA,,160.6,143.03844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:185,VIA,,109.4,160.45,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:186,VIA,,89.628438,137.313007,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:187,VIA,,232.932866,160.515891,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:188,VIA,,173.453542,140.547062,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:189,VIA,,100.959578,24.649308,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:190,VIA,,93.117479,13.855437,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:191,VIA,,94.1,138.53844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:192,VIA,,231.567126,56.879173,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:193,VIA,,112.537056,159.62487,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:194,VIA,,95.138566,152.328625,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:195,VIA,,43.305128,163.194354,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:196,VIA,,48.259578,78.919308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:197,VIA,,15.578452,0.95576,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:198,VIA,,189.988821,0.956676,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:199,VIA,,78.830228,149.34633,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:200,VIA,,103.9,146.53844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:201,VIA,,235.962892,159.787894,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:202,VIA,,137.858428,28.058442,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:203,VIA,,271.644295,139.050411,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:204,VIA,,94.564805,149.617551,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:205,VIA,,176.532037,157.162747,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:206,VIA,,167.849572,137.088315,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:207,VIA,,158.205703,143.491964,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:208,VIA,,231.8,84.328886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:209,VIA,,271.644295,95.447819,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:210,VIA,,227.464667,127.419878,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:211,VIA,,88.776358,137.426197,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:212,VIA,,170.77187,133.026005,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:213,VIA,,132.3,14.428886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:214,VIA,,233.006471,159.460162,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:215,VIA,,0.955923,31.672245,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:216,VIA,,0.955746,140.678725,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:217,VIA,,155.069516,91.291953,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:218,VIA,,166.612825,28.067435,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:219,VIA,,138.54,48.01844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:220,VIA,,45.109578,79.924308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:221,VIA,,62.470769,113.948663,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:222,VIA,,89.209578,15.474308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:223,VIA,,226.359578,52.969308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:224,VIA,,95.125,153.03844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:225,VIA,,92.517911,133.214079,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:226,VIA,,176.9,68.30844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:227,VIA,,88.7,138.53844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:228,VIA,,197.647724,56.82151,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:229,VIA,,211.790117,0.95679,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:230,VIA,,84.1,148.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:231,VIA,,227.657517,51.801968,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:232,VIA,,240.4,94.48844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:233,VIA,,226.860362,159.63339,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:234,VIA,,104.16782,128.966558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:235,VIA,,148.432597,77.468397,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:236,VIA,,153.879307,130.660494,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:237,VIA,,203.659454,89.111861,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:238,VIA,,85.695935,134.004756,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:239,VIA,,94.127717,139.576257,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:240,VIA,,102.707094,159.44973,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:241,VIA,,194.0,59.12844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:242,VIA,,223.21,53.96844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:243,VIA,,94.09053,149.24656,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:244,VIA,,271.644295,73.646523,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:245,VIA,,165.359578,30.419308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:246,VIA,,97.5,142.75,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:247,VIA,,89.95,156.1,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:248,VIA,,101.972525,140.870391,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:249,VIA,,70.686497,136.714763,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:250,VIA,,170.409578,90.499308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:251,VIA,,148.8,106.228886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:252,VIA,,228.0,162.975,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:253,VIA,,166.21782,133.516558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:254,VIA,,233.591413,0.956904,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:255,VIA,,141.69,47.038886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:256,VIA,,177.552597,163.023466,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:257,VIA,,156.48782,135.016558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:258,VIA,,93.474578,11.549308,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:259,VIA,,87.82895,150.619082,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:260,VIA,,78.95,133.58844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:261,VIA,,104.21782,156.316558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:262,VIA,,99.251794,164.683103,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:263,VIA,,88.47,140.13844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:264,VIA,,98.329715,135.024685,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:265,VIA,,133.003905,13.551476,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:266,VIA,,95.9,151.35,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:267,VIA,,81.8,162.5,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:268,VIA,,0.957439,166.115613,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:269,VIA,,271.644295,51.845227,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:270,VIA,,145.65,107.20744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:271,VIA,,101.16476,160.84013,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:272,VIA,,237.0,162.975,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:273,VIA,,87.25,155.35,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:274,VIA,,147.3,78.078886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:275,VIA,,70.725878,128.917448,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:276,VIA,,56.737637,117.691562,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:277,VIA,,94.0,134.33844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:278,VIA,,111.525597,165.995031,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:279,VIA,,199.69,90.70844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:280,VIA,,271.644295,8.242634,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:281,VIA,,148.658896,105.145685,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:282,VIA,,233.21,61.39844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:283,VIA,,168.824209,57.288823,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:284,VIA,,188.414823,163.411565,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:285,VIA,,53.159578,107.099308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:286,VIA,,210.600329,97.852157,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:287,VIA,,99.339267,160.528549,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:288,VIA,,80.037301,152.682603,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:289,VIA,,89.725499,149.808159,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:290,VIA,,103.9,147.58844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:291,VIA,,202.859578,89.719308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:292,VIA,,101.456635,152.897578,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:293,VIA,,112.01782,158.516558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:294,VIA,,201.015167,160.623834,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:295,VIA,,84.085946,158.276737,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:296,VIA,,107.7,158.6,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:297,VIA,,168.309578,58.119308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:298,VIA,,165.951025,156.592043,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:299,VIA,,168.006397,121.190007,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:300,VIA,,83.459578,77.749308,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:301,VIA,,80.510322,146.055308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:302,VIA,,98.87,153.74,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:303,VIA,,101.376924,153.925469,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:304,VIA,,229.941814,160.486563,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:305,VIA,,56.309578,106.319308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:306,VIA,,94.296807,135.423331,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:307,VIA,,181.091869,101.622043,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:308,VIA,,150.29,57.19844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:309,VIA,,108.879734,147.074539,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:310,VIA,,228.65,85.30844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:311,VIA,,271.644295,30.04393,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:312,VIA,,129.15,15.457435,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:313,VIA,,271.644295,117.249115,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:314,VIA,,169.793209,138.945105,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:315,VIA,,16.009578,80.049308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:316,VIA,,70.525076,143.370811,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:317,VIA,,98.75,150.2,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:318,VIA,,230.130911,159.712437,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:319,VIA,,173.559578,89.619308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:320,VIA,,93.65,140.75,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:321,VIA,,19.159578,79.019308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:322,VIA,,104.703545,155.808055,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:323,VIA,,230.644594,83.028445,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:324,VIA,,56.859578,89.099308,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:325,VIA,,177.387195,160.309002,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:326,VIA,,103.95,159.416558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:327,VIA,,148.018225,51.551965,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:328,VIA,,27.764578,89.219308,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:329,VIA,,231.0,162.975,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:330,VIA,,168.95,139.58844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:331,VIA,,197.15,58.128886,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:332,VIA,,92.375839,127.842043,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:333,VIA,,59.181044,0.955989,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:334,VIA,,83.814715,138.78844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:335,VIA,,106.85,131.93844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:336,VIA,,98.249997,144.98844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:337,VIA,,101.81494,137.18944,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:338,VIA,,100.9,136.28844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:339,VIA,,168.71,124.646696,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:340,VIA,,197.75,125.83844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:341,VIA,,226.7,126.93844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:342,VIA,,137.156065,136.087491,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:343,VIA,,165.25,124.096696,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:344,VIA,,192.0,125.196696,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:345,VIA,,221.2,126.38844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:346,VIA,,67.875,129.15744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:347,VIA,,102.26782,156.016558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:348,VIA,,104.61782,158.616558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:349,VIA,,202.744402,147.748586,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:350,VIA,,135.949849,109.255692,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:351,VIA,,155.85,138.40744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:352,VIA,,106.725,152.275,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:353,VIA,,157.70371,106.33844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:354,VIA,,45.164578,105.33844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:355,VIA,,164.614578,86.569308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:356,VIA,,158.769562,124.685859,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:357,VIA,,113.3,137.949,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:358,VIA,,105.01782,127.18594,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:359,VIA,,150.547619,47.002349,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:360,VIA,,58.145957,107.999308,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:361,VIA,,100.5,130.316558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:362,VIA,,41.25,131.83744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:363,VIA,,162.756991,128.711645,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:364,VIA,,167.21782,135.016558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:365,VIA,,153.945223,27.233663,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:366,VIA,,219.234179,93.327083,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:367,VIA,,147.316898,103.257676,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:368,VIA,,101.9,144.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:369,VIA,,95.403334,150.86196,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:370,VIA,,90.219999,153.6,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:371,VIA,,94.693767,146.885826,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:372,VIA,,104.57,150.1,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:373,VIA,,89.707799,145.342162,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:374,VIA,,88.513646,150.797005,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:375,VIA,,147.452131,145.735266,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:376,VIA,,63.95,132.23844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:377,VIA,,94.973749,143.062117,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:378,VIA,,80.05,145.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:379,VIA,,101.448597,146.93658,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:380,VIA,,93.634496,150.112705,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:381,VIA,,88.219999,151.4,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:382,VIA,,91.792844,149.960055,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:383,VIA,,125.792007,142.290168,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:384,VIA,,160.450201,131.657979,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:385,VIA,,105.388138,143.068805,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:386,VIA,,101.960832,143.302468,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:387,VIA,,85.45,151.4,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:388,VIA,,83.4,143.9,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:389,VIA,,89.550603,147.559635,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:390,VIA,,89.75,148.28844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:391,VIA,,94.128448,147.219635,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:392,VIA,,92.888328,152.171271,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:393,VIA,,92.25,145.23844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:394,VIA,,97.827817,147.7,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:395,VIA,,86.7,148.1,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:396,VIA,,94.35,147.9,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:397,VIA,,92.55,152.8,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:398,VIA,,92.55,153.4,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:399,VIA,,92.25,142.58844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:400,VIA,,80.95,134.63844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:401,VIA,,65.02,133.43844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:402,VIA,,26.3,162.87,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:403,VIA,,99.0,144.98844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:404,VIA,,102.564943,137.18944,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:405,VIA,,107.600003,131.93844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:406,VIA,,101.45,131.23844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:407,VIA,,85.45,145.48844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:408,VIA,,103.26782,129.40094,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:409,VIA,,100.45,125.166558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:410,VIA,,87.71782,143.516558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:411,VIA,,65.02,130.68744,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:412,VIA,,82.368033,134.570407,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:413,VIA,,87.25,142.322182,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:414,VIA,,26.3,165.41,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:415,VIA,,128.925003,144.21344,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:416,VIA,,128.925003,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:417,VIA,,67.95,127.13844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:418,VIA,,49.582647,110.127502,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:419,VIA,,43.569444,109.588832,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:420,VIA,,131.925015,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:421,VIA,,131.925015,144.18844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:422,VIA,,131.175012,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:423,VIA,,131.175012,144.18844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:424,VIA,,130.425009,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:425,VIA,,130.425009,144.18844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:426,VIA,,129.674589,144.188427,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:427,VIA,,129.675006,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:428,VIA,,128.175,150.05,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:429,VIA,,128.175066,144.223329,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:430,VIA,,89.966807,146.869713,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:431,VIA,,87.4,141.63844,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:432,VIA,,87.55,133.78844,0.35,0.35,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:433,VIA,,157.53342,132.444172,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:434,VIA,,138.798135,151.425969,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:435,VIA,,94.547089,146.197605,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:436,VIA,,94.742212,105.062632,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:437,VIA,,95.274016,111.833689,0.3003,0.3003,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:438,VIA,,161.51782,135.016558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:439,VIA,,165.71782,145.216558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:440,VIA,,168.71782,143.116558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:441,VIA,,163.06782,136.116558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:442,VIA,,105.21782,156.916558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:443,VIA,,106.66782,158.58218,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:444,VIA,,142.71782,149.916558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:445,VIA,,135.51782,147.616558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:446,VIA,,137.81782,147.216558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:447,VIA,,138.31782,150.816558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:448,VIA,,140.51782,150.816558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:449,VIA,,141.21782,153.616558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:450,VIA,,149.71782,159.516558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range
+VIA:451,VIA,,152.71782,153.516558,0.3,0.3,0,PTH,round,-0.08,0.13,0.075,Published through-hole/plated-slot size range

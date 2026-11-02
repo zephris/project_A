@@ -1,0 +1,72 @@
+[
+  {
+    "part": "TPS2553",
+    "url": "https://www.ti.com/lit/zip/slvm425b",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "615c68db56115e44fda07a3d871ea2d29f8890ebc26c4b90374291d003417f0e",
+    "files": [
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS-PSpiceFiles/ILIM/trans.sim",
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS-PSpiceFiles/ILIM/trans/trans.mrk",
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS-PSpiceFiles/ILIM/trans/trans.prb",
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS.DSN",
+      "SLVM425A/TPS2553_PSPICE_TRANS/tps2553_trans.lib",
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS.OLB",
+      "SLVM425A/TPS2553_PSPICE_TRANS/TPS2553_TRANS.opj"
+    ]
+  },
+  {
+    "part": "TLV73333P",
+    "url": "https://www.ti.com/lit/zip/sbvm471",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "6214cbf49c9a322b6f2d6f332b80f41355355616e80d74aac24c31da1b6ea109",
+    "files": [
+      "tlv73333p_trans.lib"
+    ]
+  },
+  {
+    "part": "SN74LV1T34_SPICE",
+    "url": "https://www.ti.com/lit/zip/sclm180",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "1a23c867462da2d33384df7d17a789eb85271898027cf533bd62f33394954b95",
+    "files": [
+      "SN74LV1T34.cir"
+    ]
+  },
+  {
+    "part": "SN74LV1T34_IBIS",
+    "url": "https://www.ti.com/lit/zip/sclm119",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "11dd28b62fd43e90c777bce1b87c27b9cb920062ff74c9be080dc27ab56476bf",
+    "files": [
+      "SN74LV1T34_IBIS/sn74lv1t34.ibs"
+    ]
+  },
+  {
+    "part": "USBLC6-2SC6",
+    "url": "https://www.st.com/resource/en/spice_model/usblc6-2sc6_pspice.zip",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "febc3b167afb1e7aaea24f6a9eba8601d7599cc2d4bd407cc4d5c50de48d06c4",
+    "archive_entries": 2
+  },
+  {
+    "part": "ESDA7P120-1U1M",
+    "url": "https://www.st.com/resource/en/spice_model/esda7p120_1u1m.zip",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "7cd5b71a0722c38b378c2b07d690ee74cd2da4e5c6c7e2edb36d27e0174a42fc",
+    "archive_entries": 2
+  },
+  {
+    "part": "Samsung static PSpice library",
+    "url": "https://weblib.samsungsem.com/resources/file/support/software_library/Samsung_PSPICE_Static_Library.zip",
+    "download_date": "2026-10-07",
+    "status": "downloaded",
+    "sha256": "d32ea6b27b8e2f97e9c1216b5d885995a3b9dbac282d3e2adf157de284408162",
+    "archive_entries": 9399
+  }
+]

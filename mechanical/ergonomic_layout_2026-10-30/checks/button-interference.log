@@ -1,0 +1,26 @@
+SW1 heat 7.7948 frame 5.2335 nearest {'ref': 'D1', 'distance_mm': 0.5168680000000023}
+SW2 heat 41.4233 frame 36.2812 nearest {'ref': 'D2', 'distance_mm': 0.7249999999999943}
+SW3 heat 17.3305 frame 36.2812 nearest {'ref': 'D3', 'distance_mm': 0.7249999999999943}
+SW4 heat 26.2147 frame 47.0949 nearest {'ref': 'D4', 'distance_mm': 0.7249999999999943}
+SW5 heat 67.0819 frame 88.4145 nearest {'ref': 'D5', 'distance_mm': 0.7249999999999943}
+SW6 heat 67.4147 frame 103.2539 nearest {'ref': 'D6', 'distance_mm': 0.7249950000000069}
+SW7 heat 73.1273 frame 127.9139 nearest {'ref': 'D7', 'distance_mm': 0.6149949999999933}
+SW8 heat 38.6677 frame 87.3741 nearest {'ref': 'D8', 'distance_mm': 0.7249999999999943}
+SW9 heat 45.2833 frame 107.7037 nearest {'ref': 'D9', 'distance_mm': 0.7249999999999943}
+SW10 heat 73.5204 frame 137.2106 nearest {'ref': 'D10', 'distance_mm': 0.7249999999999943}
+SW11 heat 105.5189 frame 169.2586 nearest {'ref': 'D11', 'distance_mm': 0.7249999999999943}
+SW12 heat 11.3136 frame 75.0234 nearest {'ref': 'D12', 'distance_mm': 0.7249999999999943}
+SW13 heat 42.4167 frame 103.7322 nearest {'ref': 'D13', 'distance_mm': 0.6358680000000021}
+SW14 heat 74.4167 frame 135.5398 nearest {'ref': 'D14', 'distance_mm': 0.7249999999999943}
+SW15 heat 106.4167 frame 167.9367 nearest {'ref': 'D15', 'distance_mm': 0.7249999999999943}
+SW16 heat 3.6897 frame 64.0153 nearest {'ref': 'D16', 'distance_mm': 0.7249999999999943}
+OPSW1 heat 33.7322 frame 94.2322 nearest {'ref': 'OPSW2', 'distance_mm': 4.0}
+OPSW2 heat 43.7322 frame 104.2322 nearest {'ref': 'OPSW1', 'distance_mm': 4.0}
+OPSW3 heat 53.7322 frame 114.2322 nearest {'ref': 'OPSW2', 'distance_mm': 4.0}
+OPSW4 heat 66.7322 frame 127.2322 nearest {'ref': 'OPSW5', 'distance_mm': 4.000000000000028}
+OPSW5 heat 76.7322 frame 137.2322 nearest {'ref': 'OPSW6', 'distance_mm': 4.0}
+OPSW6 heat 86.7322 frame 147.2322 nearest {'ref': 'OPSW5', 'distance_mm': 4.0}
+SW19 heat 5.386 frame 2.9471 nearest {'ref': 'SW20', 'distance_mm': 0.44899999999999807}
+SW20 heat 5.138 frame 7.3454 nearest {'ref': 'SW19', 'distance_mm': 0.44899999999999807}
+Modeled body hits: []
+Keycap plan guard concerns: [{'button': 'SW16', 'obstacle': 'heatsink', 'kind': '24mm_keycap_XY_projection_overlap', 'guard_overlap_mm3': 19.349087478952555, 'required_keycap_bottom_z_for_clearance_mm': 7.0918001, 'actual_keycap_collision_confirmed': False}]

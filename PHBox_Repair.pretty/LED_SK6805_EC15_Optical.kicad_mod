@@ -221,4 +221,6 @@
 		(uuid "1426a642-f01f-4f51-8ab6-50c4b49b98ba")
 	)
 	(embedded_fonts no)
+
+		(model "${KIPRJMOD}/3dmodels/SK6805_EC15_EasyEDA.step" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

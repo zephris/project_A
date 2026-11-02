@@ -1,0 +1,9 @@
+{
+  "U1": "retain nine thermal holes, require epoxy fill and copper cap",
+  "U4": "retain copper and CPL, require ST Figure32 stencil aperture adjustment",
+  "lateral_zero_margins": "no copper or placement change",
+  "model_only_board_diff_verified": true,
+  "model_visual_registration_checked": true,
+  "no_vip_alternative_adopted": false,
+  "fresh_server_DFM_completed": false
+}

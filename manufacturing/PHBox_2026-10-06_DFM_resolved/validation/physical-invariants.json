@@ -1,0 +1,56 @@
+{
+  "footprint_origins_angles_unchanged": true,
+  "copper_pads_nets_drills_unchanged": true,
+  "tracks_unchanged": true,
+  "cpl_unchanged": true,
+  "drc_counts": {
+    "lib_footprint_issues": 70,
+    "silk_overlap": 2
+  },
+  "unconnected_count": 0,
+  "schematic_parity_count": 0,
+  "U4_paste_apertures": [
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    },
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    },
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    },
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    },
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    },
+    {
+      "size": [
+        0.664,
+        0.19
+      ],
+      "angle": 90.0
+    }
+  ]
+}

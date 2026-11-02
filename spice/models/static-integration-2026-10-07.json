@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-07",
+  "qualification": "execution verified; bias/temperature/hardware qualification pending",
+  "models": [
+    {
+      "file": "spice/models/vendor/Samsung/CL05A105KA5NQN_Precise_DC0V_25degC_P.lib",
+      "sha256": "ada0e7408c702637ed4913efdf31bdae41ac57db2065622f974176b8cd155ac9"
+    },
+    {
+      "file": "spice/models/vendor/Samsung/CL05A475MP5NRN_Precise_DC0V_25degC_P.lib",
+      "sha256": "f9c10659bc331bb15de23a92eb0997f2082ab91bc3b6c5e5a680cd3e4d0d6e4c"
+    },
+    {
+      "file": "spice/models/vendor/Samsung/CL05B104KO5NNN_Precise_DC0V_25degC_P.lib",
+      "sha256": "6ca2f2d73f42714c0feb4ebdd3d3097b60ac3d0f612a46bfa22a45c4b6f3ee3d"
+    },
+    {
+      "file": "spice/models/vendor/Samsung/CL10B105KA8NNN_Precise_DC0V_25degC_P.lib",
+      "sha256": "1213c5b11a3458b18009accb11879ecd550ab59492c6b859208c6e669a60480f"
+    },
+    {
+      "file": "spice/models/adapters/T520B107M010ATE070_5V_25C_100kHz.lib",
+      "sha256": "deee102f55dc60578413b3d154de4a5441ebe4906d0ea834e83ac6173f59a5b9"
+    }
+  ],
+  "C41_candidate": {
+    "MPN": "CL10B105KA8NNNC",
+    "LCSC": "C29936",
+    "manufacturer": "Samsung Electro-Mechanics",
+    "value": "1uF/25V/X7R/10%",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "nets": [
+      "+3V3",
+      "GND"
+    ],
+    "source": "https://jlcpcb.com/partdetail/30690-CL10B105KA8NNNC/C29936",
+    "status": "Selected candidate; PCB/schematic metadata and manufacturing packages not changed"
+  },
+  "execution_count": 14,
+  "new_results": [
+    {
+      "case": "vendor_cap_4u7",
+      "corner": 0,
+      "parameters": {},
+      "acceptance": "pending",
+      "execution": "ok",
+      "returncode": 0,
+      "measurements": {
+        "z_100k": 0.545171,
+        "z_1meg": 0.0541563,
+        "z_min": 0.00609081
+      },
+      "missing_measurements": []
+    },
+    {
+      "case": "vendor_cap_1u",
+      "corner": 0,
+      "parameters": {},
+      "acceptance": "pending",
+      "execution": "ok",
+      "returncode": 0,
+      "measurements": {
+        "z_100k": 2.01408,
+        "z_1meg": 0.205716,
+        "z_min": 0.0102855
+      },
+      "missing_measurements": []
+    },
+    {
+      "case": "vendor_cap_c41",
+      "corner": 0,
+      "parameters": {},
+      "acceptance": "pending",
+      "execution": "ok",
+      "returncode": 0,
+      "measurements": {
+        "z_100k": 2.03737,
+        "z_1meg": 0.207877,
+        "z_min": 0.0109029
+      },
+      "missing_measurements": []
+    },
+    {
+      "case": "vendor_kemet_bank",
+      "corner": 0,
+      "parameters": {},
+      "acceptance": "pending",
+      "execution": "ok",
+      "returncode": 0,
+      "measurements": {
+        "z_100k": 0.0139134,
+        "z_min": 0.00854769
+      },
+      "missing_measurements": []
+    }
+  ]
+}

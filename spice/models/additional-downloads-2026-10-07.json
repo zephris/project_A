@@ -1,0 +1,22 @@
+[
+  {
+    "file": "spice\\models\\vendor\\Samsung\\CL05A105KA5NQN_Precise_DC0V_25degC_P.lib",
+    "sha256": "ada0e7408c702637ed4913efdf31bdae41ac57db2065622f974176b8cd155ac9",
+    "status": "downloaded; not integrated into board benches"
+  },
+  {
+    "file": "spice\\models\\vendor\\Samsung\\CL05A475MP5NRN_Precise_DC0V_25degC_P.lib",
+    "sha256": "f9c10659bc331bb15de23a92eb0997f2082ab91bc3b6c5e5a680cd3e4d0d6e4c",
+    "status": "downloaded; not integrated into board benches"
+  },
+  {
+    "file": "spice\\models\\vendor\\KEMET\\T520B107M010ATE070_5V_25C_100kHz.CKT",
+    "sha256": "af4fbee983b1eef6f3df736e7816310ca7ba81104093d6eb759ae364f134c3e2",
+    "status": "downloaded; not integrated into board benches"
+  },
+  {
+    "file": "spice\\models\\adapters\\T520B107M010ATE070_5V_25C_100kHz.lib",
+    "sha256": "deee102f55dc60578413b3d154de4a5441ebe4906d0ea834e83ac6173f59a5b9",
+    "status": "downloaded; not integrated into board benches"
+  }
+]

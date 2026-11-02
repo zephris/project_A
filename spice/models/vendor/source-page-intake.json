@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ST_ESDA",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "ST_USBLC",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "Winbond",
+    "links": [
+      "/hq/support/technical-support/?__locale=en&from=docdl&reqSrc=general&partNo=W25Q128JVSIQ&line=/product/code-storage-flash/&family=/product/code-storage-flash/qspi-nor/&dt=/.categories/resources/spice-model/"
+    ]
+  }
+]

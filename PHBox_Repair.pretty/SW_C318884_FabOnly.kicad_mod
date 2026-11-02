@@ -120,4 +120,6 @@
 		(uuid "b85227ab-09d5-4426-adee-a8a56eb2b528")
 	)
 	(embedded_fonts no)
+
+		(model "${KIPRJMOD}/3dmodels/SW_TS-1187A-B-A-B_C318884.step" (offset (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

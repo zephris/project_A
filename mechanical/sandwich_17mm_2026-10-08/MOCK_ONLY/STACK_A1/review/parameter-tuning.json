@@ -1,0 +1,267 @@
+{
+  "baseline": {
+    "filament_change_times": 160,
+    "filaments": [
+      {
+        "filament_id": "GFL99",
+        "id": 1,
+        "main_used_g": 653.3734130859375,
+        "total_used_g": 763.4606323242188
+      },
+      {
+        "filament_id": "GFG99",
+        "id": 2,
+        "main_used_g": 103.28985595703125,
+        "total_used_g": 195.44357299804688
+      }
+    ],
+    "generate_support_material_time": 9790,
+    "id": 1,
+    "infill_time": 4019,
+    "layer_filament_change": 0,
+    "main_predication": 187685.625,
+    "make_perimeters_time": 9609,
+    "obj_cached_cnt": 0,
+    "sliced_time": 50458,
+    "sliced_time_with_cache": 24439,
+    "total_predication": 234904.75,
+    "triangle_count": 120832,
+    "warning_message": ""
+  },
+  "candidates": {
+    "balanced": {
+      "error_string": "Success.",
+      "export_time": 2850,
+      "layer_height": 0.10000000149011612,
+      "plate_index": 0,
+      "prepare_time": 565,
+      "return_code": 0,
+      "sparse_infill_density": 10.0,
+      "upward_compatible_machine": [
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+      ],
+      "wall_loops": 2,
+      "plate": {
+        "filament_change_times": 160,
+        "filaments": [
+          {
+            "filament_id": "GFA00",
+            "id": 1,
+            "main_used_g": 528.6099243164062,
+            "total_used_g": 636.327880859375
+          },
+          {
+            "filament_id": "GFG99",
+            "id": 2,
+            "main_used_g": 102.2027587890625,
+            "total_used_g": 194.40977478027344
+          }
+        ],
+        "generate_support_material_time": 6835,
+        "id": 1,
+        "infill_time": 2780,
+        "layer_filament_change": 0,
+        "main_predication": 171838.859375,
+        "make_perimeters_time": 6405,
+        "obj_cached_cnt": 0,
+        "sliced_time": 32078,
+        "sliced_time_with_cache": 14609,
+        "total_predication": 216924.875,
+        "triangle_count": 120832,
+        "warning_message": ""
+      },
+      "feature_times_seconds": {
+        "Bottom surface": 1963.2760009765625,
+        "Bridge": 19169.173828125,
+        "Brim": 25.068368911743164,
+        "Custom": 386.40985107421875,
+        "Flush": 23591.45703125,
+        "Gap infill": 75.2538070678711,
+        "Inner wall": 7701.18408203125,
+        "Internal solid infill": 13007.4052734375,
+        "Outer wall": 10369.591796875,
+        "Prime tower": 21100.2109375,
+        "Sparse infill": 4980.79638671875,
+        "Support": 18171.54296875,
+        "Support interface": 43514.0,
+        "Support transition": 33181.81640625,
+        "Top surface": 7894.322265625,
+        "Travel": 11592.0380859375,
+        "Undefined": 11574.984375
+      }
+    },
+    "hybrid": {
+      "error_string": "Success.",
+      "export_time": 3042,
+      "layer_height": 0.10000000149011612,
+      "plate_index": 0,
+      "prepare_time": 496,
+      "return_code": 0,
+      "sparse_infill_density": 10.0,
+      "upward_compatible_machine": [
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+      ],
+      "wall_loops": 2,
+      "plate": {
+        "filament_change_times": 160,
+        "filaments": [
+          {
+            "filament_id": "GFA00",
+            "id": 1,
+            "main_used_g": 527.7705078125,
+            "total_used_g": 635.40234375
+          },
+          {
+            "filament_id": "GFG99",
+            "id": 2,
+            "main_used_g": 102.2027587890625,
+            "total_used_g": 194.40977478027344
+          }
+        ],
+        "generate_support_material_time": 6398,
+        "id": 1,
+        "infill_time": 2584,
+        "layer_filament_change": 0,
+        "main_predication": 170133.953125,
+        "make_perimeters_time": 5981,
+        "obj_cached_cnt": 0,
+        "sliced_time": 30986,
+        "sliced_time_with_cache": 14666,
+        "total_predication": 215027.609375,
+        "triangle_count": 120832,
+        "warning_message": ""
+      },
+      "feature_times_seconds": {
+        "Bottom surface": 1963.2760009765625,
+        "Bridge": 19169.0078125,
+        "Brim": 25.068368911743164,
+        "Custom": 386.40985107421875,
+        "Flush": 23591.45703125,
+        "Gap infill": 75.61532592773438,
+        "Inner wall": 7507.49169921875,
+        "Internal solid infill": 13003.8310546875,
+        "Outer wall": 10063.806640625,
+        "Prime tower": 20907.84375,
+        "Sparse infill": 4768.6806640625,
+        "Support": 17461.76953125,
+        "Support interface": 43514.30078125,
+        "Support transition": 33181.81640625,
+        "Top surface": 7893.58154296875,
+        "Travel": 11313.369140625,
+        "Undefined": 11296.3154296875
+      },
+      "ranges": {
+        "coarse_0p2_ranges_mm": [
+          [
+            17.1,
+            18.5
+          ],
+          [
+            33.0,
+            33.6
+          ],
+          [
+            35.5,
+            36.3
+          ],
+          [
+            37.7,
+            39.3
+          ],
+          [
+            40.1,
+            42.1
+          ],
+          [
+            42.8,
+            44.0
+          ]
+        ],
+        "protected_surface_band_halfwidth_mm": 0.3
+      }
+    },
+    "interface80": {
+      "error_string": "Success.",
+      "export_time": 3262,
+      "layer_height": 0.10000000149011612,
+      "plate_index": 0,
+      "prepare_time": 694,
+      "return_code": 0,
+      "sparse_infill_density": 10.0,
+      "upward_compatible_machine": [
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+      ],
+      "wall_loops": 2,
+      "plate": {
+        "filament_change_times": 160,
+        "filaments": [
+          {
+            "filament_id": "GFA00",
+            "id": 1,
+            "main_used_g": 528.6099243164062,
+            "total_used_g": 636.327880859375
+          },
+          {
+            "filament_id": "GFG99",
+            "id": 2,
+            "main_used_g": 102.2027587890625,
+            "total_used_g": 194.40977478027344
+          }
+        ],
+        "generate_support_material_time": 7379,
+        "id": 1,
+        "infill_time": 3105,
+        "layer_filament_change": 0,
+        "main_predication": 156062.578125,
+        "make_perimeters_time": 7973,
+        "obj_cached_cnt": 0,
+        "sliced_time": 37841,
+        "sliced_time_with_cache": 17669,
+        "total_predication": 200184.046875,
+        "triangle_count": 120832,
+        "warning_message": ""
+      },
+      "feature_times_seconds": {
+        "Bottom surface": 1963.2760009765625,
+        "Bridge": 19169.173828125,
+        "Brim": 25.068368911743164,
+        "Custom": 386.40985107421875,
+        "Flush": 23591.45703125,
+        "Gap infill": 75.2538070678711,
+        "Inner wall": 7701.18408203125,
+        "Internal solid infill": 13007.40625,
+        "Outer wall": 10369.591796875,
+        "Prime tower": 20135.65234375,
+        "Sparse infill": 4980.796875,
+        "Support": 18171.568359375,
+        "Support interface": 27794.724609375,
+        "Support transition": 33181.81640625,
+        "Top surface": 7894.322265625,
+        "Travel": 11493.6337890625,
+        "Undefined": 11476.580078125
+      }
+    }
+  },
+  "original_geometry_xml_sha256": "81a053269786e06911f47aef49d242f14d225b560a56dd9e639c5e28406d4600",
+  "selected": "interface80",
+  "layer_policy": "Uniform 0.10 mm; variable-height trial saved only 32 minutes before the interface-speed change.",
+  "PETG_grade": "Bambu, Basic/HF unknown; conservative shared interface profile, 245 C / 8 mm3/s."
+}

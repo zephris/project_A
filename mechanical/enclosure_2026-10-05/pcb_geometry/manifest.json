@@ -1,0 +1,69 @@
+{
+  "package": "PHBox nominal PCB geometry and tolerance reference 2026-10-05",
+  "files": {
+    "all-holes.csv": {
+      "bytes": 58572,
+      "sha256": "8e097e07b9ef98585b2661f2ad7b6d327419a1c2889a98f06f108847b4963e5a"
+    },
+    "geometry-and-tolerances.json": {
+      "bytes": 311836,
+      "sha256": "89f549a53875ade753f6498d4b0c752562d444f2ad1f9c7210c13d63eba151d3"
+    },
+    "mounting-and-screen-holes.csv": {
+      "bytes": 2162,
+      "sha256": "8d5c8cbb924e1f26ce29381f6316dde0f9d767e2aae2f294853fbb229d2f597f"
+    },
+    "native-geometry.json": {
+      "bytes": 160543,
+      "sha256": "92cf5f4255efdd2562f27ddb912e36f9ccc43af17484ae80376d16eda62d7c26"
+    },
+    "oem-choc-v1-rest-envelopes.step": {
+      "bytes": 272178,
+      "sha256": "de737416d62590ba4c2432401c6af422e15a2f889fe3e91d1e481a67d1c5215e"
+    },
+    "pcb-bare-nominal-all-holes.step": {
+      "bytes": 1941034,
+      "sha256": "37106919230937fb2bdee8a08a27dc1544d0d9d0a4bb5b3334a4e8ce547f4110"
+    },
+    "pcb-geometry-map.png": {
+      "bytes": 406904,
+      "sha256": "c3b50c9e26ebcbe3753848a9be61c21bad7364d0242fc934b06a5e1ea50b4ce1"
+    },
+    "pcb-geometry-map.svg": {
+      "bytes": 533719,
+      "sha256": "52a81c09d03d4a14af140289ce79d5c68b64455f659c92db15782c1350d60ed7"
+    },
+    "pcb-geometry-nominal-reference.dxf": {
+      "bytes": 87680,
+      "sha256": "d470476a5a10e8213fca50aa35344011c91579b890f4bb7331061cb277157d03"
+    },
+    "pcb-outline-only.dxf": {
+      "bytes": 18692,
+      "sha256": "8a2e2e30e6f102676693ef9f723c1906ea132aeccfbf995b32584e491bb5e288"
+    },
+    "README.md": {
+      "bytes": 8595,
+      "sha256": "0e0924144afa2136d4f53462351d70c32d93288f2f3265bf65642ebd5b871281"
+    },
+    "switch-centres-oem-choc-v1.csv": {
+      "bytes": 694,
+      "sha256": "7813211bc925749b0c24487cbcfe3cb37991e510c6d2947bd55b0ae0f49ce01f"
+    },
+    "validation.json": {
+      "bytes": 437,
+      "sha256": "8812ec117517aef2dec2af0a9223b21ffc69a55db83cb025ecfe4325fdfc7998"
+    },
+    "scripts/extract_native_geometry.py": {
+      "bytes": 1923,
+      "sha256": "da753776a0882b59b549a424a0cc455df111d212453bc0c80e52f48d5528ce1d"
+    },
+    "scripts/build_geometry_map.py": {
+      "bytes": 13864,
+      "sha256": "af9b5f4a9aa896508b8d92ed2c96fa6724bc989820f3b847eb5f9373ed0e11b7"
+    },
+    "references/Kailh_CPG135001D01-16.pdf": {
+      "bytes": 810354,
+      "sha256": "c5d29e77f2068863ce5aa08184a08599c493b5255cf07201e7473256d7f4f661"
+    }
+  }
+}

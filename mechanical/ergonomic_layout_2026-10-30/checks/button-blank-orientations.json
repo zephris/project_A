@@ -1,0 +1,51 @@
+{
+  "file": "mechanical/ergonomic_layout_2026-10-30/STL/button_blank.stl",
+  "scale": {
+    "bbox_diagonal_mm": 36.7511,
+    "units_suspect": false,
+    "note": "bbox consistent with millimetre units"
+  },
+  "orientations": {
+    "angle_limit_used_deg": 45.0,
+    "pct_denominator": "total surface area",
+    "candidates": [
+      {
+        "orientation": "current_plus_z",
+        "support_area_mm2": 46.13,
+        "support_area_pct": 3.2,
+        "build_height_mm": 4.4
+      },
+      {
+        "orientation": "flip_180_x",
+        "support_area_mm2": 522.27,
+        "support_area_pct": 36.8,
+        "build_height_mm": 4.4
+      },
+      {
+        "orientation": "rot_plus_90_x",
+        "support_area_mm2": 87.07,
+        "support_area_pct": 6.1,
+        "build_height_mm": 25.8
+      },
+      {
+        "orientation": "rot_minus_90_x",
+        "support_area_mm2": 87.06,
+        "support_area_pct": 6.1,
+        "build_height_mm": 25.8
+      },
+      {
+        "orientation": "rot_plus_90_y",
+        "support_area_mm2": 46.18,
+        "support_area_pct": 3.3,
+        "build_height_mm": 25.8
+      },
+      {
+        "orientation": "rot_minus_90_y",
+        "support_area_mm2": 45.73,
+        "support_area_pct": 3.2,
+        "build_height_mm": 25.8
+      }
+    ]
+  },
+  "partial": false
+}

@@ -1,0 +1,7 @@
+PHBox rgb_buffer planning model
+.include "circuit.inc"
+.tran 1n 5u
+.meas tran led_high FIND v(led_in) AT=1.3u
+.meas tran led_low FIND v(led_in) AT=1.8u
+.meas tran rise_time TRIG v(led_in) VAL=0.5 RISE=1 TARG v(led_in) VAL=4.5 RISE=1
+.end

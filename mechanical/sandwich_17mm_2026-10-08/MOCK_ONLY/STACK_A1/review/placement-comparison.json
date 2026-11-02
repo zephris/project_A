@@ -1,0 +1,59 @@
+{
+  "two_columns_before_optimization": {
+    "main_predication": 233167.421875,
+    "total_predication": 294280.125,
+    "filaments": [
+      {
+        "filament_id": "GFL99",
+        "id": 1,
+        "main_used_g": 730.2005615234375,
+        "total_used_g": 890.2025146484375
+      },
+      {
+        "filament_id": "GFG99",
+        "id": 2,
+        "main_used_g": 159.96766662597656,
+        "total_used_g": 291.0538635253906
+      }
+    ],
+    "filament_change_times": 226
+  },
+  "three_across_global_tiers": {
+    "main_predication": 229939.125,
+    "total_predication": 293983.4375,
+    "filaments": [
+      {
+        "filament_id": "GFL99",
+        "id": 1,
+        "main_used_g": 732.850830078125,
+        "total_used_g": 898.8460083007812
+      },
+      {
+        "filament_id": "GFG99",
+        "id": 2,
+        "main_used_g": 154.7964324951172,
+        "total_used_g": 299.9496154785156
+      }
+    ],
+    "filament_change_times": 252
+  },
+  "optimized_independent_stacks": {
+    "main_predication": 156062.578125,
+    "total_predication": 200184.046875,
+    "filaments": [
+      {
+        "filament_id": "GFA00",
+        "id": 1,
+        "main_used_g": 528.6099243164062,
+        "total_used_g": 636.327880859375
+      },
+      {
+        "filament_id": "GFG99",
+        "id": 2,
+        "main_used_g": 102.2027587890625,
+        "total_used_g": 194.40977478027344
+      }
+    ],
+    "filament_change_times": 160
+  }
+}

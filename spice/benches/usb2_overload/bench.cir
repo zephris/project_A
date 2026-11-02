@@ -1,0 +1,10 @@
+PHBox usb2_overload planning model
+.include "circuit.inc"
+.tran 10u 100m
+.meas tran host_fault_min MIN v(host) FROM=40m TO=65m
+.meas tran host_recovered FIND v(host) AT=95m
+.meas tran switch_peak MAX i(Vsense) FROM=40m TO=65m
+.meas tran limit_current FIND i(Vsense) AT=60m
+.meas tran fault_asserted FIND v(fault) AT=60m
+.meas tran fault_released FIND v(fault) AT=95m
+.end

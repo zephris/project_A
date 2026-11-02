@@ -1,0 +1,866 @@
+{
+  "removed": [
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_resolved/reference/assembly-note.txt",
+      "files": 1,
+      "bytes": 585
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_current_models_JLCDFM",
+      "files": 245,
+      "bytes": 25491070
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_current_models_JLCDFM.zip",
+      "files": 1,
+      "bytes": 7587352
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_current_models_JLCDFM.zip.sha256",
+      "files": 1,
+      "bytes": 110
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_HS13L03W2C01",
+      "files": 94,
+      "bytes": 23051170
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_HS13L03W2C01.zip",
+      "files": 1,
+      "bytes": 8625116
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_HS13L03W2C01.zip.sha256",
+      "files": 1,
+      "bytes": 101
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_R16-220k",
+      "files": 72,
+      "bytes": 18197391
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_R16-220k.zip",
+      "files": 1,
+      "bytes": 5646172
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_R16-220k.zip.sha256",
+      "files": 1,
+      "bytes": 97
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_USB_A_SMD_edge_JLCDFM",
+      "files": 266,
+      "bytes": 24933884
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_USB_A_SMD_edge_JLCDFM.zip",
+      "files": 1,
+      "bytes": 8273937
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-05_USB_A_SMD_edge_JLCDFM.zip.sha256",
+      "files": 1,
+      "bytes": 110
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_assembly_land_fixes",
+      "files": 62,
+      "bytes": 12730815
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_assembly_land_fixes.zip",
+      "files": 1,
+      "bytes": 4085288
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_CPL_orientation_review",
+      "files": 36,
+      "bytes": 3261952
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_CPL_origin_review",
+      "files": 4,
+      "bytes": 13860
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_fixes",
+      "files": 59,
+      "bytes": 15764654
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_fixes.zip",
+      "files": 1,
+      "bytes": 5427358
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_report",
+      "files": 3,
+      "bytes": 16078
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_JLCDFM_visual_review.zip",
+      "files": 1,
+      "bytes": 2322059
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_silkscreen_restored",
+      "files": 79,
+      "bytes": 14068598
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_silkscreen_restored.zip",
+      "files": 1,
+      "bytes": 5164005
+    },
+    {
+      "path": "order",
+      "files": 16,
+      "bytes": 5670636
+    },
+    {
+      "path": "production",
+      "files": 9,
+      "bytes": 4599014
+    },
+    {
+      "path": "Flatbox-rev8-backups",
+      "files": 29,
+      "bytes": 96011728
+    },
+    {
+      "path": "fp-E6F7.tmp",
+      "files": 1,
+      "bytes": 3174400
+    },
+    {
+      "path": "fp-info-cache",
+      "files": 1,
+      "bytes": 4253537
+    },
+    {
+      "path": "Flatbox-rev8-top.pos",
+      "files": 1,
+      "bytes": 13250
+    },
+    {
+      "path": "Flatbox-rev8-bottom.pos",
+      "files": 1,
+      "bytes": 425
+    },
+    {
+      "path": "Flatbox-rev8.csv",
+      "files": 1,
+      "bytes": 2345
+    },
+    {
+      "path": "Flatbox-rev8.d356",
+      "files": 1,
+      "bytes": 47205
+    },
+    {
+      "path": "report.txt",
+      "files": 1,
+      "bytes": 951
+    },
+    {
+      "path": "stage2_work/assembly_process_2026-10-06",
+      "files": 21,
+      "bytes": 12879507
+    },
+    {
+      "path": "stage2_work/bridge_simplification_2026-10-03",
+      "files": 1,
+      "bytes": 3634
+    },
+    {
+      "path": "stage2_work/dfm-report-preview-1.png",
+      "files": 1,
+      "bytes": 189136
+    },
+    {
+      "path": "stage2_work/dfm-report-preview-2.png",
+      "files": 1,
+      "bytes": 90457
+    },
+    {
+      "path": "stage2_work/dfm-report-preview-3.png",
+      "files": 1,
+      "bytes": 66746
+    },
+    {
+      "path": "stage2_work/dfm_fixes_2026-10-06",
+      "files": 36,
+      "bytes": 13536935
+    },
+    {
+      "path": "stage2_work/direct_power_usb_2026-10-03",
+      "files": 1,
+      "bytes": 3485
+    },
+    {
+      "path": "stage2_work/display-circuit.png",
+      "files": 1,
+      "bytes": 142943
+    },
+    {
+      "path": "stage2_work/display-drawing.png",
+      "files": 1,
+      "bytes": 155495
+    },
+    {
+      "path": "stage2_work/export_dfm_report.py",
+      "files": 1,
+      "bytes": 4849
+    },
+    {
+      "path": "stage2_work/fill_via_cleanup_2026-10-03",
+      "files": 1,
+      "bytes": 6016
+    },
+    {
+      "path": "stage2_work/finalize_current_models_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 2831
+    },
+    {
+      "path": "stage2_work/finalize_display_2026-10-05.py",
+      "files": 1,
+      "bytes": 2814
+    },
+    {
+      "path": "stage2_work/finalize_manufacturing_2026-10-05.py",
+      "files": 1,
+      "bytes": 2763
+    },
+    {
+      "path": "stage2_work/finalize_usb_smd_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 2831
+    },
+    {
+      "path": "stage2_work/jlcdfm_online_2026-10-05",
+      "files": 43,
+      "bytes": 1294800
+    },
+    {
+      "path": "stage2_work/lx_usb_c42_2026-10-04",
+      "files": 7,
+      "bytes": 388349
+    },
+    {
+      "path": "stage2_work/main_merge_2026-10-03",
+      "files": 1,
+      "bytes": 3482
+    },
+    {
+      "path": "stage2_work/option_button_models_2026-10-05",
+      "files": 7,
+      "bytes": 5660905
+    },
+    {
+      "path": "stage2_work/package_current_models_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 6351
+    },
+    {
+      "path": "stage2_work/package_display_2026-10-05.py",
+      "files": 1,
+      "bytes": 5312
+    },
+    {
+      "path": "stage2_work/package_manufacturing_2026-10-05.py",
+      "files": 1,
+      "bytes": 5175
+    },
+    {
+      "path": "stage2_work/package_usb_smd_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 6351
+    },
+    {
+      "path": "stage2_work/prepare_current_models_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 7883
+    },
+    {
+      "path": "stage2_work/prepare_display_2026-10-05.py",
+      "files": 1,
+      "bytes": 7662
+    },
+    {
+      "path": "stage2_work/prepare_manufacturing_2026-10-05.py",
+      "files": 1,
+      "bytes": 7538
+    },
+    {
+      "path": "stage2_work/prepare_usb_smd_jlcdfm_2026-10-05.py",
+      "files": 1,
+      "bytes": 7883
+    },
+    {
+      "path": "stage2_work/render_display_gerbers.js",
+      "files": 1,
+      "bytes": 590
+    },
+    {
+      "path": "stage2_work/render_jlcdfm_previews.cjs",
+      "files": 1,
+      "bytes": 546
+    },
+    {
+      "path": "stage2_work/silkscreen_restore_2026-10-06",
+      "files": 11,
+      "bytes": 9033957
+    },
+    {
+      "path": "stage2_work/u1_u4_investigation_2026-10-06",
+      "files": 39,
+      "bytes": 11210965
+    },
+    {
+      "path": "stage2_work/usb2_enable_2026-10-05",
+      "files": 11,
+      "bytes": 4491842
+    },
+    {
+      "path": "stage2_work/usb_a_model_2026-10-05",
+      "files": 18,
+      "bytes": 7905408
+    },
+    {
+      "path": "stage2_work/usb_smd_2026-10-05",
+      "files": 43,
+      "bytes": 34466970
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/alternative-display-recommendations.md",
+      "files": 1,
+      "bytes": 12490
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/before",
+      "files": 3,
+      "bytes": 4235696
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/board-3d.png",
+      "files": 1,
+      "bytes": 142677
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C284855-datasheet.pdf",
+      "files": 1,
+      "bytes": 278879
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C284855-inventory.json",
+      "files": 1,
+      "bytes": 5275
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C5248080-datasheet.pdf",
+      "files": 1,
+      "bytes": 1839100
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C5248080-inventory.json",
+      "files": 1,
+      "bytes": 6457
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C5248080-mechanical.png",
+      "files": 1,
+      "bytes": 233478
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C5248081-inventory.json",
+      "files": 1,
+      "bytes": 6732
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C7465997-datasheet.pdf",
+      "files": 1,
+      "bytes": 1832997
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C7465997-easyeda.json",
+      "files": 1,
+      "bytes": 15072
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C7465997-inventory.json",
+      "files": 1,
+      "bytes": 6334
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C7465997-mechanical.png",
+      "files": 1,
+      "bytes": 325448
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C9900045120-inventory.json",
+      "files": 1,
+      "bytes": 3123
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/C9900104299-inventory.json",
+      "files": 1,
+      "bytes": 3111
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/candidate.kicad_pcb",
+      "files": 1,
+      "bytes": 3704054
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/candidate.kicad_prl",
+      "files": 1,
+      "bytes": 2296
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/candidate.kicad_pro",
+      "files": 1,
+      "bytes": 9603
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/drc.json",
+      "files": 1,
+      "bytes": 1105
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/erc.json",
+      "files": 1,
+      "bytes": 1021
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-board-3d.png",
+      "files": 1,
+      "bytes": 142427
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-candidate.kicad_pcb",
+      "files": 1,
+      "bytes": 3734065
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-candidate.kicad_prl",
+      "files": 1,
+      "bytes": 2301
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-candidate.kicad_pro",
+      "files": 1,
+      "bytes": 9608
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-drc.json",
+      "files": 1,
+      "bytes": 1105
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-erc.json",
+      "files": 1,
+      "bytes": 1021
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/HS13-implementation.md",
+      "files": 1,
+      "bytes": 5034
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs13-validation-summary.json",
+      "files": 1,
+      "bytes": 904
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/hs91-candidate",
+      "files": 3,
+      "bytes": 4067574
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/jlcpcb-availability.json",
+      "files": 1,
+      "bytes": 6730
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/OLED-TH_L35.4-W33.5_HS13L03W2C01.obj",
+      "files": 1,
+      "bytes": 224812
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/OLED-TH_L35.4-W33.5_HS13L03W2C01.step",
+      "files": 1,
+      "bytes": 899187
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/prepare_hs13_release.py",
+      "files": 1,
+      "bytes": 4919
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/prepare_release_scripts.py",
+      "files": 1,
+      "bytes": 1480
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/README.md",
+      "files": 1,
+      "bytes": 5355
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/render_release.py",
+      "files": 1,
+      "bytes": 553
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/revise_board.py",
+      "files": 1,
+      "bytes": 3890
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/revise_hs13.py",
+      "files": 1,
+      "bytes": 3211
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/revise_hs13_board.py",
+      "files": 1,
+      "bytes": 3806
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/validation-summary.json",
+      "files": 1,
+      "bytes": 676
+    },
+    {
+      "path": "stage2_work/display_2026-10-05/__pycache__",
+      "files": 3,
+      "bytes": 19575
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/audit.py",
+      "files": 1,
+      "bytes": 2269
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/before",
+      "files": 4,
+      "bytes": 4310494
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/build.py",
+      "files": 1,
+      "bytes": 6067
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/clipped-silk",
+      "files": 3,
+      "bytes": 2473553
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/D21-model-shapes.txt",
+      "files": 1,
+      "bytes": 2483
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/D21-server-model.json",
+      "files": 1,
+      "bytes": 8953
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/drc.json",
+      "files": 1,
+      "bytes": 41242
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/F1-model-shapes.txt",
+      "files": 1,
+      "bytes": 3145
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/F1-server-model.json",
+      "files": 1,
+      "bytes": 9531
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/native-geometry.json",
+      "files": 1,
+      "bytes": 50526
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/package.py",
+      "files": 1,
+      "bytes": 1192
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/precision.py",
+      "files": 1,
+      "bytes": 1632
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/signed-lead-margins.json",
+      "files": 1,
+      "bytes": 41609
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/silk-clipping-only.kicad_prl",
+      "files": 1,
+      "bytes": 2305
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/silk-pad-before.txt",
+      "files": 1,
+      "bytes": 17437
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/U1-model-shapes.txt",
+      "files": 1,
+      "bytes": 29783
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/U1-server-model.json",
+      "files": 1,
+      "bytes": 37631
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/U4-model-shapes.txt",
+      "files": 1,
+      "bytes": 3183
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/U4-server-model.json",
+      "files": 1,
+      "bytes": 9633
+    },
+    {
+      "path": "stage2_work/dfm_resolution_2026-10-06/validate.py",
+      "files": 1,
+      "bytes": 2272
+    },
+    {
+      "path": "spice/results/2026-10-05",
+      "files": 370,
+      "bytes": 103680586
+    },
+    {
+      "path": "spice/results/bypass_impedance",
+      "files": 4,
+      "bytes": 41742
+    },
+    {
+      "path": "spice/results/rail_3v3",
+      "files": 4,
+      "bytes": 803115
+    },
+    {
+      "path": "spice/results/report.json",
+      "files": 1,
+      "bytes": 2522
+    },
+    {
+      "path": "spice/results/shared_5v",
+      "files": 4,
+      "bytes": 2673879
+    },
+    {
+      "path": "spice/results/usb2_overload",
+      "files": 4,
+      "bytes": 967848
+    },
+    {
+      "path": "spice/results/usb2_startup",
+      "files": 4,
+      "bytes": 805448
+    },
+    {
+      "path": "spice/results/vendor-cap-2026-10-07",
+      "files": 6,
+      "bytes": 375214
+    },
+    {
+      "path": "spice/results/vendor-final-2026-10-07",
+      "files": 53,
+      "bytes": 97095205
+    },
+    {
+      "path": "spice/results/vendor-final-run.log",
+      "files": 1,
+      "bytes": 4327
+    },
+    {
+      "path": "spice/results/vendor-integrated-2026-10-07",
+      "files": 42,
+      "bytes": 96632449
+    },
+    {
+      "path": "spice/results/vendor-integrated-2026-10-07-d21",
+      "files": 6,
+      "bytes": 84915
+    },
+    {
+      "path": "spice/results/vendor-u7-final-corners.log",
+      "files": 1,
+      "bytes": 2972
+    },
+    {
+      "path": "spice/models/finalize_intake.py",
+      "files": 1,
+      "bytes": 857
+    },
+    {
+      "path": "spice/models/finalize_integration.py",
+      "files": 1,
+      "bytes": 3585
+    },
+    {
+      "path": "spice/models/fix_worker_paths.py",
+      "files": 1,
+      "bytes": 687
+    },
+    {
+      "path": "spice/models/fix_worker_quotes.py",
+      "files": 1,
+      "bytes": 241
+    },
+    {
+      "path": "spice/models/fix_worker_relative.py",
+      "files": 1,
+      "bytes": 492
+    },
+    {
+      "path": "spice/models/fix_worker_short_paths.py",
+      "files": 1,
+      "bytes": 769
+    },
+    {
+      "path": "spice/models/fix_worker_temp_path.py",
+      "files": 1,
+      "bytes": 717
+    },
+    {
+      "path": "spice/models/write_model_intake_report.py",
+      "files": 1,
+      "bytes": 10207
+    },
+    {
+      "path": "spice/finalize_model_audit.py",
+      "files": 1,
+      "bytes": 6976
+    },
+    {
+      "path": "spice/gp2040-source.zip",
+      "files": 1,
+      "bytes": 88313146
+    },
+    {
+      "path": "spice/gp2040-tree.json",
+      "files": 1,
+      "bytes": 465676
+    },
+    {
+      "path": "mechanical/PHBox_ChocV1_retention_candidate_2026-10-05.zip",
+      "files": 1,
+      "bytes": 993938
+    },
+    {
+      "path": "mechanical/PHBox_PCB_geometry_tolerances_2026-10-05.zip",
+      "files": 1,
+      "bytes": 1635723
+    },
+    {
+      "path": "mechanical/PHBox_USB_A_edge_mechanical_references_2026-10-05.zip",
+      "files": 1,
+      "bytes": 1264838
+    },
+    {
+      "path": "mechanical/PHBox_Z_geometry_reference_2026-10-05.zip",
+      "files": 1,
+      "bytes": 245990
+    },
+    {
+      "path": "mechanical/USB2-model-assessment-2026-10-05.md",
+      "files": 1,
+      "bytes": 5184
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_resolved/validation/prior-pcb-dfm-rerun.txt",
+      "files": 1,
+      "bytes": 8362
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_resolved/validation/prior-rerun-summary.md",
+      "files": 1,
+      "bytes": 2044
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_resolved/validation/prior-smt-dfm-rerun.txt",
+      "files": 1,
+      "bytes": 5119
+    },
+    {
+      "path": "manufacturing/PHBox_2026-10-06_DFM_resolved/validation/intermediate-smt-dfm-rerun.txt",
+      "files": 1,
+      "bytes": 5113
+    },
+    {
+      "path": "manufacturing/consolidate_project.py",
+      "files": 1,
+      "bytes": 5414
+    },
+    {
+      "path": "manufacturing/finalize_consolidation.py",
+      "files": 1,
+      "bytes": 5510
+    },
+    {
+      "path": "mechanical/step_export_2026-10-07/board-before-model-fix.kicad_pcb",
+      "files": 1,
+      "bytes": 3840700
+    },
+    {
+      "path": "mechanical/model_completion_2026-10-07/finalize_notes.py",
+      "files": 1,
+      "bytes": 498
+    },
+    {
+      "path": "mechanical/model_completion_2026-10-07/write_report.py",
+      "files": 1,
+      "bytes": 7200
+    },
+    {
+      "path": "mechanical/model_completion_2026-10-07/flatbox-tree.json",
+      "files": 1,
+      "bytes": 85401
+    },
+    {
+      "path": "mechanical/model_completion_2026-10-07/kiswitch-tree.json",
+      "files": 1,
+      "bytes": 178062
+    },
+    {
+      "path": "mechanical/model_completion_2026-10-07/choc-v2-tree.json",
+      "files": 1,
+      "bytes": 54106
+    },
+    {
+      "path": "stage2_work/gerber_preview_dependencies",
+      "files": 780,
+      "bytes": 13979659,
+      "explicit_user_approval": true
+    }
+  ],
+  "resolved_failures": [
+    {
+      "path": "stage2_work/gerber_preview_dependencies",
+      "error": "[WinError 5] Access is denied: 'C:\\\\Users\\\\admin\\\\Documents\\\\KiCad\\\\9.0\\\\projects\\\\project_a_latest\\\\project_A\\\\stage2_work\\\\gerber_preview_dependencies\\\\aiofiles'"
+    }
+  ],
+  "failures": [],
+  "totals": {
+    "files": 2634,
+    "bytes": 843192221
+  }
+}

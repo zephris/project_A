@@ -1,0 +1,32 @@
+[
+  {
+    "file": "L1-library.step",
+    "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/1fea8f9ef5b64dc68dc98052e0860c3b",
+    "bytes": 1030436
+  },
+  {
+    "file": "LED-library.step",
+    "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/d4730404f94748a88e99bd67434d6079",
+    "bytes": 1486451
+  },
+  {
+    "file": "U4-library.step",
+    "url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/88c2eb8aad2d4cafa03a2c8c19a0142c",
+    "bytes": 1382104
+  },
+  {
+    "file": "kiswitch-tree.json",
+    "url": "https://api.github.com/repos/kiswitch/kiswitch/git/trees/master?recursive=1",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "L1-datasheet.pdf",
+    "url": "https://abracon.com/datasheets/AOTA-B201610S3R3-101-T.pdf",
+    "bytes": 708418
+  },
+  {
+    "file": "LED-datasheet.pdf",
+    "url": "https://cdn-shop.adafruit.com/product-files/4492/Datasheet.pdf",
+    "bytes": 3094006
+  }
+]

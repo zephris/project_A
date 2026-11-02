@@ -1,0 +1,83 @@
+{
+  "jobs": [
+    {
+      "input": "DXF/top_acrylic.dxf",
+      "outputs": [
+        {
+          "path": "review/top_acrylic-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "DXF/bottom_acrylic.dxf",
+      "outputs": [
+        {
+          "path": "review/bottom_acrylic-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "DXF/switch_plate.dxf",
+      "outputs": [
+        {
+          "path": "review/switch_plate-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "DXF/foam.dxf",
+      "outputs": [
+        {
+          "path": "review/foam-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "DXF/switch_coupon.dxf",
+      "outputs": [
+        {
+          "path": "review/switch_coupon-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "DXF/upper_foam.dxf",
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08\\review\\upper_foam-cut.png"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "mode": "view",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\sandwich_17mm_2026-10-08/review/port_seals_cut.png"
+        }
+      ],
+      "input": "DXF/port_seals.dxf",
+      "output": {
+        "sizeProfile": "simple"
+      }
+    }
+  ]
+}

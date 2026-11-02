@@ -1,0 +1,7 @@
+{
+  "jobs": [
+    {"input":"mechanical/ergonomic_layout_2026-10-30/STEP/button_blank.step","outputs":[{"path":"mechanical/ergonomic_layout_2026-10-30/review/button-blank.png","camera":"iso"}],"output":{"sizeProfile":"simple"}},
+    {"input":"mechanical/ergonomic_layout_2026-10-30/STEP/button_blank_coupon.step","outputs":[{"path":"mechanical/ergonomic_layout_2026-10-30/review/button-blank-coupon.png","camera":"top"}],"output":{"sizeProfile":"simple"}},
+    {"input":"mechanical/ergonomic_layout_2026-10-30/STEP/button_blank_fit.step","outputs":[{"path":"mechanical/ergonomic_layout_2026-10-30/review/button-blank-fit.png","camera":"iso"}],"output":{"sizeProfile":"simple"}}
+  ]
+}

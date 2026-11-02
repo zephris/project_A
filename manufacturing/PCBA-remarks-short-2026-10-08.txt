@@ -1,0 +1,1 @@
+U1: fill/cap 9 thermal ComponentDrill holes; X-ray EP joint. U4: keep 6 paste apertures 0.664x0.190mm; review 0.10mm stencil. Confirm manual parts, polarity and CPL before assembly.

@@ -1,0 +1,1220 @@
+{
+  "units": "mm",
+  "source_pcb_sha256": "cc6e09d7bb8c85964da51ce74d79c96b29d2760e197bdce856f3d628bdba66eb",
+  "reference_step_sha256": "5cdbc5647b9a04a0b1aab5cf5e1c7db0509b1ec4b2d2090af3648791fd306c5f",
+  "modeled_button_refs_checked": [
+    "SW1",
+    "SW2",
+    "SW3",
+    "SW4",
+    "SW5",
+    "SW6",
+    "SW7",
+    "SW8",
+    "SW9",
+    "SW10",
+    "SW11",
+    "SW12",
+    "SW13",
+    "SW14",
+    "SW15",
+    "SW16",
+    "OPSW1",
+    "OPSW2",
+    "OPSW3",
+    "OPSW4",
+    "OPSW5",
+    "OPSW6",
+    "SW19",
+    "SW20"
+  ],
+  "button_results": [
+    {
+      "button": "SW1",
+      "step_occurrences": [
+        "#o1.76",
+        "#o1.77"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 7.7947756607409415,
+        "screen_frame": 5.233462109935622,
+        "screen_posts_and_rear_caps": 8.104021718512259,
+        "screen_screw_head_envelopes": 8.82884234419525,
+        "OLED_module": 6.781221223397296,
+        "heatsink_mounts_and_head_envelopes": 24.650129789770304
+      },
+      "clearance_basis": {
+        "heatsink": "exact_native_distance",
+        "screen_frame": "exact_native_distance",
+        "screen_posts_and_rear_caps": "exact_native_distance",
+        "screen_screw_head_envelopes": "exact_native_distance",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D1",
+        "distance_mm": 0.5168680000000023
+      }
+    },
+    {
+      "button": "SW2",
+      "step_occurrences": [
+        "#o1.23",
+        "#o1.24"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 41.42334418453219,
+        "screen_frame": 36.2812202233973,
+        "screen_posts_and_rear_caps": 38.88122022339729,
+        "screen_screw_head_envelopes": 39.28182486577983,
+        "OLED_module": 38.7812202233973,
+        "heatsink_mounts_and_head_envelopes": 59.207954819971135
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D2",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW3",
+      "step_occurrences": [
+        "#o1.1",
+        "#o1.2"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 17.330452760528743,
+        "screen_frame": 36.2812202233973,
+        "screen_posts_and_rear_caps": 38.88122022339729,
+        "screen_screw_head_envelopes": 39.2812202233973,
+        "OLED_module": 38.7812202233973,
+        "heatsink_mounts_and_head_envelopes": 30.06615278712
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D3",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW4",
+      "step_occurrences": [
+        "#o1.3",
+        "#o1.4"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 26.214662223397298,
+        "screen_frame": 47.09493168968158,
+        "screen_posts_and_rear_caps": 50.174115750368024,
+        "screen_screw_head_envelopes": 50.65491333770739,
+        "OLED_module": 50.05419365898826,
+        "heatsink_mounts_and_head_envelopes": 27.214662223397298
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D4",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW5",
+      "step_occurrences": [
+        "#o1.5",
+        "#o1.6"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 67.08191222339728,
+        "screen_frame": 88.41447078068742,
+        "screen_posts_and_rear_caps": 91.44033456579534,
+        "screen_screw_head_envelopes": 91.91006661853697,
+        "OLED_module": 91.32307153958827,
+        "heatsink_mounts_and_head_envelopes": 68.08191222339728
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D5",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW6",
+      "step_occurrences": [
+        "#o1.57",
+        "#o1.58"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 67.41466322339728,
+        "screen_frame": 103.25389162942837,
+        "screen_posts_and_rear_caps": 106.84101636683026,
+        "screen_screw_head_envelopes": 107.39342101365712,
+        "OLED_module": 106.70293694935235,
+        "heatsink_mounts_and_head_envelopes": 68.41466322339728
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D6",
+        "distance_mm": 0.7249950000000069
+      }
+    },
+    {
+      "button": "SW7",
+      "step_occurrences": [
+        "#o1.110",
+        "#o1.111"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 73.12726641225598,
+        "screen_frame": 127.91389737009604,
+        "screen_posts_and_rear_caps": 131.58098054385752,
+        "screen_screw_head_envelopes": 132.1451958824169,
+        "OLED_module": 131.43992868380286,
+        "heatsink_mounts_and_head_envelopes": 76.02736352234876
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D7",
+        "distance_mm": 0.6149949999999933
+      }
+    },
+    {
+      "button": "SW8",
+      "step_occurrences": [
+        "#o1.15",
+        "#o1.16"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 38.66773460757698,
+        "screen_frame": 87.37410261071234,
+        "screen_posts_and_rear_caps": 91.0462690191248,
+        "screen_screw_head_envelopes": 91.61125179486503,
+        "OLED_module": 90.90502469073431,
+        "heatsink_mounts_and_head_envelopes": 40.29660195242662
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D8",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW9",
+      "step_occurrences": [
+        "#o1.17",
+        "#o1.18"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 45.28329438605925,
+        "screen_frame": 107.70369624545344,
+        "screen_posts_and_rear_caps": 111.1839713745127,
+        "screen_screw_head_envelopes": 111.72051667141436,
+        "OLED_module": 111.0498802427478,
+        "heatsink_mounts_and_head_envelopes": 49.093173350481734
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D9",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW10",
+      "step_occurrences": [
+        "#o1.19",
+        "#o1.20"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 73.52038379163243,
+        "screen_frame": 137.21062694393362,
+        "screen_posts_and_rear_caps": 140.5522872344057,
+        "screen_screw_head_envelopes": 141.06786948395512,
+        "OLED_module": 140.4234519528097,
+        "heatsink_mounts_and_head_envelopes": 77.58060469021386
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D10",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW11",
+      "step_occurrences": [
+        "#o1.21",
+        "#o1.22"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 105.51885274003958,
+        "screen_frame": 169.25858836423205,
+        "screen_posts_and_rear_caps": 172.5446580903857,
+        "screen_screw_head_envelopes": 173.0516032559289,
+        "OLED_module": 172.41797889735363,
+        "heatsink_mounts_and_head_envelopes": 109.60233644774395
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D11",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW12",
+      "step_occurrences": [
+        "#o1.7",
+        "#o1.8"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 11.313591093609906,
+        "screen_frame": 75.02340719921145,
+        "screen_posts_and_rear_caps": 78.34603326432197,
+        "screen_screw_head_envelopes": 78.85999798486912,
+        "OLED_module": 78.21765363250434,
+        "heatsink_mounts_and_head_envelopes": 15.36989331776105
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D12",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW13",
+      "step_occurrences": [
+        "#o1.9",
+        "#o1.10"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 42.41672217574791,
+        "screen_frame": 103.7321733209539,
+        "screen_posts_and_rear_caps": 106.66092575242338,
+        "screen_screw_head_envelopes": 107.11559847325361,
+        "OLED_module": 106.54742368487446,
+        "heatsink_mounts_and_head_envelopes": 46.384542175747896
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D13",
+        "distance_mm": 0.6358680000000021
+      }
+    },
+    {
+      "button": "SW14",
+      "step_occurrences": [
+        "#o1.11",
+        "#o1.12"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 74.4167221757479,
+        "screen_frame": 135.53978761639965,
+        "screen_posts_and_rear_caps": 138.39661604524252,
+        "screen_screw_head_envelopes": 138.8395537571826,
+        "OLED_module": 138.28602150649377,
+        "heatsink_mounts_and_head_envelopes": 78.3845421757479
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D14",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW15",
+      "step_occurrences": [
+        "#o1.13",
+        "#o1.14"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 106.41672117574788,
+        "screen_frame": 167.93673603178095,
+        "screen_posts_and_rear_caps": 170.82252955709217,
+        "screen_screw_head_envelopes": 171.26918858160957,
+        "OLED_module": 170.71097508948802,
+        "heatsink_mounts_and_head_envelopes": 110.38454117574787
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D15",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "SW16",
+      "step_occurrences": [
+        "#o1.84",
+        "#o1.85"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 3.689731018978152,
+        "screen_frame": 64.01526398295033,
+        "screen_posts_and_rear_caps": 66.60000099999999,
+        "screen_screw_head_envelopes": 67.04284448474795,
+        "OLED_module": 66.4167231757479,
+        "heatsink_mounts_and_head_envelopes": 7.384543175747893
+      },
+      "clearance_basis": {
+        "heatsink": "exact_native_distance",
+        "screen_frame": "exact_native_distance",
+        "screen_posts_and_rear_caps": "exact_native_distance",
+        "screen_screw_head_envelopes": "exact_native_distance",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "D16",
+        "distance_mm": 0.7249999999999943
+      }
+    },
+    {
+      "button": "OPSW1",
+      "step_occurrences": [
+        "#o1.124"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 33.73217980000001,
+        "screen_frame": 94.23217980000001,
+        "screen_posts_and_rear_caps": 96.8321798,
+        "screen_screw_head_envelopes": 97.2323854925895,
+        "OLED_module": 96.73217980000001,
+        "heatsink_mounts_and_head_envelopes": 37.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW2",
+        "distance_mm": 4.0
+      }
+    },
+    {
+      "button": "OPSW2",
+      "step_occurrences": [
+        "#o1.74"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 43.73217980000001,
+        "screen_frame": 104.23217980000001,
+        "screen_posts_and_rear_caps": 106.8321798,
+        "screen_screw_head_envelopes": 107.23236631064117,
+        "OLED_module": 106.73217980000001,
+        "heatsink_mounts_and_head_envelopes": 47.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW1",
+        "distance_mm": 4.0
+      }
+    },
+    {
+      "button": "OPSW3",
+      "step_occurrences": [
+        "#o1.100"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 53.73217980000001,
+        "screen_frame": 114.23217980000001,
+        "screen_posts_and_rear_caps": 116.8321798,
+        "screen_screw_head_envelopes": 117.23235040115647,
+        "OLED_module": 116.73217980000001,
+        "heatsink_mounts_and_head_envelopes": 57.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW2",
+        "distance_mm": 4.0
+      }
+    },
+    {
+      "button": "OPSW4",
+      "step_occurrences": [
+        "#o1.134"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 66.73217980000001,
+        "screen_frame": 127.23217980000001,
+        "screen_posts_and_rear_caps": 129.8321798,
+        "screen_screw_head_envelopes": 130.23233337147704,
+        "OLED_module": 129.7321798,
+        "heatsink_mounts_and_head_envelopes": 70.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW5",
+        "distance_mm": 4.000000000000028
+      }
+    },
+    {
+      "button": "OPSW5",
+      "step_occurrences": [
+        "#o1.89"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 76.73217980000001,
+        "screen_frame": 137.2321798,
+        "screen_posts_and_rear_caps": 139.8321798,
+        "screen_screw_head_envelopes": 140.2323224202592,
+        "OLED_module": 139.7321798,
+        "heatsink_mounts_and_head_envelopes": 80.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW6",
+        "distance_mm": 4.0
+      }
+    },
+    {
+      "button": "OPSW6",
+      "step_occurrences": [
+        "#o1.95"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 86.73217980000001,
+        "screen_frame": 147.2321798,
+        "screen_posts_and_rear_caps": 149.8321798,
+        "screen_screw_head_envelopes": 150.23231292694504,
+        "OLED_module": 149.7321798,
+        "heatsink_mounts_and_head_envelopes": 90.6999998
+      },
+      "clearance_basis": {
+        "heatsink": "conservative_AABB_lower_bound",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "OPSW5",
+        "distance_mm": 4.0
+      }
+    },
+    {
+      "button": "SW19",
+      "step_occurrences": [
+        "#o1.36"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 5.386042997170003,
+        "screen_frame": 2.94705647126586,
+        "screen_posts_and_rear_caps": 3.7811742868360483,
+        "screen_screw_head_envelopes": 5.583204826935728,
+        "OLED_module": 3.681174286836054,
+        "heatsink_mounts_and_head_envelopes": 12.649994286836076
+      },
+      "clearance_basis": {
+        "heatsink": "exact_native_distance",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "SW20",
+        "distance_mm": 0.44899999999999807
+      }
+    },
+    {
+      "button": "SW20",
+      "step_occurrences": [
+        "#o1.107"
+      ],
+      "clearance_to_targets_mm": {
+        "heatsink": 5.138049212483611,
+        "screen_frame": 7.345400689280148,
+        "screen_posts_and_rear_caps": 9.43117428683604,
+        "screen_screw_head_envelopes": 10.50437744851001,
+        "OLED_module": 9.331174286836045,
+        "heatsink_mounts_and_head_envelopes": 6.999994286836085
+      },
+      "clearance_basis": {
+        "heatsink": "exact_native_distance",
+        "screen_frame": "conservative_AABB_lower_bound",
+        "screen_posts_and_rear_caps": "conservative_AABB_lower_bound",
+        "screen_screw_head_envelopes": "conservative_AABB_lower_bound",
+        "OLED_module": "conservative_AABB_lower_bound",
+        "heatsink_mounts_and_head_envelopes": "conservative_AABB_lower_bound"
+      },
+      "nearest_other_PCB_component": {
+        "ref": "SW19",
+        "distance_mm": 0.44899999999999807
+      }
+    }
+  ],
+  "modeled_body_collision_hits": [],
+  "option_cap_clearance_lower_bounds_mm": [
+    {
+      "heatsink": 32.73217980000001,
+      "screen_frame": 93.23217980000001,
+      "screen_posts_and_rear_caps": 95.85304734028819,
+      "screen_screw_head_envelopes": 96.23217980000001,
+      "OLED_module": 95.73217980000001,
+      "heatsink_mounts_and_head_envelopes": 36.6999998
+    },
+    {
+      "heatsink": 42.73217980000001,
+      "screen_frame": 103.23217980000001,
+      "screen_posts_and_rear_caps": 105.85107595305553,
+      "screen_screw_head_envelopes": 106.23217980000001,
+      "OLED_module": 105.73217980000001,
+      "heatsink_mounts_and_head_envelopes": 46.6999998
+    },
+    {
+      "heatsink": 52.73217980000001,
+      "screen_frame": 113.23217980000001,
+      "screen_posts_and_rear_caps": 115.84944486884488,
+      "screen_screw_head_envelopes": 116.23217980000001,
+      "OLED_module": 115.73217980000001,
+      "heatsink_mounts_and_head_envelopes": 56.6999998
+    },
+    {
+      "heatsink": 65.73217980000001,
+      "screen_frame": 126.23217980000001,
+      "screen_posts_and_rear_caps": 128.84770293342265,
+      "screen_screw_head_envelopes": 129.2321798,
+      "OLED_module": 128.7321798,
+      "heatsink_mounts_and_head_envelopes": 69.6999998
+    },
+    {
+      "heatsink": 75.73217980000001,
+      "screen_frame": 136.2321798,
+      "screen_posts_and_rear_caps": 138.84658493178554,
+      "screen_screw_head_envelopes": 139.2321798,
+      "OLED_module": 138.7321798,
+      "heatsink_mounts_and_head_envelopes": 79.6999998
+    },
+    {
+      "heatsink": 85.73217980000001,
+      "screen_frame": 146.2321798,
+      "screen_posts_and_rear_caps": 148.84561714481057,
+      "screen_screw_head_envelopes": 149.2321798,
+      "OLED_module": 148.7321798,
+      "heatsink_mounts_and_head_envelopes": 89.6999998
+    }
+  ],
+  "keycap_plan_clearances": [
+    {
+      "button": "SW1",
+      "obstacle": "heatsink",
+      "clearance_mm": 3.1999988000000172,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW1",
+      "obstacle": "screen_frame",
+      "clearance_mm": 0.5500008000000065,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW1",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 3.150000800000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW1",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 3.5500008000000065,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW1",
+      "obstacle": "OLED_module",
+      "clearance_mm": 3.0500008000000065,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW2",
+      "obstacle": "heatsink",
+      "clearance_mm": 37.34804285493403,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW2",
+      "obstacle": "screen_frame",
+      "clearance_mm": 32.54999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW2",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 35.1499998,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW2",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 35.54999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW2",
+      "obstacle": "OLED_module",
+      "clearance_mm": 35.04999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW3",
+      "obstacle": "heatsink",
+      "clearance_mm": 12.887060095071629,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW3",
+      "obstacle": "screen_frame",
+      "clearance_mm": 32.54999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW3",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 35.1499998,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW3",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 35.54999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW3",
+      "obstacle": "OLED_module",
+      "clearance_mm": 35.04999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW4",
+      "obstacle": "heatsink",
+      "clearance_mm": 22.48344180000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW4",
+      "obstacle": "screen_frame",
+      "clearance_mm": 42.76672165668069,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW4",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 45.67419927245579,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW4",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 46.13125273456165,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW4",
+      "obstacle": "OLED_module",
+      "clearance_mm": 45.560316935464805,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW5",
+      "obstacle": "heatsink",
+      "clearance_mm": 63.35069180000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW5",
+      "obstacle": "screen_frame",
+      "clearance_mm": 84.07445834454994,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW5",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 87.0078237025238,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW5",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 87.46409887221992,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW5",
+      "obstacle": "OLED_module",
+      "clearance_mm": 86.89395596892491,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW6",
+      "obstacle": "heatsink",
+      "clearance_mm": 63.68344280000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW6",
+      "obstacle": "screen_frame",
+      "clearance_mm": 97.76230047098693,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW6",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 101.33476566558748,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW6",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 101.88503558903795,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW6",
+      "obstacle": "OLED_module",
+      "clearance_mm": 101.19722474643034,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW7",
+      "obstacle": "heatsink",
+      "clearance_mm": 67.7208481020496,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW7",
+      "obstacle": "screen_frame",
+      "clearance_mm": 122.13235609616318,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW7",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 125.79957235030652,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW7",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 126.36380970515255,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW7",
+      "obstacle": "OLED_module",
+      "clearance_mm": 125.65851504613609,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW8",
+      "obstacle": "heatsink",
+      "clearance_mm": 34.68344180000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW8",
+      "obstacle": "screen_frame",
+      "clearance_mm": 81.59541857788344,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW8",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 85.26800294143169,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW8",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 85.83304913901173,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW8",
+      "obstacle": "OLED_module",
+      "clearance_mm": 85.12674271872503,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW9",
+      "obstacle": "heatsink",
+      "clearance_mm": 39.51546541875564,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW9",
+      "obstacle": "screen_frame",
+      "clearance_mm": 102.11176490591083,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW9",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 105.57571944021979,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW9",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 106.1099078116648,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW9",
+      "obstacle": "OLED_module",
+      "clearance_mm": 105.44222368292506,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW10",
+      "obstacle": "heatsink",
+      "clearance_mm": 68.06961044740065,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW10",
+      "obstacle": "screen_frame",
+      "clearance_mm": 131.79837734357736,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW10",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 135.1171057576353,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW10",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 135.62931935241733,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW10",
+      "obstacle": "OLED_module",
+      "clearance_mm": 134.9891190740943,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW11",
+      "obstacle": "heatsink",
+      "clearance_mm": 100.193511069634,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW11",
+      "obstacle": "screen_frame",
+      "clearance_mm": 163.91708941535046,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW11",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 167.18143497505935,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW11",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 167.6851579597908,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW11",
+      "obstacle": "OLED_module",
+      "clearance_mm": 167.0555662059783,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW12",
+      "obstacle": "heatsink",
+      "clearance_mm": 6.038798745941732,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW12",
+      "obstacle": "screen_frame",
+      "clearance_mm": 69.66213078208276,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW12",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 72.93855265235253,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW12",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 73.44598329861206,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW12",
+      "obstacle": "OLED_module",
+      "clearance_mm": 72.81182914266063,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW13",
+      "obstacle": "heatsink",
+      "clearance_mm": 37.99999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW13",
+      "obstacle": "screen_frame",
+      "clearance_mm": 98.93337382754115,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW13",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 101.79210408877499,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW13",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 102.23655146032657,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW13",
+      "obstacle": "OLED_module",
+      "clearance_mm": 101.68118043620463,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW14",
+      "obstacle": "heatsink",
+      "clearance_mm": 69.99999980000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW14",
+      "obstacle": "screen_frame",
+      "clearance_mm": 130.827414797511,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW14",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 133.62646618735377,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW14",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 134.06085359343348,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW14",
+      "obstacle": "OLED_module",
+      "clearance_mm": 133.51802299914422,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW15",
+      "obstacle": "heatsink",
+      "clearance_mm": 101.99999879999999,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW15",
+      "obstacle": "screen_frame",
+      "clearance_mm": 163.1680486618014,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW15",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 166.00913257053057,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW15",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 166.449127650763,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW15",
+      "obstacle": "OLED_module",
+      "clearance_mm": 165.89925285274796,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW16",
+      "obstacle": "heatsink",
+      "clearance_mm": 0.0,
+      "basis": "exact_native_distance"
+    },
+    {
+      "button": "SW16",
+      "obstacle": "screen_frame",
+      "clearance_mm": 59.50000080000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW16",
+      "obstacle": "screen_posts_and_rear_caps",
+      "clearance_mm": 62.100000800000004,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW16",
+      "obstacle": "screen_screw_head_envelopes",
+      "clearance_mm": 62.50000080000001,
+      "basis": "conservative_AABB_lower_bound"
+    },
+    {
+      "button": "SW16",
+      "obstacle": "OLED_module",
+      "clearance_mm": 62.00000080000001,
+      "basis": "conservative_AABB_lower_bound"
+    }
+  ],
+  "keycap_plan_guard_concerns": [
+    {
+      "button": "SW16",
+      "obstacle": "heatsink",
+      "kind": "24mm_keycap_XY_projection_overlap",
+      "guard_overlap_mm3": 19.349087478952555,
+      "actual_keycap_collision_confirmed": false,
+      "sufficient_keycap_bottom_z_from_conservative_bounds_mm": 7.0918001
+    }
+  ],
+  "keycap_diameter_assumed_mm": 24,
+  "actual_main_keycap_model_or_stroke_not_available": true,
+  "existing_case_check": "../fit-check.json",
+  "scope": "Nominal saved native solids. No arbitrary exemption for local LEDs or unrelated PCB components. Own socket/switch parts are one designed assembly. Keycap guards are conservative plan envelopes, not actual keycap solids. Pressed switch internals, cap undersides and fabrication tolerances are not qualified."
+}

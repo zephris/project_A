@@ -1,0 +1,1710 @@
+{
+  "capacitors": [
+    {
+      "ref": "C29",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C25",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C44",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C6",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C9",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C39",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C38",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C40",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C12",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C17",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C31",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C21",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C14",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C13",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C22",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C36",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C11",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C8",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C10",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C16",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C32",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C2",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C26",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C37",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C20",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C28",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C18",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C33",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C23",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C7",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C24",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C5",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C35",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C4",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C15",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C30",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C3",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C34",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C27",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C19",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/CP_EIA-3528-21_Kemet-B.step"
+        }
+      ]
+    },
+    {
+      "ref": "C43",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/CP_EIA-3528-21_Kemet-B.step"
+        }
+      ]
+    },
+    {
+      "ref": "C42",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C41",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0603_1608Metric.step"
+        }
+      ]
+    }
+  ],
+  "all_footprints": [
+    {
+      "ref": "SW3",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW4",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW5",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW12",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW13",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW14",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW15",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW8",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW9",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW10",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW11",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "H6",
+      "models": []
+    },
+    {
+      "ref": "H1",
+      "models": []
+    },
+    {
+      "ref": "H3",
+      "models": []
+    },
+    {
+      "ref": "H4",
+      "models": []
+    },
+    {
+      "ref": "SW2",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "H5",
+      "models": []
+    },
+    {
+      "ref": "H2",
+      "models": []
+    },
+    {
+      "ref": "R11",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "USB1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/Type-C.pretty/HRO-TYPE-C-31-M-12.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/Type-C.pretty/HRO-TYPE-C-31-M-12.step"
+        }
+      ]
+    },
+    {
+      "ref": "R10",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D17",
+      "models": []
+    },
+    {
+      "ref": "C29",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C25",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D16",
+      "models": []
+    },
+    {
+      "ref": "R7",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C44",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C6",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R5",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW19",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_TS-1187A-B-A-B_C318884.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_TS-1187A-B-A-B_C318884.step"
+        }
+      ]
+    },
+    {
+      "ref": "C9",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R29",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C39",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C38",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C40",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R20",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "U4",
+      "models": []
+    },
+    {
+      "ref": "R31",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R23",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C12",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "H10",
+      "models": []
+    },
+    {
+      "ref": "D4",
+      "models": []
+    },
+    {
+      "ref": "C17",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C31",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C21",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C14",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R12",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D20",
+      "models": []
+    },
+    {
+      "ref": "R3",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C13",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW6",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "U6",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+        }
+      ]
+    },
+    {
+      "ref": "C22",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C36",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "F1",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0805_2012Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Fuse.3dshapes/Fuse_0805_2012Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D8",
+      "models": []
+    },
+    {
+      "ref": "R13",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C11",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D9",
+      "models": []
+    },
+    {
+      "ref": "U5",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/OLED_HS13L03W2C01.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/OLED_HS13L03W2C01.step"
+        }
+      ]
+    },
+    {
+      "ref": "R2",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "H11",
+      "models": []
+    },
+    {
+      "ref": "D3",
+      "models": []
+    },
+    {
+      "ref": "C8",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "H9",
+      "models": []
+    },
+    {
+      "ref": "U2",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+        }
+      ]
+    },
+    {
+      "ref": "D15",
+      "models": []
+    },
+    {
+      "ref": "OPSW2",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "D18",
+      "models": []
+    },
+    {
+      "ref": "SW1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "C10",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C16",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "U3",
+      "models": [
+        {
+          "reference": "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.3x5.3mm_P1.27mm.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Package_SO.3dshapes/SOIC-8_5.3x5.3mm_P1.27mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "R18",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R6",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "U1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/RP2350A_official.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/RP2350A_official.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW16",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "R4",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R33",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D1",
+      "models": []
+    },
+    {
+      "ref": "OPSW5",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "C32",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C2",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C26",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R24",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R32",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "H8",
+      "models": []
+    },
+    {
+      "ref": "OPSW6",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "R8",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C37",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D19",
+      "models": []
+    },
+    {
+      "ref": "C20",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "OPSW3",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "L1",
+      "models": [
+        {
+          "reference": "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/AOTA-B201610SR47MT.STEP",
+          "exists": false,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Inductor_SMD.3dshapes/AOTA-B201610SR47MT.STEP"
+        }
+      ]
+    },
+    {
+      "ref": "R21",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R14",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D2",
+      "models": []
+    },
+    {
+      "ref": "D6",
+      "models": []
+    },
+    {
+      "ref": "R25",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW20",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_TS-1187A-B-A-B_C318884.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_TS-1187A-B-A-B_C318884.step"
+        }
+      ]
+    },
+    {
+      "ref": "C28",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C18",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "SW7",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_Hotswap_Kailh_Choc_V1.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_Hotswap_Kailh_Choc_V1.step"
+        }
+      ]
+    },
+    {
+      "ref": "C33",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C23",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "H7",
+      "models": []
+    },
+    {
+      "ref": "D7",
+      "models": []
+    },
+    {
+      "ref": "R27",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C7",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R19",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D5",
+      "models": []
+    },
+    {
+      "ref": "D14",
+      "models": []
+    },
+    {
+      "ref": "D11",
+      "models": []
+    },
+    {
+      "ref": "R22",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D13",
+      "models": []
+    },
+    {
+      "ref": "R30",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "OPSW1",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "C24",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R26",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R1",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D10",
+      "models": []
+    },
+    {
+      "ref": "H12",
+      "models": []
+    },
+    {
+      "ref": "Y1",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "D12",
+      "models": []
+    },
+    {
+      "ref": "C5",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C35",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C4",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "OPSW4",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/SW_PUSH_6mm_H5mm.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/SW_PUSH_6mm_H5mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "R28",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "D21",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/ST_QFN-2L_1.6x1.0mm.step",
+          "exists": false,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Diode_SMD.3dshapes/ST_QFN-2L_1.6x1.0mm.step"
+        }
+      ]
+    },
+    {
+      "ref": "C15",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C30",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C3",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C34",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C27",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "R17",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "USB2",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/USB_A_904-131A2032S10200_reference.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/USB_A_904-131A2032S10200_reference.step"
+        }
+      ]
+    },
+    {
+      "ref": "C19",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/CP_EIA-3528-21_Kemet-B.step"
+        }
+      ]
+    },
+    {
+      "ref": "C43",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/CP_EIA-3528-21_Kemet-B.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/CP_EIA-3528-21_Kemet-B.step"
+        }
+      ]
+    },
+    {
+      "ref": "R16",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C42",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "U8",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+        }
+      ]
+    },
+    {
+      "ref": "U7",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+        }
+      ]
+    },
+    {
+      "ref": "R15",
+      "models": [
+        {
+          "reference": "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step",
+          "exists": true,
+          "resolved": "D:\\Program Files\\share\\kicad\\3dmodels/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+        }
+      ]
+    },
+    {
+      "ref": "C41",
+      "models": [
+        {
+          "reference": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+          "exists": true,
+          "resolved": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A/3dmodels/C_0603_1608Metric.step"
+        }
+      ]
+    }
+  ],
+  "non_model_board_data_unchanged": true,
+  "legacy_capacitor_paths_replaced": 17
+}

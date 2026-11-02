@@ -1,0 +1,300 @@
+{
+  "vias": [
+    {
+      "diameter_mm": 0.45,
+      "drill_mm": 0.3,
+      "nominal_ring_mm": 0.07500000000000001,
+      "diametral_difference_mm": 0.15000000000000002,
+      "count": 4,
+      "meets_published_via_minimum": true,
+      "meets_preferred_via_difference": true
+    },
+    {
+      "diameter_mm": 0.45045,
+      "drill_mm": 0.3003,
+      "nominal_ring_mm": 0.075075,
+      "diametral_difference_mm": 0.15015,
+      "count": 123,
+      "meets_published_via_minimum": true,
+      "meets_preferred_via_difference": true
+    },
+    {
+      "diameter_mm": 0.5,
+      "drill_mm": 0.3,
+      "nominal_ring_mm": 0.1,
+      "diametral_difference_mm": 0.2,
+      "count": 1,
+      "meets_published_via_minimum": true,
+      "meets_preferred_via_difference": true
+    },
+    {
+      "diameter_mm": 0.6,
+      "drill_mm": 0.3,
+      "nominal_ring_mm": 0.15,
+      "diametral_difference_mm": 0.3,
+      "count": 43,
+      "meets_published_via_minimum": true,
+      "meets_preferred_via_difference": true
+    },
+    {
+      "diameter_mm": 0.6,
+      "drill_mm": 0.35,
+      "nominal_ring_mm": 0.125,
+      "diametral_difference_mm": 0.25,
+      "count": 125,
+      "meets_published_via_minimum": true,
+      "meets_preferred_via_difference": true
+    }
+  ],
+  "pth": [
+    {
+      "ref": "USB1",
+      "pad": "13",
+      "ring_mm": 0.2,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "USB1",
+      "pad": "13",
+      "ring_mm": 0.2,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "USB1",
+      "pad": "13",
+      "ring_mm": 0.2,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "USB1",
+      "pad": "13",
+      "ring_mm": 0.2,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "U5",
+      "pad": "1",
+      "ring_mm": 0.4,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "U5",
+      "pad": "2",
+      "ring_mm": 0.4,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "U5",
+      "pad": "3",
+      "ring_mm": 0.4,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "U5",
+      "pad": "4",
+      "ring_mm": 0.4,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW2",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW2",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW2",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW2",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "U1",
+      "pad": "61",
+      "ring_mm": 0.125,
+      "kind": "thermal_via_in_pad"
+    },
+    {
+      "ref": "OPSW5",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW5",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW5",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW5",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW6",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW6",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW6",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW6",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW3",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW3",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW3",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW3",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW1",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW1",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW1",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW1",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW4",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW4",
+      "pad": "1",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW4",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    },
+    {
+      "ref": "OPSW4",
+      "pad": "2",
+      "ring_mm": 0.45,
+      "kind": "component_PTH"
+    }
+  ],
+  "standard_component_PTH_minimum_ring_mm": 0.2,
+  "source": "https://jlcpcb.com/capabilities/pcb-capabilities",
+  "geometry_basis": "native KiCad nominal sizes, concentric drill offsets checked separately; not finished-copper metrology"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "GEOMETRY PASS / FIT CANDIDATE ONLY",
+  "switch_count": 16,
+  "gasket_tab_count": 8,
+  "alignment_hole_count": 6,
+  "solid_valid": true,
+  "step_roundtrip_valid": true,
+  "dxf_audit_errors": 0,
+  "min_switch_separation_axis_web_mm": 7.0,
+  "min_switch_to_body_edge_mm": 5.829117999999994,
+  "min_alignment_hole_to_body_edge_mm": 3.1165580000000004,
+  "min_alignment_hole_to_switch_mm": 14.019833408513225,
+  "envelope_mm": [
+    288.6,
+    141.516558,
+    1.3
+  ],
+  "not_verified": [
+    "physical switch latch fit",
+    "PLA/acrylic stiffness and impact strength",
+    "assembled component-height collisions",
+    "final top/bottom enclosure geometry",
+    "thermal spreader contact and cooling performance",
+    "gasket load/deflection"
+  ]
+}

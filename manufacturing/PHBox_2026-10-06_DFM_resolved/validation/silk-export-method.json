@@ -1,0 +1,21 @@
+{
+  "clearance_mm": 0.16,
+  "auxiliary_reference_hidden": true,
+  "project_id_matches_copper": true,
+  "temporary_board_for_silk_only": true,
+  "export_command": [
+    "D:/Program Files/bin/kicad-cli.exe",
+    "pcb",
+    "export",
+    "gerbers",
+    "-o",
+    "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\stage2_work\\dfm_resolution_2026-10-06\\clipped-silk",
+    "--layers",
+    "F.SilkS,B.SilkS",
+    "--use-drill-file-origin",
+    "--precision",
+    "6",
+    "--subtract-soldermask",
+    "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\stage2_work\\dfm_resolution_2026-10-06\\silk-clipping-only.kicad_pcb"
+  ]
+}

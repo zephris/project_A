@@ -1,0 +1,54 @@
+{
+  "PHBox-assembly": {
+    "solids": 162,
+    "valid": true,
+    "bbox_mm": {
+      "xmin": 52.28218,
+      "xmax": 324.88218,
+      "ymin": -205.516558,
+      "ymax": -32.5,
+      "zmin": -7.885001000000002,
+      "zmax": 7.301204
+    },
+    "volume_mm3": 74574.16461648412
+  },
+  "PHBox-single-compound": {
+    "valid": true,
+    "solids": 162,
+    "volume_mm3": 74574.16463958402
+  },
+  "PHBox-fused": {
+    "solids": 162,
+    "valid": true,
+    "bbox_mm": {
+      "xmin": 52.28218,
+      "xmax": 324.88218,
+      "ymin": -205.516558,
+      "ymax": -32.5,
+      "zmin": -7.885001000000002,
+      "zmax": 7.301204
+    },
+    "volume_mm3": 74574.16461648412
+  },
+  "C_0402_1005Metric": {
+    "valid": true,
+    "x_mm": 1.0,
+    "y_mm": 0.5,
+    "zmin_mm": 0.0,
+    "zmax_mm": 0.5
+  },
+  "C_0603_1608Metric": {
+    "valid": true,
+    "x_mm": 1.6,
+    "y_mm": 0.8,
+    "zmin_mm": 0.0,
+    "zmax_mm": 0.8
+  },
+  "CP_EIA-3528-21_Kemet-B": {
+    "valid": true,
+    "x_mm": 3.5000002,
+    "y_mm": 2.8000002000000013,
+    "zmin_mm": -1e-07,
+    "zmax_mm": 2.1000001000000004
+  }
+}

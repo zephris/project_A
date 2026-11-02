@@ -1,0 +1,17 @@
+Reference,X_mm,Y_mm,Nominal_diameter_mm,Planning_min_mm,Planning_max_mm,Method,Tolerance_status
+H1,8.15,7.6,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H2,93.5,56.0,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H3,262.15,7.6,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H4,262.15,161.6,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H5,120.75,161.6,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H6,8.15,161.6,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H7,91.25,119.2,6.4,6.2,6.6,CNC routed,PLANNING ASSUMPTION: routed circular NPTH; confirm diameter and position with JLCPCB
+H8,21.15,7.6,2.2,2.0,2.4,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H9,249.15,7.6,2.2,2.0,2.4,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H10,249.15,161.6,2.2,2.0,2.4,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H11,8.15,148.6,2.2,2.0,2.4,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+H12,94.65,161.6,2.2,2.0,2.4,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5,32.81782,165.766558,3.0,2.8,3.2,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5,32.81782,137.266558,3.0,2.8,3.2,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5,63.21782,165.766558,3.0,2.8,3.2,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB
+U5,63.21782,137.266558,3.0,2.8,3.2,drilled,PLANNING ASSUMPTION: round NPTH not separately specified on current page; confirm with JLCPCB

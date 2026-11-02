@@ -1,0 +1,41 @@
+{
+  "retrieved_date": "2026-10-09",
+  "files": {
+    "flatbox-rev8-pcb.step": {
+      "source": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/extras/Flatbox-rev8-pcb.step",
+      "sha256": "fce636c3c2f78926ab6a6a2c0d76bd6b3eacd712c1c8874c7f247b543eb4438d"
+    },
+    "open-core0-frame-top.stl": {
+      "source": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Top.stl",
+      "sha256": "0c7a5a509eb39f8b7f404853c30f3790994048b23de96710fdcb091c66c079d9"
+    },
+    "open-core0-frame-full.stl": {
+      "source": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Full.stl",
+      "sha256": "9f147386de1e7b895142e72146b04720ed804f5093c5571cef301e40bed77da2"
+    },
+    "open-core0-frame-bottom.stl": {
+      "source": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Main%20frame%20-%20Bottom.stl",
+      "sha256": "08cc53ef584479738613e2c9982c2c61c1af027e164489dd60fbbe0fcaea812d"
+    },
+    "flatbox-rev8-case-B.step": {
+      "source": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/extras/Flatbox-rev8-case-B.step",
+      "sha256": "df0db5396336bc57dbe34bfd96c0360eed4cebd7f2208a947c51a8442475fc96"
+    },
+    "flatbox-rev8-top-A.stl": {
+      "source": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/3d-printed-case/Flatbox-rev8-Top-A.stl",
+      "sha256": "fa08f6dafd9591dee9e57ddd9176f0feb3e67b93ed3bd5dec9bb129d54403433"
+    },
+    "flatbox-rev8-top-B.stl": {
+      "source": "https://raw.githubusercontent.com/jfedor2/flatbox/master/hardware-rev8/3d-printed-case/Flatbox-rev8-Top-B.stl",
+      "sha256": "a3bb7cd1067db8f466f37d3abc280a62492a91f63551661ae28aef4fdf7669bf"
+    },
+    "open-core0-top-insert.stl": {
+      "source": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/3D%20print%20files/Open_Core0%20v2.0%20-%20Top%20insert.stl",
+      "sha256": "db0d05b6ae8f75f302155f0128758874fee0cd3a5278299e00d2bc57c2494096"
+    },
+    "open-core0-bom.csv": {
+      "source": "https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/Hardware%20files/BOM%20-%20Open_Core0%20v2.0.csv",
+      "sha256": "a54e2084fce989a546a10ebd3ae9088a877f4238e0e6a62e92c5377424883a60"
+    }
+  }
+}

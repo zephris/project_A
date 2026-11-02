@@ -1,0 +1,84 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-30T17:56:51",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "Flatbox-rev8.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1100 mm)",
+            "items": [
+                {
+                    "description": "Segment of R2 on F.Silkscreen",
+                    "pos": {
+                        "x": 142.85218,
+                        "y": 50.484477
+                    },
+                    "uuid": "483f9479-f281-43f0-9b42-5891a7079e78"
+                },
+                {
+                    "description": "Segment of C4 on F.Silkscreen",
+                    "pos": {
+                        "x": 142.59218,
+                        "y": 50.724394
+                    },
+                    "uuid": "948f3042-664d-482b-885e-38a3da8089b0"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        },
+        {
+            "description": "Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0900 mm)",
+            "items": [
+                {
+                    "description": "Segment of R2 on F.Silkscreen",
+                    "pos": {
+                        "x": 143.61218,
+                        "y": 50.484477
+                    },
+                    "uuid": "0c0ef4e1-4a55-493a-b21d-fffc191fb41a"
+                },
+                {
+                    "description": "Segment of R3 on F.Silkscreen",
+                    "pos": {
+                        "x": 143.85218,
+                        "y": 50.474477
+                    },
+                    "uuid": "f8bab8f7-5636-453f-aae7-d3eaa87aaebe"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_overlap"
+        }
+    ]
+}

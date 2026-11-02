@@ -1,0 +1,46 @@
+{
+  "prepared_date": "2026-10-23",
+  "printer": "Bambu Lab A1",
+  "ams": "AMS Lite",
+  "declared_nozzle_mm": 0.4,
+  "observed_nozzle_mm": null,
+  "live_printer_observed": false,
+  "firmware_version_observed": null,
+  "physical_calibration_started": false,
+  "machine_calibration_result": null,
+  "PLA_pressure_compensation_result": null,
+  "PETG_pressure_compensation_result": null,
+  "PLA_measured_flow_ratio": null,
+  "PETG_measured_flow_ratio": null,
+  "PETG_grade_observed": null,
+  "existing_job_flow_ratios_unchanged": {
+    "PLA": 0.98,
+    "PETG": 0.94
+  },
+  "local_flow_projects": "prepared_unsliced_import_visual_review_required",
+  "calibration_results_applied": false,
+  "cloud_upload_performed": false,
+  "locked_desktop_control_retry": {
+    "desktop_initialization_attempts": 2,
+    "helper_reset_between_attempts": true,
+    "error": "failed to write kernel assets: The system cannot find the path specified. (os error 3)",
+    "lock_state_independently_observed": false,
+    "desktop_access_established": false,
+    "printer_status_connected": false,
+    "network_bridge_configured": false,
+    "calibration_started": false
+  },
+  "blockers": [
+    "Desktop control helper failed initialization after reset",
+    "Bambu network bridge unconfigured with no running agent",
+    "Read-only MCP settings inspection requires unavailable approval",
+    "Bambu Connect private-file import rejected by automatic approval review"
+  ],
+  "local_slicing_recovery": {
+    "method": "Direct PowerShell Start-Process with installed Bambu Studio 02.07.01.62",
+    "file": "stacked_kit_inset.gcode.3mf",
+    "return_code": 0,
+    "flow_tests_still_unsliced": true,
+    "physical_calibration_still_pending": true
+  }
+}

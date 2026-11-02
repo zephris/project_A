@@ -1,0 +1,947 @@
+[
+  {
+    "body": 0,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "bottom_acrylic_SURROGATE_QUARTER_1",
+    "bounds_match_error_mm": 3.100005017575569e-06
+  },
+  {
+    "body": 1,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 64,
+    "part": "OLED_MODULE_PCB_SURROGATE",
+    "bounds_match_error_mm": 1.500000053056283e-06
+  },
+  {
+    "body": 2,
+    "min_mm": 1.6,
+    "p05_mm": 1.6,
+    "median_mm": 1.999,
+    "samples_valid": 64,
+    "part": "option_retainer_M2x5_pan_screw_envelope_2_SURROGATE",
+    "bounds_match_error_mm": 1.0000875327875747e-07
+  },
+  {
+    "body": 3,
+    "min_mm": 1.6,
+    "p05_mm": 1.6,
+    "median_mm": 1.999,
+    "samples_valid": 64,
+    "part": "option_retainer_M2x5_pan_screw_envelope_1_SURROGATE",
+    "bounds_match_error_mm": 1.0000875327875747e-07
+  },
+  {
+    "body": 4,
+    "min_mm": 1.002,
+    "p05_mm": 1.034,
+    "median_mm": 1.078,
+    "samples_valid": 64,
+    "part": "option_retainer_M2_nut_envelope_2_SURROGATE",
+    "bounds_match_error_mm": 5.3525752718996955e-08
+  },
+  {
+    "body": 5,
+    "min_mm": 1.449,
+    "p05_mm": 1.449,
+    "median_mm": 1.449,
+    "samples_valid": 64,
+    "part": "custom_POM_retainer_thread_not_modeled_H12",
+    "bounds_match_error_mm": 8.753886504564434e-12
+  },
+  {
+    "body": 6,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "rear_insulating_washer_H12",
+    "bounds_match_error_mm": 8.753886504564434e-12
+  },
+  {
+    "body": 7,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "insulating_support_washer_H12",
+    "bounds_match_error_mm": 8.753886504564434e-12
+  },
+  {
+    "body": 8,
+    "min_mm": 0.5,
+    "p05_mm": 1.149,
+    "median_mm": 1.149,
+    "samples_valid": 64,
+    "part": "custom_POM_stop_H12",
+    "bounds_match_error_mm": 8.753886504564434e-12
+  },
+  {
+    "body": 9,
+    "min_mm": 1.25,
+    "p05_mm": 1.25,
+    "median_mm": 1.25,
+    "samples_valid": 64,
+    "part": "printed_screen_rear_tapped_cap_4_M2",
+    "bounds_match_error_mm": 3.999999869108706e-07
+  },
+  {
+    "body": 10,
+    "min_mm": 0.25,
+    "p05_mm": 0.25,
+    "median_mm": 1.299,
+    "samples_valid": 64,
+    "part": "printed_screen_stop_4_3mm",
+    "bounds_match_error_mm": 5.999999856953764e-07
+  },
+  {
+    "body": 11,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_8_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 12,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_8_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 13,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_7_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 14,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_7_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 15,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_6_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 16,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_6_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 17,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_5_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 18,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_5_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 19,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_4_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 20,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_4_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 21,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_3_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 22,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_3_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 23,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_2_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 24,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_2_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 25,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_1_top_0p5_SURROGATE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 26,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW6_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 27,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW5_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 28,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW4_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 29,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW3_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 30,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW2_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 31,
+    "min_mm": 0.45,
+    "p05_mm": 0.45,
+    "median_mm": 0.45,
+    "samples_valid": 12,
+    "part": "pad_9_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 32,
+    "min_mm": 1.002,
+    "p05_mm": 1.018,
+    "median_mm": 1.222,
+    "samples_valid": 64,
+    "part": "option_retainer_M2_nut_envelope_1_SURROGATE",
+    "bounds_match_error_mm": 1.0213932455371832e-07
+  },
+  {
+    "body": 33,
+    "min_mm": 1.25,
+    "p05_mm": 1.25,
+    "median_mm": 1.25,
+    "samples_valid": 64,
+    "part": "printed_screen_rear_tapped_cap_3_M2",
+    "bounds_match_error_mm": 4.486222451305366e-07
+  },
+  {
+    "body": 34,
+    "min_mm": 0.25,
+    "p05_mm": 0.25,
+    "median_mm": 1.299,
+    "samples_valid": 64,
+    "part": "printed_screen_stop_3_3mm",
+    "bounds_match_error_mm": 6.486223025348181e-07
+  },
+  {
+    "body": 35,
+    "min_mm": 1.25,
+    "p05_mm": 1.25,
+    "median_mm": 1.25,
+    "samples_valid": 64,
+    "part": "printed_screen_rear_tapped_cap_2_M2",
+    "bounds_match_error_mm": 4.4862230197395547e-07
+  },
+  {
+    "body": 36,
+    "min_mm": 0.25,
+    "p05_mm": 0.25,
+    "median_mm": 1.299,
+    "samples_valid": 64,
+    "part": "printed_screen_stop_2_3mm",
+    "bounds_match_error_mm": 6.486223025348181e-07
+  },
+  {
+    "body": 37,
+    "min_mm": 1.25,
+    "p05_mm": 1.25,
+    "median_mm": 1.549,
+    "samples_valid": 64,
+    "part": "printed_screen_rear_tapped_cap_1_M2",
+    "bounds_match_error_mm": 4.4862235881737433e-07
+  },
+  {
+    "body": 38,
+    "min_mm": 0.25,
+    "p05_mm": 0.25,
+    "median_mm": 1.299,
+    "samples_valid": 64,
+    "part": "printed_screen_stop_1_3mm",
+    "bounds_match_error_mm": 6.48622359378237e-07
+  },
+  {
+    "body": 39,
+    "min_mm": 1.253,
+    "p05_mm": 1.268,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_8_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.405186935699021e-07
+  },
+  {
+    "body": 40,
+    "min_mm": 1.253,
+    "p05_mm": 1.268,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_7_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.243112137672142e-07
+  },
+  {
+    "body": 41,
+    "min_mm": 1.265,
+    "p05_mm": 1.299,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_6_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 42,
+    "min_mm": 1.252,
+    "p05_mm": 1.265,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_5_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 43,
+    "min_mm": 1.252,
+    "p05_mm": 1.252,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_4_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 44,
+    "min_mm": 1.252,
+    "p05_mm": 1.252,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_3_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 45,
+    "min_mm": 1.253,
+    "p05_mm": 1.265,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_2_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 46,
+    "min_mm": 1.252,
+    "p05_mm": 1.292,
+    "median_mm": 1.347,
+    "samples_valid": 64,
+    "part": "acrylic_case_post_1_12mm_AF5_SURROGATE",
+    "bounds_match_error_mm": 1.0811379524966469e-07
+  },
+  {
+    "body": 47,
+    "min_mm": 0.6,
+    "p05_mm": 0.6,
+    "median_mm": 5.596,
+    "samples_valid": 64,
+    "part": "OPSW1_captive_cap_H5_trial",
+    "bounds_match_error_mm": 2.000000574042815e-07
+  },
+  {
+    "body": 48,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.748,
+    "samples_valid": 64,
+    "part": "custom_POM_retainer_thread_not_modeled_H7",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 49,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "rear_insulating_washer_H7",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 50,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "custom_POM_retainer_thread_not_modeled_H5",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 51,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "rear_insulating_washer_H5",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 52,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "insulating_support_washer_H7",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 53,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "insulating_support_washer_H5",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 54,
+    "min_mm": 0.5,
+    "p05_mm": 1.349,
+    "median_mm": 2.298,
+    "samples_valid": 64,
+    "part": "custom_POM_stop_H7",
+    "bounds_match_error_mm": 1.0000005623567176e-07
+  },
+  {
+    "body": 55,
+    "min_mm": 0.5,
+    "p05_mm": 1.349,
+    "median_mm": 2.298,
+    "samples_valid": 64,
+    "part": "custom_POM_stop_H5",
+    "bounds_match_error_mm": 1.0000016992250949e-07
+  },
+  {
+    "body": 56,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.748,
+    "samples_valid": 64,
+    "part": "insulating_plate_rear_tapped_cap_H3",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 57,
+    "min_mm": 1.349,
+    "p05_mm": 1.349,
+    "median_mm": 2.298,
+    "samples_valid": 64,
+    "part": "insulating_plate_stop_H3",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 58,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "insulating_plate_rear_tapped_cap_H2",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 59,
+    "min_mm": 1.349,
+    "p05_mm": 1.349,
+    "median_mm": 2.298,
+    "samples_valid": 64,
+    "part": "insulating_plate_stop_H2",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 60,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "insulating_plate_rear_tapped_cap_H1",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 61,
+    "min_mm": 1.349,
+    "p05_mm": 1.349,
+    "median_mm": 2.298,
+    "samples_valid": 64,
+    "part": "insulating_plate_stop_H1",
+    "bounds_match_error_mm": 2.0000017109111923e-07
+  },
+  {
+    "body": 62,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 12,
+    "part": "pad_7_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 63,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 12,
+    "part": "pad_6_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 64,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 4.1,
+    "samples_valid": 12,
+    "part": "pad_5_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 65,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 12,
+    "part": "pad_4_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.7053025658242404e-13
+  },
+  {
+    "body": 66,
+    "min_mm": 1.0,
+    "p05_mm": 1.0,
+    "median_mm": 1.0,
+    "samples_valid": 64,
+    "part": "option_retainer",
+    "bounds_match_error_mm": 5.684341886080802e-14
+  },
+  {
+    "body": 67,
+    "min_mm": 0.45,
+    "p05_mm": 0.45,
+    "median_mm": 0.45,
+    "samples_valid": 12,
+    "part": "pad_8_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 6.821210263296962e-13
+  },
+  {
+    "body": 68,
+    "min_mm": 0.5,
+    "p05_mm": 0.5,
+    "median_mm": 0.5,
+    "samples_valid": 64,
+    "part": "acrylic_case_washer_1_bottom_0p5_SURROGATE",
+    "bounds_match_error_mm": 3.353761712787673e-12
+  },
+  {
+    "body": 69,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 12,
+    "part": "pad_3_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.1368683772161603e-13
+  },
+  {
+    "body": 70,
+    "min_mm": 1.2,
+    "p05_mm": 1.2,
+    "median_mm": 1.2,
+    "samples_valid": 12,
+    "part": "pad_2_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.1368683772161603e-13
+  },
+  {
+    "body": 71,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_6_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 3.979039320256561e-13
+  },
+  {
+    "body": 72,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_5_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 2.5579538487363607e-12
+  },
+  {
+    "body": 73,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_4_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 4.547473508864641e-13
+  },
+  {
+    "body": 74,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_3_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.9895196601282805e-12
+  },
+  {
+    "body": 75,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_2_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 1.4210854715202004e-12
+  },
+  {
+    "body": 76,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 5.115907697472721e-13
+  },
+  {
+    "body": 77,
+    "min_mm": 0.316,
+    "p05_mm": 0.316,
+    "median_mm": 1.3,
+    "samples_valid": 64,
+    "part": "USB_A_collar",
+    "bounds_match_error_mm": 4.000006867954653e-07
+  },
+  {
+    "body": 78,
+    "min_mm": 0.316,
+    "p05_mm": 0.316,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "USB_C_collar",
+    "bounds_match_error_mm": 8.000069726676884e-07
+  },
+  {
+    "body": 79,
+    "min_mm": 1.649,
+    "p05_mm": 1.649,
+    "median_mm": 1.649,
+    "samples_valid": 64,
+    "part": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+    "bounds_match_error_mm": 3.183231456205249e-12
+  },
+  {
+    "body": 80,
+    "min_mm": 1.0,
+    "p05_mm": 1.0,
+    "median_mm": 1.0,
+    "samples_valid": 64,
+    "part": "screen_frame",
+    "bounds_match_error_mm": 1.5000013036114979e-06
+  },
+  {
+    "body": 81,
+    "min_mm": 3.0,
+    "p05_mm": 3.0,
+    "median_mm": 3.0,
+    "samples_valid": 64,
+    "part": "aluminium_heatsink_SURROGATE",
+    "bounds_match_error_mm": 1.6000000764293532e-06
+  },
+  {
+    "body": 82,
+    "min_mm": 2.5,
+    "p05_mm": 2.637,
+    "median_mm": 9.4,
+    "samples_valid": 64,
+    "part": "top_spacer_QUARTER_2",
+    "bounds_match_error_mm": 3.5000049578570724e-06
+  },
+  {
+    "body": 83,
+    "min_mm": 0.203,
+    "p05_mm": 1.75,
+    "median_mm": 1.75,
+    "samples_valid": 64,
+    "part": "bottom_spacer_QUARTER_2",
+    "bounds_match_error_mm": 3.2000049614566706e-06
+  },
+  {
+    "body": 84,
+    "min_mm": 1.833,
+    "p05_mm": 3.228,
+    "median_mm": 9.4,
+    "samples_valid": 64,
+    "part": "top_spacer_QUARTER_1",
+    "bounds_match_error_mm": 3.5000050004896366e-06
+  },
+  {
+    "body": 85,
+    "min_mm": 1.75,
+    "p05_mm": 1.75,
+    "median_mm": 1.75,
+    "samples_valid": 64,
+    "part": "bottom_spacer_QUARTER_1",
+    "bounds_match_error_mm": 3.200005000536521e-06
+  },
+  {
+    "body": 86,
+    "min_mm": 0.4,
+    "p05_mm": 2.125,
+    "median_mm": 9.4,
+    "samples_valid": 64,
+    "part": "top_spacer_QUARTER_4",
+    "bounds_match_error_mm": 3.500004986278782e-06
+  },
+  {
+    "body": 87,
+    "min_mm": 1.75,
+    "p05_mm": 1.75,
+    "median_mm": 1.75,
+    "samples_valid": 64,
+    "part": "bottom_spacer_QUARTER_4",
+    "bounds_match_error_mm": 3.2000049614566706e-06
+  },
+  {
+    "body": 88,
+    "min_mm": 0.4,
+    "p05_mm": 1.5,
+    "median_mm": 9.85,
+    "samples_valid": 64,
+    "part": "top_spacer_QUARTER_3",
+    "bounds_match_error_mm": 3.5000050147004913e-06
+  },
+  {
+    "body": 89,
+    "min_mm": 1.355,
+    "p05_mm": 1.75,
+    "median_mm": 1.75,
+    "samples_valid": 64,
+    "part": "bottom_spacer_QUARTER_3",
+    "bounds_match_error_mm": 3.2000050183000894e-06
+  },
+  {
+    "body": 90,
+    "min_mm": 1.601,
+    "p05_mm": 1.601,
+    "median_mm": 1.601,
+    "samples_valid": 64,
+    "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4",
+    "bounds_match_error_mm": 6.400004313178442e-06
+  },
+  {
+    "body": 91,
+    "min_mm": 1.601,
+    "p05_mm": 1.601,
+    "median_mm": 1.601,
+    "samples_valid": 64,
+    "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3",
+    "bounds_match_error_mm": 4.799995629412024e-06
+  },
+  {
+    "body": 92,
+    "min_mm": 1.3,
+    "p05_mm": 1.3,
+    "median_mm": 1.3,
+    "samples_valid": 64,
+    "part": "switch_plate_QUARTER_4",
+    "bounds_match_error_mm": 4.200000006449045e-06
+  },
+  {
+    "body": 93,
+    "min_mm": 1.3,
+    "p05_mm": 1.3,
+    "median_mm": 1.3,
+    "samples_valid": 64,
+    "part": "switch_plate_QUARTER_3",
+    "bounds_match_error_mm": 4.2000000348707545e-06
+  },
+  {
+    "body": 94,
+    "min_mm": 1.3,
+    "p05_mm": 1.3,
+    "median_mm": 1.3,
+    "samples_valid": 64,
+    "part": "switch_plate_QUARTER_2",
+    "bounds_match_error_mm": 4.2000000348707545e-06
+  },
+  {
+    "body": 95,
+    "min_mm": 1.3,
+    "p05_mm": 1.3,
+    "median_mm": 1.3,
+    "samples_valid": 64,
+    "part": "switch_plate_QUARTER_1",
+    "bounds_match_error_mm": 4.200000063292464e-06
+  },
+  {
+    "body": 96,
+    "min_mm": 1.601,
+    "p05_mm": 1.601,
+    "median_mm": 1.601,
+    "samples_valid": 64,
+    "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2",
+    "bounds_match_error_mm": 4.699995599821705e-06
+  },
+  {
+    "body": 97,
+    "min_mm": 1.601,
+    "p05_mm": 1.601,
+    "median_mm": 1.601,
+    "samples_valid": 64,
+    "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1",
+    "bounds_match_error_mm": 4.699995628243414e-06
+  },
+  {
+    "body": 98,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "top_acrylic_SURROGATE_QUARTER_4",
+    "bounds_match_error_mm": 3.1000049993679113e-06
+  },
+  {
+    "body": 99,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "top_acrylic_SURROGATE_QUARTER_3",
+    "bounds_match_error_mm": 3.1000050171314797e-06
+  },
+  {
+    "body": 100,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "top_acrylic_SURROGATE_QUARTER_2",
+    "bounds_match_error_mm": 3.100004970946202e-06
+  },
+  {
+    "body": 101,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "top_acrylic_SURROGATE_QUARTER_1",
+    "bounds_match_error_mm": 3.1000050020324466e-06
+  },
+  {
+    "body": 102,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "bottom_acrylic_SURROGATE_QUARTER_4",
+    "bounds_match_error_mm": 3.100005015355123e-06
+  },
+  {
+    "body": 103,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "bottom_acrylic_SURROGATE_QUARTER_3",
+    "bounds_match_error_mm": 3.100005057987687e-06
+  },
+  {
+    "body": 104,
+    "min_mm": 2.0,
+    "p05_mm": 2.0,
+    "median_mm": 2.0,
+    "samples_valid": 64,
+    "part": "bottom_acrylic_SURROGATE_QUARTER_2",
+    "bounds_match_error_mm": 3.1000049833806997e-06
+  }
+]

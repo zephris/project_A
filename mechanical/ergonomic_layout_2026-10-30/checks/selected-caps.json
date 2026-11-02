@@ -1,0 +1,791 @@
+{
+  "units": "mm",
+  "source_pcb_sha256": "cc6e09d7bb8c85964da51ce74d79c96b29d2760e197bdce856f3d628bdba66eb",
+  "reference_step_sha256": "5cdbc5647b9a04a0b1aab5cf5e1c7db0509b1ec4b2d2090af3648791fd306c5f",
+  "selected_keycap": {
+    "product": "SGF MonKeys",
+    "variant": "Choc V2 / Small / Flat / Nekkid",
+    "nominal_diameter_mm": 20.0,
+    "maximum_accepted_outer_diameter_mm": 20.2,
+    "material": "PA12 nylon",
+    "url": "https://additivearcade.com/products/low-profile-sgf-monkeys-button-caps",
+    "generic_substitution": "20 mm round cap for Kailh Choc V2, MX-style cross stem; verify maximum skirt diameter, seating depth and full-stroke fit. Not a complete 20 mm panel-mount arcade switch.",
+    "exact_underside_and_seating_depth_verified": false
+  },
+  "keycap_diameter_mm": 20.0,
+  "cover_hole_diameter_mm": 24.0,
+  "cover_STEP_sha256": "2cc8bcfb8569d24b7b85086df51a91272affcc4f006a23da19c631622fa00987",
+  "cover_DXF_sha256": "e5c4c99341e1cc9464b6e843c0722679544aa112dea055f2acccc631c344ba66",
+  "saved_cover_valid_single_solid": true,
+  "cover_holes": [
+    {
+      "switch": "SW1",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW2",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW3",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW4",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW5",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW6",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW7",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW8",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW9",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW10",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW11",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW12",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW13",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW14",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW15",
+      "DXF_hole_diameter_mm": 24.0
+    },
+    {
+      "switch": "SW16",
+      "DXF_hole_diameter_mm": 24.0
+    }
+  ],
+  "nominal_radial_cap_to_cover_gap_mm": 2.0,
+  "sufficient_cap_to_cover_gap_with_XY_corner_offset_mm": 1.2928932188134525,
+  "guard_z_range_mm": [
+    0,
+    15
+  ],
+  "cap_guard_rows": [
+    {
+      "switch": "SW1",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 6.495404272413243,
+        "screen_frame": 2.550001000009999,
+        "screen_and_switch_plate_mounts": 7.652244654900908,
+        "screen_screw_heads": 8.052244654900914,
+        "heatsink_mounts": 23.816007076663848,
+        "heatsink_screw_heads": 24.81600707666385
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 6.395404272413243,
+        "screen_frame": 2.450001000009999,
+        "screen_and_switch_plate_mounts": 7.552244654900909,
+        "screen_screw_heads": 7.952244654900914,
+        "heatsink_mounts": 23.716007076663846,
+        "heatsink_screw_heads": 24.71600707666385
+      }
+    },
+    {
+      "switch": "SW2",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 50.65843917621952,
+        "screen_frame": 35.28416754052036,
+        "screen_and_switch_plate_mounts": 38.42216543989443,
+        "screen_screw_heads": 38.82216543989443,
+        "heatsink_mounts": 61.708984141380256,
+        "heatsink_screw_heads": 62.708984141380235
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 50.558439176219515,
+        "screen_frame": 35.184167540520356,
+        "screen_and_switch_plate_mounts": 38.32216543989443,
+        "screen_screw_heads": 38.722165439894425,
+        "heatsink_mounts": 61.608984141380255,
+        "heatsink_screw_heads": 62.60898414138023
+      }
+    },
+    {
+      "switch": "SW3",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 30.441489135043312,
+        "screen_frame": 34.55000000001,
+        "screen_and_switch_plate_mounts": 38.09051891196999,
+        "screen_screw_heads": 38.490518911969986,
+        "heatsink_mounts": 33.88518309163875,
+        "heatsink_screw_heads": 34.88518309163874
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 30.34148913504331,
+        "screen_frame": 34.45000000001,
+        "screen_and_switch_plate_mounts": 37.990518911969986,
+        "screen_screw_heads": 38.390518911969984,
+        "heatsink_mounts": 33.78518309163875,
+        "heatsink_screw_heads": 34.785183091638736
+      }
+    },
+    {
+      "switch": "SW4",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 24.58560301156404,
+        "screen_frame": 47.43729889707392,
+        "screen_and_switch_plate_mounts": 11.360494492808366,
+        "screen_screw_heads": 51.24470333553632,
+        "heatsink_mounts": 26.053270025302087,
+        "heatsink_screw_heads": 27.05327002530209
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 24.485603011564038,
+        "screen_frame": 47.33729889707392,
+        "screen_and_switch_plate_mounts": 11.260494492808366,
+        "screen_screw_heads": 51.14470333553632,
+        "heatsink_mounts": 25.953270025302086,
+        "heatsink_screw_heads": 26.95327002530209
+      }
+    },
+    {
+      "switch": "SW5",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 65.350692,
+        "screen_frame": 88.44882681114069,
+        "screen_and_switch_plate_mounts": 3.3762104906952346,
+        "screen_screw_heads": 92.1125393768352,
+        "heatsink_mounts": 66.35250936229026,
+        "heatsink_screw_heads": 67.35250936229026
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 65.250692,
+        "screen_frame": 88.3488268111407,
+        "screen_and_switch_plate_mounts": 3.2762104906952345,
+        "screen_screw_heads": 92.0125393768352,
+        "heatsink_mounts": 66.25250936229027,
+        "heatsink_screw_heads": 67.25250936229027
+      }
+    },
+    {
+      "switch": "SW6",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 73.36906534958342,
+        "screen_frame": 105.0750550530919,
+        "screen_and_switch_plate_mounts": 27.058413012855787,
+        "screen_screw_heads": 109.23391275155811,
+        "heatsink_mounts": 75.7896317752459,
+        "heatsink_screw_heads": 76.7896317752459
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 73.26906534958343,
+        "screen_frame": 104.9750550530919,
+        "screen_and_switch_plate_mounts": 26.958413012855786,
+        "screen_screw_heads": 109.13391275155811,
+        "heatsink_mounts": 75.6896317752459,
+        "heatsink_screw_heads": 76.6896317752459
+      }
+    },
+    {
+      "switch": "SW7",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 85.52948313202528,
+        "screen_frame": 129.88485639962937,
+        "screen_and_switch_plate_mounts": 66.35711594035097,
+        "screen_screw_heads": 134.11917216607822,
+        "heatsink_mounts": 97.88099017684374,
+        "heatsink_screw_heads": 98.88099017684375
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 85.42948313202528,
+        "screen_frame": 129.78485639962938,
+        "screen_and_switch_plate_mounts": 66.25711594035097,
+        "screen_screw_heads": 134.01917216607822,
+        "heatsink_mounts": 97.78099017684374,
+        "heatsink_screw_heads": 98.78099017684376
+      }
+    },
+    {
+      "switch": "SW8",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 50.585940689583,
+        "screen_frame": 89.37461394121303,
+        "screen_and_switch_plate_mounts": 34.60199110411141,
+        "screen_screw_heads": 93.61397798113656,
+        "heatsink_mounts": 57.5418988676155,
+        "heatsink_screw_heads": 58.541898867615494
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 50.485940689582996,
+        "screen_frame": 89.27461394121303,
+        "screen_and_switch_plate_mounts": 34.50199110411141,
+        "screen_screw_heads": 93.51397798113656,
+        "heatsink_mounts": 57.4418988676155,
+        "heatsink_screw_heads": 58.44189886761549
+      }
+    },
+    {
+      "switch": "SW9",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 55.57403420693484,
+        "screen_frame": 108.9124171272029,
+        "screen_and_switch_plate_mounts": 68.49378704900538,
+        "screen_screw_heads": 112.98124907561134,
+        "heatsink_mounts": 76.83894972359954,
+        "heatsink_screw_heads": 77.83894972359953
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 55.47403420693484,
+        "screen_frame": 108.8124171272029,
+        "screen_and_switch_plate_mounts": 68.39378704900538,
+        "screen_screw_heads": 112.88124907561135,
+        "heatsink_mounts": 76.73894972359955,
+        "heatsink_screw_heads": 77.73894972359953
+      }
+    },
+    {
+      "switch": "SW10",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 80.38100423247195,
+        "screen_frame": 137.8659812594429,
+        "screen_and_switch_plate_mounts": 77.64485816537123,
+        "screen_screw_heads": 141.79308286623296,
+        "heatsink_mounts": 103.7735950260117,
+        "heatsink_screw_heads": 104.77359502601169
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 80.28100423247196,
+        "screen_frame": 137.7659812594429,
+        "screen_and_switch_plate_mounts": 77.54485816537124,
+        "screen_screw_heads": 141.69308286623297,
+        "heatsink_mounts": 103.67359502601171,
+        "heatsink_screw_heads": 104.6735950260117
+      }
+    },
+    {
+      "switch": "SW11",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 110.98373831527485,
+        "screen_frame": 169.68052258337642,
+        "screen_and_switch_plate_mounts": 56.65258889206406,
+        "screen_screw_heads": 173.54059470773504,
+        "heatsink_mounts": 131.6270166361689,
+        "heatsink_screw_heads": 132.62701663616886
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 110.88373831527485,
+        "screen_frame": 169.58052258337642,
+        "screen_and_switch_plate_mounts": 56.55258889206406,
+        "screen_screw_heads": 173.44059470773504,
+        "heatsink_mounts": 131.5270166361689,
+        "heatsink_screw_heads": 132.52701663616887
+      }
+    },
+    {
+      "switch": "SW12",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 21.600595232822887,
+        "screen_frame": 75.6801716512233,
+        "screen_and_switch_plate_mounts": 56.02780460445524,
+        "screen_screw_heads": 79.63685121172594,
+        "heatsink_mounts": 44.21840925789506,
+        "heatsink_screw_heads": 45.21840925789507
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 21.500595232822885,
+        "screen_frame": 75.58017165122331,
+        "screen_and_switch_plate_mounts": 55.92780460445524,
+        "screen_screw_heads": 79.53685121172595,
+        "heatsink_mounts": 44.11840925789506,
+        "heatsink_screw_heads": 45.11840925789507
+      }
+    },
+    {
+      "switch": "SW13",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 42.260943596660766,
+        "screen_frame": 102.87738028480938,
+        "screen_and_switch_plate_mounts": 88.53274955700624,
+        "screen_screw_heads": 106.44539881312403,
+        "heatsink_mounts": 61.634773696493355,
+        "heatsink_screw_heads": 62.634773696493355
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 42.160943596660765,
+        "screen_frame": 102.77738028480938,
+        "screen_and_switch_plate_mounts": 88.43274955700625,
+        "screen_screw_heads": 106.34539881312404,
+        "heatsink_mounts": 61.53477369649335,
+        "heatsink_screw_heads": 62.53477369649335
+      }
+    },
+    {
+      "switch": "SW14",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 73.41808960050557,
+        "screen_frame": 134.35850692021177,
+        "screen_and_switch_plate_mounts": 103.29415854716147,
+        "screen_screw_heads": 137.8175976062225,
+        "heatsink_mounts": 88.24754065153179,
+        "heatsink_screw_heads": 89.24754065153179
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 73.31808960050557,
+        "screen_frame": 134.25850692021177,
+        "screen_and_switch_plate_mounts": 103.19415854716148,
+        "screen_screw_heads": 137.7175976062225,
+        "heatsink_mounts": 88.1475406515318,
+        "heatsink_screw_heads": 89.1475406515318
+      }
+    },
+    {
+      "switch": "SW15",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 105.88553672100747,
+        "screen_frame": 166.8262065490591,
+        "screen_and_switch_plate_mounts": 87.78864485287211,
+        "screen_screw_heads": 170.28634655672928,
+        "heatsink_mounts": 119.42101622377233,
+        "heatsink_screw_heads": 120.42101622377234
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 105.78553672100747,
+        "screen_frame": 166.7262065490591,
+        "screen_and_switch_plate_mounts": 87.68864485287212,
+        "screen_screw_heads": 170.1863465567293,
+        "heatsink_mounts": 119.32101622377233,
+        "heatsink_screw_heads": 120.32101622377235
+      }
+    },
+    {
+      "switch": "SW16",
+      "native_plan_guard_distances_mm": {
+        "heatsink": 1.0000009999999975,
+        "screen_frame": 61.53443171548192,
+        "screen_and_switch_plate_mounts": 64.27993644363563,
+        "screen_screw_heads": 64.67993644363563,
+        "heatsink_mounts": 19.475730104889482,
+        "heatsink_screw_heads": 20.475730104889482
+      },
+      "OLED_clear_by_subset_of_prior_24mm_guard": true,
+      "max_accepted_cap_guard_distance_lower_bounds_mm": {
+        "heatsink": 0.9000009999999975,
+        "screen_frame": 61.43443171548192,
+        "screen_and_switch_plate_mounts": 64.17993644363564,
+        "screen_screw_heads": 64.57993644363563,
+        "heatsink_mounts": 19.37573010488948,
+        "heatsink_screw_heads": 20.37573010488948
+      }
+    }
+  ],
+  "cap_guard_contact_hits": [],
+  "prior_unchanged_board_body_checks_reused": true,
+  "added_acrylic_component_instances_checked": [
+    {
+      "ref": "SW3",
+      "occurrence": "#o1.1"
+    },
+    {
+      "ref": "SW3",
+      "occurrence": "#o1.2"
+    },
+    {
+      "ref": "SW4",
+      "occurrence": "#o1.3"
+    },
+    {
+      "ref": "SW4",
+      "occurrence": "#o1.4"
+    },
+    {
+      "ref": "SW5",
+      "occurrence": "#o1.5"
+    },
+    {
+      "ref": "SW5",
+      "occurrence": "#o1.6"
+    },
+    {
+      "ref": "SW12",
+      "occurrence": "#o1.7"
+    },
+    {
+      "ref": "SW12",
+      "occurrence": "#o1.8"
+    },
+    {
+      "ref": "SW13",
+      "occurrence": "#o1.9"
+    },
+    {
+      "ref": "SW13",
+      "occurrence": "#o1.10"
+    },
+    {
+      "ref": "SW14",
+      "occurrence": "#o1.11"
+    },
+    {
+      "ref": "SW14",
+      "occurrence": "#o1.12"
+    },
+    {
+      "ref": "SW15",
+      "occurrence": "#o1.13"
+    },
+    {
+      "ref": "SW15",
+      "occurrence": "#o1.14"
+    },
+    {
+      "ref": "SW8",
+      "occurrence": "#o1.15"
+    },
+    {
+      "ref": "SW8",
+      "occurrence": "#o1.16"
+    },
+    {
+      "ref": "SW9",
+      "occurrence": "#o1.17"
+    },
+    {
+      "ref": "SW9",
+      "occurrence": "#o1.18"
+    },
+    {
+      "ref": "SW10",
+      "occurrence": "#o1.19"
+    },
+    {
+      "ref": "SW10",
+      "occurrence": "#o1.20"
+    },
+    {
+      "ref": "SW11",
+      "occurrence": "#o1.21"
+    },
+    {
+      "ref": "SW11",
+      "occurrence": "#o1.22"
+    },
+    {
+      "ref": "SW2",
+      "occurrence": "#o1.23"
+    },
+    {
+      "ref": "SW2",
+      "occurrence": "#o1.24"
+    },
+    {
+      "ref": "C29",
+      "occurrence": "#o1.29"
+    },
+    {
+      "ref": "C25",
+      "occurrence": "#o1.30"
+    },
+    {
+      "ref": "D16",
+      "occurrence": "#o1.31"
+    },
+    {
+      "ref": "C44",
+      "occurrence": "#o1.33"
+    },
+    {
+      "ref": "R29",
+      "occurrence": "#o1.38"
+    },
+    {
+      "ref": "R20",
+      "occurrence": "#o1.43"
+    },
+    {
+      "ref": "R31",
+      "occurrence": "#o1.45"
+    },
+    {
+      "ref": "R23",
+      "occurrence": "#o1.46"
+    },
+    {
+      "ref": "D4",
+      "occurrence": "#o1.48"
+    },
+    {
+      "ref": "C31",
+      "occurrence": "#o1.50"
+    },
+    {
+      "ref": "C21",
+      "occurrence": "#o1.51"
+    },
+    {
+      "ref": "R12",
+      "occurrence": "#o1.53"
+    },
+    {
+      "ref": "SW6",
+      "occurrence": "#o1.57"
+    },
+    {
+      "ref": "SW6",
+      "occurrence": "#o1.58"
+    },
+    {
+      "ref": "C22",
+      "occurrence": "#o1.60"
+    },
+    {
+      "ref": "D8",
+      "occurrence": "#o1.63"
+    },
+    {
+      "ref": "R13",
+      "occurrence": "#o1.64"
+    },
+    {
+      "ref": "D9",
+      "occurrence": "#o1.67"
+    },
+    {
+      "ref": "U5",
+      "occurrence": "#o1.68"
+    },
+    {
+      "ref": "D3",
+      "occurrence": "#o1.70"
+    },
+    {
+      "ref": "D15",
+      "occurrence": "#o1.73"
+    },
+    {
+      "ref": "SW1",
+      "occurrence": "#o1.76"
+    },
+    {
+      "ref": "SW1",
+      "occurrence": "#o1.77"
+    },
+    {
+      "ref": "R18",
+      "occurrence": "#o1.81"
+    },
+    {
+      "ref": "SW16",
+      "occurrence": "#o1.84"
+    },
+    {
+      "ref": "SW16",
+      "occurrence": "#o1.85"
+    },
+    {
+      "ref": "R33",
+      "occurrence": "#o1.87"
+    },
+    {
+      "ref": "D1",
+      "occurrence": "#o1.88"
+    },
+    {
+      "ref": "C32",
+      "occurrence": "#o1.90"
+    },
+    {
+      "ref": "C26",
+      "occurrence": "#o1.92"
+    },
+    {
+      "ref": "R24",
+      "occurrence": "#o1.93"
+    },
+    {
+      "ref": "R32",
+      "occurrence": "#o1.94"
+    },
+    {
+      "ref": "C20",
+      "occurrence": "#o1.99"
+    },
+    {
+      "ref": "R21",
+      "occurrence": "#o1.102"
+    },
+    {
+      "ref": "D2",
+      "occurrence": "#o1.104"
+    },
+    {
+      "ref": "D6",
+      "occurrence": "#o1.105"
+    },
+    {
+      "ref": "R25",
+      "occurrence": "#o1.106"
+    },
+    {
+      "ref": "C28",
+      "occurrence": "#o1.108"
+    },
+    {
+      "ref": "SW7",
+      "occurrence": "#o1.110"
+    },
+    {
+      "ref": "SW7",
+      "occurrence": "#o1.111"
+    },
+    {
+      "ref": "C33",
+      "occurrence": "#o1.112"
+    },
+    {
+      "ref": "C23",
+      "occurrence": "#o1.113"
+    },
+    {
+      "ref": "D7",
+      "occurrence": "#o1.114"
+    },
+    {
+      "ref": "R27",
+      "occurrence": "#o1.115"
+    },
+    {
+      "ref": "R19",
+      "occurrence": "#o1.117"
+    },
+    {
+      "ref": "D5",
+      "occurrence": "#o1.118"
+    },
+    {
+      "ref": "D14",
+      "occurrence": "#o1.119"
+    },
+    {
+      "ref": "D11",
+      "occurrence": "#o1.120"
+    },
+    {
+      "ref": "R22",
+      "occurrence": "#o1.121"
+    },
+    {
+      "ref": "D13",
+      "occurrence": "#o1.122"
+    },
+    {
+      "ref": "R30",
+      "occurrence": "#o1.123"
+    },
+    {
+      "ref": "C24",
+      "occurrence": "#o1.125"
+    },
+    {
+      "ref": "R26",
+      "occurrence": "#o1.126"
+    },
+    {
+      "ref": "D10",
+      "occurrence": "#o1.128"
+    },
+    {
+      "ref": "D12",
+      "occurrence": "#o1.130"
+    },
+    {
+      "ref": "C35",
+      "occurrence": "#o1.132"
+    },
+    {
+      "ref": "R28",
+      "occurrence": "#o1.135"
+    },
+    {
+      "ref": "C30",
+      "occurrence": "#o1.138"
+    },
+    {
+      "ref": "C34",
+      "occurrence": "#o1.140"
+    },
+    {
+      "ref": "C27",
+      "occurrence": "#o1.141"
+    },
+    {
+      "ref": "C43",
+      "occurrence": "#o1.144"
+    },
+    {
+      "ref": "U8",
+      "occurrence": "#o1.147"
+    }
+  ],
+  "added_acrylic_exact_solid_tests": 160,
+  "added_acrylic_board_collision_hits": [],
+  "XY_offsets_checked_mm": [
+    [
+      0,
+      0
+    ],
+    [
+      -0.5,
+      -0.5
+    ],
+    [
+      -0.5,
+      0.5
+    ],
+    [
+      0.5,
+      -0.5
+    ],
+    [
+      0.5,
+      0.5
+    ]
+  ],
+  "Z_offsets_checked_mm": [
+    -0.41000000000000003,
+    0.41000000000000003
+  ],
+  "scope": "Nominal selected 20 mm circular envelope; cap and heatsink/frame move with PCB. Fixed-cover clearance checked at stated motion limits. Other case geometry relies on unchanged prior fit checks. Exact cap stem fit, skirt seating, actuation, material tolerance and purchased-part fit still need physical trials."
+}

@@ -1,0 +1,529 @@
+{
+  "units": "mm",
+  "part_count": 20,
+  "PLA_replacement_and_gauge_parts": 17,
+  "PLA_blanking_plug_trials": 3,
+  "native_verified_reusable_parts": [
+    {
+      "part": "top_spacer_QUARTER_1",
+      "added_volume_mm3": 0,
+      "removed_volume_mm3": 0
+    },
+    {
+      "part": "top_spacer_QUARTER_2",
+      "added_volume_mm3": 0,
+      "removed_volume_mm3": 0
+    }
+  ],
+  "files": [
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_1",
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        2.0000000000000133
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 24729.559332085584,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          8.0
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          10.000000000000014
+        ]
+      ],
+      "sha256": "0e1f4e645aead024f936bc907aa09b385320c288f6bfd69c2d706a53aad4d7cd",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_2",
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_2.stl",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        2.000000000000011
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 23674.985351686162,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          8.0
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          10.00000000000001
+        ]
+      ],
+      "sha256": "14a4817870b23456598b831a5bc405bf31296bad064eb7eb8c0c266802a16c91",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_3",
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        2.000000000000001
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 22275.922085376213,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          8.0
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          10.0
+        ]
+      ],
+      "sha256": "23d70f1388be75c1ab39622861f1a33244a9533cd543ff0ce7d3d251cbb0f524",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_4",
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_4.stl",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        2.000000000000011
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 22425.580124536882,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          8.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          10.00000000000001
+        ]
+      ],
+      "sha256": "5b41522fea7419679595822d9440197f1ca7953944a8be98ed0c4f6e2c343fcc",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "switch_plate_QUARTER_1",
+      "file": "STL/switch_plate_QUARTER_1.stl",
+      "size_mm": [
+        142.3,
+        75.25827899999996,
+        1.3
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 12031.966147854997,
+      "raw_bounds_mm": [
+        [
+          46.28218,
+          -211.516558,
+          3.0
+        ],
+        [
+          188.58218,
+          -136.25827900000004,
+          4.3
+        ]
+      ],
+      "sha256": "191f530f5a7e1e4112021092e09d44ba74bde8b34cd140819eaf37692754f673",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "switch_plate_QUARTER_2",
+      "file": "STL/switch_plate_QUARTER_2.stl",
+      "size_mm": [
+        142.30000000000004,
+        75.25827899999996,
+        1.3
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 12098.741243796692,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -211.516558,
+          3.0
+        ],
+        [
+          330.88218,
+          -136.25827900000004,
+          4.3
+        ]
+      ],
+      "sha256": "06946bc7aed0abfadc60988e7776cf6fe66e1c9c767efe14433c4de7939c95ce",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "switch_plate_QUARTER_3",
+      "file": "STL/switch_plate_QUARTER_3.stl",
+      "size_mm": [
+        142.3,
+        75.25827900000002,
+        1.3
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 9050.001124775816,
+      "raw_bounds_mm": [
+        [
+          46.28218,
+          -136.25827900000002,
+          3.0
+        ],
+        [
+          188.58218,
+          -61.0,
+          4.3
+        ]
+      ],
+      "sha256": "91c75e0973c9ef6a531812e0bff40ac6e16ca3f391493dcb71ac4b1be767c3b1",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "switch_plate_QUARTER_4",
+      "file": "STL/switch_plate_QUARTER_4.stl",
+      "size_mm": [
+        142.30000000000004,
+        75.25827900000002,
+        1.3
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 8436.415059996942,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -136.25827900000002,
+          3.0
+        ],
+        [
+          330.88218,
+          -61.0,
+          4.3
+        ]
+      ],
+      "sha256": "34cdde26268f25b7ce422a3c5e1922460f83fab5595cf7f26da8ed7816bf508a",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "bottom_spacer_QUARTER_1",
+      "file": "STL/bottom_spacer_QUARTER_1.stl",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 24308.975680022268,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -5.0
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          -1.8499999999999996
+        ]
+      ],
+      "sha256": "95090d98e163041679caa4d23c6e9ed9cf942e30b75570c8b589de38b6fc26cb",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "bottom_spacer_QUARTER_2",
+      "file": "STL/bottom_spacer_QUARTER_2.stl",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 23555.414955903154,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          -5.0
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          -1.8499999999999996
+        ]
+      ],
+      "sha256": "b158b537b4898a8591827a5c8465bb96a96f4528ac507f01942d4bf282e3e842",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "bottom_spacer_QUARTER_3",
+      "file": "STL/bottom_spacer_QUARTER_3.stl",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        5.4
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 15384.35960894837,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          -5.0
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          0.3999999999999999
+        ]
+      ],
+      "sha256": "320ca671d8ec44077ec3dca7baa3bafcede09aba10e831c0549e4aae9d534ad1",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "bottom_spacer_QUARTER_4",
+      "file": "STL/bottom_spacer_QUARTER_4.stl",
+      "size_mm": [
+        146.30000000000004,
+        95.500000000005,
+        5.4
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 21187.944316171204,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          -5.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          0.3999999999999999
+        ]
+      ],
+      "sha256": "8b8d96c13c94abe89e4228f1eca10b375287524fa4c92a70874f5f0e88fdfbec",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "top_spacer_QUARTER_3",
+      "file": "STL/top_spacer_QUARTER_3.stl",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 17920.14820251716,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          -1.85
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          8.000000000000002
+        ]
+      ],
+      "sha256": "7bfc29b77645a462dd485eeb6071e5ca1967fd045e9c412c6ccf4dbac6aa81a2",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "top_spacer_QUARTER_4",
+      "file": "STL/top_spacer_QUARTER_4.stl",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 18227.294654319827,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          -1.85
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          8.000000000000002
+        ]
+      ],
+      "sha256": "099262dcda1354d997f5d6ff762f3518dfd8324dd51d53657869233ad1c94d86",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "option_retainer",
+      "file": "STL/option_retainer.stl",
+      "size_mm": [
+        67.0,
+        17.0,
+        2.8
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 719.8508056855628,
+      "raw_bounds_mm": [
+        [
+          210.73218000000003,
+          -49.416558,
+          5.2
+        ],
+        [
+          277.73218,
+          -32.416558,
+          8.0
+        ]
+      ],
+      "sha256": "25b54537eab3a285314fedbfb404cbee83af2b17830df4c3eabfea34aa221814",
+      "purpose": "PLA replacement mock"
+    },
+    {
+      "name": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+      "file": "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 237.20016876080606,
+      "raw_bounds_mm": [
+        [
+          53.282179999999855,
+          -114.0,
+          -3.25
+        ],
+        [
+          61.28218000000013,
+          -96.0,
+          -1.601204
+        ]
+      ],
+      "sha256": "b3835bf0b11a500b2507de75243c57a1bfe00e9ffdfa0ec74499180c0244d1a9",
+      "purpose": "Rigid PLA foam-height gauge only"
+    },
+    {
+      "name": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+      "file": "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+      "size_mm": [
+        18.0,
+        18.000000000000007,
+        1.648796
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 367.4968443835374,
+      "raw_bounds_mm": [
+        [
+          136.78218,
+          -158.51655799999847,
+          -3.25
+        ],
+        [
+          154.78218,
+          -140.51655799999847,
+          -1.601204
+        ]
+      ],
+      "sha256": "5ed00df0272bf311f76ce4ea060b5225d1e2f7e29708afba02e2f106df7298ff",
+      "purpose": "Rigid PLA foam-height gauge only"
+    },
+    {
+      "name": "button_blank_PLA_trial_1",
+      "file": "STL/button_blank_PLA_trial_1.stl",
+      "size_mm": [
+        25.8,
+        25.8,
+        4.400000000000006
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 1096.440556274344,
+      "raw_bounds_mm": [
+        [
+          -12.9,
+          -12.9,
+          -1.5797943709000857e-15
+        ],
+        [
+          12.9,
+          12.9,
+          4.400000000000005
+        ]
+      ],
+      "sha256": "653209442bfadbab8a5358a9769bc619a450b09398e5b127917906ba5d9a527b",
+      "purpose": "PLA clip fit trial; not PETG fatigue qualification"
+    },
+    {
+      "name": "button_blank_PLA_trial_2",
+      "file": "STL/button_blank_PLA_trial_2.stl",
+      "size_mm": [
+        25.8,
+        25.8,
+        4.400000000000006
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 1096.440556274344,
+      "raw_bounds_mm": [
+        [
+          -12.9,
+          -12.9,
+          -1.5797943709000857e-15
+        ],
+        [
+          12.9,
+          12.9,
+          4.400000000000005
+        ]
+      ],
+      "sha256": "653209442bfadbab8a5358a9769bc619a450b09398e5b127917906ba5d9a527b",
+      "purpose": "PLA clip fit trial; not PETG fatigue qualification"
+    },
+    {
+      "name": "button_blank_PLA_trial_3",
+      "file": "STL/button_blank_PLA_trial_3.stl",
+      "size_mm": [
+        25.8,
+        25.8,
+        4.400000000000006
+      ],
+      "solid_count": 1,
+      "native_volume_mm3": 1096.440556274344,
+      "raw_bounds_mm": [
+        [
+          -12.9,
+          -12.9,
+          -1.5797943709000857e-15
+        ],
+        [
+          12.9,
+          12.9,
+          4.400000000000005
+        ]
+      ],
+      "sha256": "653209442bfadbab8a5358a9769bc619a450b09398e5b127917906ba5d9a527b",
+      "purpose": "PLA clip fit trial; not PETG fatigue qualification"
+    }
+  ],
+  "source_sha256": {
+    "layout.json": "1638a503c2819bebb27d63aa5a93be337bfa213c712ae7f3bdb7e52f0e97843b",
+    "constraints.json": "fa3421d84aec467f8afd9d317918c78884beba9c91484dd21b7d6aa17b72aa9a",
+    "button-blank-spec.json": "afcf15958dad82440e859476bd9f3e8373750bd3aea49a184adbcad78245653d",
+    "src\\common.py": "fca63e40d1831abf95453f98b0e882aabfaa73c5e44cd313b5542269a50af4ad",
+    "src\\option_common.py": "143506fe51684e4b2bc33d968cf6637a5ff18dafc95ab2281020c5289b68e66a",
+    "src\\button_blank_common.py": "b356775c45b5fd573839af6a296e730f2105fb21f0c774371c02b82a7f48937f"
+  },
+  "warning": "Unpowered mock. Rigid foam gauges are not damping foam. PLA plugs require a first fit trial. Earlier full PCB/assembly routing and tolerance limits remain."
+}

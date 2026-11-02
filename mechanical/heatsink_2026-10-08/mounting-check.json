@@ -1,0 +1,32 @@
+{
+  "units": "mm",
+  "artifact_sha256": "ac85001d3e9a2cc2b16171bdce20bb59b41de7af957a48ba3bc2cab234fb71c1",
+  "new_part_count": 12,
+  "board_intersection_tests_after_bbox_filter": 16,
+  "board_collision_hits": [],
+  "board_model_z_envelope": [
+    -4.5000001,
+    8.6000001
+  ],
+  "outer_plate_reference_z": {
+    "bottom": [
+      -15,
+      -12
+    ],
+    "top": [
+      8,
+      11
+    ]
+  },
+  "rear_washer_z": [
+    -2.15,
+    -1.65
+  ],
+  "rear_retainer_z": [
+    -4.15,
+    -2.15
+  ],
+  "rear_retainer_to_bottom_plate_vertical_gap_mm": 7.85,
+  "top_bezel_window_clearance_from_pcb_outline_mm": 1.4,
+  "scope": "Saved nominal layout only. Outer plates are envelopes. Gasket carrier, bottom spreader, V2 retention plate, screw/head/thread geometry and loaded motion are not released."
+}

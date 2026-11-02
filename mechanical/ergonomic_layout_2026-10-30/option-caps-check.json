@@ -1,0 +1,24 @@
+{
+  "units": "mm",
+  "cap_count": 6,
+  "stem_diameter": 5.6,
+  "guide_diameter": 6.2,
+  "flange_diameter": 8,
+  "contact_tip_diameter": 1.4,
+  "generic_actuator_height": 5,
+  "cap_rest_top": 11.2,
+  "PCB_z_motion": [
+    -0.25,
+    0.25
+  ],
+  "assumed_switch_operating_travel": 0.35,
+  "tested_mechanical_limit_travel": 0.45,
+  "guide_radial_play": 0.3,
+  "minimum_projected_board_cover_overlap": 0.5999999999999999,
+  "minimum_upper_retention_clearance": 0.25,
+  "minimum_downward_stop_margin_at_operating_travel": 0.10000000000000053,
+  "minimum_tip_centre_margin_with_XY_board_motion": 0.6428932188134524,
+  "solid_pair_tests": 864,
+  "collisions": [],
+  "limitations": "Exact option-switch MPN unspecified. Generic H5 model; actual height, stroke, return force, cap friction and manufacturing tolerance require trial. Pressed actuator motion is assumed, not simulated. Flanges hide PCB; not an IP seal."
+}

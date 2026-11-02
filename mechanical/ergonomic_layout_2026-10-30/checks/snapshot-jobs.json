@@ -1,0 +1,140 @@
+{
+  "jobs": [
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\top_acrylic.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\top_acrylic.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\bottom_spacer.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\bottom_spacer.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\top_spacer.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\top_spacer.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\switch_plate.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\switch_plate.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\screen_frame.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\screen_frame.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\mounts.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\mounts.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\foam.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\foam.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\option_caps.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\option_caps.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\option_retainer.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\option_retainer.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\option_hardware.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\option_hardware.png",
+          "camera": "top"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    },
+    {
+      "input": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\STEP\\assembly.step",
+      "outputs": [
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\assembly-top.png",
+          "camera": "top"
+        },
+        {
+          "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\review\\assembly-iso.png",
+          "camera": "iso"
+        }
+      ],
+      "output": {
+        "sizeProfile": "simple"
+      }
+    }
+  ]
+}

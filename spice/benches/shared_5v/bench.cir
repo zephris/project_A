@@ -1,0 +1,7 @@
+PHBox shared_5v planning model
+.include "circuit.inc"
+.tran 1u 30m
+.meas tran rail_min MIN v(rail5) FROM=2m TO=30m
+.meas tran source_peak MAX par('-i(Vsource)') FROM=2m TO=30m
+.meas tran source_avg AVG par('-i(Vsource)') FROM=2m TO=30m
+.end

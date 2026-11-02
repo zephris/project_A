@@ -1,0 +1,61 @@
+{
+  "method": "Main mass is slicer-reported deposition excluding tower. Category volumes are parsed from positive XY extrusion in saved G-code. Prime tower is measured separately; purge is total minus main minus tower. Parts include brim and a small rounding/unclassified-extrusion residual.",
+  "density_g_cm3": {
+    "PLA": 1.26,
+    "PETG": 1.27
+  },
+  "filament_diameter_mm": 1.75,
+  "categories": [
+    {
+      "category": "Mock parts + adhesion brim",
+      "PLA_g": 341.54033251640624,
+      "PETG_g": 0,
+      "total_g": 341.54033251640624
+    },
+    {
+      "category": "Support scaffold + transition layers",
+      "PLA_g": 187.0695918,
+      "PETG_g": 0,
+      "total_g": 187.0695918
+    },
+    {
+      "category": "PETG release interfaces",
+      "PLA_g": 0,
+      "PETG_g": 102.2027547,
+      "total_g": 102.2027547
+    },
+    {
+      "category": "Prime / wipe tower",
+      "PLA_g": 31.287236399999998,
+      "PETG_g": 15.1697182,
+      "total_g": 46.456954599999996
+    },
+    {
+      "category": "Purge and material-change waste (inferred remainder)",
+      "PLA_g": 76.43072014296875,
+      "PETG_g": 77.03729779121093,
+      "total_g": 153.46801793417967
+    }
+  ],
+  "job_totals_g": {
+    "PLA": 636.327880859375,
+    "PETG": 194.40977478027344
+  },
+  "trial_totals_g": {
+    "PLA": 11.113052368164062,
+    "PETG": 7.266242980957031
+  },
+  "full_job_plus_trial_g": {
+    "PLA": 647.4409332275391,
+    "PETG": 201.67601776123047
+  },
+  "suggested_available_g": {
+    "PLA": 750,
+    "PETG": 250
+  },
+  "filament_length_m": {
+    "PLA": 209.96380209334149,
+    "PETG": 63.642670900414814
+  },
+  "limitations": "Slicer predictions, not weighed consumption. Startup/calibration routines, nozzle cleaning, runout recovery and failures can consume additional filament. PETG density is assumed 1.27 g/cm3 because Basic versus HF is unconfirmed."
+}

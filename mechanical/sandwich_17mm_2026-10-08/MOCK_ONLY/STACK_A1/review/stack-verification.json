@@ -1,0 +1,1354 @@
+{
+  "part_count": 105,
+  "separate_named_meshes": 105,
+  "assembly_containers": 1,
+  "input_geometry_xml_sha256": "81a053269786e06911f47aef49d242f14d225b560a56dd9e639c5e28406d4600",
+  "bbox_min_mm": [
+    5.5,
+    5.5,
+    0.0
+  ],
+  "bbox_max_mm": [
+    250.30000000000507,
+    249.20000020000128,
+    44.95
+  ],
+  "minimum_stacked_bbox_separation_mm": 0.9999999999999769,
+  "native_position_max_error_mm": 3.200004357495345e-06,
+  "slicer_settings_verified": {
+    "printer_model": "Bambu Lab A1",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "filament_type": [
+      "PLA",
+      "PETG"
+    ],
+    "support_filament": "1",
+    "support_interface_filament": "2",
+    "support_top_z_distance": "0",
+    "support_bottom_z_distance": "0",
+    "support_interface_top_layers": "2",
+    "support_interface_bottom_layers": "2",
+    "support_bottom_interface_spacing": "0",
+    "support_interface_spacing": "0",
+    "raft_first_layer_expansion": "1.5",
+    "support_on_build_plate_only": "0",
+    "enable_prime_tower": "1",
+    "flush_into_infill": "0",
+    "flush_into_objects": "0",
+    "flush_into_support": "0",
+    "flush_volumes_matrix": [
+      "0",
+      "800",
+      "800",
+      "0"
+    ],
+    "layer_height": "0.1",
+    "initial_layer_print_height": "0.1",
+    "top_shell_layers": "4",
+    "top_shell_thickness": "0.4",
+    "bottom_shell_layers": "3",
+    "bottom_shell_thickness": "0.3",
+    "sparse_infill_density": "10%",
+    "outer_wall_speed": [
+      "100"
+    ],
+    "inner_wall_speed": [
+      "200"
+    ],
+    "small_perimeter_speed": [
+      "35"
+    ],
+    "small_perimeter_threshold": [
+      "6"
+    ],
+    "top_surface_speed": [
+      "80"
+    ],
+    "support_interface_speed": [
+      "80"
+    ],
+    "prime_tower_max_speed": "120",
+    "nozzle_temperature": [
+      "220",
+      "245"
+    ],
+    "filament_max_volumetric_speed": [
+      "21",
+      "8"
+    ],
+    "filament_flow_ratio": [
+      "0.98",
+      "0.94"
+    ],
+    "filament_flush_temp": [
+      "245",
+      "245"
+    ]
+  },
+  "support_deposited_volume_mm3": 228942.54,
+  "feature_volumes_mm3": {
+    "Prime tower / PLA": 24831.14,
+    "Support / PLA": 84409.71,
+    "Brim / PLA": 31.82,
+    "Inner wall / PLA": 22212.1,
+    "Outer wall / PLA": 22035.09,
+    "Bottom surface / PLA": 4241.44,
+    "Internal solid infill / PLA": 87867.59,
+    "Top surface / PLA": 22382.8,
+    "Gap infill / PLA": 9.79,
+    "Sparse infill / PLA": 32247.94,
+    "Prime tower / PETG": 11944.66,
+    "Support interface / PETG": 80474.61,
+    "Floating vertical shell / PLA": 799.06,
+    "Support transition / PLA": 64058.22,
+    "Bridge / PLA": 79183.81
+  },
+  "feature_xy_bounds_mm": {
+    "Prime tower": [
+      11.129,
+      206.129,
+      51.871,
+      247.621
+    ],
+    "Support": [
+      0.705,
+      3.554,
+      255.096,
+      251.147
+    ],
+    "Brim": [
+      157.027,
+      156.477,
+      252.432,
+      206.977
+    ],
+    "Inner wall": [
+      5.973,
+      6.124,
+      249.716,
+      248.576
+    ],
+    "Outer wall": [
+      5.71,
+      5.7,
+      250.1,
+      248.99
+    ],
+    "Bottom surface": [
+      6.495,
+      6.496,
+      249.305,
+      248.205
+    ],
+    "Internal solid infill": [
+      6.293,
+      6.293,
+      249.507,
+      248.163
+    ],
+    "Top surface": [
+      5.929,
+      5.929,
+      249.871,
+      248.771
+    ],
+    "Gap infill": [
+      5.909,
+      5.909,
+      249.891,
+      248.684
+    ],
+    "Sparse infill": [
+      6.488,
+      6.488,
+      249.312,
+      248.212
+    ],
+    "Support interface": [
+      2.164,
+      4.823,
+      253.636,
+      249.877
+    ],
+    "Floating vertical shell": [
+      6.483,
+      6.492,
+      249.295,
+      248.195
+    ],
+    "Support transition": [
+      1.975,
+      4.823,
+      253.826,
+      249.877
+    ],
+    "Bridge": [
+      6.293,
+      6.293,
+      249.504,
+      248.202
+    ]
+  },
+  "every_elevated_part_has_PETG_below": true,
+  "contacts": [
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_1",
+      "tier": 1,
+      "base_z_mm": 0.0,
+      "model_path_count": 8606,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 2.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.4654943925052066e-14
+    },
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_2",
+      "tier": 1,
+      "base_z_mm": 0.0,
+      "model_path_count": 8433,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 2.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -2.3092638912203256e-14
+    },
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_3",
+      "tier": 1,
+      "base_z_mm": 0.0,
+      "model_path_count": 7953,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 2.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.2434497875801753e-14
+    },
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_4",
+      "tier": 2,
+      "base_z_mm": 3.0,
+      "model_path_count": 9156,
+      "PETG_interface_path_count_under_part": 740,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.2434497875801753e-14
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_1",
+      "tier": 2,
+      "base_z_mm": 3.0,
+      "model_path_count": 12243,
+      "PETG_interface_path_count_under_part": 1532,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.3322676295501878e-14
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_2",
+      "tier": 2,
+      "base_z_mm": 3.0,
+      "model_path_count": 15774,
+      "PETG_interface_path_count_under_part": 1694,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.0658141036401503e-14
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_3",
+      "tier": 3,
+      "base_z_mm": 6.0,
+      "model_path_count": 30641,
+      "PETG_interface_path_count_under_part": 1468,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 8.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_4",
+      "tier": 3,
+      "base_z_mm": 6.0,
+      "model_path_count": 23827,
+      "PETG_interface_path_count_under_part": 1572,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 8.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.0658141036401503e-14
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1",
+      "tier": 3,
+      "base_z_mm": 6.0,
+      "model_path_count": 9011,
+      "PETG_interface_path_count_under_part": 434,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.001204000000000427
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2",
+      "tier": 4,
+      "base_z_mm": 8.7,
+      "model_path_count": 7592,
+      "PETG_interface_path_count_under_part": 438,
+      "first_model_layer_z_mm": 8.8,
+      "last_model_layer_z_mm": 10.3,
+      "base_quantization_error_mm": 1.7763568394002505e-15,
+      "top_quantization_error_mm": -0.0012039999999977624
+    },
+    {
+      "part": "switch_plate_QUARTER_1",
+      "tier": 5,
+      "base_z_mm": 9.0,
+      "model_path_count": 8774,
+      "PETG_interface_path_count_under_part": 1244,
+      "first_model_layer_z_mm": 9.1,
+      "last_model_layer_z_mm": 10.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "switch_plate_QUARTER_2",
+      "tier": 5,
+      "base_z_mm": 9.0,
+      "model_path_count": 8648,
+      "PETG_interface_path_count_under_part": 1290,
+      "first_model_layer_z_mm": 9.1,
+      "last_model_layer_z_mm": 10.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "switch_plate_QUARTER_3",
+      "tier": 6,
+      "base_z_mm": 11.3,
+      "model_path_count": 10060,
+      "PETG_interface_path_count_under_part": 1204,
+      "first_model_layer_z_mm": 11.4,
+      "last_model_layer_z_mm": 12.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "switch_plate_QUARTER_4",
+      "tier": 6,
+      "base_z_mm": 11.3,
+      "model_path_count": 12109,
+      "PETG_interface_path_count_under_part": 1340,
+      "first_model_layer_z_mm": 11.4,
+      "last_model_layer_z_mm": 12.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3",
+      "tier": 7,
+      "base_z_mm": 11.4,
+      "model_path_count": 13922,
+      "PETG_interface_path_count_under_part": 432,
+      "first_model_layer_z_mm": 11.5,
+      "last_model_layer_z_mm": 20.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.0012040000000013151
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4",
+      "tier": 8,
+      "base_z_mm": 13.6,
+      "model_path_count": 9310,
+      "PETG_interface_path_count_under_part": 690,
+      "first_model_layer_z_mm": 13.7,
+      "last_model_layer_z_mm": 22.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.0012039999999977624
+    },
+    {
+      "part": "bottom_spacer_QUARTER_3",
+      "tier": 8,
+      "base_z_mm": 13.6,
+      "model_path_count": 28376,
+      "PETG_interface_path_count_under_part": 2134,
+      "first_model_layer_z_mm": 13.7,
+      "last_model_layer_z_mm": 19.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "top_spacer_QUARTER_3",
+      "tier": 9,
+      "base_z_mm": 20.0,
+      "model_path_count": 34173,
+      "PETG_interface_path_count_under_part": 1182,
+      "first_model_layer_z_mm": 20.1,
+      "last_model_layer_z_mm": 29.9,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999716
+    },
+    {
+      "part": "bottom_spacer_QUARTER_4",
+      "tier": 10,
+      "base_z_mm": 21.1,
+      "model_path_count": 39369,
+      "PETG_interface_path_count_under_part": 1372,
+      "first_model_layer_z_mm": 21.2,
+      "last_model_layer_z_mm": 26.5,
+      "base_quantization_error_mm": -3.552713678800501e-15,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "top_spacer_QUARTER_4",
+      "tier": 12,
+      "base_z_mm": 27.5,
+      "model_path_count": 36792,
+      "PETG_interface_path_count_under_part": 786,
+      "first_model_layer_z_mm": 27.6,
+      "last_model_layer_z_mm": 37.4,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999716
+    },
+    {
+      "part": "bottom_spacer_QUARTER_1",
+      "tier": 11,
+      "base_z_mm": 23.3,
+      "model_path_count": 27047,
+      "PETG_interface_path_count_under_part": 1500,
+      "first_model_layer_z_mm": 23.4,
+      "last_model_layer_z_mm": 26.5,
+      "base_quantization_error_mm": -3.552713678800501e-15,
+      "top_quantization_error_mm": 0.04999999999999716
+    },
+    {
+      "part": "top_spacer_QUARTER_1",
+      "tier": 12,
+      "base_z_mm": 27.5,
+      "model_path_count": 32606,
+      "PETG_interface_path_count_under_part": 1106,
+      "first_model_layer_z_mm": 27.6,
+      "last_model_layer_z_mm": 37.4,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999716
+    },
+    {
+      "part": "bottom_spacer_QUARTER_2",
+      "tier": 13,
+      "base_z_mm": 30.9,
+      "model_path_count": 26365,
+      "PETG_interface_path_count_under_part": 1860,
+      "first_model_layer_z_mm": 31.0,
+      "last_model_layer_z_mm": 34.1,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.05000000000000426
+    },
+    {
+      "part": "top_spacer_QUARTER_2",
+      "tier": 14,
+      "base_z_mm": 35.1,
+      "model_path_count": 31673,
+      "PETG_interface_path_count_under_part": 1098,
+      "first_model_layer_z_mm": 35.2,
+      "last_model_layer_z_mm": 45.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999716
+    },
+    {
+      "part": "aluminium_heatsink_SURROGATE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 16657,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 5.7,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.0000000472132342e-07
+    },
+    {
+      "part": "screen_frame",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 6266,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 3162,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "USB_C_collar",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 2109,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 2.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "USB_A_collar",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 1966,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 2.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 1032,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_1_2_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 814,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_1_3_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 815,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_1_4_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 799,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_1_5_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 788,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_1_6_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 773,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.04879599999999984
+    },
+    {
+      "part": "pad_2_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 429,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_3_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 396,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 1.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_1_bottom_0p5_SURROGATE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 466,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 0.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_8_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 15,
+      "base_z_mm": 0.0,
+      "model_path_count": 127,
+      "PETG_interface_path_count_under_part": null,
+      "first_model_layer_z_mm": 0.1,
+      "last_model_layer_z_mm": 0.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999999
+    },
+    {
+      "part": "option_retainer",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 12637,
+      "PETG_interface_path_count_under_part": 476,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.8,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_4_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 413,
+      "PETG_interface_path_count_under_part": 92,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_5_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 383,
+      "PETG_interface_path_count_under_part": 92,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_6_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 366,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_7_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 379,
+      "PETG_interface_path_count_under_part": 98,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_plate_stop_H1",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 3880,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "insulating_plate_rear_tapped_cap_H1",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1357,
+      "PETG_interface_path_count_under_part": 42,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_plate_stop_H2",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 3906,
+      "PETG_interface_path_count_under_part": 48,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "insulating_plate_rear_tapped_cap_H2",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1466,
+      "PETG_interface_path_count_under_part": 48,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_plate_stop_H3",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 3851,
+      "PETG_interface_path_count_under_part": 42,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "insulating_plate_rear_tapped_cap_H3",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1402,
+      "PETG_interface_path_count_under_part": 44,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "custom_POM_stop_H5",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 4690,
+      "PETG_interface_path_count_under_part": 40,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 8.9,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "custom_POM_stop_H7",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 4700,
+      "PETG_interface_path_count_under_part": 76,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 8.9,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_support_washer_H5",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 402,
+      "PETG_interface_path_count_under_part": 46,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 3.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_support_washer_H7",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 404,
+      "PETG_interface_path_count_under_part": 56,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 3.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "rear_insulating_washer_H5",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 178,
+      "PETG_interface_path_count_under_part": 58,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 3.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "custom_POM_retainer_thread_not_modeled_H5",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1491,
+      "PETG_interface_path_count_under_part": 54,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "rear_insulating_washer_H7",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 185,
+      "PETG_interface_path_count_under_part": 54,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 3.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "custom_POM_retainer_thread_not_modeled_H7",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1549,
+      "PETG_interface_path_count_under_part": 60,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 5.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "OPSW1_captive_cap_H5_trial",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 6295,
+      "PETG_interface_path_count_under_part": 86,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 9.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "acrylic_case_post_1_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14609,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_2_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14626,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_3_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14651,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_4_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14615,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_5_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14626,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_6_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14588,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_7_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14794,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_post_8_12mm_AF5_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 14623,
+      "PETG_interface_path_count_under_part": 32,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 15.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "printed_screen_stop_1_3mm",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 2389,
+      "PETG_interface_path_count_under_part": 18,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_1_M2",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1185,
+      "PETG_interface_path_count_under_part": 28,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "printed_screen_stop_2_3mm",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 2392,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_2_M2",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1179,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "printed_screen_stop_3_3mm",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 2395,
+      "PETG_interface_path_count_under_part": 30,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_3_M2",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1192,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "option_retainer_M2_nut_envelope_1_SURROGATE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 1223,
+      "PETG_interface_path_count_under_part": 24,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 4.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "pad_9_1_INSTALLED_HEIGHT_GAUGE",
+      "tier": 16,
+      "base_z_mm": 3.0,
+      "model_path_count": 67,
+      "PETG_interface_path_count_under_part": 20,
+      "first_model_layer_z_mm": 3.1,
+      "last_model_layer_z_mm": 3.4,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -0.050000000000000266
+    },
+    {
+      "part": "OPSW2_captive_cap_H5_trial",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 6273,
+      "PETG_interface_path_count_under_part": 53,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "OPSW3_captive_cap_H5_trial",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 6295,
+      "PETG_interface_path_count_under_part": 36,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "OPSW4_captive_cap_H5_trial",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 6267,
+      "PETG_interface_path_count_under_part": 34,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "OPSW5_captive_cap_H5_trial",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 6275,
+      "PETG_interface_path_count_under_part": 50,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "OPSW6_captive_cap_H5_trial",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 6264,
+      "PETG_interface_path_count_under_part": 40,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.2,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": -1.7763568394002505e-15
+    },
+    {
+      "part": "acrylic_case_washer_1_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 446,
+      "PETG_interface_path_count_under_part": 42,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_2_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 449,
+      "PETG_interface_path_count_under_part": 40,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_2_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 452,
+      "PETG_interface_path_count_under_part": 44,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_3_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 452,
+      "PETG_interface_path_count_under_part": 44,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_3_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 456,
+      "PETG_interface_path_count_under_part": 44,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_4_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 458,
+      "PETG_interface_path_count_under_part": 42,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_4_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 458,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_5_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 446,
+      "PETG_interface_path_count_under_part": 40,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_5_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 444,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_6_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 448,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_6_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 442,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_7_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 442,
+      "PETG_interface_path_count_under_part": 38,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_7_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 445,
+      "PETG_interface_path_count_under_part": 40,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_8_bottom_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 443,
+      "PETG_interface_path_count_under_part": 36,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "acrylic_case_washer_8_top_0p5_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 456,
+      "PETG_interface_path_count_under_part": 42,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "printed_screen_stop_4_3mm",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 2404,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 10.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.049999999999998934
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_4_M2",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 1193,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 7.3,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.04999999999999982
+    },
+    {
+      "part": "custom_POM_stop_H12",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 1655,
+      "PETG_interface_path_count_under_part": 28,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 10.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "insulating_support_washer_H12",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 112,
+      "PETG_interface_path_count_under_part": 28,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "rear_insulating_washer_H12",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 214,
+      "PETG_interface_path_count_under_part": 24,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 6.5,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "custom_POM_retainer_thread_not_modeled_H12",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 1293,
+      "PETG_interface_path_count_under_part": 24,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 8.0,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "option_retainer_M2_nut_envelope_2_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 1232,
+      "PETG_interface_path_count_under_part": 26,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 7.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "option_retainer_M2x5_pan_screw_envelope_1_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 2278,
+      "PETG_interface_path_count_under_part": 16,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "option_retainer_M2x5_pan_screw_envelope_2_SURROGATE",
+      "tier": 17,
+      "base_z_mm": 6.0,
+      "model_path_count": 2278,
+      "PETG_interface_path_count_under_part": 16,
+      "first_model_layer_z_mm": 6.1,
+      "last_model_layer_z_mm": 12.6,
+      "base_quantization_error_mm": 0.0,
+      "top_quantization_error_mm": 0.0
+    },
+    {
+      "part": "OLED_MODULE_PCB_SURROGATE",
+      "tier": 18,
+      "base_z_mm": 8.7,
+      "model_path_count": 4260,
+      "PETG_interface_path_count_under_part": 270,
+      "first_model_layer_z_mm": 8.8,
+      "last_model_layer_z_mm": 9.9,
+      "base_quantization_error_mm": 1.7763568394002505e-15,
+      "top_quantization_error_mm": 1.7763568394002505e-15
+    }
+  ],
+  "failures": [],
+  "limitations": "Path checks confirm deposited support exists in each elevated part footprint; they do not prove continuous support over every point or physical release/adhesion. Bounding boxes are conservative; local undersides and process-specific tolerances still need the coupon."
+}

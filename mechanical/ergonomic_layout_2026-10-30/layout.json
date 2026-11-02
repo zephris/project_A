@@ -1,0 +1,37 @@
+{
+  "description": "Higher control field, 32 mm action columns; positions in KiCad mm, USB edge at decreasing Y. Prototype ergonomic candidate, not a medical claim.",
+  "switch_centres": {
+    "SW1": [105.8, 83.8],
+    "SW2": [73.8, 115.8],
+    "SW3": [105.8, 115.8],
+    "SW4": [136.8, 125.8],
+    "SW5": [142.991758, 166.66725],
+    "SW6": [182.93218, 167.0],
+    "SW7": [225.0, 163.0],
+    "SW8": [193.0, 138.0],
+    "SW9": [225.0, 126.5],
+    "SW10": [257.0, 126.5],
+    "SW11": [289.0, 132.0],
+    "SW12": [199.0, 104.0],
+    "SW13": [231.0, 92.5],
+    "SW14": [263.0, 92.5],
+    "SW15": [295.0, 98.0],
+    "SW16": [192.0, 71.5]
+  },
+  "screen_delta_mm": [0.0, -2.0],
+  "options_delta_mm": [0.0, -3.0],
+  "cap_diameter_assumption_mm": 20.0,
+  "cover_hole_diameter_mm": 24.0,
+  "keycap_selection": {
+    "product": "SGF MonKeys",
+    "variant": "Choc V2 / Small / Flat / Nekkid",
+    "nominal_diameter_mm": 20.0,
+    "maximum_accepted_outer_diameter_mm": 20.2,
+    "material": "PA12 nylon",
+    "url": "https://additivearcade.com/products/low-profile-sgf-monkeys-button-caps",
+    "generic_substitution": "20 mm round cap for Kailh Choc V2, MX-style cross stem; verify maximum skirt diameter, seating depth and full-stroke fit. Not a complete 20 mm panel-mount arcade switch.",
+    "exact_underside_and_seating_depth_verified": false
+  },
+  "case_size_mm": [292.6, 191.0, 17.0],
+  "action_rows": [["SW12", "SW13", "SW14", "SW15"], ["SW8", "SW9", "SW10", "SW11"]]
+}

@@ -1,0 +1,19 @@
+{
+  "part": "SMD0805-075-12V",
+  "LCSC": "C19108399",
+  "source": "https://robu.in/wp-content/uploads/2024/11/C19108399.pdf",
+  "page": 3,
+  "old_pad_size_mm": [
+    0.975,
+    1.4
+  ],
+  "old_gap_mm": 0.9,
+  "new_pad_size_mm": [
+    1,
+    1.5
+  ],
+  "new_gap_mm": 1.2,
+  "new_center_offset_mm": 1.1,
+  "component_origin_and_rotation_unchanged": true,
+  "pad_nets_unchanged": true
+}

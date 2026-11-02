@@ -1,0 +1,3150 @@
+{
+  "units": "mm",
+  "warning": "MOCK ONLY. No powered tests with plastic heatsink or rigid pad gauges. Threads omitted.",
+  "source_hashes": {
+    "src\\assembly.py": "fc576d3f85c7f60fc15e3914e44108122ec81e12f9b4ed48323411cc9aabd28a",
+    "src\\bottom_acrylic.py": "eeecfc14e873a87fd0da1bc8ff0362795fcbeae27bc8ea5c772b5a32077704c0",
+    "src\\bottom_acrylic_cut.py": "155cc701ba06e6f2316b5233eb1a4a79370616073243faa21770bafacc73a830",
+    "src\\bottom_spacer.py": "dd1e69364d2b112d4af4935eaffd10ab3e815f4d893c1a049f72495dc0bacaab",
+    "src\\case_hardware.py": "befe68753e3c01415fedbfaf6047e504cdd8d630f67862b84ec2e21529848f93",
+    "src\\common.py": "36f74468333d06ab31407257598dcdee5541c996f8e4e986361330a00236f81d",
+    "src\\exploded.py": "db2f4da881cc4f858252b6fe58d6b39e06092bdf20adb169153f27631bb2eaad",
+    "src\\foam.py": "31ba7cc4373f6507abf212c0805b1729dae519b414eb9a60d8926b380f61d9d4",
+    "src\\foam_cut.py": "fd453d490684713b8f285b61d251a9e9999680a648b3a121d173a17f6d6bbfa5",
+    "src\\mounts.py": "b5d140d79713563d1ef5020189ccd07937d85387c065bfb6c1697f2a4edc7a7b",
+    "src\\option_caps.py": "0688bfa07a47601326dd2ddc16b8f284277e3ac620f35f20d107022501896c7b",
+    "src\\option_common.py": "70df10bcab386a3db5e8ab9da89d585692f37f9700c8d130841226e882a041ac",
+    "src\\option_hardware.py": "edc9b5f68f1719389e47da72fe630eb1793bdb863d5138940232b8f388740a1c",
+    "src\\option_retainer.py": "42ec86db711bccd3ffec96d6a8ac6f8293ee1b9784e870830c3f900c429d1ab3",
+    "src\\port_detail.py": "5c8e18b5c2277dc7f2093be528731c7455e89f255060ee25b6a642489ec41248",
+    "src\\port_seals.py": "53e577e00d430f200e136e200d9a5b6c36d3295a25c0e14eda0383194d4087e0",
+    "src\\port_seals_cut.py": "bfab55f5007b6eab1f770180fbe7c170cafca95d57421d5a2fc576261606586a",
+    "src\\port_seal_common.py": "8da5a3cc73534ebcdcb742726e737813d34ff3d585d78b8cdc3cb456cb82d814",
+    "src\\screen_frame.py": "8927825d2eef65a167e7242b3242bbaa71049ed12306974bb05b3b2940786e5d",
+    "src\\switch_coupon.py": "e28bbaf57e4e2fb3acf1b61888184185bd66b5a8af3f741c9b728a4f90c1be9e",
+    "src\\switch_coupon_cut.py": "591667064b915ff3b7a0660a23e9b135ada2d406fef0670986fb5801e1487595",
+    "src\\switch_plate.py": "a9fe0c089dca54dc7c33c802e174e9242dd321cb488bb48d486441ee8b90c5cd",
+    "src\\switch_plate_cut.py": "6b4d4c63af6e018100c04f1d51de3a77f8f447a689d303d8a1fec5427d86d987",
+    "src\\top_acrylic.py": "b9d4d3837038202a768d5b61f8b8639381bf5f9e341409e619522031b0e8c02b",
+    "src\\top_acrylic_cut.py": "1542d9c96864861f3277f9d16b391d3746c7876121c1c057f37d4f9e1b131f1a",
+    "src\\top_spacer.py": "38283b78cfc3da27be0594ae79a58f2c08db8cc34423ad6a696f5b34aeb77124",
+    "src\\upper_foam_cut.py": "457d59573ebba4ca16d48f1424e443ca45506e1a27885c062a23e6e8d4d466ec",
+    "src\\usb_a_collar.py": "0e20c79e7aa76618909e256b80963a7696b0c1b2552a65b99a793015a6798465",
+    "src\\usb_c_collar.py": "e7e276592d06398f198634508d597872412ad955372fe3379bb9c6c20f2a58ce",
+    "../heatsink_2026-10-08/src/heatsink_common.py": "f60923bcdafa31215c360ddd43ccdb3867b90c90c27048a9a4c04e7308185cbf",
+    "../heatsink_2026-10-08/src/heatsink_fit.py": "57ec462bcde7acc49eb13ba7bbe93e21a4a435b3dd2b9c0ede66b03f6f9ff46b",
+    "../heatsink_2026-10-08/src/heatsink_mounting.py": "290d17ef1d07c434cf7bfaa3ad46ac1d7b542d7115cbc15ab867bb4bacefca2e",
+    "../heatsink_2026-10-08/src/heatsink_plate.py": "f98807293ead911360320f76e74285f129a5a752df98b5c182b190287d1d021e",
+    "../heatsink_2026-10-08/src/mounting_dimensions.py": "e265d600eef2c5569d6384da795f611078fd75bd3e9e8c937c5b2c78964abfb9"
+  },
+  "files": [
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Outline/H drills plus coarse U1/U3 and USB shell boxes; no mating ports or full topography",
+      "size_mm": [
+        272.6,
+        171.70744000000872,
+        8.601204
+      ],
+      "native_volume_mm3": 75949.23444269392,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          52.28217999999998,
+          -205.5165580000087,
+          -1.601204
+        ],
+        [
+          324.88218,
+          -33.809118,
+          7.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Outline/H drills plus coarse U1/U3 and USB shell boxes; no mating ports or full topography",
+      "size_mm": [
+        136.3,
+        85.85372000000436,
+        1.601204
+      ],
+      "native_volume_mm3": 18619.36989312334,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          52.28217999999998,
+          -205.51655800000873,
+          -1.601204
+        ],
+        [
+          188.58218,
+          -119.66283800000437,
+          0.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Outline/H drills plus coarse U1/U3 and USB shell boxes; no mating ports or full topography",
+      "size_mm": [
+        136.30000000000004,
+        85.85372000000436,
+        1.601204
+      ],
+      "native_volume_mm3": 18670.880479729924,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -205.51655800000873,
+          -1.601204
+        ],
+        [
+          324.88218,
+          -119.66283800000437,
+          0.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Outline/H drills plus coarse U1/U3 and USB shell boxes; no mating ports or full topography",
+      "size_mm": [
+        136.3,
+        85.85372000000436,
+        8.601204
+      ],
+      "native_volume_mm3": 19094.519367277167,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          52.28217999999998,
+          -119.66283800000434,
+          -1.601204
+        ],
+        [
+          188.58218,
+          -33.809118,
+          7.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Outline/H drills plus coarse U1/U3 and USB shell boxes; no mating ports or full topography",
+      "size_mm": [
+        136.30000000000004,
+        85.52283800000436,
+        8.601204
+      ],
+      "native_volume_mm3": 19564.464703288922,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -119.66283800000434,
+          -1.601204
+        ],
+        [
+          324.88218,
+          -34.14,
+          7.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/OLED_MODULE_PCB_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "35.4 x 33.5 mm module PCB and holes only; glass/header height not represented",
+      "size_mm": [
+        35.400000000000006,
+        33.5,
+        1.2000000000000002
+      ],
+      "native_volume_mm3": 1401.3653115783875,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          82.6,
+          -70.75,
+          3.0
+        ],
+        [
+          118.0,
+          -37.25,
+          4.2
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint, holes and countersinks; not acrylic stiffness",
+      "size_mm": [
+        292.6,
+        191.00000000001,
+        2.0
+      ],
+      "native_volume_mm3": 89826.75512423164,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          8.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          10.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint, holes and countersinks; not acrylic stiffness",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        2.0000000000000133
+      ],
+      "native_volume_mm3": 23269.35733410793,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          8.0
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          10.000000000000014
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint, holes and countersinks; not acrylic stiffness",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        2.000000000000011
+      ],
+      "native_volume_mm3": 21457.948569304343,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          8.0
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          10.00000000000001
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint, holes and countersinks; not acrylic stiffness",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        2.000000000000001
+      ],
+      "native_volume_mm3": 22564.561844416818,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          8.0
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          10.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint, holes and countersinks; not acrylic stiffness",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        2.000000000000011
+      ],
+      "native_volume_mm3": 22534.887380286782,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          8.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          10.00000000000001
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint and countersinks",
+      "size_mm": [
+        292.6,
+        191.00000000001,
+        2.0000000000000235
+      ],
+      "native_volume_mm3": 111302.29752955369,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -7.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          -5.0
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint and countersinks",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        2.0000000000000147
+      ],
+      "native_volume_mm3": 27820.089423546637,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -7.000000000000014
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          -5.0
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": true,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint and countersinks",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        2.000000000000023
+      ],
+      "native_volume_mm3": 27831.059345685528,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          -7.0000000000000115
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          -5.0
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": true,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint and countersinks",
+      "size_mm": [
+        146.3,
+        95.50000000000504,
+        2.0000000000000124
+      ],
+      "native_volume_mm3": 27844.275695974455,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          -7.000000000000002
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          -5.0
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": true,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "2 mm acrylic footprint and countersinks",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000504,
+        2.0000000000000124
+      ],
+      "native_volume_mm3": 27806.873069675752,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          -7.0000000000000115
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          -5.0
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": true,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/top_spacer.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, pockets and port roofs",
+      "size_mm": [
+        292.6,
+        191.00000000001,
+        9.850000000000001
+      ],
+      "native_volume_mm3": 76910.57121464601,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -1.85
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, pockets and port roofs",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        9.850000000000001
+      ],
+      "native_volume_mm3": 20258.247283474302,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -1.85
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, pockets and port roofs",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        9.850000000000001
+      ],
+      "native_volume_mm3": 20332.909592976168,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          -1.85
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, pockets and port roofs",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "native_volume_mm3": 18060.10774139364,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          -1.85
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          8.000000000000002
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, pockets and port roofs",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "native_volume_mm3": 18259.30660570303,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          -1.85
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          8.000000000000002
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_spacer.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, guides and support ledges",
+      "size_mm": [
+        292.6,
+        191.00000000001,
+        5.4
+      ],
+      "native_volume_mm3": 83925.1561609174,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -5.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          0.3999999999999999
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, guides and support ledges",
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "native_volume_mm3": 23756.59268723348,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -215.51655800000302,
+          -5.0
+        ],
+        [
+          188.58218,
+          -120.016557999998,
+          -1.8499999999999996
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, guides and support ledges",
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "native_volume_mm3": 22731.81773903783,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -215.51655800000302,
+          -5.0
+        ],
+        [
+          334.88218,
+          -120.016557999998,
+          -1.8499999999999996
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, guides and support ledges",
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        5.4
+      ],
+      "native_volume_mm3": 15771.245087389192,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          42.28217999999998,
+          -120.01655799999801,
+          -5.0
+        ],
+        [
+          188.58218,
+          -24.516557999992997,
+          0.3999999999999999
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Production shape, guides and support ledges",
+      "size_mm": [
+        146.30000000000004,
+        95.500000000005,
+        5.4
+      ],
+      "native_volume_mm3": 21665.500639436093,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -120.01655799999801,
+          -5.0
+        ],
+        [
+          334.88218,
+          -24.516557999992997,
+          0.3999999999999999
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/switch_plate.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "1.3 mm plate aperture/LED fit; print thickness carefully",
+      "size_mm": [
+        284.6,
+        131.5165580000001,
+        1.3
+      ],
+      "native_volume_mm3": 40931.98178548645,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.28218,
+          -211.516558,
+          3.0
+        ],
+        [
+          330.88218,
+          -79.99999999999991,
+          4.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "1.3 mm plate aperture/LED fit; print thickness carefully",
+      "size_mm": [
+        142.3,
+        65.75827900000007,
+        1.3
+      ],
+      "native_volume_mm3": 10321.042431903568,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.28218,
+          -211.516558,
+          3.0
+        ],
+        [
+          188.58218,
+          -145.75827899999993,
+          4.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "1.3 mm plate aperture/LED fit; print thickness carefully",
+      "size_mm": [
+        142.30000000000004,
+        65.75827900000007,
+        1.3
+      ],
+      "native_volume_mm3": 10188.526174458208,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -211.516558,
+          3.0
+        ],
+        [
+          330.88218,
+          -145.75827899999993,
+          4.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "1.3 mm plate aperture/LED fit; print thickness carefully",
+      "size_mm": [
+        142.3,
+        65.75827900000004,
+        1.3
+      ],
+      "native_volume_mm3": 10470.957664849686,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.28218,
+          -145.75827899999996,
+          3.0
+        ],
+        [
+          188.58218,
+          -79.99999999999991,
+          4.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_4.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "1.3 mm plate aperture/LED fit; print thickness carefully",
+      "size_mm": [
+        142.30000000000004,
+        65.75827900000004,
+        1.3
+      ],
+      "native_volume_mm3": 9951.455514272997,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          188.58217999999997,
+          -145.75827899999996,
+          3.0
+        ],
+        [
+          330.88218,
+          -79.99999999999991,
+          4.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": true,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/screen_frame.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Unpowered fit check",
+      "size_mm": [
+        40.400000000000006,
+        38.500000000001236,
+        1.0
+      ],
+      "native_volume_mm3": 423.0045434385731,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          80.1,
+          -73.25000000000063,
+          4.2
+        ],
+        [
+          120.5,
+          -34.74999999999938,
+          5.2
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/aluminium_heatsink_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Boss/BOOTSEL/RESET and mount fit only: never a powered heatsink",
+      "size_mm": [
+        60.0000002,
+        52.90000019999999,
+        5.700000100000005
+      ],
+      "native_volume_mm3": 6342.078018463103,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          120.9999999,
+          -91.31655809999998,
+          1.3
+        ],
+        [
+          181.0000001,
+          -38.41655790000001,
+          7.0000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/printed_screen_stop_1_3mm.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "native_volume_mm3": 45.865289247002465,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          82.69999999999999,
+          -42.15,
+          -1.55
+        ],
+        [
+          87.5,
+          -37.35,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_1_M2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "native_volume_mm3": 19.782216240573227,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          82.69999999999999,
+          -42.15,
+          -2.851204
+        ],
+        [
+          87.5,
+          -37.35,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_stop_2_3mm.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "native_volume_mm3": 45.86528924700247,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          82.69999999999999,
+          -70.65,
+          -1.55
+        ],
+        [
+          87.5,
+          -65.85,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_2_M2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "native_volume_mm3": 19.782216240573227,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          82.69999999999999,
+          -70.65,
+          -2.851204
+        ],
+        [
+          87.5,
+          -65.85,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_stop_3_3mm.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "native_volume_mm3": 45.865289247002465,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          113.1,
+          -42.15,
+          -1.55
+        ],
+        [
+          117.9,
+          -37.35,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_3_M2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "native_volume_mm3": 19.782216240573227,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          113.1,
+          -42.15,
+          -2.851204
+        ],
+        [
+          117.9,
+          -37.35,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_stop_4_3mm.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "native_volume_mm3": 45.86528924700247,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          113.1,
+          -70.65,
+          -1.55
+        ],
+        [
+          117.9,
+          -65.85,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_4_M2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "native_volume_mm3": 19.782216240573227,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          113.1,
+          -70.65,
+          -2.851204
+        ],
+        [
+          117.9,
+          -65.85,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_stop_H1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "native_volume_mm3": 154.78430654696064,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          56.43218,
+          -201.916558,
+          -1.55
+        ],
+        [
+          64.43218,
+          -193.916558,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H1.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "native_volume_mm3": 90.71348787240527,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          56.43218,
+          -201.916558,
+          -3.601204
+        ],
+        [
+          64.43218,
+          -193.916558,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_stop_H2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "native_volume_mm3": 154.78430654696064,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          141.78218,
+          -153.516558,
+          -1.55
+        ],
+        [
+          149.78218,
+          -145.516558,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H2.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "native_volume_mm3": 90.71348787240527,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          141.78218,
+          -153.516558,
+          -3.601204
+        ],
+        [
+          149.78218,
+          -145.516558,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_stop_H3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "native_volume_mm3": 154.78430654696064,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          310.43218,
+          -201.916558,
+          -1.55
+        ],
+        [
+          318.43218,
+          -193.916558,
+          3.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H3.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "native_volume_mm3": 90.71348787240527,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          310.43218,
+          -201.916558,
+          -3.601204
+        ],
+        [
+          318.43218,
+          -193.916558,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_stop_H5.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        5.9
+      ],
+      "native_volume_mm3": 185.49141124039235,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          169.03218,
+          -47.916558,
+          -1.9
+        ],
+        [
+          177.03218,
+          -39.916558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_stop_H7.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        5.9
+      ],
+      "native_volume_mm3": 185.49141124039235,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          139.53218,
+          -90.316558,
+          -1.9
+        ],
+        [
+          147.53218,
+          -82.316558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_stop_H12.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.5,
+        4.5,
+        4.0
+      ],
+      "native_volume_mm3": 44.481024984014475,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          144.68218,
+          -46.166558,
+          0.0
+        ],
+        [
+          149.18218,
+          -41.666558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_support_washer_H5.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "native_volume_mm3": 16.823228659973342,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          169.03218,
+          -47.916558,
+          3.5
+        ],
+        [
+          177.03218,
+          -39.916558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_support_washer_H7.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "native_volume_mm3": 16.823228659973342,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          139.53218,
+          -90.316558,
+          3.5
+        ],
+        [
+          147.53218,
+          -82.316558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/insulating_support_washer_H12.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.5,
+        4.5,
+        0.5
+      ],
+      "native_volume_mm3": 3.4125550199619115,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          144.68218,
+          -46.166558,
+          3.5
+        ],
+        [
+          149.18218,
+          -41.666558,
+          4.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/rear_insulating_washer_H5.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "native_volume_mm3": 9.54651467609598,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          169.03218,
+          -47.916558,
+          -2.15
+        ],
+        [
+          177.03218,
+          -39.916558,
+          -1.65
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H5.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "native_volume_mm3": 90.71348787240527,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          169.03218,
+          -47.916558,
+          -4.15
+        ],
+        [
+          177.03218,
+          -39.916558,
+          -2.1500000000000004
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/rear_insulating_washer_H7.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "native_volume_mm3": 9.54651467609598,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          139.53218,
+          -90.316558,
+          -2.15
+        ],
+        [
+          147.53218,
+          -82.316558,
+          -1.65
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H7.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "native_volume_mm3": 90.71348787240527,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          139.53218,
+          -90.316558,
+          -4.15
+        ],
+        [
+          147.53218,
+          -82.316558,
+          -2.1500000000000004
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/rear_insulating_washer_H12.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.5,
+        4.5,
+        0.5
+      ],
+      "native_volume_mm3": 6.051492848977339,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          144.68218,
+          -46.166558,
+          -2.15
+        ],
+        [
+          149.18218,
+          -41.666558,
+          -1.65
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H12.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Exact existing insulating part envelope; pilot bore only, threads omitted",
+      "size_mm": [
+        4.5,
+        4.5,
+        2.0
+      ],
+      "native_volume_mm3": 27.787387021001724,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          144.68218,
+          -46.166558,
+          -4.15
+        ],
+        [
+          149.18218,
+          -41.666558,
+          -2.1500000000000004
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/OPSW1_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          213.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          221.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/OPSW2_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          223.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          231.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/OPSW3_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          233.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          241.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/OPSW4_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          246.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          254.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/OPSW5_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          256.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          264.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/OPSW6_captive_cap_H5_trial.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Option cap travel trial; small underside stem needs support",
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "native_volume_mm3": 153.71812854014854,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          266.73218,
+          -48.016558,
+          5.0
+        ],
+        [
+          274.73218,
+          -40.016558,
+          11.200000000000001
+        ]
+      ],
+      "flip_X_180": true,
+      "quarter_option": false,
+      "print_notes": "Support bosses as required"
+    },
+    {
+      "file": "STL/option_retainer.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Nut pocket and cap capture fit",
+      "size_mm": [
+        67.0,
+        19.0,
+        2.8
+      ],
+      "native_volume_mm3": 1099.6146174752373,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          210.73218,
+          -53.5,
+          5.2
+        ],
+        [
+          277.73217999999997,
+          -34.5,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Optional hardware visual gauge only; no functional threads",
+      "size_mm": [
+        4.0,
+        4.0,
+        6.6
+      ],
+      "native_volume_mm3": 35.81415625092364,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          242.23218,
+          -52.0,
+          5.0
+        ],
+        [
+          246.23218,
+          -48.0,
+          11.6
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/option_retainer_M2_nut_envelope_1_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Optional hardware visual gauge only; no functional threads",
+      "size_mm": [
+        4.0,
+        4.618802153517009,
+        1.6
+      ],
+      "native_volume_mm3": 17.14370209113797,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          242.23218,
+          -52.309401076758505,
+          5.3
+        ],
+        [
+          246.23218,
+          -47.690598923241495,
+          6.9
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Optional hardware visual gauge only; no functional threads",
+      "size_mm": [
+        4.0,
+        4.0,
+        6.6
+      ],
+      "native_volume_mm3": 35.81415625092364,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          242.23218,
+          -40.0,
+          5.0
+        ],
+        [
+          246.23218,
+          -36.0,
+          11.6
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/option_retainer_M2_nut_envelope_2_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Optional hardware visual gauge only; no functional threads",
+      "size_mm": [
+        4.0,
+        4.618802153517009,
+        1.6
+      ],
+      "native_volume_mm3": 17.14370209113797,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          242.23218,
+          -40.309401076758505,
+          5.3
+        ],
+        [
+          246.23218,
+          -35.690598923241495,
+          6.9
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "native_volume_mm3": 221.61732804125765,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          53.282179999999855,
+          -114.0,
+          -3.25
+        ],
+        [
+          61.28218000000013,
+          -96.0,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_2_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "native_volume_mm3": 237.20016876080606,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          53.282179999999855,
+          -184.0,
+          -3.25
+        ],
+        [
+          61.28218000000013,
+          -166.0,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_3_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "native_volume_mm3": 237.20016876080592,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          315.8821799999999,
+          -114.0,
+          -3.25
+        ],
+        [
+          323.8821800000001,
+          -96.0,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_4_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "native_volume_mm3": 237.20016876080592,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          315.8821799999999,
+          -184.0,
+          -3.25
+        ],
+        [
+          323.8821800000001,
+          -166.0,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_5_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        18.0,
+        8.000000000000275,
+        1.648796
+      ],
+      "native_volume_mm3": 237.20016782767738,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          111.0,
+          -204.51655800000015,
+          -3.25
+        ],
+        [
+          129.0,
+          -196.51655799999986,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_6_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        18.0,
+        8.000000000000275,
+        1.648796
+      ],
+      "native_volume_mm3": 237.20016782767755,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          241.0,
+          -204.51655800000015,
+          -3.25
+        ],
+        [
+          259.0,
+          -196.51655799999986,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        18.0,
+        18.00000000000308,
+        1.648796
+      ],
+      "native_volume_mm3": 419.56066483027826,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          136.78218,
+          -158.51655800000157,
+          -3.25
+        ],
+        [
+          154.78218,
+          -140.51655799999847,
+          -1.601204
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_2_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "native_volume_mm3": 151.20000000000002,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.78218,
+          -114.0,
+          4.3
+        ],
+        [
+          53.78218,
+          -96.0,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_3_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "native_volume_mm3": 151.20000000000002,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.78218,
+          -184.0,
+          4.3
+        ],
+        [
+          53.78218,
+          -166.0,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_4_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "native_volume_mm3": 151.20000000000002,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          323.38218,
+          -114.0,
+          4.3
+        ],
+        [
+          330.38218,
+          -96.0,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_5_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "native_volume_mm3": 151.20000000000002,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          323.38218,
+          -184.0,
+          4.3
+        ],
+        [
+          330.38218,
+          -166.0,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_6_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        19.0,
+        6.0,
+        1.2
+      ],
+      "native_volume_mm3": 136.8,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          110.5,
+          -210.516558,
+          4.3
+        ],
+        [
+          129.5,
+          -204.516558,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_7_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        19.0,
+        6.0,
+        1.2
+      ],
+      "native_volume_mm3": 136.8,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          240.5,
+          -210.516558,
+          4.3
+        ],
+        [
+          259.5,
+          -204.516558,
+          5.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_8_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        5.5,
+        5.5,
+        0.45
+      ],
+      "native_volume_mm3": 13.6125,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          141.58218,
+          -60.766558,
+          0.85
+        ],
+        [
+          147.08218,
+          -55.266558,
+          1.3
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/pad_9_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "Rigid gauge only: actual foam/pads required for compliance/thermal trials",
+      "size_mm": [
+        3.5,
+        3.5,
+        0.45
+      ],
+      "native_volume_mm3": 5.5125,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          135.88218,
+          -49.816558,
+          2.16
+        ],
+        [
+          139.38218,
+          -46.316558,
+          2.6100000000000003
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/USB_A_collar.stl",
+      "quantity": 1,
+      "material": "Unfilled TPU 95A candidate",
+      "purpose": "Production front-face-down collar trial, 0.317 mm membrane",
+      "size_mm": [
+        20.40000000000002,
+        9.500000000000476,
+        2.0
+      ],
+      "native_volume_mm3": 174.68356055433702,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          5.662137425588298e-15,
+          -1.1102230246251565e-16,
+          0.0
+        ],
+        [
+          20.400000000000027,
+          9.500000000000476,
+          2.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/USB_C_collar.stl",
+      "quantity": 1,
+      "material": "Unfilled TPU 95A candidate",
+      "purpose": "Production front-face-down collar trial, 0.317 mm membrane",
+      "size_mm": [
+        18.4,
+        10.900000000000713,
+        2.0
+      ],
+      "native_volume_mm3": 282.35866704584157,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          1.5987211554602254e-14,
+          -5.551115123125783e-16,
+          0.0
+        ],
+        [
+          18.400000000000016,
+          10.900000000000713,
+          2.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_1_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.39542865405187,
+          -211.016558,
+          -4.5
+        ],
+        [
+          52.168931345948124,
+          -206.016558,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_1_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          45.78218,
+          -212.016558,
+          -5.0
+        ],
+        [
+          52.78218,
+          -205.016558,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          45.78218,
+          -212.016558,
+          7.5
+        ],
+        [
+          52.78218,
+          -205.016558,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_2_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.99542865405186,
+          -211.016558,
+          -4.5
+        ],
+        [
+          330.76893134594815,
+          -206.016558,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_2_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.38218,
+          -212.016558,
+          -5.0
+        ],
+        [
+          331.38218,
+          -205.016558,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_2_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.38218,
+          -212.016558,
+          7.5
+        ],
+        [
+          331.38218,
+          -205.016558,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_3_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          46.39542865405187,
+          -34.016557999995996,
+          -4.5
+        ],
+        [
+          52.168931345948124,
+          -29.016557999995996,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_3_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          45.78218,
+          -35.016557999995996,
+          -5.0
+        ],
+        [
+          52.78218,
+          -28.016557999995996,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_3_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          45.78218,
+          -35.016557999995996,
+          7.5
+        ],
+        [
+          52.78218,
+          -28.016557999995996,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_4_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.99542865405186,
+          -34.016557999995996,
+          -4.5
+        ],
+        [
+          330.76893134594815,
+          -29.016557999995996,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_4_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.38218,
+          -35.016557999995996,
+          -5.0
+        ],
+        [
+          331.38218,
+          -28.016557999995996,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_4_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          324.38218,
+          -35.016557999995996,
+          7.5
+        ],
+        [
+          331.38218,
+          -28.016557999995996,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_5_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          44.39542865405187,
+          -122.516557999998,
+          -4.5
+        ],
+        [
+          50.168931345948124,
+          -117.516557999998,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_5_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          43.78218,
+          -123.516557999998,
+          -5.0
+        ],
+        [
+          50.78218,
+          -116.516557999998,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_5_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          43.78218,
+          -123.516557999998,
+          7.5
+        ],
+        [
+          50.78218,
+          -116.516557999998,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_6_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          326.99542865405186,
+          -122.516557999998,
+          -4.5
+        ],
+        [
+          332.76893134594815,
+          -117.516557999998,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_6_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          326.38218,
+          -123.516557999998,
+          -5.0
+        ],
+        [
+          333.38218,
+          -116.516557999998,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_6_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          326.38218,
+          -123.516557999998,
+          7.5
+        ],
+        [
+          333.38218,
+          -116.516557999998,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_7_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          237.11324865405186,
+          -32.016557999995996,
+          -4.5
+        ],
+        [
+          242.88675134594814,
+          -27.016557999995996,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_7_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          236.5,
+          -33.016557999995996,
+          -5.0
+        ],
+        [
+          243.5,
+          -26.016557999995996,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_7_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          236.5,
+          -33.016557999995996,
+          7.5
+        ],
+        [
+          243.5,
+          -26.016557999995996,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_post_8_12mm_AF5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "12 mm female/female M3 envelope, unthreaded; use real hardware to close",
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "native_volume_mm3": 200.90275888052298,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          185.11324865405186,
+          -213.016558,
+          -4.5
+        ],
+        [
+          190.88675134594814,
+          -208.016558,
+          7.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_8_bottom_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          184.5,
+          -214.016558,
+          -5.0
+        ],
+        [
+          191.5,
+          -207.016558,
+          -4.5
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    },
+    {
+      "file": "STL/acrylic_case_washer_8_top_0p5_SURROGATE.stl",
+      "quantity": 1,
+      "material": "PETG/PLA: geometric mock only",
+      "purpose": "0.5 mm height gauge, not a load washer",
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "native_volume_mm3": 14.702653618800234,
+      "solid_count": 1,
+      "raw_bounds_mm": [
+        [
+          184.5,
+          -214.016558,
+          7.5
+        ],
+        [
+          191.5,
+          -207.016558,
+          8.0
+        ]
+      ],
+      "flip_X_180": false,
+      "quarter_option": false,
+      "print_notes": "Model bed face is Z=0; preview islands/bridges in slicer"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+Test Conditions 
+Isat:   DC current at which the inductance drops 30% from its nominal value. 
+Irms: DC current that causes the temperature rise (ΔT, approximate 40 ˚C) from 25°C ambient. 
+Operating Temperature: -40˚C ~ +125˚C (including self-temperature rise) 
+Operating Voltage: 20V 
+Storage Condition: -40˚C ~ +125˚C (on board), -10˚C ~ +40˚C (with packaging) and R.H. 60 max. 
+AOTA-B201610S3R3-101-T is RoHS Compliant and Pb free. 
+ 
+ 
+ 
+ 
+       AOTA-B201610S3R3-101-T     (no orderable options) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part Number Inductance Tolerance 
+Self-
+Resonant 
+Frequency 
+DC 
+Resistance 
+Saturation 
+Current 
+Temperature 
+Rise Current 
+1MHz/1.0V Min. Typ Max Typ Max Typ Max 
+Units μH % MHz mΩ A A 
+Symbol L M SRF DCR Isat Irms 
+AOTA-B201610S3R3-101-T 3.3 M 21 115 140 2.8 2.4 2.3 2.1 
+• Shielded construction for minimized EMI emissions 
+• Low DCR for better efficiency  
+• High current handling capability 
+• Compact size that is suitable for high-density designs 
+• Fit for high frequency switching applications due to 
+high SRF  
+ 
+• Approved for use with Raspberry Pi’s RP235x 
+range of microcontroller products. 
+• Consumer electronics and portable devices 
+• Power electronics such as DC-DC converters, 
+inverters and voltage regulators 
+• Industrial applications, robotics, signal 
+conditioning, instrumentation and control 
+systems. 
+Electrical Specifications 
+Applications Features 
+Part Number Identification 
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+ 
+Temperature Rise Current (Irms) 
+ 
+ 
+Saturation Current (Isat) 
+ 
+ 
+ 
+ 
+ 
+Performance Graphs 
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inductance vs. Frequency (SRF) 
+ 
+ 
+ 
+
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+ 
+Dimensions: Inch[mm] 
+ 
+ 
+ 
+Internal structure is shown for 
+illustration of polarity and 
+winding direction. 
+ 
+ 
+ 
+ 
+ 
+ 
+Mechanical Specifications 
+Marking (White Ink polarity dot) 
+
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zone Description Temperature Times 
+1 Preheat TSMIN ~ TSMAX 
+150°C ~ 200°C 60 ~ 120 sec. 
+2 Reflow TL 
+217°C 60 ~ 90 sec. 
+3 Peak heat TP 
+260°C Max 10 sec. MAX 
+Reflow Profile 
+
+ABRACON IS  
+ISO9001-2015 
+CERTIFIED 
+  
+ 
+      
+        MINI MOLDED POWER INDUCTOR (3.3µH )    
+  
+AOTA-B201610S3R3-101-T 2.0 x 1.6 x 1.0 mm   
+ RoHS/RoHS II Compliant 
+ MSL Level = 1 
+  
+REVISION  A :  9/13/2024 
+5101 Hidden Creek Ln, Spicewood TX 78669 
+Phone: 512-371-6159  Fax: 512-351-8858 
+For terms and conditions of sales, please visit: 
+www.abracon.com 
+ 
+ 
+Tape & Reel: 3000 pcs/reel 
+ 
+ 
+ 
+ 
+Dimensions: mm 
+ 
+  
+A B P K T 
+1.90±0.1 2.30±0.1 4.0±0.1 1.30 Max 0.3 Max 
+Packaging 
+ATTENTION: Abracon LLC’s products are Commercial-Off-The-Shelf (COTS, which are designed, intended and validated for use in commercial, industrial and automotive 
+applications. The customer is responsible for testing and verifying the performance of an Abracon solution to meet their syst em-level requirements. 
+ 

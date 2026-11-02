@@ -1,0 +1,263 @@
+{
+  "units": "mm",
+  "plug_print_bounds_mm": [
+    [
+      -12.9000001,
+      -12.9000001,
+      -1.0000000157979437e-07
+    ],
+    [
+      12.9000001,
+      12.9000001,
+      4.400000100002159
+    ]
+  ],
+  "native_valid_single_solid": true,
+  "rise_above_face_mm": 1.6,
+  "groove_width_mm": 6.0,
+  "groove_height_mm": 0.4,
+  "minimum_lip_above_groove_mm": 1.2000000000000002,
+  "panel_size_checks": [
+    {
+      "diameter_mm": 23.8,
+      "thickness_mm": 1.8,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.4769880126220439
+    },
+    {
+      "diameter_mm": 23.8,
+      "thickness_mm": 2.2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 1.3911914748459306
+    },
+    {
+      "diameter_mm": 23.8,
+      "thickness_mm": 2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.9340897437339606
+    },
+    {
+      "diameter_mm": 24.2,
+      "thickness_mm": 1.8,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.14884749638889508
+    },
+    {
+      "diameter_mm": 24.2,
+      "thickness_mm": 2.2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.6609270989531356
+    },
+    {
+      "diameter_mm": 24.2,
+      "thickness_mm": 2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.40488729767097065
+    },
+    {
+      "diameter_mm": 24,
+      "thickness_mm": 1.8,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.2901446984255151
+    },
+    {
+      "diameter_mm": 24,
+      "thickness_mm": 2.2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 1.004123988860532
+    },
+    {
+      "diameter_mm": 24,
+      "thickness_mm": 2,
+      "non_latch_intersection_mm3": 0.0,
+      "intentional_free_state_latch_interference_mm3": 0.6471343436429857
+    }
+  ],
+  "selected_PCB_model_inputs": [
+    {
+      "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\3dmodels\\SW_Hotswap_Kailh_Choc_V1.step",
+      "sha256": "081d32412d8a6d4f5e5e9b61317f8162e508741cd2ff31abf07aa7a007bc7b10",
+      "rotation_deg": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "path": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\3dmodels\\SW_Kailh_Choc_V2_red.step",
+      "sha256": "0542ee277eeb6988412e0780ae86b23d96fdd118f8242e0bf3224cff7dd7acc4",
+      "rotation_deg": [
+        0.0,
+        0.0,
+        180.0
+      ]
+    }
+  ],
+  "saved_board_stem_top_verified_mm": 8.6000001,
+  "saved_switch_stem_top_mm": 8.6000001,
+  "roof_clearance_at_up_Z_allowance_mm": 0.5899998999999988,
+  "switch_sampled_radial_offset_mm": 1.4631727983645297,
+  "switch_poses_checked": 54,
+  "switch_collision_hits": [],
+  "nearby_component_nominal_distances": [
+    {
+      "button": "SW1",
+      "nominal_native_distances_mm": {
+        "heatsink": 4.682620194088704,
+        "screen_frame": 2.2141594116097343,
+        "screen_plate_posts": 7.366794782181498,
+        "hardware_envelopes": 6.065115413902264
+      }
+    },
+    {
+      "button": "SW2",
+      "nominal_native_distances_mm": {
+        "heatsink": 47.85257059499164,
+        "screen_frame": 32.73796431198026,
+        "screen_plate_posts": 36.205306759358216,
+        "hardware_envelopes": 36.06441417645856
+      }
+    },
+    {
+      "button": "SW3",
+      "nominal_native_distances_mm": {
+        "heatsink": 27.704397192065173,
+        "screen_frame": 32.01191184544642,
+        "screen_plate_posts": 35.87997521311459,
+        "hardware_envelopes": 31.560759991203888
+      }
+    },
+    {
+      "button": "SW4",
+      "nominal_native_distances_mm": {
+        "heatsink": 21.8921305033374,
+        "screen_frame": 44.79521172008569,
+        "screen_plate_posts": 10.298386316974263,
+        "hardware_envelopes": 23.918066662348625
+      }
+    },
+    {
+      "button": "SW5",
+      "nominal_native_distances_mm": {
+        "heatsink": 62.52270732524994,
+        "screen_frame": 85.68338093681032,
+        "screen_plate_posts": 4.560145141029593,
+        "hardware_envelopes": 63.73555478986226
+      }
+    },
+    {
+      "button": "SW6",
+      "nominal_native_distances_mm": {
+        "heatsink": 70.53289424973188,
+        "screen_frame": 102.2877405904655,
+        "screen_plate_posts": 25.152115602861738,
+        "hardware_envelopes": 73.1361635603819
+      }
+    },
+    {
+      "button": "SW7",
+      "nominal_native_distances_mm": {
+        "heatsink": 82.68392517693901,
+        "screen_frame": 127.07554349612082,
+        "screen_plate_posts": 63.87426449462656,
+        "hardware_envelopes": 95.17031309696152
+      }
+    },
+    {
+      "button": "SW8",
+      "nominal_native_distances_mm": {
+        "heatsink": 47.78021493725647,
+        "screen_frame": 86.60772977212737,
+        "screen_plate_posts": 32.465616272683924,
+        "hardware_envelopes": 54.970329377389746
+      }
+    },
+    {
+      "button": "SW9",
+      "nominal_native_distances_mm": {
+        "heatsink": 52.75939612650377,
+        "screen_frame": 106.1210280064798,
+        "screen_plate_posts": 65.9662406040413,
+        "hardware_envelopes": 74.1819943532727
+      }
+    },
+    {
+      "button": "SW10",
+      "nominal_native_distances_mm": {
+        "heatsink": 77.53906123285435,
+        "screen_frame": 135.05130912850967,
+        "screen_plate_posts": 75.07192432701763,
+        "hardware_envelopes": 101.05187862415926
+      }
+    },
+    {
+      "button": "SW11",
+      "nominal_native_distances_mm": {
+        "heatsink": 108.12536468472516,
+        "screen_frame": 166.84958109981613,
+        "screen_plate_posts": 54.206464675343376,
+        "hardware_envelopes": 128.86677155903496
+      }
+    },
+    {
+      "button": "SW12",
+      "nominal_native_distances_mm": {
+        "heatsink": 18.93970068564649,
+        "screen_frame": 72.93828477268661,
+        "screen_plate_posts": 53.586972503484226,
+        "hardware_envelopes": 41.75177772985132
+      }
+    },
+    {
+      "button": "SW13",
+      "nominal_native_distances_mm": {
+        "heatsink": 39.475104570089606,
+        "screen_frame": 100.09897331175894,
+        "screen_plate_posts": 85.91837868985279,
+        "hardware_envelopes": 59.040440726490914
+      }
+    },
+    {
+      "button": "SW14",
+      "nominal_native_distances_mm": {
+        "heatsink": 70.6000068052754,
+        "screen_frame": 131.56131286092946,
+        "screen_plate_posts": 100.63790076503282,
+        "hardware_envelopes": 85.55818309936737
+      }
+    },
+    {
+      "button": "SW15",
+      "nominal_native_distances_mm": {
+        "heatsink": 103.0416458220363,
+        "screen_frame": 164.00866194675444,
+        "screen_plate_posts": 85.17676927987493,
+        "hardware_envelopes": 116.67539252910453
+      }
+    },
+    {
+      "button": "SW16",
+      "nominal_native_distances_mm": {
+        "heatsink": 2.599999999999998,
+        "screen_frame": 58.86456134719355,
+        "screen_plate_posts": 61.824401313920944,
+        "hardware_envelopes": 17.54225275229832
+      }
+    }
+  ],
+  "nearby_component_collision_hits": [],
+  "nearby_component_motion_samples_XY_mm": 0.5,
+  "Z_motion_plus_thickness_mm": 0.41000000000000003,
+  "orientation_range_deg": [
+    -10,
+    10
+  ],
+  "minimum_adjacent_blank_flange_gap_mm": 4.89789956034064,
+  "effective_curved_beam_arc_length_mm": 12.817698026646358,
+  "estimated_maximum_radial_insertion_deflection_mm": 0.5499999999999989,
+  "straight_beam_strain_proxy": 0.008034407584095392,
+  "strain_scope": "Small-deflection straight-beam estimate applied to arc length; not curved-beam FEA or a material strength qualification.",
+  "retention_and_removal_force_measured": false,
+  "fatigue_qualified": false,
+  "scope": "Keycap removed; switch retained. Grooves left/right, clips front/back. Free-state latch/panel intersections intentionally require radial flex. Other obstacles tested at stated sampled poses, not a continuous swept tolerance envelope. Actual insertion, removal, acrylic edge condition and print fit require a first article."
+}

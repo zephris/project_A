@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-09",
+  "workspace": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A",
+  "removed": [
+    {
+      "path": "mechanical/step_export_2026-10-07/PHBox-assembly.step",
+      "files": 1,
+      "bytes": 6151296,
+      "reason": "Explicitly superseded by Choc V2 exports per original README; no external code/document references found. Historical scripts, provenance and geometry evidence retained."
+    },
+    {
+      "path": "mechanical/step_export_2026-10-07/PHBox-fused.step",
+      "files": 1,
+      "bytes": 6151285,
+      "reason": "Explicitly superseded by Choc V2 exports per original README; no external code/document references found. Historical scripts, provenance and geometry evidence retained."
+    },
+    {
+      "path": "mechanical/step_export_2026-10-07/PHBox-single-compound.step",
+      "files": 1,
+      "bytes": 14727232,
+      "reason": "Explicitly superseded by Choc V2 exports per original README; no external code/document references found. Historical scripts, provenance and geometry evidence retained."
+    },
+    {
+      "path": "mechanical/choc_v2_led_fit_2026-10-08/.cache",
+      "files": 426,
+      "bytes": 34463333,
+      "reason": "Regenerable cache; maintained sources, exported STEP files, fit checks and review images retained."
+    },
+    {
+      "path": "spice/__pycache__",
+      "files": 2,
+      "bytes": 9532,
+      "reason": "Regenerable cache; maintained sources, exported STEP files, fit checks and review images retained."
+    }
+  ],
+  "deleted_files": 431,
+  "reclaimed_bytes": 61502678,
+  "before_readable_file_bytes": 4396475784.0,
+  "after_readable_file_bytes_before_manifest": 4334973542.0,
+  "measurement_note": "Logical file bytes including .git; unreadable CAD dependency directories excluded. Concurrent protected CAD work can change total size; reclaimed_bytes is the exact sum of deleted file lengths.",
+  "enumeration_errors_before": 87,
+  "enumeration_errors_after": 87,
+  "protected": [
+    "stage2_work\\usb_c2344_2026-10-09",
+    "mechanical\\sandwich_17mm_2026-10-08",
+    "mechanical\\heatsink_2026-10-08",
+    "PHBox.pretty",
+    "3dmodels",
+    "root KiCad files",
+    "root README.md"
+  ],
+  "retained_uncertainties": [
+    "enclosure_cad_dependencies: referenced by maintained historical CAD generators; unreadable contents retained.",
+    "V1 enclosure candidates and model-completion assets: historical references and source provenance retained.",
+    "USB-A top candidate and backups: retained during active USB replacement as comparison evidence.",
+    "All SPICE vendor models, firmware reference and final/corner result sets retained.",
+    "All local footprint libraries retained; configured libraries and historical CAD references make deletion uncertain."
+  ]
+}

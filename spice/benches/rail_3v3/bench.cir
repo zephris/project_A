@@ -1,0 +1,6 @@
+PHBox rail_3v3 planning model
+.include "circuit.inc"
+.tran 1u 20m
+.meas tran rail_min MIN v(rail3) FROM=4m TO=15m
+.meas tran rail_max MAX v(rail3) FROM=4m TO=15m
+.end

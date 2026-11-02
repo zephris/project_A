@@ -1,0 +1,9 @@
+{"model":"C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\src\\assembly.py","parent":null,"state":"building","phase":"generate","progress":null,"elapsed":0.0}
+{"model":"C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\src\\assembly.py","parent":null,"state":"building","phase":"Building geometry","progress":null,"elapsed":5.046}
+{"model":"C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\mechanical\\ergonomic_layout_2026-10-30\\src\\assembly.py","parent":null,"state":"failed","phase":"Building geometry","progress":null,"elapsed":20.892}
+[python assembly.py] FAILED: Standard_OutOfMemory: Standard_MMgrRaw::Allocate(): malloc failed
+[python assembly.py]   mechanical/ergonomic_layout_2026-10-30/src/assembly.py:27 in assembly
+[python assembly.py]       return bd.Compound(children=parts(),label='PHBox_17mm_foam_sandwich_candidate')
+[python assembly.py]   mechanical/ergonomic_layout_2026-10-30/src/assembly.py:19 in parts
+[python assembly.py]       board=read_step(HERE/'reference/board.step').moved(bd.Location((0,0,-reg['front_z_native_mm'])))
+[python assembly.py] re-run with --verbose for the full traceback

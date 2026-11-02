@@ -1,0 +1,50 @@
+{
+  "error_string": "Success.",
+  "export_time": 3262,
+  "layer_height": 0.10000000149011612,
+  "plate_index": 0,
+  "prepare_time": 694,
+  "return_code": 0,
+  "sliced_plates": [
+    {
+      "filament_change_times": 160,
+      "filaments": [
+        {
+          "filament_id": "GFA00",
+          "id": 1,
+          "main_used_g": 528.6099243164062,
+          "total_used_g": 636.327880859375
+        },
+        {
+          "filament_id": "GFG99",
+          "id": 2,
+          "main_used_g": 102.2027587890625,
+          "total_used_g": 194.40977478027344
+        }
+      ],
+      "generate_support_material_time": 7379,
+      "id": 1,
+      "infill_time": 3105,
+      "layer_filament_change": 0,
+      "main_predication": 156062.578125,
+      "make_perimeters_time": 7973,
+      "obj_cached_cnt": 0,
+      "sliced_time": 37841,
+      "sliced_time_with_cache": 17669,
+      "total_predication": 200184.046875,
+      "triangle_count": 120832,
+      "warning_message": ""
+    }
+  ],
+  "sparse_infill_density": 10.0,
+  "upward_compatible_machine": [
+    "Bambu Lab H2D 0.4 nozzle",
+    "Bambu Lab H2D Pro 0.4 nozzle",
+    "Bambu Lab H2S 0.4 nozzle",
+    "Bambu Lab P2S 0.4 nozzle",
+    "Bambu Lab H2C 0.4 nozzle",
+    "Bambu Lab X2D 0.4 nozzle",
+    "Bambu Lab A2L 0.4 nozzle"
+  ],
+  "wall_loops": 2
+}

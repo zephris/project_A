@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-31",
+  "rows": 42,
+  "sections": [
+    "1. PCB and fitted electronics",
+    "2. Main controls and blanking plugs",
+    "3. Enclosure, foam and port seals",
+    "4. Outer case hardware",
+    "5. Switch plate and display mounts",
+    "6. Option-button hardware",
+    "7. MCU and flash thermal assembly",
+    "8. External connection and material stock"
+  ],
+  "itemRows": [
+    {
+      "id": "E01",
+      "row": 9
+    },
+    {
+      "id": "E02",
+      "row": 10
+    },
+    {
+      "id": "E03",
+      "row": 11
+    },
+    {
+      "id": "E04",
+      "row": 12
+    },
+    {
+      "id": "C01",
+      "row": 14
+    },
+    {
+      "id": "C02",
+      "row": 15
+    },
+    {
+      "id": "C03",
+      "row": 16
+    },
+    {
+      "id": "X01",
+      "row": 18
+    },
+    {
+      "id": "X02",
+      "row": 19
+    },
+    {
+      "id": "X03",
+      "row": 20
+    },
+    {
+      "id": "X04",
+      "row": 21
+    },
+    {
+      "id": "X05",
+      "row": 22
+    },
+    {
+      "id": "X06",
+      "row": 23
+    },
+    {
+      "id": "X07",
+      "row": 24
+    },
+    {
+      "id": "X08",
+      "row": 25
+    },
+    {
+      "id": "X09",
+      "row": 26
+    },
+    {
+      "id": "H01",
+      "row": 28
+    },
+    {
+      "id": "H02",
+      "row": 29
+    },
+    {
+      "id": "H03",
+      "row": 30
+    },
+    {
+      "id": "P01",
+      "row": 32
+    },
+    {
+      "id": "P02",
+      "row": 33
+    },
+    {
+      "id": "P03",
+      "row": 34
+    },
+    {
+      "id": "D01",
+      "row": 35
+    },
+    {
+      "id": "D02",
+      "row": 36
+    },
+    {
+      "id": "D03",
+      "row": 37
+    },
+    {
+      "id": "D04",
+      "row": 38
+    },
+    {
+      "id": "O01",
+      "row": 40
+    },
+    {
+      "id": "O02",
+      "row": 41
+    },
+    {
+      "id": "O03",
+      "row": 42
+    },
+    {
+      "id": "O04",
+      "row": 43
+    },
+    {
+      "id": "T01",
+      "row": 45
+    },
+    {
+      "id": "T02",
+      "row": 46
+    },
+    {
+      "id": "T03",
+      "row": 47
+    },
+    {
+      "id": "T04",
+      "row": 48
+    },
+    {
+      "id": "T05",
+      "row": 49
+    },
+    {
+      "id": "T06",
+      "row": 50
+    },
+    {
+      "id": "T07",
+      "row": 51
+    },
+    {
+      "id": "T08",
+      "row": 52
+    },
+    {
+      "id": "T09",
+      "row": 53
+    },
+    {
+      "id": "A01",
+      "row": 55
+    },
+    {
+      "id": "A02",
+      "row": 56
+    },
+    {
+      "id": "A03",
+      "row": 57
+    }
+  ],
+  "workbook": "C:\\Users\\admin\\Documents\\KiCad\\9.0\\projects\\project_a_latest\\project_A\\outputs\\01a10a60-ef4e-79f2-86e5-a64bb6e3f512\\PHBox-final-assembly-BOM.xlsx",
+  "cadReferencesVerified": true
+}

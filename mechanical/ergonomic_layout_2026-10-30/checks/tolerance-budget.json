@@ -1,0 +1,19 @@
+{
+  "units": "mm",
+  "source": "../tolerance-budget.json",
+  "method": "Worst-case linear addition of radial errors; per-axis position targets converted to radial diagonal bounds. No RSS.",
+  "locator_max_hole_diameter_mm": 6.6000000000000005,
+  "locator_min_guide_diameter_mm": 5.300000000000001,
+  "maximum_locator_radial_play_mm": 0.6499999999999999,
+  "locator_registration_radial_allowance_mm": 0.4242640687119286,
+  "switch_cap_and_acrylic_position_radial_allowance_mm": 0.3889087296526012,
+  "worst_case_lateral_allowance_mm": 1.4631727983645297,
+  "former_22p5mm_hole_remaining_radial_clearance_mm": -0.413172798364529,
+  "selected_cover_hole_diameter_mm": 24.0,
+  "selected_hole_remaining_radial_clearance_mm": 0.336827201635471,
+  "required_nominal_hole_diameter_for_target_mm": 23.726345596729058,
+  "required_remaining_radial_clearance_mm": 0.2,
+  "conditional_cap_opening_budget_pass": true,
+  "supplier_acceptance_and_actual_part_measurements_pending": true,
+  "entire_case_tolerance_release": false
+}

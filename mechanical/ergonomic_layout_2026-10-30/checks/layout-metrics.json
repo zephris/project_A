@@ -1,0 +1,38 @@
+{
+  "minimum_all_button_centres_before_mm": [
+    27.997087288513598,
+    "SW7",
+    "SW9"
+  ],
+  "minimum_all_button_centres_after_mm": [
+    30.69789956034064,
+    "SW6",
+    "SW8"
+  ],
+  "minimum_action_centres_before_mm": [
+    28.836161325668844,
+    "SW8",
+    "SW9"
+  ],
+  "minimum_action_centres_after_mm": [
+    31.999999000000003,
+    "SW9",
+    "SW10"
+  ],
+  "minimum_cover_web_before_mm": 1.4970872885135975,
+  "minimum_cover_web_after_mm": 6.697899560340641,
+  "main_action_horizontal_pitch_mm": 32,
+  "row_offset_mm": [
+    -6,
+    34
+  ],
+  "palm_margin_to_caps_before_mm": 18.862462000000022,
+  "palm_margin_to_caps_after_mm": 38.54157900000001,
+  "screen_shift_toward_usb_mm": 2,
+  "option_shift_toward_usb_mm": 3,
+  "option_actuator_datum_correction_mm": 0.1,
+  "keycap_diameter_before_mm": 24.0,
+  "keycap_diameter_assumed_mm": 20.0,
+  "cover_hole_diameter_mm": 24.0,
+  "keycap_shape_and_hand_fit_not_yet_qualified": true
+}

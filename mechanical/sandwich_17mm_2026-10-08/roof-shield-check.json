@@ -1,0 +1,23 @@
+{
+  "units": "mm",
+  "roof_owner": "top_acrylic",
+  "connector_roof_thickness": 2.0,
+  "connector_vertical_clearance_at_up_travel": 0.75,
+  "required_roof_footprint": [
+    15.400000000000006,
+    15.100000000000001
+  ],
+  "roof_material_expected_mm3": 441.8259999999995,
+  "roof_material_found_mm3": 441.8259999999995,
+  "open_pocket_blockage_mm3": 0.0,
+  "minimum_roof_extension_beyond_connector_at_outward_pose": 0.240000000000002,
+  "USB_C": {
+    "roof_owner": "top_spacer",
+    "expected_material_mm3": 92.44696999999994,
+    "found_material_mm3": 92.44696999999994,
+    "rear_roof_clearance_at_up_travel": 3.3950000000000005,
+    "front_collar_roof_centre_z": 3.66,
+    "front_collar_roof_clearance_at_up_travel": 0.20000000000000018,
+    "front_collar_corner_radius": 1.455
+  }
+}

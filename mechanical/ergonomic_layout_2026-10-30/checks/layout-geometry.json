@@ -1,0 +1,105 @@
+{
+  "units": "mm",
+  "saved_plate_to_heatsink_gap_mm": 0.30171312353879814,
+  "closest_points_plate_then_heatsink": [
+    [
+      137.12116642704,
+      -80.0,
+      4.3
+    ],
+    [
+      137.3953591123311,
+      -79.87410647254971,
+      4.3
+    ]
+  ],
+  "new_extension_gaps_mm": {
+    "SW1": 4.0033315417358954,
+    "SW16": 0.6000009999999918
+  },
+  "all_16_plate_apertures_have_3mm_square_lands": true,
+  "all_16_cover_openings_are_separate_from_other_cutouts": true,
+  "aperture_checks": [
+    {
+      "switch": "SW1",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 3.410605131648481e-13
+    },
+    {
+      "switch": "SW2",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 3.410605131648481e-13
+    },
+    {
+      "switch": "SW3",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 3.410605131648481e-13
+    },
+    {
+      "switch": "SW4",
+      "plate_missing_3mm_land_area_mm2": 1.1368683772161603e-13,
+      "cover_missing_0p3mm_land_area_mm2": 5.684341886080801e-13
+    },
+    {
+      "switch": "SW5",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 5.684341886080801e-13
+    },
+    {
+      "switch": "SW6",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 0
+    },
+    {
+      "switch": "SW7",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW8",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 1.1368683772161603e-13
+    },
+    {
+      "switch": "SW9",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW10",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW11",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW12",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 0
+    },
+    {
+      "switch": "SW13",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW14",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW15",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 4.547473508864641e-13
+    },
+    {
+      "switch": "SW16",
+      "plate_missing_3mm_land_area_mm2": 0,
+      "cover_missing_0p3mm_land_area_mm2": 0
+    }
+  ],
+  "scope": "Nominal geometry; no plate stiffness, cutting tolerance or hand-fit qualification."
+}

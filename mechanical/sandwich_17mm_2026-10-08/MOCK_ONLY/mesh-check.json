@@ -1,0 +1,679 @@
+{
+  "pass": true,
+  "meshes_checked": 111,
+  "dimension_tolerance_mm": 0.05,
+  "volume_tolerance_fraction": 0.035,
+  "results": [
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE.stl",
+      "triangles": 4500,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 3.2785515262620233e-06
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.stl",
+      "triangles": 1116,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 3.953946474804733e-06
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.stl",
+      "triangles": 776,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 1.370705196731673e-06
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.stl",
+      "triangles": 1866,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 6.641930126931281e-06
+    },
+    {
+      "file": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.stl",
+      "triangles": 794,
+      "max_dimension_error_mm": 3.2221723245129397e-06,
+      "mesh_volume_relative_error": 1.2647147737705163e-06
+    },
+    {
+      "file": "STL/OLED_MODULE_PCB_SURROGATE.stl",
+      "triangles": 1372,
+      "max_dimension_error_mm": 1.5258789005656581e-06,
+      "mesh_volume_relative_error": 1.4528506284698122e-05
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE.stl",
+      "triangles": 18948,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 0.0001942930526223477
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+      "triangles": 3088,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 0.00017711435501599517
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_2.stl",
+      "triangles": 3672,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 0.00029172146270967043
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+      "triangles": 6442,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 0.00013021212330451923
+    },
+    {
+      "file": "STL/top_acrylic_SURROGATE_QUARTER_4.stl",
+      "triangles": 5882,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 0.0001719766651893162
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE.stl",
+      "triangles": 6428,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 1.745895524573443e-06
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_1.stl",
+      "triangles": 1698,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 2.062044370842946e-06
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_2.stl",
+      "triangles": 1566,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 1.4902735336910776e-06
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_3.stl",
+      "triangles": 1234,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 2.7864335298978376e-08
+    },
+    {
+      "file": "STL/bottom_acrylic_SURROGATE_QUARTER_4.stl",
+      "triangles": 1994,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 3.5239104154837634e-06
+    },
+    {
+      "file": "STL/top_spacer.stl",
+      "triangles": 7192,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 6.368095932933356e-06
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_1.stl",
+      "triangles": 1656,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 6.886088093804202e-06
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_2.stl",
+      "triangles": 1584,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 5.279355074779552e-06
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_3.stl",
+      "triangles": 1916,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 8.552484275612738e-07
+    },
+    {
+      "file": "STL/top_spacer_QUARTER_4.stl",
+      "triangles": 2156,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 1.573414348662118e-05
+    },
+    {
+      "file": "STL/bottom_spacer.stl",
+      "triangles": 19600,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 6.560809056483173e-06
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_1.stl",
+      "triangles": 4156,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 1.2334480007326929e-05
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_2.stl",
+      "triangles": 4272,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 7.787679037480555e-06
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_3.stl",
+      "triangles": 3556,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 3.007373876857845e-07
+    },
+    {
+      "file": "STL/bottom_spacer_QUARTER_4.stl",
+      "triangles": 7812,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 4.0713318557733075e-06
+    },
+    {
+      "file": "STL/switch_plate.stl",
+      "triangles": 1872,
+      "max_dimension_error_mm": 6.1035156022626325e-06,
+      "mesh_volume_relative_error": 5.249578466981549e-06
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_1.stl",
+      "triangles": 852,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 1.910242155429592e-07
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_2.stl",
+      "triangles": 560,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 1.2860736141745774e-06
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_3.stl",
+      "triangles": 372,
+      "max_dimension_error_mm": 3.0517578011313162e-06,
+      "mesh_volume_relative_error": 2.186262401573529e-05
+    },
+    {
+      "file": "STL/switch_plate_QUARTER_4.stl",
+      "triangles": 184,
+      "max_dimension_error_mm": 3.051757772709607e-06,
+      "mesh_volume_relative_error": 3.026986002035783e-08
+    },
+    {
+      "file": "STL/screen_frame.stl",
+      "triangles": 2432,
+      "max_dimension_error_mm": 1.5258789005656581e-06,
+      "mesh_volume_relative_error": 1.2230699700489646e-05
+    },
+    {
+      "file": "STL/aluminium_heatsink_SURROGATE.stl",
+      "triangles": 3464,
+      "max_dimension_error_mm": 1.2258789254815383e-06,
+      "mesh_volume_relative_error": 4.896506309248891e-06
+    },
+    {
+      "file": "STL/printed_screen_stop_1_3mm.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009321676894100998
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_1_M2.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322466469818949
+    },
+    {
+      "file": "STL/printed_screen_stop_2_3mm.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.9073486345888568e-07,
+      "mesh_volume_relative_error": 0.0009321676894102546
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_2_M2.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 1.9073486257070726e-07,
+      "mesh_volume_relative_error": 0.0009322466469818949
+    },
+    {
+      "file": "STL/printed_screen_stop_3_3mm.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009321676894100998
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_3_M2.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322466469818949
+    },
+    {
+      "file": "STL/printed_screen_stop_4_3mm.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.9073486345888568e-07,
+      "mesh_volume_relative_error": 0.0009321676894102546
+    },
+    {
+      "file": "STL/printed_screen_rear_tapped_cap_4_M2.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 1.9073486257070726e-07,
+      "mesh_volume_relative_error": 0.0009322466469818949
+    },
+    {
+      "file": "STL/insulating_plate_stop_H1.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.9073486345888568e-07,
+      "mesh_volume_relative_error": 0.0009321639839202454
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H1.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322263781477067
+    },
+    {
+      "file": "STL/insulating_plate_stop_H2.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.9073486345888568e-07,
+      "mesh_volume_relative_error": 0.0009321639839202454
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H2.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322263781477067
+    },
+    {
+      "file": "STL/insulating_plate_stop_H3.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 1.9073486345888568e-07,
+      "mesh_volume_relative_error": 0.0009321639839202454
+    },
+    {
+      "file": "STL/insulating_plate_rear_tapped_cap_H3.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322263781477067
+    },
+    {
+      "file": "STL/custom_POM_stop_H5.stl",
+      "triangles": 1344,
+      "max_dimension_error_mm": 9.536743128535363e-08,
+      "mesh_volume_relative_error": 0.0009321986968037929
+    },
+    {
+      "file": "STL/custom_POM_stop_H7.stl",
+      "triangles": 1344,
+      "max_dimension_error_mm": 9.536743128535363e-08,
+      "mesh_volume_relative_error": 0.0009321986968037929
+    },
+    {
+      "file": "STL/custom_POM_stop_H12.stl",
+      "triangles": 1008,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322377908816318
+    },
+    {
+      "file": "STL/insulating_support_washer_H5.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322418479597881
+    },
+    {
+      "file": "STL/insulating_support_washer_H7.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322418479597881
+    },
+    {
+      "file": "STL/insulating_support_washer_H12.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322507204217393
+    },
+    {
+      "file": "STL/rear_insulating_washer_H5.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.000932202315435211
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H5.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322263781477067
+    },
+    {
+      "file": "STL/rear_insulating_washer_H7.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.000932202315435211
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H7.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322263781477067
+    },
+    {
+      "file": "STL/rear_insulating_washer_H12.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322383079622577
+    },
+    {
+      "file": "STL/custom_POM_retainer_thread_not_modeled_H12.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322493524074757
+    },
+    {
+      "file": "STL/OPSW1_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/OPSW2_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/OPSW3_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/OPSW4_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/OPSW5_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/OPSW6_captive_cap_H5_trial.stl",
+      "triangles": 1508,
+      "max_dimension_error_mm": 1.907348643470641e-07,
+      "mesh_volume_relative_error": 0.0009322422013020909
+    },
+    {
+      "file": "STL/option_retainer.stl",
+      "triangles": 3800,
+      "max_dimension_error_mm": 4.7683715642676816e-08,
+      "mesh_volume_relative_error": 4.481391985630609e-05
+    },
+    {
+      "file": "STL/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.stl",
+      "triangles": 668,
+      "max_dimension_error_mm": 9.536743128535363e-08,
+      "mesh_volume_relative_error": 0.0009322629577592096
+    },
+    {
+      "file": "STL/option_retainer_M2_nut_envelope_1_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 8.289933361993462e-08,
+      "mesh_volume_relative_error": 0.00027332561331394633
+    },
+    {
+      "file": "STL/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.stl",
+      "triangles": 668,
+      "max_dimension_error_mm": 9.536743128535363e-08,
+      "mesh_volume_relative_error": 0.0009322629577592096
+    },
+    {
+      "file": "STL/option_retainer_M2_nut_envelope_2_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 8.289933361993462e-08,
+      "mesh_volume_relative_error": 0.00027332561331394633
+    },
+    {
+      "file": "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 356,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 2.8093858825204285e-06
+    },
+    {
+      "file": "STL/pad_1_2_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 348,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 3.2759336255455546e-06
+    },
+    {
+      "file": "STL/pad_1_3_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 348,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 3.2759336214716213e-06
+    },
+    {
+      "file": "STL/pad_1_4_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 348,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 3.2759336214716213e-06
+    },
+    {
+      "file": "STL/pad_1_5_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 348,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 3.2719997092577164e-06
+    },
+    {
+      "file": "STL/pad_1_6_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 348,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 3.2719997099766437e-06
+    },
+    {
+      "file": "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 688,
+      "max_dimension_error_mm": 3.76663207291017e-08,
+      "mesh_volume_relative_error": 0.00025237995423389915
+    },
+    {
+      "file": "STL/pad_2_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429737475853e-08
+    },
+    {
+      "file": "STL/pad_3_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429737475853e-08
+    },
+    {
+      "file": "STL/pad_4_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429737475853e-08
+    },
+    {
+      "file": "STL/pad_5_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429737475853e-08
+    },
+    {
+      "file": "STL/pad_6_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429767156e-08
+    },
+    {
+      "file": "STL/pad_7_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 4.768371586472142e-08,
+      "mesh_volume_relative_error": 3.9736429767156e-08
+    },
+    {
+      "file": "STL/pad_8_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 1.1920928966180355e-08,
+      "mesh_volume_relative_error": 2.649095341619929e-08
+    },
+    {
+      "file": "STL/pad_9_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "triangles": 12,
+      "max_dimension_error_mm": 1.1920928966180355e-08,
+      "mesh_volume_relative_error": 2.6490953265731104e-08
+    },
+    {
+      "file": "STL/USB_A_collar.stl",
+      "triangles": 712,
+      "max_dimension_error_mm": 3.81469764221265e-07,
+      "mesh_volume_relative_error": 9.702440864551695e-07
+    },
+    {
+      "file": "STL/USB_C_collar.stl",
+      "triangles": 728,
+      "max_dimension_error_mm": 3.8147079450823185e-07,
+      "mesh_volume_relative_error": 1.7489488053374778e-05
+    },
+    {
+      "file": "STL/acrylic_case_post_1_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.3479441740571474e-07,
+      "mesh_volume_relative_error": 0.00027339003394263596
+    },
+    {
+      "file": "STL/acrylic_case_washer_1_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_2_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.347944156293579e-07,
+      "mesh_volume_relative_error": 0.00027339003394122124
+    },
+    {
+      "file": "STL/acrylic_case_washer_2_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_2_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_3_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.3479441740571474e-07,
+      "mesh_volume_relative_error": 0.00027339003394263596
+    },
+    {
+      "file": "STL/acrylic_case_washer_3_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_3_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_4_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.347944156293579e-07,
+      "mesh_volume_relative_error": 0.00027339003394122124
+    },
+    {
+      "file": "STL/acrylic_case_washer_4_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_4_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_5_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.3479441740571474e-07,
+      "mesh_volume_relative_error": 0.00027339003394263596
+    },
+    {
+      "file": "STL/acrylic_case_washer_5_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_5_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_6_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.347944156293579e-07,
+      "mesh_volume_relative_error": 0.00027339003394122124
+    },
+    {
+      "file": "STL/acrylic_case_washer_6_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_6_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_7_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.347944156293579e-07,
+      "mesh_volume_relative_error": 0.00027339003394122124
+    },
+    {
+      "file": "STL/acrylic_case_washer_7_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_7_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_post_8_12mm_AF5_SURROGATE.stl",
+      "triangles": 360,
+      "max_dimension_error_mm": 1.347944156293579e-07,
+      "mesh_volume_relative_error": 0.00027339003394122124
+    },
+    {
+      "file": "STL/acrylic_case_washer_8_bottom_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    },
+    {
+      "file": "STL/acrylic_case_washer_8_top_0p5_SURROGATE.stl",
+      "triangles": 672,
+      "max_dimension_error_mm": 0.0,
+      "mesh_volume_relative_error": 0.0009322335764383572
+    }
+  ],
+  "limitations": [
+    "No mechanical thread, strength, adhesion, preload or formal DfAM analysis",
+    "Quartered panels are separate temporary mock sections, not load-bearing joints",
+    "OLED surrogate omits glass/header and PCB surrogate omits other components"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "base": "CL05A475MP5NRN",
+    "archive_entry": "MLCC/General/CL05A475MP5NRN_Precise_DC0V_25degC_P.lib",
+    "file": "spice\\models\\vendor\\Samsung\\CL05A475MP5NRN_Precise_DC0V_25degC_P.lib"
+  },
+  {
+    "base": "CL05A105KA5NQN",
+    "archive_entry": "MLCC/General/CL05A105KA5NQN_Precise_DC0V_25degC_P.lib",
+    "file": "spice\\models\\vendor\\Samsung\\CL05A105KA5NQN_Precise_DC0V_25degC_P.lib"
+  }
+]

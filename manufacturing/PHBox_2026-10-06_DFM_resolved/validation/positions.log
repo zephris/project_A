@@ -1,0 +1,11 @@
+Wrote position data to 'C:\Users\admin\Documents\KiCad\9.0\projects\project_a_latest\project_A\manufacturing\PHBox_2026-10-06_DFM_resolved\assembly\CPL-native.csv'.
+23:48:55: Error: Can't create registry key 'HKCU\Software\kicad-cli' (error 5: Access is denied.)
+23:48:55: Error: Can't open registry key 'HKCU\Software\kicad-cli' (error 2: The system cannot find the file specified.)
+23:48:55: Error: Cannot enumerate files in directory 'C:\Users\admin\AppData\Roaming\kicad\10.0\colors' (error 5: Access is denied.)
+23:48:55: Error: Cannot enumerate files in directory 'C:\Users\admin\AppData\Roaming\kicad\10.0\colors' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\kicad_common.json' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\kicad.json' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\fpedit.json' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\3d_viewer.json' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\pcbnew.json' (error 5: Access is denied.)
+23:48:55: Error: can't open file 'C:\Users\admin\AppData\Roaming\kicad\10.0\cvpcb.json' (error 5: Access is denied.)

@@ -1,0 +1,65 @@
+{
+  "status": "editable_project_prepared_not_sliced_or_printed",
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "material": "PLA",
+  "pass": 1,
+  "baseline_flow_ratio": 0.98,
+  "source": "D:\\Bambu Studio\\resources\\calib\\filament_flow\\flowrate-test-pass1.3mf",
+  "source_sha256": "f71b839130000caab52f99c258a575dabb0f46b1ddc74591c9e438720740e03c",
+  "patches": [
+    {
+      "name": "flowrate_0",
+      "modifier_percent": 0,
+      "object_flow_multiplier": 1.0
+    },
+    {
+      "name": "flowrate_10",
+      "modifier_percent": 10,
+      "object_flow_multiplier": 1.1
+    },
+    {
+      "name": "flowrate_15",
+      "modifier_percent": 15,
+      "object_flow_multiplier": 1.15
+    },
+    {
+      "name": "flowrate_20",
+      "modifier_percent": 20,
+      "object_flow_multiplier": 1.2
+    },
+    {
+      "name": "flowrate_5",
+      "modifier_percent": 5,
+      "object_flow_multiplier": 1.05
+    },
+    {
+      "name": "flowrate_m10",
+      "modifier_percent": -10,
+      "object_flow_multiplier": 0.9
+    },
+    {
+      "name": "flowrate_m15",
+      "modifier_percent": -15,
+      "object_flow_multiplier": 0.85
+    },
+    {
+      "name": "flowrate_m20",
+      "modifier_percent": -20,
+      "object_flow_multiplier": 0.8
+    },
+    {
+      "name": "flowrate_m5",
+      "modifier_percent": -5,
+      "object_flow_multiplier": 0.95
+    }
+  ],
+  "physical_calibration_applied": false,
+  "import_visual_check_required": true,
+  "file_content_checks_passed": [
+    "patch count",
+    "distinct flow modifiers",
+    "bed bounds",
+    "1.4 mm height"
+  ]
+}

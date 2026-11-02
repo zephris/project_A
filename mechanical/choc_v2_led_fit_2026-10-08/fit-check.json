@@ -1,0 +1,420 @@
+{
+  "frame": "local PCB X, minus PCB Y; switch front seating Z=0 mm",
+  "pcb_sha256": "11697274d842131bd6addc16371991acf702516819850ae38afbac23443ed6d4",
+  "candidate_gauge_mm": [
+    2.6,
+    2.4,
+    1.2
+  ],
+  "gauge_switch_overlap_mm3": 0,
+  "gauge_switch_distance_mm": 0.27499999999999947,
+  "intersection_method": "Located constituent solid pairs; positive distance prunes nonintersecting pairs. Aggregate Compound.intersect gives spurious results for the moved imported switch in this build123d version.",
+  "engineering_envelope_note": "1.70x1.70x0.80 mm chosen sensitivity envelope, not OPSCO certified maximum",
+  "threshold_mm3": 1e-06,
+  "results": [
+    {
+      "switch": "SW1",
+      "led": "D1",
+      "actual_cad_offset_mm": [
+        -0.14042200000000093,
+        -5.138132000000013
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        -0.14042200000000093,
+        -0.2081320000000133
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.5168679999999863,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.4168679999999867,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.4095779999999991,
+        0.24186799999998665
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.30957799999999913,
+        0.14186799999998667
+      ]
+    },
+    {
+      "switch": "SW2",
+      "led": "D2",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999993
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW3",
+      "led": "D3",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999993
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW4",
+      "led": "D4",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW5",
+      "led": "D5",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW6",
+      "led": "D6",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930005000000023
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -5.00000002290335e-06
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249949999999767,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249949999999771,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999499999997705
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499949999999771
+      ]
+    },
+    {
+      "switch": "SW7",
+      "led": "D7",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.819995000000006
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        0.11000499999999391
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.6149950000000053,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.5149950000000048,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.33999500000000604
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.23999500000000606
+      ]
+    },
+    {
+      "switch": "SW8",
+      "led": "D8",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999978
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        2.1316282072803006e-14
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999997864
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.34999999999997866
+      ]
+    },
+    {
+      "switch": "SW9",
+      "led": "D9",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW10",
+      "led": "D10",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW11",
+      "led": "D11",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW12",
+      "led": "D12",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999993
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW13",
+      "led": "D13",
+      "actual_cad_offset_mm": [
+        -0.3004219999999975,
+        -5.019131999999999
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        -0.3004219999999975,
+        -0.08913199999999932
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.6358680000000003,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.5358680000000007,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.24957800000000252,
+        0.36086800000000063
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.14957800000000254,
+        0.26086800000000065
+      ]
+    },
+    {
+      "switch": "SW14",
+      "led": "D14",
+      "actual_cad_offset_mm": [
+        0.010000000000019327,
+        -4.930000000000007
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.010000000000019327,
+        -7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999925,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999929,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.5399999999999807,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.43999999999998074,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW15",
+      "led": "D15",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999993
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    },
+    {
+      "switch": "SW16",
+      "led": "D16",
+      "actual_cad_offset_mm": [
+        0.0,
+        -4.929999999999993
+      ],
+      "deviation_from_OEM_nominal_mm": [
+        0.0,
+        7.105427357601002e-15
+      ],
+      "LED_switch_overlap_mm3": 0,
+      "LED_switch_distance_mm": 0.7249999999999921,
+      "engineering_envelope_overlap_mm3": 0,
+      "engineering_envelope_distance_mm": 0.6249999999999916,
+      "candidate_gauge_LED_containment_margin_xy_mm": [
+        0.55,
+        0.44999999999999285
+      ],
+      "candidate_gauge_envelope_containment_margin_xy_mm": [
+        0.45000000000000007,
+        0.3499999999999929
+      ]
+    }
+  ],
+  "saved_artifacts": [
+    {
+      "file": "choc_v2_led_fit.step",
+      "valid": true,
+      "solids": 44,
+      "volume_mm3": 1802.7318814074788
+    },
+    {
+      "file": "choc_v2_led_section.step",
+      "valid": true,
+      "solids": 88,
+      "volume_mm3": 918.3116914772118
+    },
+    {
+      "file": "choc_v2_led_window_candidate.step",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 7.4879999999999995
+    }
+  ]
+}

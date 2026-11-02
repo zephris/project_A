@@ -1,0 +1,6 @@
+PHBox vendor_kemet_bank planning model
+.include "circuit.inc"
+.ac dec 100 10k 1Meg
+.meas ac z_100k FIND vm(pdn) AT=100k
+.meas ac z_min MIN vm(pdn)
+.end

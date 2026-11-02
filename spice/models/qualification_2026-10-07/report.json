@@ -1,0 +1,33 @@
+[
+  {
+    "part": "TLV73333P",
+    "returncode": 0,
+    "measurements": {
+      "output_final": "3.29986e+00"
+    },
+    "smoke_execution_ok": true,
+    "qualification": "not qualified against vendor reference test; nominal probe only",
+    "nominal_probe_pass": true
+  },
+  {
+    "part": "TPS2553",
+    "returncode": 0,
+    "measurements": {
+      "output_final": "-7.01000e-11"
+    },
+    "smoke_execution_ok": true,
+    "qualification": "not qualified against vendor reference test; nominal probe only",
+    "nominal_probe_pass": false
+  },
+  {
+    "part": "SN74LV1T34",
+    "returncode": 0,
+    "measurements": {
+      "output_high": "4.99958e+00",
+      "output_low": "-2.05082e-314"
+    },
+    "smoke_execution_ok": true,
+    "qualification": "not qualified against vendor reference test; nominal probe only",
+    "nominal_probe_pass": true
+  }
+]

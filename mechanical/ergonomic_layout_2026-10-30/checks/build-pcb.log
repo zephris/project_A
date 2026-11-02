@@ -1,0 +1,22 @@
+Adding duplicate image handler for 'PNG file'
+Adding duplicate image handler for 'JPEG file'
+Adding duplicate image handler for 'TIFF file'
+Adding duplicate image handler for 'GIF file'
+Adding duplicate image handler for 'PNM file'
+Adding duplicate image handler for 'PCX file'
+Adding duplicate image handler for 'IFF file'
+Adding duplicate image handler for 'Windows icon file'
+Adding duplicate image handler for 'Windows cursor file'
+Adding duplicate image handler for 'Windows animated cursor file'
+Adding duplicate image handler for 'TGA file'
+Adding duplicate image handler for 'XPM file'
+Adding duplicate image handler for 'WebP file'
+{
+  "baseline_sha256": "a9df89d99a8a269b675908a7aec1f1a1e827116273188d6fd180782878081ea0",
+  "candidate_sha256": "2efe30082d5c1cdca6870910d87e1861e711a3e32c64c9b57586290468f978d9",
+  "copper_removed": 364,
+  "local_copper_translated": 435,
+  "fixed_core_copper_retained": 1117,
+  "pin_nets_unchanged": true,
+  "board_outline_unchanged": true
+}

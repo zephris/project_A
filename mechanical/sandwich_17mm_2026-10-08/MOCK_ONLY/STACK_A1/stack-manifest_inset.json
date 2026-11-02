@@ -1,0 +1,2373 @@
+{
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "material": "PLA",
+  "support_base": "PLA",
+  "support_interface": "PETG",
+  "contact_z_gap_mm": 0,
+  "gap_mm": 1.0,
+  "model_placement_limits_xy_mm": [
+    14.0,
+    14.0,
+    242.0,
+    242.0
+  ],
+  "required_generated_path_edge_margin_mm": 5.0,
+  "tower_reserve_xy_mm": [
+    182.0,
+    166.0,
+    242.0,
+    232.0
+  ],
+  "tier_count": 14,
+  "height_mm": 60.35,
+  "tiers": [
+    {
+      "tier": 1,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 0.0,
+      "z_max": 2.000000000000023,
+      "height_mm": 2.000000000000023,
+      "parts": [
+        "STL/bottom_acrylic_SURROGATE_QUARTER_1.stl",
+        "STL/bottom_acrylic_SURROGATE_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 2,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 3.0,
+      "z_max": 5.000000000000012,
+      "height_mm": 2.0000000000000124,
+      "parts": [
+        "STL/bottom_acrylic_SURROGATE_QUARTER_3.stl",
+        "STL/bottom_acrylic_SURROGATE_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 3,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 6.0,
+      "z_max": 8.000000000000014,
+      "height_mm": 2.0000000000000133,
+      "parts": [
+        "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+        "STL/top_acrylic_SURROGATE_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 4,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 9.0,
+      "z_max": 11.00000000000001,
+      "height_mm": 2.000000000000011,
+      "parts": [
+        "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+        "STL/top_acrylic_SURROGATE_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 5,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 12.0,
+      "z_max": 13.601204,
+      "height_mm": 1.601204,
+      "parts": [
+        "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.stl",
+        "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 6,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 14.7,
+      "z_max": 16.0,
+      "height_mm": 1.3,
+      "parts": [
+        "STL/switch_plate_QUARTER_1.stl",
+        "STL/switch_plate_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 7,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 17.0,
+      "z_max": 18.3,
+      "height_mm": 1.3,
+      "parts": [
+        "STL/switch_plate_QUARTER_3.stl",
+        "STL/switch_plate_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 8,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 19.3,
+      "z_max": 27.901204,
+      "height_mm": 8.601204,
+      "parts": [
+        "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.stl",
+        "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 9,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 29.0,
+      "z_max": 34.4,
+      "height_mm": 5.4,
+      "parts": [
+        "STL/bottom_spacer_QUARTER_3.stl",
+        "STL/bottom_spacer_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 10,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 35.4,
+      "z_max": 45.25,
+      "height_mm": 9.850000000000001,
+      "parts": [
+        "STL/top_spacer_QUARTER_3.stl",
+        "STL/top_spacer_QUARTER_4.stl"
+      ]
+    },
+    {
+      "tier": 11,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 46.3,
+      "z_max": 49.449999999999996,
+      "height_mm": 3.1500000000000004,
+      "parts": [
+        "STL/bottom_spacer_QUARTER_1.stl",
+        "STL/bottom_spacer_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 12,
+      "column": "panels",
+      "family": "panel sections",
+      "z_min": 50.5,
+      "z_max": 60.35,
+      "height_mm": 9.850000000000001,
+      "parts": [
+        "STL/top_spacer_QUARTER_1.stl",
+        "STL/top_spacer_QUARTER_2.stl"
+      ]
+    },
+    {
+      "tier": 13,
+      "column": "infill pockets",
+      "family": "small components",
+      "z_min": 0.0,
+      "z_max": 12.0,
+      "height_mm": 12.0,
+      "parts": [
+        "STL/aluminium_heatsink_SURROGATE.stl",
+        "STL/screen_frame.stl",
+        "STL/option_retainer.stl",
+        "STL/OLED_MODULE_PCB_SURROGATE.stl",
+        "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/USB_C_collar.stl",
+        "STL/USB_A_collar.stl",
+        "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_1_2_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_1_3_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_1_4_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_1_5_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_1_6_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_2_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_3_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_4_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_5_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_6_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/pad_7_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/insulating_plate_stop_H1.stl",
+        "STL/insulating_plate_rear_tapped_cap_H1.stl",
+        "STL/insulating_plate_stop_H2.stl",
+        "STL/insulating_plate_rear_tapped_cap_H2.stl",
+        "STL/insulating_plate_stop_H3.stl",
+        "STL/insulating_plate_rear_tapped_cap_H3.stl",
+        "STL/custom_POM_stop_H5.stl",
+        "STL/custom_POM_stop_H7.stl",
+        "STL/insulating_support_washer_H5.stl",
+        "STL/insulating_support_washer_H7.stl",
+        "STL/rear_insulating_washer_H5.stl",
+        "STL/custom_POM_retainer_thread_not_modeled_H5.stl",
+        "STL/rear_insulating_washer_H7.stl",
+        "STL/custom_POM_retainer_thread_not_modeled_H7.stl",
+        "STL/OPSW1_captive_cap_H5_trial.stl",
+        "STL/OPSW2_captive_cap_H5_trial.stl",
+        "STL/OPSW3_captive_cap_H5_trial.stl",
+        "STL/OPSW4_captive_cap_H5_trial.stl",
+        "STL/OPSW5_captive_cap_H5_trial.stl",
+        "STL/OPSW6_captive_cap_H5_trial.stl",
+        "STL/acrylic_case_washer_1_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_2_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_2_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_3_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_3_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_4_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_4_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_5_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_5_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_6_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_6_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_7_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_7_top_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_8_bottom_0p5_SURROGATE.stl",
+        "STL/acrylic_case_washer_8_top_0p5_SURROGATE.stl",
+        "STL/pad_8_1_INSTALLED_HEIGHT_GAUGE.stl",
+        "STL/acrylic_case_post_1_12mm_AF5_SURROGATE.stl",
+        "STL/custom_POM_stop_H12.stl",
+        "STL/insulating_support_washer_H12.stl",
+        "STL/rear_insulating_washer_H12.stl",
+        "STL/custom_POM_retainer_thread_not_modeled_H12.stl",
+        "STL/option_retainer_M2_nut_envelope_1_SURROGATE.stl",
+        "STL/option_retainer_M2_nut_envelope_2_SURROGATE.stl",
+        "STL/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.stl",
+        "STL/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.stl",
+        "STL/pad_9_1_INSTALLED_HEIGHT_GAUGE.stl"
+      ]
+    },
+    {
+      "tier": 14,
+      "column": "infill pockets",
+      "family": "small components",
+      "z_min": 3.0,
+      "z_max": 15.0,
+      "height_mm": 12.0,
+      "parts": [
+        "STL/acrylic_case_post_2_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_3_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_4_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_5_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_6_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_7_12mm_AF5_SURROGATE.stl",
+        "STL/acrylic_case_post_8_12mm_AF5_SURROGATE.stl",
+        "STL/printed_screen_stop_1_3mm.stl",
+        "STL/printed_screen_rear_tapped_cap_1_M2.stl",
+        "STL/printed_screen_stop_2_3mm.stl",
+        "STL/printed_screen_rear_tapped_cap_2_M2.stl",
+        "STL/printed_screen_stop_3_3mm.stl",
+        "STL/printed_screen_rear_tapped_cap_3_M2.stl",
+        "STL/printed_screen_stop_4_3mm.stl",
+        "STL/printed_screen_rear_tapped_cap_4_M2.stl"
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "name": "bottom_acrylic_SURROGATE_QUARTER_1",
+      "source": "STL/bottom_acrylic_SURROGATE_QUARTER_1.stl",
+      "sha256": "d2b10c90e77d04dd43993a82786973a3fbd6ef4050bd7c2188f2a3f829852c24",
+      "tier": 1,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        2.0000000000000147
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "bottom_acrylic_SURROGATE_QUARTER_2",
+      "source": "STL/bottom_acrylic_SURROGATE_QUARTER_2.stl",
+      "sha256": "f4afed8a0e1f66d0c3119e99240d077f9151662ffb50a8193cc09aa7ddc21fd2",
+      "tier": 1,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        2.000000000000023
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "bottom_acrylic_SURROGATE_QUARTER_3",
+      "source": "STL/bottom_acrylic_SURROGATE_QUARTER_3.stl",
+      "sha256": "de0046aec58277c00b2665792f67ecb97bdaf3343b07e660f96dddbba28be9a6",
+      "tier": 2,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000504,
+        2.0000000000000124
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000504
+      ]
+    },
+    {
+      "name": "bottom_acrylic_SURROGATE_QUARTER_4",
+      "source": "STL/bottom_acrylic_SURROGATE_QUARTER_4.stl",
+      "sha256": "1e55eb8dbbf08c4f68838e6342c8aa1a6a76f62f859df1450e0e87f94854f164",
+      "tier": 2,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000504,
+        2.0000000000000124
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000504
+      ]
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_1",
+      "source": "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+      "sha256": "46d96ca50163390f6c15075b1bf8939bd32396cd61d6f96901f6da9d3ab56f91",
+      "tier": 3,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 6.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        2.0000000000000133
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_2",
+      "source": "STL/top_acrylic_SURROGATE_QUARTER_2.stl",
+      "sha256": "05c8d58a2ab3fca934d2e551a2a5663c19198a9ed7c4f3a9f98522ef43f05139",
+      "tier": 3,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 6.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        2.000000000000011
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_3",
+      "source": "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+      "sha256": "37b324699f83164e8a077198c71fe1f2764b717522d77e3481993dce2dc2d2d5",
+      "tier": 4,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 9.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        2.000000000000001
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000503
+      ]
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_4",
+      "source": "STL/top_acrylic_SURROGATE_QUARTER_4.stl",
+      "sha256": "ef316fb643e49a8b28e4d69b7eb46d0047ad45ac55acdf2b362536e1103d64a0",
+      "tier": 4,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 9.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        2.000000000000011
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000503
+      ]
+    },
+    {
+      "name": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1",
+      "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.stl",
+      "sha256": "ddc3d326b47e3436d55241be3bcb25d5e1049e082e94761440049e3783ee15db",
+      "tier": 5,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 12.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        136.3,
+        85.85372000000436,
+        1.601204
+      ],
+      "footprint_mm": [
+        136.3,
+        85.85372000000436
+      ]
+    },
+    {
+      "name": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2",
+      "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.stl",
+      "sha256": "f366a71327964528b946a34a81c27c72c9e935e8d3461eeba4aa21a678fb9f0d",
+      "tier": 5,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 12.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        136.30000000000004,
+        85.85372000000436,
+        1.601204
+      ],
+      "footprint_mm": [
+        136.30000000000004,
+        85.85372000000436
+      ]
+    },
+    {
+      "name": "switch_plate_QUARTER_1",
+      "source": "STL/switch_plate_QUARTER_1.stl",
+      "sha256": "c6a69d6d4b518b40efded79f2577affaafc50936fe6383ad742f1322172cbb98",
+      "tier": 6,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 14.7,
+      "rotation_deg": 0,
+      "size_mm": [
+        142.3,
+        65.75827900000007,
+        1.3
+      ],
+      "footprint_mm": [
+        142.3,
+        65.75827900000007
+      ]
+    },
+    {
+      "name": "switch_plate_QUARTER_2",
+      "source": "STL/switch_plate_QUARTER_2.stl",
+      "sha256": "68fe71446f9b391ab478fc17fd03029354e7c010a6469b8c15a801b70a1d3279",
+      "tier": 6,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 14.7,
+      "rotation_deg": 0,
+      "size_mm": [
+        142.30000000000004,
+        65.75827900000007,
+        1.3
+      ],
+      "footprint_mm": [
+        142.30000000000004,
+        65.75827900000007
+      ]
+    },
+    {
+      "name": "switch_plate_QUARTER_3",
+      "source": "STL/switch_plate_QUARTER_3.stl",
+      "sha256": "2abac85e9f9f9f30b9c98171637273956d9da8a4f86f51a7e52d8f3178a63213",
+      "tier": 7,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 17.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        142.3,
+        65.75827900000004,
+        1.3
+      ],
+      "footprint_mm": [
+        142.3,
+        65.75827900000004
+      ]
+    },
+    {
+      "name": "switch_plate_QUARTER_4",
+      "source": "STL/switch_plate_QUARTER_4.stl",
+      "sha256": "bec3c1182fe4eb4d38968e87b606b4c4c60b3922898daed9f9b0be155cad96b3",
+      "tier": 7,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 17.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        142.30000000000004,
+        65.75827900000004,
+        1.3
+      ],
+      "footprint_mm": [
+        142.30000000000004,
+        65.75827900000004
+      ]
+    },
+    {
+      "name": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3",
+      "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.stl",
+      "sha256": "15a47afed8ab1b99e593d232f2a690f4aa46fcc1c5e9e81691702e83ec1c1dc3",
+      "tier": 8,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 19.3,
+      "rotation_deg": 0,
+      "size_mm": [
+        136.3,
+        85.85372000000436,
+        8.601204
+      ],
+      "footprint_mm": [
+        136.3,
+        85.85372000000436
+      ]
+    },
+    {
+      "name": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4",
+      "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.stl",
+      "sha256": "68464e1ef649d52d74dada898c6a44a406151de38ffebfd555affb8f78187fe2",
+      "tier": 8,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 19.3,
+      "rotation_deg": 0,
+      "size_mm": [
+        136.30000000000004,
+        85.52283800000436,
+        8.601204
+      ],
+      "footprint_mm": [
+        136.30000000000004,
+        85.52283800000436
+      ]
+    },
+    {
+      "name": "bottom_spacer_QUARTER_3",
+      "source": "STL/bottom_spacer_QUARTER_3.stl",
+      "sha256": "9de2f8ea2aaf89326f5ce47120373c35e6ea428bf85e60e51e681423bcc87b14",
+      "tier": 9,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 29.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        5.4
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000503
+      ]
+    },
+    {
+      "name": "top_spacer_QUARTER_3",
+      "source": "STL/top_spacer_QUARTER_3.stl",
+      "sha256": "56ec2512786ad23ca4c42d2184ca1fe0805965bff0b2d858c65a10e5892303e5",
+      "tier": 10,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 35.4,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000503
+      ]
+    },
+    {
+      "name": "bottom_spacer_QUARTER_4",
+      "source": "STL/bottom_spacer_QUARTER_4.stl",
+      "sha256": "70ff7073154d694b65128308df12514f6f407dd8495ec53989209f4952338147",
+      "tier": 9,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 29.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.500000000005,
+        5.4
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.500000000005
+      ]
+    },
+    {
+      "name": "top_spacer_QUARTER_4",
+      "source": "STL/top_spacer_QUARTER_4.stl",
+      "sha256": "9878ad7bb7f31a90d36bbd5a364b47518f60f42e9fbd23206400c0633c3bbde1",
+      "tier": 10,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 35.4,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000503,
+        9.850000000000001
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000503
+      ]
+    },
+    {
+      "name": "bottom_spacer_QUARTER_1",
+      "source": "STL/bottom_spacer_QUARTER_1.stl",
+      "sha256": "a922c4eeb37863ac27beca03da9d3239513321b9bf4006596dad5eeb5e4e6170",
+      "tier": 11,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 46.3,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "top_spacer_QUARTER_1",
+      "source": "STL/top_spacer_QUARTER_1.stl",
+      "sha256": "51eb7e66f75a2c7d000469c00f7658e3ac05ec8492b3b30af78097a17dad2665",
+      "tier": 12,
+      "column": "panel 1",
+      "x": 14.0,
+      "y": 14.0,
+      "z": 50.5,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.3,
+        95.50000000000502,
+        9.850000000000001
+      ],
+      "footprint_mm": [
+        146.3,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "bottom_spacer_QUARTER_2",
+      "source": "STL/bottom_spacer_QUARTER_2.stl",
+      "sha256": "f2a342ae8503975c077939ed21a2e62adc0b77064ee130cb8e57c08e453e9c02",
+      "tier": 11,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 46.3,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        3.1500000000000004
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "top_spacer_QUARTER_2",
+      "source": "STL/top_spacer_QUARTER_2.stl",
+      "sha256": "0125534a2fc015b9283113a70549ed3744212ea0a41e549fecc6232b3f4286fa",
+      "tier": 12,
+      "column": "panel 2",
+      "x": 14.0,
+      "y": 118.0,
+      "z": 50.5,
+      "rotation_deg": 0,
+      "size_mm": [
+        146.30000000000004,
+        95.50000000000502,
+        9.850000000000001
+      ],
+      "footprint_mm": [
+        146.30000000000004,
+        95.50000000000502
+      ]
+    },
+    {
+      "name": "aluminium_heatsink_SURROGATE",
+      "source": "STL/aluminium_heatsink_SURROGATE.stl",
+      "sha256": "1ea1cd0b0e68e314b7e009d8d16efcc905e1b993a6fa2a21f90af1c5498211c3",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.3,
+      "y": 14.0,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        60.0000002,
+        52.90000019999999,
+        5.700000100000005
+      ],
+      "footprint_mm": [
+        60.0000002,
+        52.90000019999999
+      ]
+    },
+    {
+      "name": "screen_frame",
+      "source": "STL/screen_frame.stl",
+      "sha256": "ddf1ce3bfe9eb8653fa69a6f488aa3aa58073dbe6a4235a53919aa281c64bad6",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.3,
+      "y": 69.9000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        40.400000000000006,
+        38.500000000001236,
+        1.0
+      ],
+      "footprint_mm": [
+        40.400000000000006,
+        38.500000000001236
+      ]
+    },
+    {
+      "name": "option_retainer",
+      "source": "STL/option_retainer.stl",
+      "sha256": "4f8fe13847f8fa22591abd3c7a5e21a3ed7764981c13cef54380efe5488e03f1",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 111.40000020000123,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        67.0,
+        19.0,
+        2.8
+      ],
+      "footprint_mm": [
+        67.0,
+        19.0
+      ]
+    },
+    {
+      "name": "OLED_MODULE_PCB_SURROGATE",
+      "source": "STL/OLED_MODULE_PCB_SURROGATE.stl",
+      "sha256": "81f994bdfba31c5b2c6417ea0f8db2876e6123116fb88ef4d0e46c16dff4407e",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 206.70000000000002,
+      "y": 69.9000002,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        35.400000000000006,
+        33.5,
+        1.2000000000000002
+      ],
+      "footprint_mm": [
+        33.5,
+        35.400000000000006
+      ]
+    },
+    {
+      "name": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "7054579119293ca1c809c5d58425ec21e59ef94f763b9bf42968896174253533",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 133.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        18.0,
+        18.00000000000308,
+        1.648796
+      ],
+      "footprint_mm": [
+        18.00000000000308,
+        18.0
+      ]
+    },
+    {
+      "name": "USB_C_collar",
+      "source": "STL/USB_C_collar.stl",
+      "sha256": "f585da71ce8d60f186038b00503decd892fda006fc39531518d086e2e0a95f34",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 14.0,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        18.4,
+        10.900000000000713,
+        2.0
+      ],
+      "footprint_mm": [
+        10.900000000000713,
+        18.4
+      ]
+    },
+    {
+      "name": "USB_A_collar",
+      "source": "STL/USB_A_collar.stl",
+      "sha256": "22b6b6c1f27d89269391d2f8ca597e3a5449a08f8255075d6513e057aaf42c23",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 35.4,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        20.40000000000002,
+        9.500000000000476,
+        2.0
+      ],
+      "footprint_mm": [
+        9.500000000000476,
+        20.40000000000002
+      ]
+    },
+    {
+      "name": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "c158a36b7968f51f6f83e4ac78d5f328a775156c644cccb0425b981dd987f52b",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 233.30000000000004,
+      "y": 108.3000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "footprint_mm": [
+        8.000000000000275,
+        18.0
+      ]
+    },
+    {
+      "name": "pad_1_2_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_2_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "809a76b3d738dde7678651461c19bf870a3718a1358a81c498e88aa319cda9c3",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 184.3000000000031,
+      "y": 133.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "footprint_mm": [
+        18.0,
+        8.000000000000275
+      ]
+    },
+    {
+      "name": "pad_1_3_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_3_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "8806bc9e0779a18eb9a2b45d2d0a15837d797a87b412c089de74536d0c3d75ae",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 205.3000000000031,
+      "y": 133.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "footprint_mm": [
+        18.0,
+        8.000000000000275
+      ]
+    },
+    {
+      "name": "pad_1_4_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_4_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "8806bc9e0779a18eb9a2b45d2d0a15837d797a87b412c089de74536d0c3d75ae",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 233.30000000000004,
+      "y": 129.3000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.000000000000275,
+        18.0,
+        1.648796
+      ],
+      "footprint_mm": [
+        8.000000000000275,
+        18.0
+      ]
+    },
+    {
+      "name": "pad_1_5_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_5_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "c2e590ad1ddd3b7d25ba6c03581dbbb460c70a9ed201ed0c1c6caa500f157657",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 184.3000000000031,
+      "y": 144.4000002000015,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        18.0,
+        8.000000000000275,
+        1.648796
+      ],
+      "footprint_mm": [
+        18.0,
+        8.000000000000275
+      ]
+    },
+    {
+      "name": "pad_1_6_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_1_6_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "b5dfb854c97a33ad51c6bfcd7a2c7c81b8a8756ae9e1b3bf1306912c17d23e7d",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 205.3000000000031,
+      "y": 144.4000002000015,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        18.0,
+        8.000000000000275,
+        1.648796
+      ],
+      "footprint_mm": [
+        18.0,
+        8.000000000000275
+      ]
+    },
+    {
+      "name": "pad_2_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_2_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 154.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "footprint_mm": [
+        18.0,
+        7.0
+      ]
+    },
+    {
+      "name": "pad_3_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_3_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 184.30000000000004,
+      "y": 155.40000020000178,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "footprint_mm": [
+        18.0,
+        7.0
+      ]
+    },
+    {
+      "name": "pad_4_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_4_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 205.30000000000004,
+      "y": 155.40000020000178,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "footprint_mm": [
+        18.0,
+        7.0
+      ]
+    },
+    {
+      "name": "pad_5_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_5_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 164.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        7.0,
+        18.0,
+        1.2
+      ],
+      "footprint_mm": [
+        18.0,
+        7.0
+      ]
+    },
+    {
+      "name": "pad_6_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_6_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "25d67fa72eabdc74a6e2301aac012dda4d4a07b8fdf4518d1f5ede1c17fae57f",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 174.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        19.0,
+        6.0,
+        1.2
+      ],
+      "footprint_mm": [
+        6.0,
+        19.0
+      ]
+    },
+    {
+      "name": "pad_7_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_7_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "25d67fa72eabdc74a6e2301aac012dda4d4a07b8fdf4518d1f5ede1c17fae57f",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 172.30000000000004,
+      "y": 174.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        19.0,
+        6.0,
+        1.2
+      ],
+      "footprint_mm": [
+        6.0,
+        19.0
+      ]
+    },
+    {
+      "name": "insulating_plate_stop_H1",
+      "source": "STL/insulating_plate_stop_H1.stl",
+      "sha256": "a7c3659d50ad8e5f991fd8c6ba95b07c82cfa79cd336fe7bda3cac6cf31bb545",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 58.80000000000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_plate_rear_tapped_cap_H1",
+      "source": "STL/insulating_plate_rear_tapped_cap_H1.stl",
+      "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.3000000000031,
+      "y": 150.3000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_plate_stop_H2",
+      "source": "STL/insulating_plate_stop_H2.stl",
+      "sha256": "db057127e9d2d785590f01488664f5baa86847925c56024a9dede33a715df753",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 196.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_plate_rear_tapped_cap_H2",
+      "source": "STL/insulating_plate_rear_tapped_cap_H2.stl",
+      "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 163.30000000000004,
+      "y": 207.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_plate_stop_H3",
+      "source": "STL/insulating_plate_stop_H3.stl",
+      "sha256": "db057127e9d2d785590f01488664f5baa86847925c56024a9dede33a715df753",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 14.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        4.55
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_plate_rear_tapped_cap_H3",
+      "source": "STL/insulating_plate_rear_tapped_cap_H3.stl",
+      "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 25.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "custom_POM_stop_H5",
+      "source": "STL/custom_POM_stop_H5.stl",
+      "sha256": "e00cd4610ba50ec6ea029a4e96c1e85a22633a27ad5b3eaf0b2246ac383b4fc0",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 36.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        5.9
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "custom_POM_stop_H7",
+      "source": "STL/custom_POM_stop_H7.stl",
+      "sha256": "b8397c2ba3e81d5c8a2f9dc95c702d7bbe241c2b29e1ac60e90ffa1a2b8b9529",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 47.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        5.9
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_support_washer_H5",
+      "source": "STL/insulating_support_washer_H5.stl",
+      "sha256": "28acb680f57f4ccbd55e77bd17a7e035df4cf6e9fd200de1c107015b7f52aa29",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 58.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "insulating_support_washer_H7",
+      "source": "STL/insulating_support_washer_H7.stl",
+      "sha256": "28acb680f57f4ccbd55e77bd17a7e035df4cf6e9fd200de1c107015b7f52aa29",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 69.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "rear_insulating_washer_H5",
+      "source": "STL/rear_insulating_washer_H5.stl",
+      "sha256": "aabbeb409b0878a698795cd8f8686590ebe835bb73a927f790fff90370fc07af",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 80.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "custom_POM_retainer_thread_not_modeled_H5",
+      "source": "STL/custom_POM_retainer_thread_not_modeled_H5.stl",
+      "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 91.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "rear_insulating_washer_H7",
+      "source": "STL/rear_insulating_washer_H7.stl",
+      "sha256": "aabbeb409b0878a698795cd8f8686590ebe835bb73a927f790fff90370fc07af",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 102.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        0.5
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "custom_POM_retainer_thread_not_modeled_H7",
+      "source": "STL/custom_POM_retainer_thread_not_modeled_H7.stl",
+      "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 113.0,
+      "y": 216.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        2.0
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW1_captive_cap_H5_trial",
+      "source": "STL/OPSW1_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 124.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW2_captive_cap_H5_trial",
+      "source": "STL/OPSW2_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 135.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW3_captive_cap_H5_trial",
+      "source": "STL/OPSW3_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 146.0,
+      "y": 216.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW4_captive_cap_H5_trial",
+      "source": "STL/OPSW4_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 157.0,
+      "y": 218.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW5_captive_cap_H5_trial",
+      "source": "STL/OPSW5_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 168.0,
+      "y": 218.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "OPSW6_captive_cap_H5_trial",
+      "source": "STL/OPSW6_captive_cap_H5_trial.stl",
+      "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 25.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        8.0,
+        8.0,
+        6.200000000000001
+      ],
+      "footprint_mm": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_1_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_1_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 174.30000000000004,
+      "y": 196.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_1_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 174.30000000000004,
+      "y": 206.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_2_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_2_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 58.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_2_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_2_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 68.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_3_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_3_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 78.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_3_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_3_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 88.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_4_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_4_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 98.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_4_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_4_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 108.0,
+      "y": 227.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_5_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_5_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 14.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_5_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_5_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 36.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_6_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_6_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 46.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_6_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_6_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 118.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_7_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_7_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 128.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_7_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_7_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 138.0,
+      "y": 227.50000000000506,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_8_bottom_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_8_bottom_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 148.0,
+      "y": 229.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "acrylic_case_washer_8_top_0p5_SURROGATE",
+      "source": "STL/acrylic_case_washer_8_top_0p5_SURROGATE.stl",
+      "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 158.0,
+      "y": 229.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        7.0,
+        7.0,
+        0.5
+      ],
+      "footprint_mm": [
+        7.0,
+        7.0
+      ]
+    },
+    {
+      "name": "pad_8_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_8_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "08ffc6572f5481bc6a59897ada3fe26be372e2a6eebb7764b93d6faf1f7adf99",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 168.0,
+      "y": 229.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.5,
+        5.5,
+        0.45
+      ],
+      "footprint_mm": [
+        5.5,
+        5.5
+      ]
+    },
+    {
+      "name": "acrylic_case_post_1_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_1_12mm_AF5_SURROGATE.stl",
+      "sha256": "10e0681b22e4cb4535bad340d4d1a64df7fbba8fbca36f16cb4b6cfa1d04cd51",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 176.5,
+      "y": 229.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.0,
+        5.773502691896258
+      ]
+    },
+    {
+      "name": "custom_POM_stop_H12",
+      "source": "STL/custom_POM_stop_H12.stl",
+      "sha256": "e647c2b56f065830e84608f9b483934c619aef4646507f3786c18f84c462a125",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 237.3000002,
+      "y": 58.80000000000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.5,
+        4.5,
+        4.0
+      ],
+      "footprint_mm": [
+        4.5,
+        4.5
+      ]
+    },
+    {
+      "name": "insulating_support_washer_H12",
+      "source": "STL/insulating_support_washer_H12.stl",
+      "sha256": "0a00db9fafcf571ab02ab8b864ba7b18e0b2890a269303485c8064355edb1ef9",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 237.3000000000031,
+      "y": 150.3000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.5,
+        4.5,
+        0.5
+      ],
+      "footprint_mm": [
+        4.5,
+        4.5
+      ]
+    },
+    {
+      "name": "rear_insulating_washer_H12",
+      "source": "STL/rear_insulating_washer_H12.stl",
+      "sha256": "077686bd93c1f7c35a8c0f57599d556ac02a2d9dc0d6d8d1f023fb18f7e37676",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 237.3000000000031,
+      "y": 157.8000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.5,
+        4.5,
+        0.5
+      ],
+      "footprint_mm": [
+        4.5,
+        4.5
+      ]
+    },
+    {
+      "name": "custom_POM_retainer_thread_not_modeled_H12",
+      "source": "STL/custom_POM_retainer_thread_not_modeled_H12.stl",
+      "sha256": "f520897621ad6986b5c88c7a21ada511f2b77cc5cc64261e84857d4d76873a9f",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.30000000000004,
+      "y": 161.3000002,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.5,
+        4.5,
+        2.0
+      ],
+      "footprint_mm": [
+        4.5,
+        4.5
+      ]
+    },
+    {
+      "name": "option_retainer_M2_nut_envelope_1_SURROGATE",
+      "source": "STL/option_retainer_M2_nut_envelope_1_SURROGATE.stl",
+      "sha256": "0246e61026314abeeaae54b63065d032270b942cc15d3178a132b9a582311318",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 56.0,
+      "y": 237.500000000005,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        4.0,
+        4.618802153517009,
+        1.6
+      ],
+      "footprint_mm": [
+        4.618802153517009,
+        4.0
+      ]
+    },
+    {
+      "name": "option_retainer_M2_nut_envelope_2_SURROGATE",
+      "source": "STL/option_retainer_M2_nut_envelope_2_SURROGATE.stl",
+      "sha256": "0246e61026314abeeaae54b63065d032270b942cc15d3178a132b9a582311318",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 63.61880215351701,
+      "y": 237.500000000005,
+      "z": 0.0,
+      "rotation_deg": 90,
+      "size_mm": [
+        4.0,
+        4.618802153517009,
+        1.6
+      ],
+      "footprint_mm": [
+        4.618802153517009,
+        4.0
+      ]
+    },
+    {
+      "name": "option_retainer_M2x5_pan_screw_envelope_1_SURROGATE",
+      "source": "STL/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.stl",
+      "sha256": "5bad48883d3326d22e7c01f9afe8b13c3118a93bcabca37e214e1c41901e504c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 71.23760430703402,
+      "y": 237.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.0,
+        4.0,
+        6.6
+      ],
+      "footprint_mm": [
+        4.0,
+        4.0
+      ]
+    },
+    {
+      "name": "option_retainer_M2x5_pan_screw_envelope_2_SURROGATE",
+      "source": "STL/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.stl",
+      "sha256": "5bad48883d3326d22e7c01f9afe8b13c3118a93bcabca37e214e1c41901e504c",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 78.23760430703402,
+      "y": 237.500000000005,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.0,
+        4.0,
+        6.6
+      ],
+      "footprint_mm": [
+        4.0,
+        4.0
+      ]
+    },
+    {
+      "name": "pad_9_1_INSTALLED_HEIGHT_GAUGE",
+      "source": "STL/pad_9_1_INSTALLED_HEIGHT_GAUGE.stl",
+      "sha256": "7793d0e0e40e54263e3c97046ca8602ae3e37a1f055e570144f79e4ed441e620",
+      "tier": 13,
+      "column": "infill pockets",
+      "x": 226.3000000000031,
+      "y": 133.40000020000122,
+      "z": 0.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        3.5,
+        3.5,
+        0.45
+      ],
+      "footprint_mm": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "acrylic_case_post_2_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_2_12mm_AF5_SURROGATE.stl",
+      "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 14.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_3_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_3_12mm_AF5_SURROGATE.stl",
+      "sha256": "5ec6ee99674cb32e8268e1c21ea539c507f8552b295708fdfad4b8248f29bf99",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 235.07350289189625,
+      "y": 14.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_4_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_4_12mm_AF5_SURROGATE.stl",
+      "sha256": "e3a8cb7c55a5357a3fe27ccb0ae7adc6593006eaf389261c67a421c9bcbab324",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 22.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_5_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_5_12mm_AF5_SURROGATE.stl",
+      "sha256": "10e0681b22e4cb4535bad340d4d1a64df7fbba8fbca36f16cb4b6cfa1d04cd51",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 235.07350289189625,
+      "y": 22.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_6_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_6_12mm_AF5_SURROGATE.stl",
+      "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 30.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_7_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_7_12mm_AF5_SURROGATE.stl",
+      "sha256": "e3a8cb7c55a5357a3fe27ccb0ae7adc6593006eaf389261c67a421c9bcbab324",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 235.07350289189625,
+      "y": 30.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "acrylic_case_post_8_12mm_AF5_SURROGATE",
+      "source": "STL/acrylic_case_post_8_12mm_AF5_SURROGATE.stl",
+      "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 38.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        5.773502691896258,
+        5.0,
+        12.0
+      ],
+      "footprint_mm": [
+        5.773502691896258,
+        5.0
+      ]
+    },
+    {
+      "name": "printed_screen_stop_1_3mm",
+      "source": "STL/printed_screen_stop_1_3mm.stl",
+      "sha256": "8bb531195351121df8ddfb28d9af78402abdfaf17e4f7717d461c3ad89e6fa65",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 235.07350289189625,
+      "y": 38.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_rear_tapped_cap_1_M2",
+      "source": "STL/printed_screen_rear_tapped_cap_1_M2.stl",
+      "sha256": "2684f7f48e5df633edc6a0067a3c24f5e5d55cf774a0ec7d7319b74cd5a6d25d",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 235.07350289189625,
+      "y": 45.8,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_stop_2_3mm",
+      "source": "STL/printed_screen_stop_2_3mm.stl",
+      "sha256": "bf1d00993a92d0bcf3ea04e1bfa740f0ad5d58a43e9f41245860be8a29d07a6e",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 46.0,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_rear_tapped_cap_2_M2",
+      "source": "STL/printed_screen_rear_tapped_cap_2_M2.stl",
+      "sha256": "c696cc11c23d6ef4a8d8fe05fddcb5563dfcc1122303f788171d19fd99e70034",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 226.3000002,
+      "y": 69.80000000000001,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_stop_3_3mm",
+      "source": "STL/printed_screen_stop_3_3mm.stl",
+      "sha256": "8bb531195351121df8ddfb28d9af78402abdfaf17e4f7717d461c3ad89e6fa65",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 234.1000002,
+      "y": 69.80000000000001,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_rear_tapped_cap_3_M2",
+      "source": "STL/printed_screen_rear_tapped_cap_3_M2.stl",
+      "sha256": "2684f7f48e5df633edc6a0067a3c24f5e5d55cf774a0ec7d7319b74cd5a6d25d",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 163.3,
+      "y": 69.9000002,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_stop_4_3mm",
+      "source": "STL/printed_screen_stop_4_3mm.stl",
+      "sha256": "bf1d00993a92d0bcf3ea04e1bfa740f0ad5d58a43e9f41245860be8a29d07a6e",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 171.10000000000002,
+      "y": 69.9000002,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        4.55
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    },
+    {
+      "name": "printed_screen_rear_tapped_cap_4_M2",
+      "source": "STL/printed_screen_rear_tapped_cap_4_M2.stl",
+      "sha256": "c696cc11c23d6ef4a8d8fe05fddcb5563dfcc1122303f788171d19fd99e70034",
+      "tier": 14,
+      "column": "infill pockets",
+      "x": 178.90000000000003,
+      "y": 69.9000002,
+      "z": 3.0,
+      "rotation_deg": 0,
+      "size_mm": [
+        4.800000000000001,
+        4.800000000000001,
+        1.25
+      ],
+      "footprint_mm": [
+        4.800000000000001,
+        4.800000000000001
+      ]
+    }
+  ]
+}

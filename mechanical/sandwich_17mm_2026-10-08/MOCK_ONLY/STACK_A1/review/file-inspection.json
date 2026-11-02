@@ -1,0 +1,49 @@
+{
+  "receipt_version": "1",
+  "evidence": "file-only",
+  "dispatch_authorized": false,
+  "artifact": {
+    "sha256": "dba295c365cde8d3fbbce07c297d0aadf8c9561acb729d5165a4050ede0a937c",
+    "byte_length": 11325908,
+    "file_format": "3mf"
+  },
+  "selection": {
+    "bambu_model": "a1",
+    "plate_index": 0,
+    "nozzle_diameters": [
+      0.4
+    ],
+    "bed_type": "textured_plate"
+  },
+  "inspection": {
+    "model": "a1",
+    "nozzleDiameters": [
+      0.4
+    ],
+    "materials": [
+      "PLA",
+      "PETG"
+    ],
+    "usedFilamentPositions": [
+      0,
+      1
+    ],
+    "plateInternalPath": "Metadata/plate_1.gcode",
+    "sha256": "dba295c365cde8d3fbbce07c297d0aadf8c9561acb729d5165a4050ede0a937c",
+    "maxNozzleTemperature": 245,
+    "maxBedTemperature": 65,
+    "maxChamberTemperature": 0,
+    "bedType": "textured pei plate",
+    "selectsAms": true,
+    "nozzleTypes": [
+      "stainless_steel"
+    ],
+    "nozzleFlows": [
+      "standard"
+    ],
+    "filamentNozzleIndices": [
+      0,
+      0
+    ]
+  }
+}

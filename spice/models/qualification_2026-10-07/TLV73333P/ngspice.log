@@ -1,0 +1,104 @@
+Warning: can't find the initialization file spinit.
+******
+** ngspice-46 shared library
+** Creation Date: Apr 14 2026   05:15:29
+******
+******
+** ngspice-46 : Circuit level simulation program
+** Compiled with KLU Direct Linear Solver
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Copyright 2001-2025, The ngspice team.
+** Please get your ngspice manual from https://ngspice.sourceforge.io/docs.html
+** Please file your bug-reports at https://ngspice.sourceforge.io/bugrep.html
+** Creation Date: Apr 14 2026   05:15:29
+******
+Note: gnd in a subcircuit is not set to 0 automatically
+Note: Compatibility modes selected: ps
+Circuit: tlv73333p isolated compatibility smoke check
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+Using SPARSE 1.3 as Direct Linear Solver
+Initial Transient Solution
+--------------------------
+Node                                   Voltage
+----                                   -------
+vin                                          0
+en                                           0
+xreg.n242982                                 0
+xreg.vyy                          -9.66809e-72
+xreg.u1_n05382                               0
+xreg.u1_n12783                             1.3
+xreg.x_u1_u1.inp1                            0
+xreg.x_u1_u1.inm1                          0.9
+xreg.u1_n11911                             0.9
+xreg.x_u1_u1.inp2                            0
+xreg.x_u1_u1.ehys_int1                       0
+xreg.x_u1_u1.1                               0
+xreg.u1_n11626                               0
+xreg.u1_n11113                               0
+xreg.x_u1_u1.eout_int1                       0
+xreg.u1_n09035                               0
+xreg.e_u1_abm4_int1                          0
+xreg.u1_n05348                               0
+xreg.n222556                       3.80986e-60
+xreg.n222934                       5.77252e-61
+xreg.x_u1_u2.inp1                            0
+xreg.x_u1_u2.inm1                          1.3
+xreg.x_u1_u2.inp2                            0
+xreg.x_u1_u2.ehys_int1                       0
+xreg.x_u1_u2.1                               0
+xreg.u1_n12664                               0
+xreg.u1_n13377                               0
+xreg.x_u1_u2.eout_int1                       0
+xreg.u1_drop                           0.00125
+xreg.e_u1_e1_int1                      0.00125
+xreg.e_u1_e1_int2                 -2.54023e-58
+xreg.load                         -2.54023e-58
+xreg.u1_n09745                               0
+xreg.n222524                                 0
+xreg.u1_n08164                               0
+xreg.e_u1_abm6_int1                          0
+xreg.e_u1_abm5_int1                          0
+xreg.vzz                           3.80986e-60
+xreg.e_abm1_int1                             0
+xreg.vxx                                     0
+vout                               3.80986e-60
+xreg.e_abm2_int1                  -2.54023e-58
+b.xreg.be_abm2#branch                        0
+v.xreg.v_vload#branch             -2.54023e-58
+b.xreg.be_abm1#branch                        0
+b.xreg.be_u1_abm5#branch                     0
+b.xreg.be_u1_abm6#branch                     0
+b.xreg.be_u1_e1#branch                       0
+b.xreg.x_u1_u2.beout#branch                  0
+b.xreg.x_u1_u2.behys#branch                  0
+b.xreg.be_u1_abm4#branch                     0
+b.xreg.x_u1_u1.beout#branch                  0
+b.xreg.x_u1_u1.behys#branch                  0
+v.xreg.x_f1.vf_f1#branch          -2.53991e-58
+e.xreg.e_abm2#branch                         0
+e.xreg.e_abm1#branch              -9.66809e-73
+e.xreg.e_u1_abm5#branch                      0
+e.xreg.e_u1_abm6#branch                      0
+e.xreg.e_u1_e1#branch                        0
+e.xreg.x_u1_u2.eout#branch                   0
+e.xreg.x_u1_u2.ehys#branch                   0
+e.xreg.x_u1_u2.ein#branch                    0
+e.xreg.e_u1_abm4#branch                      0
+e.xreg.x_u1_u1.eout#branch                   0
+e.xreg.x_u1_u1.ehys#branch                   0
+e.xreg.x_u1_u1.ein#branch                    0
+v.xreg.v_u1_v1#branch                        0
+v.xreg.v_u1_v3#branch                        0
+v.xreg.v_u1_v2#branch                        0
+v.xreg.v_u1_v4#branch                        0
+ven#branch                                   0
+v1#branch                          2.53991e-58
+a.xreg.ae_u1_e1#branch_1_0                   0
+ Reference value :  0.00000e+00
+
+No. of Data Rows : 5082
+Measurements for Transient Analysis
+output_final        =  3.29986e+00
+binary raw file "waveform.raw"

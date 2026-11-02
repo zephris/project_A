@@ -1,0 +1,56 @@
+{
+  "units": "mm",
+  "assembly_sha256": "ac85001d3e9a2cc2b16171bdce20bb59b41de7af957a48ba3bc2cab234fb71c1",
+  "enclosure_width": 288.6,
+  "enclosure_depth": 187.00000000001,
+  "overall_height": 26.0,
+  "top_plate_thickness": 3.0000000000000018,
+  "bottom_plate_thickness": 3.0,
+  "cavity_height": 20.0,
+  "pcb_width": 272.6,
+  "pcb_depth": 171.000000000004,
+  "pcb_thickness_nominal": 1.6,
+  "heatsink_envelope": [
+    60.00000019999999,
+    52.900000199999994,
+    5.7000001000000005
+  ],
+  "heatsink_web_thickness": 3.0,
+  "heatsink_underside_z": 4.0,
+  "heatsink_top_z": 7.0000001,
+  "top": {
+    "min": [
+      44.28218,
+      -213.516558,
+      8.0
+    ],
+    "max": [
+      332.88218,
+      -26.51655799999,
+      11.000000000000002
+    ],
+    "size": [
+      288.6,
+      187.00000000001,
+      3.0000000000000018
+    ]
+  },
+  "bottom": {
+    "min": [
+      44.28218,
+      -213.516558,
+      -15.0
+    ],
+    "max": [
+      332.88218,
+      -26.51655799999,
+      -12.0
+    ],
+    "size": [
+      288.6,
+      187.00000000001,
+      3.0
+    ]
+  },
+  "scope": "Provisional assembled envelope; excludes keycaps, screws/heads and final walls. Display guides are not machining geometry."
+}

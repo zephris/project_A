@@ -1,0 +1,386 @@
+{
+  "files": [
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_1",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          2.9842794901924208e-12,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          2.0
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 7.646918127838323e-05
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_2",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          2.9842794901924208e-12,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          2.0
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 9.856560199115324e-05
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_3",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          2.0
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 8.820129652388924e-05
+    },
+    {
+      "name": "top_acrylic_SURROGATE_QUARTER_4",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          2.0
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 0.00013441355956961783
+    },
+    {
+      "name": "switch_plate_QUARTER_1",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          142.3000030517578,
+          75.2582778930664,
+          1.2999999523162842
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 5.354364501193978e-08
+    },
+    {
+      "name": "switch_plate_QUARTER_2",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          142.3000030517578,
+          75.2582778930664,
+          1.2999999523162842
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 6.29520158421232e-07
+    },
+    {
+      "name": "switch_plate_QUARTER_3",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          142.3000030517578,
+          75.2582778930664,
+          1.2999999523162842
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 1.5972602094449973e-05
+    },
+    {
+      "name": "switch_plate_QUARTER_4",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          142.3000030517578,
+          75.2582778930664,
+          1.2999999523162842
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 7.120515919758547e-08
+    },
+    {
+      "name": "bottom_spacer_QUARTER_1",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          2.9842794901924208e-12,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          3.1500000953674316
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 7.86823917670487e-06
+    },
+    {
+      "name": "bottom_spacer_QUARTER_2",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          2.9842794901924208e-12,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          3.1500000953674316
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 4.840946361971246e-06
+    },
+    {
+      "name": "bottom_spacer_QUARTER_3",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          5.400000095367432
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 6.141985212263417e-08
+    },
+    {
+      "name": "bottom_spacer_QUARTER_4",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          5.400000095367432
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 3.2255279531732715e-06
+    },
+    {
+      "name": "top_spacer_QUARTER_3",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          9.850000381469727
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.0517578011313162e-06,
+      "volume_fraction_error": 7.28943208596646e-07
+    },
+    {
+      "name": "top_spacer_QUARTER_4",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          146.3000030517578,
+          95.5,
+          9.850000381469727
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.051757772709607e-06,
+      "volume_fraction_error": 1.2485452325997133e-05
+    },
+    {
+      "name": "option_retainer",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.00039164366899058223,
+          0.0
+        ],
+        [
+          67.0,
+          16.999608993530273,
+          2.799999952316284
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 0.0007826501387171447,
+      "volume_fraction_error": 3.955431927646514e-05
+    },
+    {
+      "name": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          1.4210854715202004e-13,
+          0.0,
+          0.0
+        ],
+        [
+          8.0,
+          18.0,
+          1.6487959623336792
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.76663207291017e-08,
+      "volume_fraction_error": 1.9898874953486966e-06
+    },
+    {
+      "name": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          18.0,
+          18.0,
+          1.6487959623336792
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 3.76663207291017e-08,
+      "volume_fraction_error": 0.0001867976164389159
+    },
+    {
+      "name": "button_blank_PLA_trial_1",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0014434866607189178,
+          0.0
+        ],
+        [
+          25.799999237060547,
+          25.79855728149414,
+          4.400000095367432
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 0.0028862051665790034,
+      "volume_fraction_error": 0.0004847752261200619
+    },
+    {
+      "name": "button_blank_PLA_trial_2",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0014434866607189178,
+          0.0
+        ],
+        [
+          25.799999237060547,
+          25.79855728149414,
+          4.400000095367432
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 0.0028862051665790034,
+      "volume_fraction_error": 0.0004847752261200619
+    },
+    {
+      "name": "button_blank_PLA_trial_3",
+      "watertight": true,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0014434866607189178,
+          0.0
+        ],
+        [
+          25.799999237060547,
+          25.79855728149414,
+          4.400000095367432
+        ]
+      ],
+      "body_count": 1,
+      "size_error_mm": 0.0028862051665790034,
+      "volume_fraction_error": 0.0004847752261200619
+    }
+  ],
+  "failures": [],
+  "count": 20
+}

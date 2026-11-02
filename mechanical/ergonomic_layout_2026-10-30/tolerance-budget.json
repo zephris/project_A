@@ -1,0 +1,37 @@
+{
+  "units": "mm",
+  "checked_date": "2026-10-30",
+  "jlcpcb": {
+    "source": "https://jlcpcb.com/capabilities/Capabilities/",
+    "regular_routed_outline_mm": 0.2,
+    "precision_routed_outline_mm": 0.1,
+    "drilled_hole_position_mm": 0.075,
+    "through_hole_diameter_plus_mm": 0.13,
+    "through_hole_diameter_minus_mm": 0.08,
+    "nonplated_routed_slot_size_mm": 0.2,
+    "drill_to_route_threshold_mm": 6.3,
+    "pcb_nominal_thickness_mm": 1.6,
+    "pcb_thickness_fraction": 0.1
+  },
+  "design_acceptance_targets_not_supplier_guarantees": {
+    "routed_locator_hole_nominal_diameter_mm": 6.4,
+    "routed_locator_hole_diameter_plus_mm": 0.2,
+    "routed_locator_position_per_axis_mm": 0.2,
+    "printed_guide_nominal_diameter_mm": 5.4,
+    "printed_guide_diameter_minus_mm": 0.1,
+    "printed_guide_position_per_axis_mm": 0.1,
+    "cap_maximum_diameter_mm": 20.2,
+    "switch_position_per_axis_mm": 0.075,
+    "cap_and_switch_seating_play_per_axis_mm": 0.1,
+    "acrylic_hole_diameter_minus_mm": 0.2,
+    "acrylic_hole_position_per_axis_mm": 0.1,
+    "required_remaining_radial_clearance_mm": 0.2
+  },
+  "notes": [
+    "Regular routing is the existing selected order basis. Precision routing is not assumed.",
+    "JLCPCB's 6.3 mm and larger holes are CNC routed; obtain CAM confirmation of the 6.4 mm H4/H6 locator-hole size and position limits. The 0.2 mm position bound is a conservative design allocation, not a quoted circular-routed-hole specification.",
+    "JLCPCB PCB capability limits do not define acrylic, CNC heatsink, FDM, keycap or component seating tolerances. Those entries are acceptance targets requiring supplier agreement or measurement.",
+    "The global rim, tightly spaced plate/heatsink interface, printed snap/thread fits and foam/preload still require tolerance review. This cap budget is not a tolerance release of the entire assembly.",
+    "Finished PCB thickness can be 1.44 to 1.76 mm. Front-datum heatsink dimensions do not automatically change by the full thickness tolerance; rear retainers, foam and case stack must be checked separately. Added-acrylic checks conservatively add 0.16 mm to nominal 0.25 mm Z travel."
+  ]
+}

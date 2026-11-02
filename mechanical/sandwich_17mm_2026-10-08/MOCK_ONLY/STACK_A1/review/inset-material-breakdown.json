@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "category": "Mock parts + adhesion brim",
+      "PLA_g": 342.5656771539062,
+      "PETG_g": 0
+    },
+    {
+      "category": "PLA scaffold + transition",
+      "PLA_g": 220.9026456,
+      "PETG_g": 0
+    },
+    {
+      "category": "PETG release interfaces",
+      "PLA_g": 0,
+      "PETG_g": 105.11396789550781
+    },
+    {
+      "category": "Prime tower",
+      "PLA_g": 40.307589,
+      "PETG_g": 10.673829300000001
+    },
+    {
+      "category": "Purge / material-change waste (inferred)",
+      "PLA_g": 57.32308726953125,
+      "PETG_g": 57.77796818535156
+    }
+  ],
+  "job_totals_g": {
+    "PLA": 661.0989990234375,
+    "PETG": 173.56576538085938
+  },
+  "estimated_hours": 55.547061631944445,
+  "AMS_changes": 120,
+  "method": "Tower from positive XY extrusion. Purge is slicer total minus main minus measured tower. Main excludes tower. PETG main mass is all support interface. Estimates include rounding residuals and are not weighed consumption."
+}

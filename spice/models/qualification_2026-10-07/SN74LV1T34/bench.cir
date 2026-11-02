@@ -1,0 +1,11 @@
+SN74LV1T34 isolated compatibility smoke check
+.include "C:/Users/admin/Documents/KiCad/9.0/projects/project_a_latest/project_A/spice/models/vendor/SN74LV1T34_SPICE/SN74LV1T34.cir"
+V1 vcc 0 5
+Vin input 0 PULSE(0 3.3 1u 10n 10n 2u 4u)
+Xbuf output input vcc 0 SN74LV1T34
+Cload output 0 15p
+Rload output 0 1Meg
+.tran 1n 10u
+.meas tran output_high FIND v(output) AT=2u
+.meas tran output_low FIND v(output) AT=4u
+.end

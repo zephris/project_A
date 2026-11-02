@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-09",
+  "authorization": "User requested removal of SPICE data; saved simulation outputs removed, reproducible suite retained.",
+  "deleted_path": "spice/results",
+  "files": 243,
+  "reclaimed_bytes": 569839545,
+  "spice_bytes_before": 926411438,
+  "removed_sets": [
+    "static-integration-2026-10-07",
+    "static-retest-2026-10-07",
+    "vendor-corners-2026-10-07",
+    "vendor-u7-final-corners-2026-10-07"
+  ],
+  "retained": "Benches, suite generators/runners, vendor models and licenses, firmware reference, textual result summaries and model audits.",
+  "spice_bytes_after": 356571893
+}

@@ -1,0 +1,2436 @@
+{
+  "printer": "Bambu Lab A1",
+  "bed_mm": [
+    256,
+    256
+  ],
+  "mode": "one part per file",
+  "scaled": false,
+  "min_margin_mm": 8,
+  "print_plan": [
+    {
+      "plate": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1",
+      "job_id": "001",
+      "file": "parts/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1.stl",
+          "x": 59.849999999999994,
+          "y": 85.07313999999782,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            136.3,
+            85.85372000000436
+          ],
+          "sha256": "ddc3d326b47e3436d55241be3bcb25d5e1049e082e94761440049e3783ee15db"
+        }
+      ]
+    },
+    {
+      "plate": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2",
+      "job_id": "002",
+      "file": "parts/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2.stl",
+          "x": 59.84999999999998,
+          "y": 85.07313999999782,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            136.30000000000004,
+            85.85372000000436
+          ],
+          "sha256": "f366a71327964528b946a34a81c27c72c9e935e8d3461eeba4aa21a678fb9f0d"
+        }
+      ]
+    },
+    {
+      "plate": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3",
+      "job_id": "003",
+      "file": "parts/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3.stl",
+          "x": 59.849999999999994,
+          "y": 85.07313999999782,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            136.3,
+            85.85372000000436
+          ],
+          "sha256": "15a47afed8ab1b99e593d232f2a690f4aa46fcc1c5e9e81691702e83ec1c1dc3"
+        }
+      ]
+    },
+    {
+      "plate": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4",
+      "job_id": "004",
+      "file": "parts/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4.stl",
+          "x": 59.84999999999998,
+          "y": 85.23858099999782,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            136.30000000000004,
+            85.52283800000436
+          ],
+          "sha256": "68464e1ef649d52d74dada898c6a44a406151de38ffebfd555affb8f78187fe2"
+        }
+      ]
+    },
+    {
+      "plate": "top_acrylic_SURROGATE_QUARTER_1",
+      "job_id": "005",
+      "file": "parts/top_acrylic_SURROGATE_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_acrylic_SURROGATE_QUARTER_1.stl",
+          "x": 54.849999999999994,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000502
+          ],
+          "sha256": "46d96ca50163390f6c15075b1bf8939bd32396cd61d6f96901f6da9d3ab56f91"
+        }
+      ]
+    },
+    {
+      "plate": "top_acrylic_SURROGATE_QUARTER_2",
+      "job_id": "006",
+      "file": "parts/top_acrylic_SURROGATE_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_acrylic_SURROGATE_QUARTER_2.stl",
+          "x": 54.84999999999998,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000502
+          ],
+          "sha256": "05c8d58a2ab3fca934d2e551a2a5663c19198a9ed7c4f3a9f98522ef43f05139"
+        }
+      ]
+    },
+    {
+      "plate": "top_acrylic_SURROGATE_QUARTER_3",
+      "job_id": "007",
+      "file": "parts/top_acrylic_SURROGATE_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_acrylic_SURROGATE_QUARTER_3.stl",
+          "x": 54.849999999999994,
+          "y": 80.24999999999748,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000503
+          ],
+          "sha256": "37b324699f83164e8a077198c71fe1f2764b717522d77e3481993dce2dc2d2d5"
+        }
+      ]
+    },
+    {
+      "plate": "top_acrylic_SURROGATE_QUARTER_4",
+      "job_id": "008",
+      "file": "parts/top_acrylic_SURROGATE_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_acrylic_SURROGATE_QUARTER_4.stl",
+          "x": 54.84999999999998,
+          "y": 80.24999999999748,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000503
+          ],
+          "sha256": "ef316fb643e49a8b28e4d69b7eb46d0047ad45ac55acdf2b362536e1103d64a0"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_acrylic_SURROGATE_QUARTER_1",
+      "job_id": "009",
+      "file": "parts/bottom_acrylic_SURROGATE_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_acrylic_SURROGATE_QUARTER_1.stl",
+          "x": 54.849999999999994,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000502
+          ],
+          "sha256": "d2b10c90e77d04dd43993a82786973a3fbd6ef4050bd7c2188f2a3f829852c24"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_acrylic_SURROGATE_QUARTER_2",
+      "job_id": "010",
+      "file": "parts/bottom_acrylic_SURROGATE_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_acrylic_SURROGATE_QUARTER_2.stl",
+          "x": 54.84999999999998,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000502
+          ],
+          "sha256": "f4afed8a0e1f66d0c3119e99240d077f9151662ffb50a8193cc09aa7ddc21fd2"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_acrylic_SURROGATE_QUARTER_3",
+      "job_id": "011",
+      "file": "parts/bottom_acrylic_SURROGATE_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_acrylic_SURROGATE_QUARTER_3.stl",
+          "x": 54.849999999999994,
+          "y": 80.24999999999747,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000504
+          ],
+          "sha256": "de0046aec58277c00b2665792f67ecb97bdaf3343b07e660f96dddbba28be9a6"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_acrylic_SURROGATE_QUARTER_4",
+      "job_id": "012",
+      "file": "parts/bottom_acrylic_SURROGATE_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_acrylic_SURROGATE_QUARTER_4.stl",
+          "x": 54.84999999999998,
+          "y": 80.24999999999747,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000504
+          ],
+          "sha256": "1e55eb8dbbf08c4f68838e6342c8aa1a6a76f62f859df1450e0e87f94854f164"
+        }
+      ]
+    },
+    {
+      "plate": "top_spacer_QUARTER_1",
+      "job_id": "013",
+      "file": "parts/top_spacer_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_spacer_QUARTER_1.stl",
+          "x": 54.849999999999994,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000502
+          ],
+          "sha256": "51eb7e66f75a2c7d000469c00f7658e3ac05ec8492b3b30af78097a17dad2665"
+        }
+      ]
+    },
+    {
+      "plate": "top_spacer_QUARTER_2",
+      "job_id": "014",
+      "file": "parts/top_spacer_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_spacer_QUARTER_2.stl",
+          "x": 54.84999999999998,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000502
+          ],
+          "sha256": "0125534a2fc015b9283113a70549ed3744212ea0a41e549fecc6232b3f4286fa"
+        }
+      ]
+    },
+    {
+      "plate": "top_spacer_QUARTER_3",
+      "job_id": "015",
+      "file": "parts/top_spacer_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_spacer_QUARTER_3.stl",
+          "x": 54.849999999999994,
+          "y": 80.24999999999748,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000503
+          ],
+          "sha256": "56ec2512786ad23ca4c42d2184ca1fe0805965bff0b2d858c65a10e5892303e5"
+        }
+      ]
+    },
+    {
+      "plate": "top_spacer_QUARTER_4",
+      "job_id": "016",
+      "file": "parts/top_spacer_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/top_spacer_QUARTER_4.stl",
+          "x": 54.84999999999998,
+          "y": 80.24999999999748,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000503
+          ],
+          "sha256": "9878ad7bb7f31a90d36bbd5a364b47518f60f42e9fbd23206400c0633c3bbde1"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_spacer_QUARTER_1",
+      "job_id": "017",
+      "file": "parts/bottom_spacer_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_spacer_QUARTER_1.stl",
+          "x": 54.849999999999994,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000502
+          ],
+          "sha256": "a922c4eeb37863ac27beca03da9d3239513321b9bf4006596dad5eeb5e4e6170"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_spacer_QUARTER_2",
+      "job_id": "018",
+      "file": "parts/bottom_spacer_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_spacer_QUARTER_2.stl",
+          "x": 54.84999999999998,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.50000000000502
+          ],
+          "sha256": "f2a342ae8503975c077939ed21a2e62adc0b77064ee130cb8e57c08e453e9c02"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_spacer_QUARTER_3",
+      "job_id": "019",
+      "file": "parts/bottom_spacer_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_spacer_QUARTER_3.stl",
+          "x": 54.849999999999994,
+          "y": 80.24999999999748,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.3,
+            95.50000000000503
+          ],
+          "sha256": "9de2f8ea2aaf89326f5ce47120373c35e6ea428bf85e60e51e681423bcc87b14"
+        }
+      ]
+    },
+    {
+      "plate": "bottom_spacer_QUARTER_4",
+      "job_id": "020",
+      "file": "parts/bottom_spacer_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "large",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/bottom_spacer_QUARTER_4.stl",
+          "x": 54.84999999999998,
+          "y": 80.2499999999975,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            146.30000000000004,
+            95.500000000005
+          ],
+          "sha256": "70ff7073154d694b65128308df12514f6f407dd8495ec53989209f4952338147"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_1_12mm_AF5_SURROGATE",
+      "job_id": "021",
+      "file": "parts/acrylic_case_post_1_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_1_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "10e0681b22e4cb4535bad340d4d1a64df7fbba8fbca36f16cb4b6cfa1d04cd51"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_2_12mm_AF5_SURROGATE",
+      "job_id": "022",
+      "file": "parts/acrylic_case_post_2_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_2_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_3_12mm_AF5_SURROGATE",
+      "job_id": "023",
+      "file": "parts/acrylic_case_post_3_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_3_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "5ec6ee99674cb32e8268e1c21ea539c507f8552b295708fdfad4b8248f29bf99"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_4_12mm_AF5_SURROGATE",
+      "job_id": "024",
+      "file": "parts/acrylic_case_post_4_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_4_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "e3a8cb7c55a5357a3fe27ccb0ae7adc6593006eaf389261c67a421c9bcbab324"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_5_12mm_AF5_SURROGATE",
+      "job_id": "025",
+      "file": "parts/acrylic_case_post_5_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_5_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "10e0681b22e4cb4535bad340d4d1a64df7fbba8fbca36f16cb4b6cfa1d04cd51"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_6_12mm_AF5_SURROGATE",
+      "job_id": "026",
+      "file": "parts/acrylic_case_post_6_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_6_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_7_12mm_AF5_SURROGATE",
+      "job_id": "027",
+      "file": "parts/acrylic_case_post_7_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_7_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "e3a8cb7c55a5357a3fe27ccb0ae7adc6593006eaf389261c67a421c9bcbab324"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_post_8_12mm_AF5_SURROGATE",
+      "job_id": "028",
+      "file": "parts/acrylic_case_post_8_12mm_AF5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "coarse",
+      "nozzle_mm": 0.6,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_post_8_12mm_AF5_SURROGATE.stl",
+          "x": 125.11324865405187,
+          "y": 125.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.773502691896258,
+            5.0
+          ],
+          "sha256": "4069d8c09a13f19f2d817c2cf11d9bbb2422d30f0d7e089505e8391ac93fd1f7"
+        }
+      ]
+    },
+    {
+      "plate": "OLED_MODULE_PCB_SURROGATE",
+      "job_id": "029",
+      "file": "parts/OLED_MODULE_PCB_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OLED_MODULE_PCB_SURROGATE.stl",
+          "x": 110.3,
+          "y": 111.25,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            35.400000000000006,
+            33.5
+          ],
+          "sha256": "81f994bdfba31c5b2c6417ea0f8db2876e6123116fb88ef4d0e46c16dff4407e"
+        }
+      ]
+    },
+    {
+      "plate": "switch_plate_QUARTER_1",
+      "job_id": "030",
+      "file": "parts/switch_plate_QUARTER_1.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/switch_plate_QUARTER_1.stl",
+          "x": 56.849999999999994,
+          "y": 95.12086049999996,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            142.3,
+            65.75827900000007
+          ],
+          "sha256": "c6a69d6d4b518b40efded79f2577affaafc50936fe6383ad742f1322172cbb98"
+        }
+      ]
+    },
+    {
+      "plate": "switch_plate_QUARTER_2",
+      "job_id": "031",
+      "file": "parts/switch_plate_QUARTER_2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/switch_plate_QUARTER_2.stl",
+          "x": 56.84999999999998,
+          "y": 95.12086049999996,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            142.30000000000004,
+            65.75827900000007
+          ],
+          "sha256": "68fe71446f9b391ab478fc17fd03029354e7c010a6469b8c15a801b70a1d3279"
+        }
+      ]
+    },
+    {
+      "plate": "switch_plate_QUARTER_3",
+      "job_id": "032",
+      "file": "parts/switch_plate_QUARTER_3.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/switch_plate_QUARTER_3.stl",
+          "x": 56.849999999999994,
+          "y": 95.12086049999998,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            142.3,
+            65.75827900000004
+          ],
+          "sha256": "2abac85e9f9f9f30b9c98171637273956d9da8a4f86f51a7e52d8f3178a63213"
+        }
+      ]
+    },
+    {
+      "plate": "switch_plate_QUARTER_4",
+      "job_id": "033",
+      "file": "parts/switch_plate_QUARTER_4.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/switch_plate_QUARTER_4.stl",
+          "x": 56.84999999999998,
+          "y": 95.12086049999998,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            142.30000000000004,
+            65.75827900000004
+          ],
+          "sha256": "bec3c1182fe4eb4d38968e87b606b4c4c60b3922898daed9f9b0be155cad96b3"
+        }
+      ]
+    },
+    {
+      "plate": "screen_frame",
+      "job_id": "034",
+      "file": "parts/screen_frame.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/screen_frame.stl",
+          "x": 107.8,
+          "y": 108.74999999999937,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            40.400000000000006,
+            38.500000000001236
+          ],
+          "sha256": "ddf1ce3bfe9eb8653fa69a6f488aa3aa58073dbe6a4235a53919aa281c64bad6"
+        }
+      ]
+    },
+    {
+      "plate": "aluminium_heatsink_SURROGATE",
+      "job_id": "035",
+      "file": "parts/aluminium_heatsink_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/aluminium_heatsink_SURROGATE.stl",
+          "x": 97.9999999,
+          "y": 101.5499999,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            60.0000002,
+            52.90000019999999
+          ],
+          "sha256": "1ea1cd0b0e68e314b7e009d8d16efcc905e1b993a6fa2a21f90af1c5498211c3"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_stop_1_3mm",
+      "job_id": "036",
+      "file": "parts/printed_screen_stop_1_3mm.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_stop_1_3mm.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "8bb531195351121df8ddfb28d9af78402abdfaf17e4f7717d461c3ad89e6fa65"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_rear_tapped_cap_1_M2",
+      "job_id": "037",
+      "file": "parts/printed_screen_rear_tapped_cap_1_M2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_rear_tapped_cap_1_M2.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "2684f7f48e5df633edc6a0067a3c24f5e5d55cf774a0ec7d7319b74cd5a6d25d"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_stop_2_3mm",
+      "job_id": "038",
+      "file": "parts/printed_screen_stop_2_3mm.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_stop_2_3mm.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "bf1d00993a92d0bcf3ea04e1bfa740f0ad5d58a43e9f41245860be8a29d07a6e"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_rear_tapped_cap_2_M2",
+      "job_id": "039",
+      "file": "parts/printed_screen_rear_tapped_cap_2_M2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_rear_tapped_cap_2_M2.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "c696cc11c23d6ef4a8d8fe05fddcb5563dfcc1122303f788171d19fd99e70034"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_stop_3_3mm",
+      "job_id": "040",
+      "file": "parts/printed_screen_stop_3_3mm.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_stop_3_3mm.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "8bb531195351121df8ddfb28d9af78402abdfaf17e4f7717d461c3ad89e6fa65"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_rear_tapped_cap_3_M2",
+      "job_id": "041",
+      "file": "parts/printed_screen_rear_tapped_cap_3_M2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_rear_tapped_cap_3_M2.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "2684f7f48e5df633edc6a0067a3c24f5e5d55cf774a0ec7d7319b74cd5a6d25d"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_stop_4_3mm",
+      "job_id": "042",
+      "file": "parts/printed_screen_stop_4_3mm.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_stop_4_3mm.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "bf1d00993a92d0bcf3ea04e1bfa740f0ad5d58a43e9f41245860be8a29d07a6e"
+        }
+      ]
+    },
+    {
+      "plate": "printed_screen_rear_tapped_cap_4_M2",
+      "job_id": "043",
+      "file": "parts/printed_screen_rear_tapped_cap_4_M2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/printed_screen_rear_tapped_cap_4_M2.stl",
+          "x": 125.6,
+          "y": 125.6,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.800000000000001,
+            4.800000000000001
+          ],
+          "sha256": "c696cc11c23d6ef4a8d8fe05fddcb5563dfcc1122303f788171d19fd99e70034"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_stop_H1",
+      "job_id": "044",
+      "file": "parts/insulating_plate_stop_H1.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_stop_H1.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a7c3659d50ad8e5f991fd8c6ba95b07c82cfa79cd336fe7bda3cac6cf31bb545"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_rear_tapped_cap_H1",
+      "job_id": "045",
+      "file": "parts/insulating_plate_rear_tapped_cap_H1.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_rear_tapped_cap_H1.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_stop_H2",
+      "job_id": "046",
+      "file": "parts/insulating_plate_stop_H2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_stop_H2.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "db057127e9d2d785590f01488664f5baa86847925c56024a9dede33a715df753"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_rear_tapped_cap_H2",
+      "job_id": "047",
+      "file": "parts/insulating_plate_rear_tapped_cap_H2.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_rear_tapped_cap_H2.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_stop_H3",
+      "job_id": "048",
+      "file": "parts/insulating_plate_stop_H3.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_stop_H3.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "db057127e9d2d785590f01488664f5baa86847925c56024a9dede33a715df753"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_plate_rear_tapped_cap_H3",
+      "job_id": "049",
+      "file": "parts/insulating_plate_rear_tapped_cap_H3.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_plate_rear_tapped_cap_H3.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_stop_H5",
+      "job_id": "050",
+      "file": "parts/custom_POM_stop_H5.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_stop_H5.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "e00cd4610ba50ec6ea029a4e96c1e85a22633a27ad5b3eaf0b2246ac383b4fc0"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_stop_H7",
+      "job_id": "051",
+      "file": "parts/custom_POM_stop_H7.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_stop_H7.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "b8397c2ba3e81d5c8a2f9dc95c702d7bbe241c2b29e1ac60e90ffa1a2b8b9529"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_stop_H12",
+      "job_id": "052",
+      "file": "parts/custom_POM_stop_H12.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_stop_H12.stl",
+          "x": 125.75,
+          "y": 125.75,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.5,
+            4.5
+          ],
+          "sha256": "e647c2b56f065830e84608f9b483934c619aef4646507f3786c18f84c462a125"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_support_washer_H5",
+      "job_id": "053",
+      "file": "parts/insulating_support_washer_H5.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_support_washer_H5.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "28acb680f57f4ccbd55e77bd17a7e035df4cf6e9fd200de1c107015b7f52aa29"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_support_washer_H7",
+      "job_id": "054",
+      "file": "parts/insulating_support_washer_H7.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_support_washer_H7.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "28acb680f57f4ccbd55e77bd17a7e035df4cf6e9fd200de1c107015b7f52aa29"
+        }
+      ]
+    },
+    {
+      "plate": "insulating_support_washer_H12",
+      "job_id": "055",
+      "file": "parts/insulating_support_washer_H12.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/insulating_support_washer_H12.stl",
+          "x": 125.75,
+          "y": 125.75,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.5,
+            4.5
+          ],
+          "sha256": "0a00db9fafcf571ab02ab8b864ba7b18e0b2890a269303485c8064355edb1ef9"
+        }
+      ]
+    },
+    {
+      "plate": "rear_insulating_washer_H5",
+      "job_id": "056",
+      "file": "parts/rear_insulating_washer_H5.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/rear_insulating_washer_H5.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aabbeb409b0878a698795cd8f8686590ebe835bb73a927f790fff90370fc07af"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_retainer_thread_not_modeled_H5",
+      "job_id": "057",
+      "file": "parts/custom_POM_retainer_thread_not_modeled_H5.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_retainer_thread_not_modeled_H5.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c"
+        }
+      ]
+    },
+    {
+      "plate": "rear_insulating_washer_H7",
+      "job_id": "058",
+      "file": "parts/rear_insulating_washer_H7.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/rear_insulating_washer_H7.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aabbeb409b0878a698795cd8f8686590ebe835bb73a927f790fff90370fc07af"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_retainer_thread_not_modeled_H7",
+      "job_id": "059",
+      "file": "parts/custom_POM_retainer_thread_not_modeled_H7.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_retainer_thread_not_modeled_H7.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "aec47094889ebcdd0e2a114a20e45e868e016430e6e499174e6f8259934f878c"
+        }
+      ]
+    },
+    {
+      "plate": "rear_insulating_washer_H12",
+      "job_id": "060",
+      "file": "parts/rear_insulating_washer_H12.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/rear_insulating_washer_H12.stl",
+          "x": 125.75,
+          "y": 125.75,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.5,
+            4.5
+          ],
+          "sha256": "077686bd93c1f7c35a8c0f57599d556ac02a2d9dc0d6d8d1f023fb18f7e37676"
+        }
+      ]
+    },
+    {
+      "plate": "custom_POM_retainer_thread_not_modeled_H12",
+      "job_id": "061",
+      "file": "parts/custom_POM_retainer_thread_not_modeled_H12.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/custom_POM_retainer_thread_not_modeled_H12.stl",
+          "x": 125.75,
+          "y": 125.75,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.5,
+            4.5
+          ],
+          "sha256": "f520897621ad6986b5c88c7a21ada511f2b77cc5cc64261e84857d4d76873a9f"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW1_captive_cap_H5_trial",
+      "job_id": "062",
+      "file": "parts/OPSW1_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW1_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW2_captive_cap_H5_trial",
+      "job_id": "063",
+      "file": "parts/OPSW2_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW2_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW3_captive_cap_H5_trial",
+      "job_id": "064",
+      "file": "parts/OPSW3_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW3_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW4_captive_cap_H5_trial",
+      "job_id": "065",
+      "file": "parts/OPSW4_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW4_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW5_captive_cap_H5_trial",
+      "job_id": "066",
+      "file": "parts/OPSW5_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW5_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "OPSW6_captive_cap_H5_trial",
+      "job_id": "067",
+      "file": "parts/OPSW6_captive_cap_H5_trial.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/OPSW6_captive_cap_H5_trial.stl",
+          "x": 124.0,
+          "y": 124.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.0,
+            8.0
+          ],
+          "sha256": "a63593a6ca98af5524bf115b8b781448037a30beeb0b45499c0ce57ed4869254"
+        }
+      ]
+    },
+    {
+      "plate": "option_retainer",
+      "job_id": "068",
+      "file": "parts/option_retainer.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/option_retainer.stl",
+          "x": 94.5,
+          "y": 118.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            67.0,
+            19.0
+          ],
+          "sha256": "4f8fe13847f8fa22591abd3c7a5e21a3ed7764981c13cef54380efe5488e03f1"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_1_bottom_0p5_SURROGATE",
+      "job_id": "069",
+      "file": "parts/acrylic_case_washer_1_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_1_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_1_top_0p5_SURROGATE",
+      "job_id": "070",
+      "file": "parts/acrylic_case_washer_1_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_2_bottom_0p5_SURROGATE",
+      "job_id": "071",
+      "file": "parts/acrylic_case_washer_2_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_2_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_2_top_0p5_SURROGATE",
+      "job_id": "072",
+      "file": "parts/acrylic_case_washer_2_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_2_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_3_bottom_0p5_SURROGATE",
+      "job_id": "073",
+      "file": "parts/acrylic_case_washer_3_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_3_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_3_top_0p5_SURROGATE",
+      "job_id": "074",
+      "file": "parts/acrylic_case_washer_3_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_3_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_4_bottom_0p5_SURROGATE",
+      "job_id": "075",
+      "file": "parts/acrylic_case_washer_4_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_4_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_4_top_0p5_SURROGATE",
+      "job_id": "076",
+      "file": "parts/acrylic_case_washer_4_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_4_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_5_bottom_0p5_SURROGATE",
+      "job_id": "077",
+      "file": "parts/acrylic_case_washer_5_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_5_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_5_top_0p5_SURROGATE",
+      "job_id": "078",
+      "file": "parts/acrylic_case_washer_5_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_5_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_6_bottom_0p5_SURROGATE",
+      "job_id": "079",
+      "file": "parts/acrylic_case_washer_6_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_6_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_6_top_0p5_SURROGATE",
+      "job_id": "080",
+      "file": "parts/acrylic_case_washer_6_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_6_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_7_bottom_0p5_SURROGATE",
+      "job_id": "081",
+      "file": "parts/acrylic_case_washer_7_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_7_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_7_top_0p5_SURROGATE",
+      "job_id": "082",
+      "file": "parts/acrylic_case_washer_7_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_7_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_8_bottom_0p5_SURROGATE",
+      "job_id": "083",
+      "file": "parts/acrylic_case_washer_8_bottom_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_8_bottom_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "acrylic_case_washer_8_top_0p5_SURROGATE",
+      "job_id": "084",
+      "file": "parts/acrylic_case_washer_8_top_0p5_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "detail",
+      "nozzle_mm": 0.4,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/acrylic_case_washer_8_top_0p5_SURROGATE.stl",
+          "x": 124.5,
+          "y": 124.5,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            7.0
+          ],
+          "sha256": "6ff58620a12a164d4e23fab1871d4412a8dc499541cf8912934fcc3b36e479c5"
+        }
+      ]
+    },
+    {
+      "plate": "USB_A_collar",
+      "job_id": "085",
+      "file": "parts/USB_A_collar.3mf",
+      "material": "PLA",
+      "process": "fine",
+      "nozzle_mm": 0.2,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/USB_A_collar.stl",
+          "x": 117.79999999999998,
+          "y": 123.24999999999976,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            20.40000000000002,
+            9.500000000000476
+          ],
+          "sha256": "22b6b6c1f27d89269391d2f8ca597e3a5449a08f8255075d6513e057aaf42c23"
+        }
+      ]
+    },
+    {
+      "plate": "USB_C_collar",
+      "job_id": "086",
+      "file": "parts/USB_C_collar.3mf",
+      "material": "PLA",
+      "process": "fine",
+      "nozzle_mm": 0.2,
+      "optional": false,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/USB_C_collar.stl",
+          "x": 118.8,
+          "y": 122.54999999999964,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            18.4,
+            10.900000000000713
+          ],
+          "sha256": "f585da71ce8d60f186038b00503decd892fda006fc39531518d086e2e0a95f34"
+        }
+      ]
+    },
+    {
+      "plate": "option_retainer_M2x5_pan_screw_envelope_1_SURROGATE",
+      "job_id": "087",
+      "file": "parts/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/option_retainer_M2x5_pan_screw_envelope_1_SURROGATE.stl",
+          "x": 126.0,
+          "y": 126.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.0,
+            4.0
+          ],
+          "sha256": "5bad48883d3326d22e7c01f9afe8b13c3118a93bcabca37e214e1c41901e504c"
+        }
+      ]
+    },
+    {
+      "plate": "option_retainer_M2_nut_envelope_1_SURROGATE",
+      "job_id": "088",
+      "file": "parts/option_retainer_M2_nut_envelope_1_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/option_retainer_M2_nut_envelope_1_SURROGATE.stl",
+          "x": 126.0,
+          "y": 125.6905989232415,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.0,
+            4.618802153517009
+          ],
+          "sha256": "0246e61026314abeeaae54b63065d032270b942cc15d3178a132b9a582311318"
+        }
+      ]
+    },
+    {
+      "plate": "option_retainer_M2x5_pan_screw_envelope_2_SURROGATE",
+      "job_id": "089",
+      "file": "parts/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/option_retainer_M2x5_pan_screw_envelope_2_SURROGATE.stl",
+          "x": 126.0,
+          "y": 126.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.0,
+            4.0
+          ],
+          "sha256": "5bad48883d3326d22e7c01f9afe8b13c3118a93bcabca37e214e1c41901e504c"
+        }
+      ]
+    },
+    {
+      "plate": "option_retainer_M2_nut_envelope_2_SURROGATE",
+      "job_id": "090",
+      "file": "parts/option_retainer_M2_nut_envelope_2_SURROGATE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/option_retainer_M2_nut_envelope_2_SURROGATE.stl",
+          "x": 126.0,
+          "y": 125.6905989232415,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            4.0,
+            4.618802153517009
+          ],
+          "sha256": "0246e61026314abeeaae54b63065d032270b942cc15d3178a132b9a582311318"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "091",
+      "file": "parts/pad_1_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 123.99999999999986,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.000000000000275,
+            18.0
+          ],
+          "sha256": "c158a36b7968f51f6f83e4ac78d5f328a775156c644cccb0425b981dd987f52b"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_2_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "092",
+      "file": "parts/pad_1_2_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_2_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 123.99999999999986,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.000000000000275,
+            18.0
+          ],
+          "sha256": "809a76b3d738dde7678651461c19bf870a3718a1358a81c498e88aa319cda9c3"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_3_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "093",
+      "file": "parts/pad_1_3_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_3_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 123.99999999999986,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.000000000000275,
+            18.0
+          ],
+          "sha256": "8806bc9e0779a18eb9a2b45d2d0a15837d797a87b412c089de74536d0c3d75ae"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_4_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "094",
+      "file": "parts/pad_1_4_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_4_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 123.99999999999986,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            8.000000000000275,
+            18.0
+          ],
+          "sha256": "8806bc9e0779a18eb9a2b45d2d0a15837d797a87b412c089de74536d0c3d75ae"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_5_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "095",
+      "file": "parts/pad_1_5_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_5_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 119.0,
+          "y": 123.99999999999986,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            18.0,
+            8.000000000000275
+          ],
+          "sha256": "c2e590ad1ddd3b7d25ba6c03581dbbb460c70a9ed201ed0c1c6caa500f157657"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_6_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "096",
+      "file": "parts/pad_1_6_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_6_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 119.0,
+          "y": 123.99999999999986,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            18.0,
+            8.000000000000275
+          ],
+          "sha256": "b5dfb854c97a33ad51c6bfcd7a2c7c81b8a8756ae9e1b3bf1306912c17d23e7d"
+        }
+      ]
+    },
+    {
+      "plate": "pad_1_7_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "097",
+      "file": "parts/pad_1_7_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_1_7_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 119.0,
+          "y": 118.99999999999847,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            18.0,
+            18.00000000000308
+          ],
+          "sha256": "7054579119293ca1c809c5d58425ec21e59ef94f763b9bf42968896174253533"
+        }
+      ]
+    },
+    {
+      "plate": "pad_2_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "098",
+      "file": "parts/pad_2_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_2_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 124.5,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            18.0
+          ],
+          "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64"
+        }
+      ]
+    },
+    {
+      "plate": "pad_3_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "099",
+      "file": "parts/pad_3_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_3_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 124.5,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            18.0
+          ],
+          "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64"
+        }
+      ]
+    },
+    {
+      "plate": "pad_4_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "100",
+      "file": "parts/pad_4_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_4_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 124.5,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            18.0
+          ],
+          "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64"
+        }
+      ]
+    },
+    {
+      "plate": "pad_5_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "101",
+      "file": "parts/pad_5_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_5_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 124.5,
+          "y": 119.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            7.0,
+            18.0
+          ],
+          "sha256": "bb29a02e5c098fc1aad1ec3966a6f6e319a62524074e511319334d0cfa8e1d64"
+        }
+      ]
+    },
+    {
+      "plate": "pad_6_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "102",
+      "file": "parts/pad_6_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_6_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 118.5,
+          "y": 125.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            19.0,
+            6.0
+          ],
+          "sha256": "25d67fa72eabdc74a6e2301aac012dda4d4a07b8fdf4518d1f5ede1c17fae57f"
+        }
+      ]
+    },
+    {
+      "plate": "pad_7_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "103",
+      "file": "parts/pad_7_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_7_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 118.5,
+          "y": 125.0,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            19.0,
+            6.0
+          ],
+          "sha256": "25d67fa72eabdc74a6e2301aac012dda4d4a07b8fdf4518d1f5ede1c17fae57f"
+        }
+      ]
+    },
+    {
+      "plate": "pad_8_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "104",
+      "file": "parts/pad_8_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_8_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 125.25,
+          "y": 125.25,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            5.5,
+            5.5
+          ],
+          "sha256": "08ffc6572f5481bc6a59897ada3fe26be372e2a6eebb7764b93d6faf1f7adf99"
+        }
+      ]
+    },
+    {
+      "plate": "pad_9_1_INSTALLED_HEIGHT_GAUGE",
+      "job_id": "105",
+      "file": "parts/pad_9_1_INSTALLED_HEIGHT_GAUGE.3mf",
+      "material": "PLA",
+      "process": "gauge",
+      "nozzle_mm": 0.2,
+      "optional": true,
+      "model_count": 1,
+      "parts": [
+        {
+          "source": "STL/pad_9_1_INSTALLED_HEIGHT_GAUGE.stl",
+          "x": 126.25,
+          "y": 126.25,
+          "rotation_deg": 0,
+          "bounds_xy": [
+            3.5,
+            3.5
+          ],
+          "sha256": "7793d0e0e40e54263e3c97046ca8602ae3e37a1f055e570144f79e4ed441e620"
+        }
+      ]
+    }
+  ],
+  "excluded_full_size_alternatives": [
+    "STL/PCB_SELECTED_ENVELOPES_SURROGATE.stl",
+    "STL/top_acrylic_SURROGATE.stl",
+    "STL/bottom_acrylic_SURROGATE.stl",
+    "STL/top_spacer.stl",
+    "STL/bottom_spacer.stl",
+    "STL/switch_plate.stl"
+  ],
+  "part_count": 105
+}

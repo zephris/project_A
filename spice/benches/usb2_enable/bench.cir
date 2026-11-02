@@ -1,0 +1,8 @@
+PHBox usb2_enable planning model
+.include "circuit.inc"
+.tran 1u 20m
+.meas tran en_reset_max MAX v(en) FROM=0 TO=4m
+.meas tran en_enabled_min MIN v(en) FROM=6m TO=14m
+.meas tran en_release_max MAX v(en) FROM=16m TO=20m
+.meas tran old_en_max MAX v(old_en) FROM=6m TO=14m
+.end

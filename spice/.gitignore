@@ -1,0 +1,5 @@
+results/
+__pycache__/
+firmware-reference/
+gp2040-source.zip
+gp2040-tree.json

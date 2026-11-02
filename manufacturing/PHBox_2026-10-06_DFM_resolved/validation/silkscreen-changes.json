@@ -1,0 +1,937 @@
+[
+  {
+    "reference": "",
+    "uuid": "37d2c7ea-4665-4085-ba9c-237cb291a1c6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "",
+    "uuid": "100ad6f3-262c-43f4-bf7e-3fd385f04381",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "",
+    "uuid": "bb0f91af-7863-4958-8148-c31ef3be2056",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "",
+    "uuid": "dc56aeb7-d2d0-4b8e-8e68-c67fe5e4f472",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "",
+    "uuid": "4e1c1899-0936-4e84-a179-aa6a19e429bc",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "",
+    "uuid": "a2e91648-befc-4e87-af2e-df3f16cbb9d2",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW3",
+    "uuid": "34c3dfd5-8123-4206-a062-afbbeb7bc154",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW3",
+    "uuid": "6f34f0e1-43da-4aca-a03d-c5bc0bb13fd8",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW3",
+    "uuid": "70b0e66b-13f0-4136-ac11-895ca133018a",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW3",
+    "uuid": "bd18e905-ac4c-46c7-9f77-4e260e8ddb89",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW4",
+    "uuid": "ae4ad673-8d35-4a13-a08a-8d8dfb2e3873",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW4",
+    "uuid": "da1e4611-b190-4a1c-a562-ce831f4d050c",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW4",
+    "uuid": "4c074c0a-94a6-4f33-9e24-e0343399e359",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW4",
+    "uuid": "f59f41df-b725-46bb-a774-75521c52a40e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW5",
+    "uuid": "84bcdb8b-2b67-48ca-a7ef-3a3f6b0bb6e1",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW5",
+    "uuid": "de475aa8-214d-4e7e-89f6-ddd551ad88e2",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW5",
+    "uuid": "008b435c-570b-4c42-a377-5582d21280fc",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW5",
+    "uuid": "a7834d3d-d30d-496a-aec1-c1f9a06ae0ac",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW12",
+    "uuid": "fd9f3dcf-9aa2-4367-96e1-975eb98403fb",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW12",
+    "uuid": "274e2563-2f96-46cc-8124-08a61cf0305d",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW12",
+    "uuid": "a7c773a6-0abb-4a56-8fb3-16037ae5d360",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW12",
+    "uuid": "7f10dc75-dfa7-4c76-9949-0bb4ffb27095",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW13",
+    "uuid": "64c57169-50b2-49dc-8366-b281c2aa66d1",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW13",
+    "uuid": "a9dca6c4-e67a-4f8d-be05-60b0afb1d98f",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW13",
+    "uuid": "c35c3cf3-d23d-4cb5-9e2c-b60540bb912f",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW13",
+    "uuid": "f3af82ef-05b9-4d7c-a03b-152693f182c6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW14",
+    "uuid": "07f8a7b3-246d-43ff-8c73-fd6ab9cc2cf0",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW14",
+    "uuid": "44cb4f27-e829-4748-89e7-e137e12c9d3b",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW14",
+    "uuid": "4dbea041-aa26-462e-9dc7-e745f2f3da8d",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW14",
+    "uuid": "d957d5ad-690b-4088-a0ff-411b428ed025",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW15",
+    "uuid": "6a93a10f-cec8-4cf2-b303-25471f62062c",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW15",
+    "uuid": "909e2bef-e0f8-4d7f-85ba-8deecf126dea",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW15",
+    "uuid": "35ffd8e9-30fe-471f-abdd-acf6d6c47b66",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW15",
+    "uuid": "726c37f2-61e7-4e71-b68f-f6feaf1658a8",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW15",
+    "uuid": "f84e988a-43ce-404e-9e8f-a2983abc5d87",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW8",
+    "uuid": "a323f388-3331-424b-a1df-dcabdee42ae2",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW8",
+    "uuid": "79cb5b72-fb48-4826-a61e-559ff97d6f48",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW8",
+    "uuid": "0349ef4a-7e66-4287-8733-a9847a2518e4",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW8",
+    "uuid": "d7a1d027-489e-4149-b202-235296816bd9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW8",
+    "uuid": "4ea984ae-3761-419d-9925-6f4960fd8c70",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW9",
+    "uuid": "daebf6b0-b1eb-4683-abca-8e70ab38404a",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW9",
+    "uuid": "cedf093e-920b-4fa7-a79a-4196ca9af210",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW9",
+    "uuid": "6b4f8a53-5aaa-4a0d-9909-3d42f0a0254e",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW9",
+    "uuid": "6a2b264d-b793-40a3-addc-ae9482555c1e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW9",
+    "uuid": "40adef4c-711f-40d1-be07-789f69da8b8b",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW10",
+    "uuid": "cdb173b4-5a6e-4738-9da8-68164595cb1e",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW10",
+    "uuid": "fc3ffc1a-a47b-46f3-949c-2f4c74e108c0",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW10",
+    "uuid": "03b48563-7e6f-44d8-b6e9-b448b8731960",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW10",
+    "uuid": "0c9e4015-0736-418e-aabd-395f717b2981",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW10",
+    "uuid": "9ed9ced7-f877-4bab-b8df-aafe85369282",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW11",
+    "uuid": "23de7812-016e-455f-a4ca-93e67dd8ac75",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW11",
+    "uuid": "6db4e5a2-6d5f-46a1-b2ae-73974e4fc951",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW11",
+    "uuid": "13b41db1-706c-4cbd-871e-0b78f1a9aa81",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW11",
+    "uuid": "8c0b2f43-7fb4-4395-9277-061afc3ff803",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW11",
+    "uuid": "fcc24d41-82ba-4460-8dc8-00cebb36ff87",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW2",
+    "uuid": "1f5904b3-6a11-40f9-898f-2def48464f50",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW2",
+    "uuid": "cf74e910-37ed-469a-a4d3-877d6bfe90fe",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW2",
+    "uuid": "a1906eac-5512-4745-a85d-6cf2d8dd5c86",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW2",
+    "uuid": "bd02fdd0-8c6c-4f20-9832-62e002a67712",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW2",
+    "uuid": "4e0f6f27-9400-4ba9-8951-2a7779475393",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R11",
+    "uuid": "0e3cf2fe-7a30-4a35-92a5-671131403e3a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R11",
+    "uuid": "645263d2-afd4-434c-bbb9-873ab13a2036",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R10",
+    "uuid": "65e0e8fc-ffbd-4526-b09c-d09dda6b398f",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R10",
+    "uuid": "1cfab25e-070a-43ff-962f-a4f2b06f3b74",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R7",
+    "uuid": "56126190-7fe1-419b-a3ed-248951e78a2c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R7",
+    "uuid": "bf88e4a7-bc39-4a98-beb9-deb6ad702eb1",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C44",
+    "uuid": "2d821c9b-9196-434e-a572-2f196fb51fc3",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C44",
+    "uuid": "2b02d3d3-f8c5-4d3b-b67c-ba455a281f74",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C6",
+    "uuid": "448969b3-d988-41d6-9a42-f42866e9adf1",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C6",
+    "uuid": "f8a06e55-e4df-49e9-afd6-8e67613d4d76",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R5",
+    "uuid": "1cd959c2-f65d-483a-a3b9-550f973e7662",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R5",
+    "uuid": "92b19c05-eabf-4beb-878d-c66e377a8dd0",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C9",
+    "uuid": "d0a6637d-3ae8-46f5-b2ab-d8f49650e0c9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C9",
+    "uuid": "a049cdaa-7270-4b6b-abc1-aedcee957dd9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R29",
+    "uuid": "a120884b-30ec-41b4-9c96-2bd0b96c781b",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R29",
+    "uuid": "ae43149c-8115-4ed5-a2a0-defcf7a129b7",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C1",
+    "uuid": "da25e958-e5e3-4aaf-9e52-5ae69c0052dc",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C1",
+    "uuid": "6a3a414c-13fc-4cfa-9e95-ea478ecd7e80",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R20",
+    "uuid": "5fac3edb-8b0d-4722-ad2e-59933ed50059",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R20",
+    "uuid": "f3a1b1b6-75c2-4d1d-89fe-9b49f6822974",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "U4",
+    "uuid": "cf6d87e9-0c39-4ad0-b9af-823234be95aa",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R31",
+    "uuid": "0902ccaf-e601-4c25-b9da-acfe406f22d9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R31",
+    "uuid": "e421c574-b666-4502-8a5e-5eef5a0e732d",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R23",
+    "uuid": "1480aa14-fab9-4d6e-8092-c30964664a4c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R23",
+    "uuid": "d6effae8-fb06-40e7-b762-11ebab90539b",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C17",
+    "uuid": "ddec4fa1-f6d1-4c57-9b00-da4b8b2ece6f",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C17",
+    "uuid": "8b8e8a61-fd4f-423f-ab0a-5d04a5159e09",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C14",
+    "uuid": "062d75f7-0fd6-42fd-b3da-ec60271c852d",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C14",
+    "uuid": "2ab9f33e-dd5f-49c0-ba9c-a03bab1df5b3",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R3",
+    "uuid": "f8bab8f7-5636-453f-aae7-d3eaa87aaebe",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R3",
+    "uuid": "5618a180-55f1-4d52-894a-77147b2ba269",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW6",
+    "uuid": "8fb98730-b9ad-476f-a93b-9212767851e5",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW6",
+    "uuid": "63fd96a5-b1c3-4409-abf3-8744479934eb",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW6",
+    "uuid": "3e153a32-fdee-4744-9419-5c5a34b2aa23",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW6",
+    "uuid": "0300d9dd-b23d-43a1-8683-5307b9e5c432",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW6",
+    "uuid": "a2440227-212c-4326-8753-e6aaa30adc9f",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "U6",
+    "uuid": "9eea7a49-4361-4346-b0ab-e47c5184a011",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C11",
+    "uuid": "2a5a53cf-c962-4995-bd75-9f0fb4bb3b85",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C11",
+    "uuid": "5f1b50c4-8fed-4299-94f3-d6c0fc7d2432",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R2",
+    "uuid": "483f9479-f281-43f0-9b42-5891a7079e78",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R2",
+    "uuid": "0c0ef4e1-4a55-493a-b21d-fffc191fb41a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C8",
+    "uuid": "20fb30fd-e370-4eb2-91ce-df730b5021ce",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C8",
+    "uuid": "ee5c8931-b512-4664-8c89-15fb77a680e9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "cbaa479a-f584-478e-a7e7-5a56b4ff6d21",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "0b836788-b4ee-426c-89a9-ba99c1428be0",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "d2e75073-a04b-4b40-9cb8-353d982372e2",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "ea5aca24-c843-430b-91aa-a19dcb2285f1",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "52281d46-a1b7-4dd3-a033-185288a48f39",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "fc676318-29d7-411e-891c-00982bf4bc0c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW1",
+    "uuid": "1190cfe3-f251-4a93-b557-88db9cc87ae6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C10",
+    "uuid": "4f5e0125-1a9c-4757-bdef-7745e1edea19",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C10",
+    "uuid": "0a020c79-e519-4c65-b774-3ae902cfdd3b",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C16",
+    "uuid": "f8938def-d8b0-4d34-acc6-8660408c70e6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C16",
+    "uuid": "4e4bfd90-41d1-47f4-add5-34ed21a47d6c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R18",
+    "uuid": "54dc7c2b-a963-4ab7-80ac-cdb8d3ac0f6c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R18",
+    "uuid": "35e56ea7-206a-44d8-b15e-300d15fbf1ce",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R6",
+    "uuid": "4aed2517-3261-4364-b3ca-d87b6fc563d6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R6",
+    "uuid": "b45541ab-99f6-49a3-9896-72f70b428da3",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "U1",
+    "uuid": "0bb474f4-a94f-492b-80a5-f91892809423",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "U1",
+    "uuid": "e3072290-9ffa-4858-8cf3-4d7f19ad5077",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "U1",
+    "uuid": "fa57bc99-03c2-452d-a85c-f15c7976d458",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW16",
+    "uuid": "2c62ad77-c872-4911-97ed-366ed55a7e93",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW16",
+    "uuid": "e9befbaa-29cf-4700-b8ad-3c6a239fcf60",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW16",
+    "uuid": "5473ed75-e889-4425-84ca-427a364f2547",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW16",
+    "uuid": "27ebe01d-3aa7-4614-8072-0cd4e3299707",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW16",
+    "uuid": "d0302e7c-96e6-4e5f-b860-628b5d21f103",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R4",
+    "uuid": "56eb1e3e-a092-4db9-bec9-78d85cf2522e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R4",
+    "uuid": "cc58f26b-fe67-40f6-87cc-0060885d7bf8",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R33",
+    "uuid": "db0c3c57-2a44-4aa5-bd76-45b36b6709fe",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R33",
+    "uuid": "251ff2eb-a75a-4b0f-906f-7a9d3d758bd9",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C2",
+    "uuid": "d0523c98-996c-4f17-bf3a-fb8a0daaa799",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C2",
+    "uuid": "4e8bac8e-e7a2-4f58-9c79-8054ebbd6445",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R24",
+    "uuid": "b4eb60b2-4036-4678-9b6d-031a7810b8be",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R24",
+    "uuid": "520bcbf8-752f-4020-bb6c-f17144370849",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R32",
+    "uuid": "dcf0336b-8032-425b-89fc-0b1f308eba7b",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R32",
+    "uuid": "9384ef50-248b-43a0-984b-6e389fdd305f",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R8",
+    "uuid": "9ce1472b-8b24-4bec-9bd5-75fc88a4d6b8",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R8",
+    "uuid": "a1e157bb-4127-43da-83bd-dcc74c8ea52a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "OPSW3",
+    "uuid": "68994b34-3835-4fbe-90db-d022eff6a260",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R21",
+    "uuid": "90f11cb4-9466-4d67-988d-5b7155912eb8",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R21",
+    "uuid": "c29323d7-d5e7-456a-a4dd-09292c0c4001",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R14",
+    "uuid": "95a3ca94-89a7-4f8c-a0c4-696e79954169",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R14",
+    "uuid": "56c7eff6-ed0a-4c49-8586-b465e8a376e1",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R25",
+    "uuid": "682e6514-c64c-426f-9255-1a889ceb6b62",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R25",
+    "uuid": "4e4e929e-c9d2-464d-bf98-d3388b893caf",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C18",
+    "uuid": "c4b1e94c-f002-4871-9473-7c47576c9dc7",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C18",
+    "uuid": "ed5949e5-64d9-45e7-b645-d14960eed71e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "SW7",
+    "uuid": "9f19f125-7ec0-41df-a541-b7198027051f",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW7",
+    "uuid": "df3d0239-04b3-410f-b249-6c567c435574",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW7",
+    "uuid": "d898d2fe-dbd2-4f9e-b65f-41693ec5ec27",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "SW7",
+    "uuid": "60ba749e-b61e-42a9-85d3-d08f46555ff4",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R27",
+    "uuid": "efe968ac-0c02-4627-8605-dee3875de099",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R27",
+    "uuid": "8fd4feb2-7d7b-4f74-b1a9-ba6333c8a770",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C7",
+    "uuid": "bd659ce2-1967-43de-a9df-d6771744f01d",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C7",
+    "uuid": "4e551507-6408-48ef-87f0-1657492f724e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R19",
+    "uuid": "606ba011-a037-4018-8e8b-4b664d743c21",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R19",
+    "uuid": "26401e27-d77e-45f1-8568-1c2057938a7c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R22",
+    "uuid": "7dc75cda-1032-4c32-8b4d-d3a1a3d601df",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R22",
+    "uuid": "e8be2767-8210-43e5-979e-4b8e0389536a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R30",
+    "uuid": "8dcba88e-5ecf-4f2f-8297-17fcdad4b15a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R30",
+    "uuid": "760bca4e-9af2-47c9-9aae-49c4f2349459",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R26",
+    "uuid": "b9492a41-1637-41ac-90d0-2d34ed161bbc",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R26",
+    "uuid": "88b41444-01dc-45ef-8262-5b8df268f57a",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R1",
+    "uuid": "b4619233-ade9-43af-9da6-e9bca4bdb85e",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R1",
+    "uuid": "b1b3c970-8697-40b2-8f3f-fad1c395309d",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "Y1",
+    "uuid": "9ea176c2-db7d-47d7-bff9-f398551229b1",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C5",
+    "uuid": "19728833-50ff-4e7b-89b0-6491fb8f2f20",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C5",
+    "uuid": "d5e4c573-e295-4153-a7ae-83951096c2fc",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C4",
+    "uuid": "98ff10af-e377-474a-9886-db204230b030",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C4",
+    "uuid": "948f3042-664d-482b-885e-38a3da8089b0",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R28",
+    "uuid": "50e0dcb5-203a-45b2-8a17-46f0009bf67c",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R28",
+    "uuid": "74308277-bbc3-4152-a494-96a7e99c7592",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C15",
+    "uuid": "92f5dc18-5e26-4fee-b4a8-57c6f9affba5",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C15",
+    "uuid": "10d8a58a-548f-4f3b-aa2d-5267f458c0d6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C3",
+    "uuid": "cf365298-0b87-48e6-9544-f54942031b68",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "C3",
+    "uuid": "cb653af0-8cf7-4375-b5e0-06fd1bf37cb6",
+    "layer": "F.Silkscreen"
+  },
+  {
+    "reference": "R17",
+    "uuid": "88c48efa-1a25-4364-94e6-881c2adee6db",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "R17",
+    "uuid": "ef98e364-92c0-4259-b2e7-897b71892445",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "R16",
+    "uuid": "14446f58-a518-472c-a4e7-8ce8d8b84cd8",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "R16",
+    "uuid": "e04073a8-a00b-4ad3-87ee-f7ff2b4114ef",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "C42",
+    "uuid": "d4dd7c1d-dea5-4dd8-988a-489f08cd9119",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "C42",
+    "uuid": "db6b700d-388c-4355-945d-f7b7da258c35",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "U8",
+    "uuid": "ccba9586-c480-4433-bd3d-f52aa9b400cd",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "U8",
+    "uuid": "8a8201bd-2d95-4b99-9c70-6f656edcf41c",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "U8",
+    "uuid": "7d5ca646-e23b-488d-bc0d-fe87da685b09",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "R15",
+    "uuid": "325d85a2-84c7-4e27-b64a-51f5ad687840",
+    "layer": "B.Silkscreen"
+  },
+  {
+    "reference": "R15",
+    "uuid": "f308c445-39fa-4dc6-8080-f1bf7965bc20",
+    "layer": "B.Silkscreen"
+  }
+]

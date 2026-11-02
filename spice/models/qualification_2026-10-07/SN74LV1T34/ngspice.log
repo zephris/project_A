@@ -1,0 +1,341 @@
+Warning: can't find the initialization file spinit.
+******
+** ngspice-46 shared library
+** Creation Date: Apr 14 2026   05:15:29
+******
+******
+** ngspice-46 : Circuit level simulation program
+** Compiled with KLU Direct Linear Solver
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Copyright 2001-2025, The ngspice team.
+** Please get your ngspice manual from https://ngspice.sourceforge.io/docs.html
+** Please file your bug-reports at https://ngspice.sourceforge.io/bugrep.html
+** Creation Date: Apr 14 2026   05:15:29
+******
+Note: gnd in a subcircuit is not set to 0 automatically
+Note: Compatibility modes selected: ps
+Circuit: sn74lv1t34 isolated compatibility smoke check
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+Using SPARSE 1.3 as Direct Linear Solver
+Initial Transient Solution
+--------------------------
+Node                                   Voltage
+----                                   -------
+vcc                                          5
+input                                        0
+xbuf.xu1.xua.vstd_thr                      2.5
+xbuf.xu1.xua.estd_thr_int1                 2.5
+xbuf.xu1.xua.estd_thr_int2                   5
+xbuf.xu1.xua.vtrp_p                    3.47025
+xbuf.xu1.xua.etrp_p_int1               3.47025
+xbuf.xu1.xua.etrp_p_int2                     5
+xbuf.xu1.xua.vtrp_n                    1.48725
+xbuf.xu1.xua.etrp_n_int1               1.48725
+xbuf.xu1.xua.etrp_n_int2                     5
+xbuf.xu1.xua.vhyst                     0.49575
+xbuf.xu1.xua.ehyst_int1                0.49575
+xbuf.xu1.xua.ehyst_int2                      5
+xbuf.xu1.xua.ntrue                           5
+xbuf.xu1.xua.etrue_int1                      5
+xbuf.xu1.xua.nfalse                          0
+xbuf.xu1.xua.efalse_int1                     0
+xbuf.xu1.xua.beta                    0.0902061
+xbuf.xu1.xua.ebeta_int1              0.0902061
+xbuf.xu1.xua.nfb                             0
+xbuf.xu1.xua.efb_int1                        0
+xbuf.xu1.xua.curr_out                        0
+xbuf.xu1.xua.nref                      2.48067
+xbuf.xu1.xua.eref_int1                 2.48067
+xbuf.xu1.xua.ndiff                    -2.48067
+xbuf.xu1.xua.ediff_int1               -2.48067
+xbuf.xu1.xua.vswitch                         1
+xbuf.xu1.xua.eswitch_int1                    1
+xbuf.xu1.xua.vswitch1                        0
+xbuf.xu1.xua.eswitch1_int1                   0
+xbuf.xu1.xua.gcomp_int1                      0
+xbuf.xu1.xua.gstd_int1                       0
+xbuf.xu1.xua.mid                           2.5
+xbuf.xu1.xua.emid_int1                     2.5
+xbuf.xu1.xua.narg                         -2.5
+xbuf.xu1.xua.earg_int1                    -2.5
+xbuf.xu1.na                                  0
+xbuf.xu1.xua.eout_int1                       0
+xbuf.xu1.xua.vtn                     0.0258649
+xbuf.xu1.xua.ev_vt1_int1             0.0258649
+xbuf.xu1.xua.vtp                       4.97414
+xbuf.xu1.xua.ev_vt2_int1               4.97414
+xbuf.xu1.xua.test                          4.5
+xbuf.xu1.xua.etest_int1                    4.5
+xbuf.xu1.xua.vth_diff                     -2.5
+xbuf.xu1.xua.evthdiff_int1                -2.5
+xbuf.xu1.xua.vthp_diff                -3.47025
+xbuf.xu1.xua.evthpdiff_int1           -3.47025
+xbuf.xu1.xua.vthn_diff                -1.48725
+xbuf.xu1.xua.evthndiff_int1           -1.48725
+xbuf.xu1.xua.vtn_diff               -0.0258649
+xbuf.xu1.xua.evtndiff_int1          -0.0258649
+xbuf.xu1.xua.vtp_diff                 -4.97414
+xbuf.xu1.xua.evtpdiff_int1            -4.97414
+xbuf.xu1.xua.giccva_int1          -3.42525e-06
+xbuf.xu1.xua.giccvb_int1           3.42525e-06
+xbuf.xu1.xua.giccvc_int1                     0
+xbuf.xu1.xua.giccvd_int1                     0
+xbuf.xu1.xub.vstd_thr                      2.5
+xbuf.xu1.xub.estd_thr_int1                 2.5
+xbuf.xu1.xub.estd_thr_int2                   5
+xbuf.xu1.xub.vtrp_p                    3.47025
+xbuf.xu1.xub.etrp_p_int1               3.47025
+xbuf.xu1.xub.etrp_p_int2                     5
+xbuf.xu1.xub.vtrp_n                    1.48725
+xbuf.xu1.xub.etrp_n_int1               1.48725
+xbuf.xu1.xub.etrp_n_int2                     5
+xbuf.xu1.xub.vhyst                     0.49575
+xbuf.xu1.xub.ehyst_int1                0.49575
+xbuf.xu1.xub.ehyst_int2                      5
+xbuf.xu1.xub.ntrue                           5
+xbuf.xu1.xub.etrue_int1                      5
+xbuf.xu1.xub.nfalse                          0
+xbuf.xu1.xub.efalse_int1                     0
+xbuf.xu1.xub.beta                    0.0902061
+xbuf.xu1.xub.ebeta_int1              0.0902061
+xbuf.xu1.xub.nfb                             5
+xbuf.xu1.xub.efb_int1                        5
+xbuf.xu1.xub.curr_out                        5
+xbuf.xu1.xub.nref                      2.48067
+xbuf.xu1.xub.eref_int1                 2.48067
+xbuf.xu1.xub.ndiff                     2.51933
+xbuf.xu1.xub.ediff_int1                2.51933
+xbuf.xu1.xub.vswitch                         0
+xbuf.xu1.xub.eswitch_int1                    0
+xbuf.xu1.xub.vswitch1                        1
+xbuf.xu1.xub.eswitch1_int1                   1
+xbuf.xu1.xub.gcomp_int1                      0
+xbuf.xu1.xub.gstd_int1                       5
+xbuf.xu1.xub.mid                           2.5
+xbuf.xu1.xub.emid_int1                     2.5
+xbuf.xu1.xub.narg                          2.5
+xbuf.xu1.xub.earg_int1                     2.5
+xbuf.xu1.nb                                  1
+xbuf.xu1.xub.eout_int1                       1
+xbuf.xu1.xub.vtn                     0.0258649
+xbuf.xu1.xub.ev_vt1_int1             0.0258649
+xbuf.xu1.xub.vtp                       4.97414
+xbuf.xu1.xub.ev_vt2_int1               4.97414
+xbuf.xu1.xub.test                          4.5
+xbuf.xu1.xub.etest_int1                    4.5
+xbuf.xu1.xub.vth_diff                      2.5
+xbuf.xu1.xub.evthdiff_int1                 2.5
+xbuf.xu1.xub.vthp_diff                 1.52975
+xbuf.xu1.xub.evthpdiff_int1            1.52975
+xbuf.xu1.xub.vthn_diff                 3.51275
+xbuf.xu1.xub.evthndiff_int1            3.51275
+xbuf.xu1.xub.vtn_diff                  4.97414
+xbuf.xu1.xub.evtndiff_int1             4.97414
+xbuf.xu1.xub.vtp_diff                0.0258649
+xbuf.xu1.xub.evtpdiff_int1           0.0258649
+xbuf.xu1.xub.giccva_int1                     0
+xbuf.xu1.xub.giccvb_int1                     0
+xbuf.xu1.xub.giccvc_int1           3.42525e-06
+xbuf.xu1.xub.giccvd_int1          -3.42525e-06
+xbuf.xu1.xug.n1                              0
+xbuf.xu1.xug.gand_int1                       0
+xbuf.xu1.xug.gnand_int1                      0
+xbuf.xu1.xug.gor_int1                        0
+xbuf.xu1.xug.gnor_int1                       0
+xbuf.xu1.xug.gxor_int1                       0
+xbuf.xu1.xug.gxnor_int1                      0
+xbuf.xu1.noutg                               0
+xbuf.xu1.xoutpd.ntpdnorm               4.51875
+xbuf.xu1.xoutpd.etpdnorm_int1          4.51875
+xbuf.xu1.xoutpd.etpdnorm_int2                5
+xbuf.xu1.xoutpd.n1                           0
+xbuf.xu1.xoutpd.g1_int1                      0
+xbuf.xu1.xoutpd.n2                           0
+xbuf.xu1.xoutpd.e1_int1                      0
+xbuf.xu1.nouttpd                             0
+xbuf.xu1.xuout.nroh                    41.6667
+xbuf.xu1.xuout.eroh_int1               41.6667
+xbuf.xu1.xuout.eroh_int2                     5
+xbuf.xu1.xuout.nrol                       37.5
+xbuf.xu1.xuout.erol_int1                  37.5
+xbuf.xu1.xuout.erol_int2                     5
+xbuf.xu1.xuout.n1                            0
+xbuf.xu1.xuout.e1_int1                       0
+xbuf.xu1.nout_int                            0
+xbuf.xu1.xuout.gout_int1                     0
+xbuf.xu1.xicc.gicc_int1                  5e-06
+xbuf.xu1.xicc.gndf                         2.5
+xbuf.xu1.xicc.egndf_int1                   2.5
+xbuf.xu1.xicc.goutp_int1                     0
+xbuf.xu1.nviout                              0
+xbuf.xu1.xicc.goutn_int1                     0
+xbuf.xu1.outsw                               0
+output                                       0
+xbuf.xu1.na1                                 0
+xbuf.xu1.nb1                                 5
+xbuf.xu1.no1                                 0
+b.xbuf.xu1.xicc.bgoutn#branch                0
+b.xbuf.xu1.xicc.bgoutp#branch                0
+b.xbuf.xu1.xicc.begndf#branch                0
+b.xbuf.xu1.xicc.bgicc#branch                 0
+b.xbuf.xu1.xuout.bgout#branch                0
+b.xbuf.xu1.xuout.be1#branch                  0
+b.xbuf.xu1.xuout.berol#branch                0
+b.xbuf.xu1.xuout.beroh#branch                0
+b.xbuf.xu1.xoutpd.be1#branch                 0
+b.xbuf.xu1.xoutpd.bg1#branch                 0
+b.xbuf.xu1.xoutpd.betpdnorm#branch               0
+b.xbuf.xu1.xug.bgxnor#branch                 0
+b.xbuf.xu1.xug.bgxor#branch                  0
+b.xbuf.xu1.xug.bgnor#branch                  0
+b.xbuf.xu1.xug.bgor#branch                   0
+b.xbuf.xu1.xug.bgnand#branch                 0
+b.xbuf.xu1.xug.bgand#branch                  0
+b.xbuf.xu1.xub.bgiccvd#branch                0
+b.xbuf.xu1.xub.bgiccvc#branch                0
+b.xbuf.xu1.xub.bgiccvb#branch                0
+b.xbuf.xu1.xub.bgiccva#branch                0
+b.xbuf.xu1.xub.bevtpdiff#branch               0
+b.xbuf.xu1.xub.bevtndiff#branch               0
+b.xbuf.xu1.xub.bevthndiff#branch               0
+b.xbuf.xu1.xub.bevthpdiff#branch               0
+b.xbuf.xu1.xub.bevthdiff#branch               0
+b.xbuf.xu1.xub.betest#branch                 0
+b.xbuf.xu1.xub.bev_vt2#branch                0
+b.xbuf.xu1.xub.bev_vt1#branch                0
+b.xbuf.xu1.xub.beout#branch                  0
+b.xbuf.xu1.xub.bearg#branch                  0
+b.xbuf.xu1.xub.bemid#branch                  0
+b.xbuf.xu1.xub.bgstd#branch                  0
+b.xbuf.xu1.xub.bgcomp#branch                 0
+b.xbuf.xu1.xub.beswitch1#branch               0
+b.xbuf.xu1.xub.beswitch#branch               0
+b.xbuf.xu1.xub.bediff#branch                 0
+b.xbuf.xu1.xub.beref#branch                  0
+b.xbuf.xu1.xub.befb#branch                   0
+b.xbuf.xu1.xub.bebeta#branch                 0
+b.xbuf.xu1.xub.befalse#branch                0
+b.xbuf.xu1.xub.betrue#branch                 0
+b.xbuf.xu1.xub.behyst#branch                 0
+b.xbuf.xu1.xub.betrp_n#branch                0
+b.xbuf.xu1.xub.betrp_p#branch                0
+b.xbuf.xu1.xub.bestd_thr#branch               0
+b.xbuf.xu1.xua.bgiccvd#branch                0
+b.xbuf.xu1.xua.bgiccvc#branch                0
+b.xbuf.xu1.xua.bgiccvb#branch                0
+b.xbuf.xu1.xua.bgiccva#branch                0
+b.xbuf.xu1.xua.bevtpdiff#branch               0
+b.xbuf.xu1.xua.bevtndiff#branch               0
+b.xbuf.xu1.xua.bevthndiff#branch               0
+b.xbuf.xu1.xua.bevthpdiff#branch               0
+b.xbuf.xu1.xua.bevthdiff#branch               0
+b.xbuf.xu1.xua.betest#branch                 0
+b.xbuf.xu1.xua.bev_vt2#branch                0
+b.xbuf.xu1.xua.bev_vt1#branch                0
+b.xbuf.xu1.xua.beout#branch                  0
+b.xbuf.xu1.xua.bearg#branch                  0
+b.xbuf.xu1.xua.bemid#branch                  0
+b.xbuf.xu1.xua.bgstd#branch                  0
+b.xbuf.xu1.xua.bgcomp#branch                 0
+b.xbuf.xu1.xua.beswitch1#branch               0
+b.xbuf.xu1.xua.beswitch#branch               0
+b.xbuf.xu1.xua.bediff#branch                 0
+b.xbuf.xu1.xua.beref#branch                  0
+b.xbuf.xu1.xua.befb#branch                   0
+b.xbuf.xu1.xua.bebeta#branch                 0
+b.xbuf.xu1.xua.befalse#branch                0
+b.xbuf.xu1.xua.betrue#branch                 0
+b.xbuf.xu1.xua.behyst#branch                 0
+b.xbuf.xu1.xua.betrp_n#branch                0
+b.xbuf.xu1.xua.betrp_p#branch                0
+b.xbuf.xu1.xua.bestd_thr#branch               0
+h.xbuf.xu1.h1#branch                         0
+v.xbuf.xu1.viout#branch                      0
+e.xbuf.xu1.xicc.egndf#branch                 0
+e.xbuf.xu1.xuout.e1#branch                   0
+e.xbuf.xu1.xuout.erol#branch                 0
+e.xbuf.xu1.xuout.eroh#branch                 0
+e.xbuf.xu1.xoutpd.eout#branch                0
+e.xbuf.xu1.xoutpd.e1#branch                  0
+e.xbuf.xu1.xoutpd.etpdnorm#branch               0
+e.xbuf.xu1.xug.eout#branch                   0
+e.xbuf.xu1.xub.evtpdiff#branch               0
+e.xbuf.xu1.xub.evtndiff#branch               0
+e.xbuf.xu1.xub.evthndiff#branch               0
+e.xbuf.xu1.xub.evthpdiff#branch               0
+e.xbuf.xu1.xub.evthdiff#branch               0
+e.xbuf.xu1.xub.etest#branch                  0
+e.xbuf.xu1.xub.ev_vt2#branch                 0
+e.xbuf.xu1.xub.ev_vt1#branch                 0
+e.xbuf.xu1.xub.eout#branch                   0
+e.xbuf.xu1.xub.earg#branch                   0
+e.xbuf.xu1.xub.emid#branch                   0
+e.xbuf.xu1.xub.eswitch1#branch               0
+e.xbuf.xu1.xub.eswitch#branch                0
+e.xbuf.xu1.xub.ediff#branch                  0
+e.xbuf.xu1.xub.eref#branch                   0
+e.xbuf.xu1.xub.efb#branch                    0
+e.xbuf.xu1.xub.ebeta#branch                  0
+e.xbuf.xu1.xub.efalse#branch                 0
+e.xbuf.xu1.xub.etrue#branch                  0
+e.xbuf.xu1.xub.ehyst#branch                  0
+e.xbuf.xu1.xub.etrp_n#branch                 0
+e.xbuf.xu1.xub.etrp_p#branch                 0
+e.xbuf.xu1.xub.estd_thr#branch               0
+e.xbuf.xu1.xua.evtpdiff#branch               0
+e.xbuf.xu1.xua.evtndiff#branch               0
+e.xbuf.xu1.xua.evthndiff#branch               0
+e.xbuf.xu1.xua.evthpdiff#branch               0
+e.xbuf.xu1.xua.evthdiff#branch               0
+e.xbuf.xu1.xua.etest#branch                  0
+e.xbuf.xu1.xua.ev_vt2#branch                 0
+e.xbuf.xu1.xua.ev_vt1#branch                 0
+e.xbuf.xu1.xua.eout#branch                   0
+e.xbuf.xu1.xua.earg#branch                   0
+e.xbuf.xu1.xua.emid#branch                   0
+e.xbuf.xu1.xua.eswitch1#branch               0
+e.xbuf.xu1.xua.eswitch#branch                0
+e.xbuf.xu1.xua.ediff#branch                  0
+e.xbuf.xu1.xua.eref#branch                   0
+e.xbuf.xu1.xua.efb#branch                    0
+e.xbuf.xu1.xua.ebeta#branch                  0
+e.xbuf.xu1.xua.efalse#branch                 0
+e.xbuf.xu1.xua.etrue#branch                  0
+e.xbuf.xu1.xua.ehyst#branch                  0
+e.xbuf.xu1.xua.etrp_n#branch                 0
+e.xbuf.xu1.xua.etrp_p#branch                 0
+e.xbuf.xu1.xua.estd_thr#branch               0
+vin#branch                                   0
+v1#branch                         -1.03106e-05
+a.xbuf.xu1.xuout.aerol#branch_1_0               0
+a.xbuf.xu1.xuout.aeroh#branch_1_0               0
+a.xbuf.xu1.xoutpd.aetpdnorm#branch_1_0               0
+a.xbuf.xu1.xub.aehyst#branch_1_0               0
+a.xbuf.xu1.xub.aetrp_n#branch_1_0               0
+a.xbuf.xu1.xub.aetrp_p#branch_1_0               0
+a.xbuf.xu1.xub.aestd_thr#branch_1_0               0
+a.xbuf.xu1.xua.aehyst#branch_1_0               0
+a.xbuf.xu1.xua.aetrp_n#branch_1_0               0
+a.xbuf.xu1.xua.aetrp_p#branch_1_0               0
+a.xbuf.xu1.xua.aestd_thr#branch_1_0               0
+ Reference value :  0.00000e+00
+
+ Reference value :  1.45867e-06
+
+ Reference value :  3.01489e-06
+
+ Reference value :  4.39763e-06
+
+ Reference value :  5.79353e-06
+
+ Reference value :  7.22263e-06
+
+ Reference value :  8.64063e-06
+
+No. of Data Rows : 10193
+Measurements for Transient Analysis
+output_high         =  4.99958e+00
+output_low          =  -2.05082e-314
+binary raw file "waveform.raw"

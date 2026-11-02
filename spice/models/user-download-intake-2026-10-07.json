@@ -1,0 +1,28 @@
+{
+  "winbond": {
+    "file": "spice\\models\\vendor\\Winbond\\w25q128jvsiq.ibs",
+    "sha256": "21dbb7fb00a5e67629bad020fc510fa4b6930b694199f3fdc8414f3bbc25f2aa",
+    "type": "IBIS; IO only, not SPICE",
+    "status": "downloaded; signal-integrity qualification pending"
+  },
+  "samsung": [
+    {
+      "file": "spice\\models\\vendor\\Samsung\\CL05A105KA5NQN_Precise_Interactive_P.lib",
+      "sha256": "bf50b295664b47564e9abb6433070c128e223ddbdca9d699ed2f9c805b80d5ab",
+      "cadence_encrypted": true,
+      "status": "Cadence-encrypted; not compatible with KiCad ngspice"
+    },
+    {
+      "file": "spice\\models\\vendor\\Samsung\\CL05A475MP5NRN_Precise_Interactive_P.lib",
+      "sha256": "4539dece9958ef7eda2399d4cb95a859e41881f201005a8d21be6a568639400a",
+      "cadence_encrypted": true,
+      "status": "Cadence-encrypted; not compatible with KiCad ngspice"
+    },
+    {
+      "file": "spice\\models\\vendor\\Samsung\\CL05B104KO5NNN_Precise_Interactive_P.lib",
+      "sha256": "ca9f44c9fbacf625fa7a9feeea6ab1b6ab3b885cf6193ff455ecde7a657af65b",
+      "cadence_encrypted": true,
+      "status": "Cadence-encrypted; not compatible with KiCad ngspice"
+    }
+  ]
+}

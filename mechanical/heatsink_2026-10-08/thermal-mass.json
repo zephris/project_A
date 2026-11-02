@@ -1,0 +1,14 @@
+{
+  "material": "6061-T6 aluminium",
+  "volume_mm3": 6342.07801846322,
+  "density_kg_m3": 2700.0,
+  "specific_heat_J_kg_K": 896.0,
+  "mass_g": 17.123610649850693,
+  "thermal_mass_J_K": 15.342755142266222,
+  "energy_for_10K_J": 153.42755142266222,
+  "energy_for_20K_J": 306.85510284532444,
+  "adiabatic_rise_K_min_at_1W": 3.9106405234032575,
+  "adiabatic_time_for_10K_s_at_1W": 153.42755142266222,
+  "specific_heat_source": "https://publications.anl.gov/anlpubs/2011/06/70320.pdf",
+  "scope": "Plate only; constant room-temperature approximation. Excludes PCB, pads, fasteners and washers. Assumes uniform plate temperature. Does not predict steady-state temperature or junction temperatures."
+}

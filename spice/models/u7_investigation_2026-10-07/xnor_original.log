@@ -1,0 +1,69 @@
+Warning: can't find the initialization file spinit.
+******
+** ngspice-46 shared library
+** Creation Date: Apr 14 2026   05:15:29
+******
+******
+** ngspice-46 : Circuit level simulation program
+** Compiled with KLU Direct Linear Solver
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Copyright 2001-2025, The ngspice team.
+** Please get your ngspice manual from https://ngspice.sourceforge.io/docs.html
+** Please file your bug-reports at https://ngspice.sourceforge.io/bugrep.html
+** Creation Date: Apr 14 2026   05:15:29
+******
+Note: gnd in a subcircuit is not set to 0 automatically
+Note: Compatibility modes selected: ps
+Circuit: u7 original xnor truth table
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+Using SPARSE 1.3 as Direct Linear Solver
+Initial Transient Solution
+--------------------------
+Node                                   Voltage
+----                                   -------
+a0                                           0
+b0                                           0
+x0.yint                                      1
+x0.e_abmgate_int1                            1
+y0                                           1
+a1                                           0
+b1                                           1
+x1.yint                                      1
+x1.e_abmgate_int1                            1
+y1                                           1
+a2                                           1
+b2                                           0
+x2.yint                                      1
+x2.e_abmgate_int1                            1
+y2                                           1
+a3                                           1
+b3                                           1
+x3.yint                                      0
+x3.e_abmgate_int1                            0
+y3                                           0
+b.x3.be_abmgate#branch                       0
+b.x2.be_abmgate#branch                       0
+b.x1.be_abmgate#branch                       0
+b.x0.be_abmgate#branch                       0
+e.x3.e_abmgate#branch                        0
+e.x2.e_abmgate#branch                        0
+e.x1.e_abmgate#branch                        0
+e.x0.e_abmgate#branch                        0
+vb3#branch                                   0
+va3#branch                                   0
+vb2#branch                                   0
+va2#branch                                   0
+vb1#branch                                   0
+va1#branch                                   0
+vb0#branch                                   0
+va0#branch                                   0
+ Reference value :  0.00000e+00
+
+No. of Data Rows : 59
+Measurements for Transient Analysis
+y0                  =  1.00000e+00
+y1                  =  1.00000e+00
+y2                  =  1.00000e+00
+y3                  =  0.00000e+00
+binary raw file "waveform.raw"

@@ -1,0 +1,1333 @@
+{
+  "date": "2026-10-07",
+  "scope": [
+    "current root schematic instances and embedded simulation-field search",
+    "project model assets and six bench include trees",
+    "KiCad bundled simulation example model files",
+    "ngspice DLL load/version check"
+  ],
+  "component_count": 146,
+  "explicit_simulation_assignments": 0,
+  "vendor_model_files_in_project": 0,
+  "simulator": "ngspice 46 shared DLL, successfully loaded",
+  "source_hash_mismatches": [
+    "Flatbox-rev8.kicad_sch",
+    "Flatbox-rev8.kicad_pcb"
+  ],
+  "parts": [
+    {
+      "reference": "OPSW1",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "OPSW2",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "USB1",
+      "value": "HRO-TYPE-C-31-M-12",
+      "lib_id": "Type-C:HRO-TYPE-C-31-M-12",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "connectivity_only_no_connector_parasitic_model",
+      "detail": "No active device model needed for ideal connectivity; cable/load abstractions do not establish USB signal integrity."
+    },
+    {
+      "reference": "R10",
+      "value": "5.1k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R11",
+      "value": "5.1k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "SW2",
+      "value": "GPIO9",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW1",
+      "value": "GPIO16",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW14",
+      "value": "GPIO27",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW9",
+      "value": "GPIO24",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW3",
+      "value": "GPIO10",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW12",
+      "value": "GPIO18",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW15",
+      "value": "GPIO29",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW10",
+      "value": "GPIO26",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW4",
+      "value": "GPIO11",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW13",
+      "value": "GPIO25",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW8",
+      "value": "GPIO19",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW11",
+      "value": "GPIO28",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "H6",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "H7",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "C16",
+      "value": "15p",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C13",
+      "value": "4.7u",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C9",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C8",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C5",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C7",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C18",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C1",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C6",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R7",
+      "value": "22",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "U3",
+      "value": "W25Q128JVS",
+      "lib_id": "PHBox:Layout_Memory_Flash_W25Q128JVS",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "Y1",
+      "value": "ABM8-272-T3",
+      "lib_id": "PHBox:Layout_Device_Crystal_GND24",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "H5",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "C2",
+      "value": "4.7u",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "SW20",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "C12",
+      "value": "4.7u",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C17",
+      "value": "15p",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "L1",
+      "value": "3.3u",
+      "lib_id": "Device:L",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R6",
+      "value": "1k",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "H11",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "H10",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "USB2",
+      "value": "USB_A",
+      "lib_id": "PHBox:Layout_Connector_USB_A",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "connectivity_only_no_connector_parasitic_model",
+      "detail": "No active device model needed for ideal connectivity; cable/load abstractions do not establish USB signal integrity."
+    },
+    {
+      "reference": "H9",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "F1",
+      "value": "750mA hold",
+      "lib_id": "Device:Polyfuse",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "U2",
+      "value": "TLV73333PDBV",
+      "lib_id": "Regulator_Linear:TLV73333PDBV",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_rail_approximation_only",
+      "detail": "3.3 V source and finite resistance; no TLV73333 regulation, dropout or stability model."
+    },
+    {
+      "reference": "C14",
+      "value": "1u",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "H4",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "C10",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C19",
+      "value": "100u/10V",
+      "lib_id": "Device:C_Polarized_Small_US",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "OPSW6",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "C11",
+      "value": "4.7u",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "H1",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "U4",
+      "value": "ECMF2-40A100N6",
+      "lib_id": "PHBox:ECMF2-40A100N6",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "H2",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "H8",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "R2",
+      "value": "27",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "U1",
+      "value": "RP2350_60QFN",
+      "lib_id": "MCU_RaspberryPi_RP2350:RP2350_60QFN",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "partial_gpio_and_load_envelope_only",
+      "detail": "usb2_enable approximates pull-up and leakage; load benches use synthetic currents. No RP2350 core converter or firmware execution model."
+    },
+    {
+      "reference": "C3",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R4",
+      "value": "1k",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R8",
+      "value": "1k",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "OPSW5",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW19",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW5",
+      "value": "GPIO22",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "H3",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    },
+    {
+      "reference": "OPSW4",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "R1",
+      "value": "33",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "OPSW3",
+      "value": "SW_Push",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "R3",
+      "value": "27",
+      "lib_id": "Device:R",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C15",
+      "value": "1u",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R5",
+      "value": "22",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C4",
+      "value": "100n",
+      "lib_id": "Device:C",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "SW6",
+      "value": "GPIO23",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW16",
+      "value": "GPIO14",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "SW7",
+      "value": "GPIO15",
+      "lib_id": "Switch:SW_Push",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "ideal_switch_primitive_available_not_assigned",
+      "detail": "Can be represented as ideal switch/contact; no bounce or installed contact model."
+    },
+    {
+      "reference": "U5",
+      "value": "HS13L03W2C01",
+      "lib_id": "PHBox:HS13L03W2C01",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "R12",
+      "value": "4.7k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R13",
+      "value": "4.7k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C41",
+      "value": "1u/10V/X7R",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C43",
+      "value": "100u/10V",
+      "lib_id": "Device:C_Polarized_Small_US",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "U7",
+      "value": "TPS2553DBVR",
+      "lib_id": "PHBox:TPS2553DBVR",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "behavioural_approximation_only",
+      "detail": "Bswitch/Bfault in startup/overload benches, not TPS2553 vendor model; no true UVLO, reverse blocking, thermal shutdown, soft-start or deglitch."
+    },
+    {
+      "reference": "D21",
+      "value": "ESDA7P120-1U1M",
+      "lib_id": "PHBox:ESDA7P120-1U1M",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "R15",
+      "value": "200k 1%",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R16",
+      "value": "220k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R17",
+      "value": "10k",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C42",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D1",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C20",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D2",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C21",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D3",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C22",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D4",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C23",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D5",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C24",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D6",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C25",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D7",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C26",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D8",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C27",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D9",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C28",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D10",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C29",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D11",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C30",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D12",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C31",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D13",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C32",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D14",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C33",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D15",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C34",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D16",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C35",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D17",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C36",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D18",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C37",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D19",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C38",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "D20",
+      "value": "SK6805-EC15",
+      "lib_id": "PHBox:SK6805_EC15_OPSCO",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "aggregate_load_envelope_only",
+      "detail": "Shared rail bench uses assumed aggregate current; no exact LED or display model, per-device switching or protocol simulation."
+    },
+    {
+      "reference": "C39",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "U6",
+      "value": "SN74LV1T34DBVR",
+      "lib_id": "PHBox:SN74LV1T34DBVR",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "R14",
+      "value": "510R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "C40",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R18",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R19",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R20",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R21",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R22",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R23",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R24",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R25",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R26",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R27",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R28",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R29",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R30",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R31",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R32",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "R33",
+      "value": "100R",
+      "lib_id": "Device:R_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "U8",
+      "value": "USBLC6-2SC6",
+      "lib_id": "Power_Protection:USBLC6-2SC6",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "missing_device_model",
+      "detail": "No exact model found in project or connected simulation assignments."
+    },
+    {
+      "reference": "C44",
+      "value": "100n",
+      "lib_id": "Device:C_Small",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "built_in_primitive_available_not_explicitly_assigned",
+      "detail": "Ideal R/C/L does not need an external model. Full installed-board parasitics and individual inclusion in benches are not established."
+    },
+    {
+      "reference": "H12",
+      "value": "MountingHole",
+      "lib_id": "Mechanical:MountingHole",
+      "simulation_fields": {},
+      "exact_vendor_model_installed_and_assigned": false,
+      "status": "not_electrical",
+      "detail": "Mounting holes; no SPICE model needed."
+    }
+  ]
+}

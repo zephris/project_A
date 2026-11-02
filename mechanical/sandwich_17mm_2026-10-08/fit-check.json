@@ -1,0 +1,121 @@
+{
+  "units": "mm",
+  "source_pcb_sha256": "a9df89d99a8a269b675908a7aec1f1a1e827116273188d6fd180782878081ea0",
+  "main_case_size_mm": [
+    292.6,
+    191.0,
+    17.0
+  ],
+  "maximum_case_size_mm": [
+    292.6,
+    191.0,
+    17.0
+  ],
+  "case_z_mm": [
+    -7.0,
+    10.0
+  ],
+  "plate_z_mm": [
+    3.0,
+    4.3
+  ],
+  "foam_installed_z_mm": [
+    -3.25,
+    -1.601204
+  ],
+  "foam_free_thickness_mm": 2,
+  "foam_nominal_compression_fraction": 0.17560200000000004,
+  "upper_pads_installed_thickness_mm": 1.2,
+  "upper_pads_free_thickness_mm": 1.5,
+  "travel_checked_mm": [
+    -0.25,
+    0.25
+  ],
+  "rear_lowest_clearance_at_down_travel_mm": 0.25,
+  "heatsink_to_top_inner_clearance_at_up_travel_mm": 0.75,
+  "minimum_top_aperture_web_mm": 1.4970872885135975,
+  "switch_aperture_mm": 14.1,
+  "validity": {
+    "top_acrylic": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 89826.75512421431
+    },
+    "bottom_acrylic": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 111302.29752953842
+    },
+    "top_spacer": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 76910.57121463736
+    },
+    "bottom_spacer": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 83925.1561608667
+    },
+    "switch_plate": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 40931.98178547871
+    },
+    "screen_frame": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 423.00454343845826
+    },
+    "foam": {
+      "valid": true,
+      "solids": 7,
+      "volume_mm3": 1827.178834809635
+    },
+    "mounts": {
+      "valid": true,
+      "solids": 14,
+      "volume_mm3": 999.083405208423
+    },
+    "case_hardware": {
+      "valid": true,
+      "solids": 40,
+      "volume_mm3": 2707.6846632334973
+    },
+    "option_caps": {
+      "valid": true,
+      "solids": 6,
+      "volume_mm3": 922.3087712409008
+    },
+    "option_retainer": {
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1099.6146174752685
+    },
+    "option_hardware": {
+      "valid": true,
+      "solids": 4,
+      "volume_mm3": 105.91571668402273
+    }
+  },
+  "board_tests_after_bbox_prune": 710,
+  "board_collision_hits": [],
+  "new_parts_collision_hits": [],
+  "hard_travel_collision_hits": [],
+  "internal_screw_head_envelope_collisions": [],
+  "native_guide_holes": [
+    {
+      "hole": "H4",
+      "native_hole_diameter_mm": 6.4,
+      "guide_diameter_mm": 5.4,
+      "radial_clearance_mm": 0.5
+    },
+    {
+      "hole": "H6",
+      "native_hole_diameter_mm": 6.4,
+      "guide_diameter_mm": 5.4,
+      "radial_clearance_mm": 0.5
+    }
+  ],
+  "unique_switch_prototype_contact_tests": 7,
+  "scope": "Nominal saved STEP geometry only. Foam contact is intentional; rigid intersections fail. Clip snap engagement, material tolerances, screw threads, retainer pullout, force equilibrium, PCB bending, keycap travel and real dongle clearance require trials."
+}

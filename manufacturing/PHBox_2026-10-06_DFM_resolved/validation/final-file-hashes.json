@@ -1,0 +1,20 @@
+{
+  "fabrication/Flatbox-rev8-B_Cu.gbl": "b9aefa8ef3309e6a36d5215172861c6ffb2052b9c0afe53c21f9e1883d246fc3",
+  "fabrication/Flatbox-rev8-B_Mask.gbs": "c6db1fe85470b30a6d4e8ed7a161b25d15791cc2a157080dc9a91fa4d2f9fbf2",
+  "fabrication/Flatbox-rev8-B_Silkscreen.gbo": "8ea15eaba6ec9cbd5f5f1d2fe427562c84ab3f96c3b3b58cdc0abd8d617da81c",
+  "fabrication/Flatbox-rev8-Edge_Cuts.gm1": "16b5a57bda8ffd2e6fa1d87fb31b4f51b1d615f25637a143f06cb92322d609f0",
+  "fabrication/Flatbox-rev8-F_Cu.gtl": "339d1ecfe76d88a49381a7df8fea18609c86093fdadae591ea3f68683efb7d6d",
+  "fabrication/Flatbox-rev8-F_Mask.gts": "b74d9cb5926d4fa34b86619af115b2eaa29534b73f3342d05c9598bebf2538c7",
+  "fabrication/Flatbox-rev8-F_Silkscreen.gto": "578f4e77e84668b1193ddae26e1f24bc89a6c703561329afe8d064a39602f461",
+  "fabrication/Flatbox-rev8-In1_Cu.g1": "8719dbbd06c742995db7b83990f754268cdf9992812865443d67759c80b4672a",
+  "fabrication/Flatbox-rev8-In2_Cu.g2": "3019355773af64738f6fdd10700e3f57f9d113eaf278fd005d4ebd410cb13e0d",
+  "fabrication/Flatbox-rev8-job.gbrjob": "25286601a84a06d10ee1b25f089e0e7724978d8465b10f852deff4d56bac32a0",
+  "fabrication/Flatbox-rev8-NPTH.drl": "b0945e0c144485099b3dd76d078acaf95fa0674afa48737b484def145f689a22",
+  "fabrication/Flatbox-rev8-PTH.drl": "5fbb06d65e47e1cf4d2ebe8b6ca7324fcc507c3c2cf04de0f2882c0c8445003c",
+  "stencil/Flatbox-rev8-B_Paste.gbp": "c907e22e67268818453a8a00f21e1bb6a2223981ea016c375898dde35846eb8a",
+  "stencil/Flatbox-rev8-F_Paste.gtp": "983523d7c3a989b3be8505a58cdf0280b2fabc8e4b164ae02378ce4cbcb43135",
+  "stencil/Flatbox-rev8-job.gbrjob": "40fd2c031460c9850b4dd59a9329480f1758e90b36644da4eb131a2dead16ea3",
+  "assembly/BOM-JLCPCB.csv": "3909b3f20aa82c914b7464d2f687f3680d4e34cc34091e1f27f613ffbe97306b",
+  "assembly/CPL-JLCDFM.csv": "caba59256d1cc3f6fa2b3ae031f6dffbb1223f10e3f2220ef2627c76c9555369",
+  "assembly/CPL-native.csv": "887f7a5b755739b3aa98bc8df7f0454a1efec4df16f6e423b062c04b36fab874"
+}

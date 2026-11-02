@@ -1,0 +1,10 @@
+{
+  "java_package_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_windows_hotspot_25.0.5_8.zip",
+  "java_sha256": "da78d54a2fcdbba1e92d5e3f07dd30236f96297891c4a21a781c3f38f5c0beae",
+  "freerouting_url": "https://github.com/freerouting/freerouting/releases/download/v2.5.0/freerouting-2.5.0.jar",
+  "freerouting_sha256": "f6f51bb02245e8e717f9359bd260cc9c5c0b1bc0acc8b7cb2cd5b8ffeb5de3c7",
+  "freerouting_2_0_1_url": "https://github.com/freerouting/freerouting/releases/download/v2.0.1/freerouting-2.0.1.jar",
+  "freerouting_2_0_1_sha256": "d7fd0f63f52e6d74b0fad6715f87ca9f0ffd7109d66b2a584638000270592ecf",
+  "native_2_5_0_windows_zip_sha256": "5750dc0bed261eefae29d79784301b478af978fd472407d77e01e85dbb794857",
+  "outcome": "Partial routing only. Native CLI failed on missing serialization constructors; Java routing outputs were independently checked in KiCad. One changed net assignment was restored. Final candidate: 0 electrical clearance errors, 22 unconnected items, 182 warnings. Not fabrication-ready. Temporary tools removed after use."
+}

@@ -1,0 +1,4 @@
+U4 ECMF2-40A100N6: preserve the six supplied 0.664 x 0.190 mm paste apertures. Review a 0.10 mm stencil for the complete assembly; confirm any aperture/thickness changes before production.
+U1 RP2350A: confirm its nine 0.35 mm exposed-pad ComponentDrill holes have epoxy filling and copper capping before assembly. Confirm X-ray inspection of the exposed-pad joint for starvation, bridges and voiding.
+Use the supplied BOM/CPL, including C41 CL10B105KA8NNNC / C29936. Verify U1=0 deg, U4=0 deg, USB2=180 deg and U8=90 deg using package pin-1/polarity and connector mating direction. Review D21 against the actual ST drawing rather than the oversized generic preview model.
+Confirm the OLED/module and any through-hole/manual assembly arrangements. Hot-swap sockets and enclosure/display support hardware require a separate procurement/assembly agreement. Do not substitute parts or alter approved pad/paste geometry without confirmation.

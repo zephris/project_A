@@ -1,0 +1,22 @@
+{
+  "pin_maps_identical": true,
+  "footprints": 146,
+  "moved_footprints": 71,
+  "fixed_footprints_exactly_preserved": 75,
+  "max_main_switch_centre_error_mm": 1.414213558802549e-06,
+  "protected_core_tracks_requested": 1117,
+  "protected_core_tracks_missing": [],
+  "protected_core_tracks_modified": [],
+  "original_root_board_unchanged": true,
+  "candidate_sha256": "cc6e09d7bb8c85964da51ce74d79c96b29d2760e197bdce856f3d628bdba66eb",
+  "drc_error_count": 0,
+  "drc_warning_types": {
+    "track_dangling": 82,
+    "via_dangling": 6,
+    "silk_over_copper": 28,
+    "silk_overlap": 66
+  },
+  "unconnected_items": 22,
+  "fabrication_ready": false,
+  "scope": "Physical layout candidate only; remaining connections and dangling copper need completion. No electrical release claim."
+}

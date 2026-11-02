@@ -1,0 +1,596 @@
+- text: 
+- main:
+  - list:
+    - listitem "Undo(Ctrl+Z)"
+    - listitem "Redo(Ctrl+Y)"
+    - listitem "Zoom in(A)"
+    - listitem "Zoom out(Z)"
+    - listitem "Fit selection"
+    - listitem "Fit window(K)"
+    - listitem "Flip board(Shift+F)"
+    - listitem "Measure(Ctrl+M)"
+    - listitem "Export analysis report"
+    - listitem "Configure custom rules"
+    - listitem "Help Document"
+    - listitem "Settings"
+  - generic "PHBox-DFM-resolved-Gerbers.zip"
+  - generic: Units：
+  - generic: Metric（cm/mm）
+  - button "PCB DFM"
+  - button "SMT DFM"
+  - button "DFM check"
+  - generic: Description
+  - generic: All
+  - table:
+    - rowgroup:
+      - row "Analyze project Statistics Operation":
+        - columnheader "Analyze project"
+        - columnheader "Statistics"
+        - columnheader "Operation"
+  - generic: Routing layer analysis
+  - table:
+    - rowgroup:
+      - row "Sharp trace corner 0, 3, 0 Details":
+        - cell "Sharp trace corner"
+        - cell "0, 3, 0"
+        - cell "Details":
+          - button "Details"
+      - row "BGA pad 0, 0, 0 Details":
+        - cell "BGA pad"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Via placed within a pad 0, 0, 0 Details":
+        - cell "Via placed within a pad"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Trace to board edge 0, 0, 0 Details":
+        - cell "Trace to board edge"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Trace spacing 0, 61, 1 Details":
+        - cell "Trace spacing"
+        - cell "0, 61, 1"
+        - cell "Details":
+          - button "Details"
+      - row "Unconnected trace end 0, 0, 0 Details":
+        - cell "Unconnected trace end"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Trace width 0, 0, 100 Details":
+        - cell "Trace width"
+        - cell "0, 0, 100"
+        - cell "Details":
+          - button "Details"
+      - row "Fiducial 0, 0, 0 Details":
+        - cell "Fiducial"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Pad to board edge 0, 0, 0 Details":
+        - cell "Pad to board edge"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Pad spacing 1, 37, 36 Details":
+        - cell "Pad spacing"
+        - cell "1, 37, 36"
+        - cell "Details":
+          - button "Details"
+      - row "Plated through-hole to trace clearance 0, 3, 75 Details":
+        - cell "Plated through-hole to trace clearance"
+        - cell "0, 3, 75"
+        - cell "Details":
+          - button "Details"
+      - row "Annular ring 69, 31, 0 Details":
+        - cell "Annular ring"
+        - cell "69, 31, 0"
+        - cell "Details":
+          - button "Details"
+      - row "tht to smd 0, 0, 0 Details":
+        - cell "tht to smd"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Via to pad 0, 0, 0 Details":
+        - cell "Via to pad"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+  - generic: Soldermask layer analysis
+  - table:
+    - rowgroup:
+      - row "Soldermask bridge 0, 0, 50 Details":
+        - cell "Soldermask bridge"
+        - cell "0, 0, 50"
+        - cell "Details":
+          - button "Details"
+      - row "Solder mask opening exposing trace 0, 1, 15 Details":
+        - cell "Solder mask opening exposing trace"
+        - cell "0, 1, 15"
+        - cell "Details":
+          - button "Details"
+      - row "Soldermask opening with multiple segments 0, 0, 0 Details":
+        - cell "Soldermask opening with multiple segments"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Negative soldermask expansion 0, 58, 0 Details":
+        - cell "Negative soldermask expansion"
+        - cell "0, 58, 0"
+        - cell "Details":
+          - button "Details"
+  - generic: Silkscreen layer analysis
+  - table:
+    - rowgroup:
+      - row "Silkscreen to pad 0, 62, 26 Details":
+        - cell "Silkscreen to pad"
+        - cell "0, 62, 26"
+        - cell "Details":
+          - button "Details" [active]
+      - row "Silkscreen to hole 0, 16, 38 Details":
+        - cell "Silkscreen to hole"
+        - cell "0, 16, 38"
+        - cell "Details":
+          - button "Details"
+      - row "Silkscreen line width 0, 100, 0 Details":
+        - cell "Silkscreen line width"
+        - cell "0, 100, 0"
+        - cell "Details":
+          - button "Details"
+  - generic: Drill layer analysis
+  - table:
+    - rowgroup:
+      - row "Unconnected via 0, 0, 0 Details":
+        - cell "Unconnected via"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Missing plated through-hole 0, 0, 0 Details":
+        - cell "Missing plated through-hole"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Unconnected via 0, 0, 0 Details":
+        - cell "Unconnected via"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Plated through-hole spacing 0, 0, 1 Details":
+        - cell "Plated through-hole spacing"
+        - cell "0, 0, 1"
+        - cell "Details":
+          - button "Details"
+      - row "Short slot detection 0, 0, 0 Details":
+        - cell "Short slot detection"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Slot width check 4, 0, 0 Details":
+        - cell "Slot width check"
+        - cell "4, 0, 0"
+        - cell "Details":
+          - button "Details"
+      - row "Via to PTH spacing 0, 0, 0 Details":
+        - cell "Via to PTH spacing"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+      - row "Unconnected via 0, 0, 0 Details":
+        - cell "Unconnected via"
+        - cell "0, 0, 0"
+        - cell "Details":
+          - button "Details" [disabled]
+  - generic "Close左侧栏"
+  - generic "Gerber(5)": Gerber
+  - generic "Gerber(6)": Wireframe
+  - generic "2D(2)": 2D
+  - generic "3D(3)": 3D
+  - generic "Close右侧栏"
+  - generic: Show layer controls
+  - table:
+    - rowgroup:
+      - row "Edit Layer type":
+        - columnheader
+        - columnheader "Edit"
+        - columnheader "Layer type"
+    - rowgroup:
+      - button "Top silkscreen":
+        - cell
+        - cell
+        - cell "Top silkscreen":
+          - generic "Flatbox-rev8-F_Silkscreen.gto": Top silkscreen
+      - button "Top soldermask":
+        - cell
+        - cell
+        - cell "Top soldermask":
+          - generic "Flatbox-rev8-F_Mask.gts": Top soldermask
+      - button "Top copper":
+        - cell
+        - cell
+        - cell "Top copper":
+          - generic "Flatbox-rev8-F_Cu.gtl": Top copper
+      - button "Inner layers":
+        - cell
+        - cell
+        - cell "Inner layers":
+          - generic "Flatbox-rev8-In1_Cu.g1": Inner layers
+      - button "Inner layers":
+        - cell
+        - cell
+        - cell "Inner layers":
+          - generic "Flatbox-rev8-In2_Cu.g2": Inner layers
+      - button "Bottom copper":
+        - cell
+        - cell
+        - cell "Bottom copper":
+          - generic "Flatbox-rev8-B_Cu.gbl": Bottom copper
+      - button "Bottom soldermask":
+        - cell
+        - cell
+        - cell "Bottom soldermask":
+          - generic "Flatbox-rev8-B_Mask.gbs": Bottom soldermask
+      - button "Bottom silkscreen":
+        - cell
+        - cell
+        - cell "Bottom silkscreen":
+          - generic "Flatbox-rev8-B_Silkscreen.gbo": Bottom silkscreen
+      - button "Plated drill layers":
+        - cell
+        - cell
+        - cell "Plated drill layers":
+          - generic "Flatbox-rev8-NPTH.drl": Plated drill layers
+      - button "Plated drill layers":
+        - cell
+        - cell
+        - cell "Plated drill layers":
+          - generic "Flatbox-rev8-PTH.drl": Plated drill layers
+      - button "Board outline layer":
+        - cell
+        - cell
+        - cell "Board outline layer":
+          - generic "Flatbox-rev8-Edge_Cuts.gm1": Board outline layer
+  - status
+  - generic: "X: -128.48mm"
+  - generic: "Y: -52.23mm"
+  - generic: Silkscreen layer analysis > Silkscreen to pad
+  - paragraph: Detect clearance of silkscreen to pads
+  - generic: Layer
+  - generic "Flatbox-rev8-F_Silkscreen.gto": Top silkscreen (0, 50, 0)
+  - generic "Flatbox-rev8-B_Silkscreen.gbo": Bottom silkscreen (0, 12, 26)
+  - table:
+    - rowgroup:
+      - row "No. All Value Object 1 Object 2":
+        - columnheader "No."
+        - columnheader "All":
+          - combobox:
+            - option "All" [selected]
+            - option "Good"
+            - option "Warning"
+            - option "Danger"
+        - columnheader "Value"
+        - columnheader "Object 1"
+        - columnheader "Object 2"
+  - table:
+    - rowgroup:
+      - row "1 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "1"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "2 Warning 0.16mm r5.90551 rect7.874x27.559":
+        - cell "2"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect7.874x27.559"
+      - row "3 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "3"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "4 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "4"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "5 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "5"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "6 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "6"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "7 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "7"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "8 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "8"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "9 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "9"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "10 Warning 0.16mm r5.90551 rect21.26x25.197":
+        - cell "10"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect21.26x25.197"
+      - row "11 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "11"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "12 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "12"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "13 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "13"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "14 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "14"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "15 Warning 0.16mm r5.90551 rect21.26x25.197":
+        - cell "15"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect21.26x25.197"
+      - row "16 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "16"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "17 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "17"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "18 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "18"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "19 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "19"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "20 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "20"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "21 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "21"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "22 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "22"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "23 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "23"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "24 Warning 0.16mm r5.90551 rect21.26x25.197":
+        - cell "24"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect21.26x25.197"
+      - row "25 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "25"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "26 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "26"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "27 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "27"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "28 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "28"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "29 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "29"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "30 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "30"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "31 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "31"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "32 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "32"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "33 Warning 0.16mm r5.90551 rect21.26x25.197":
+        - cell "33"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect21.26x25.197"
+      - row "34 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "34"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "35 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "35"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "36 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "36"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "37 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "37"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "38 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "38"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "39 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "39"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "40 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "40"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "41 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "41"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "42 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "42"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "43 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "43"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "44 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "44"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "45 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "45"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "46 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "46"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "47 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "47"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "48 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "48"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "49 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "49"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+      - row "50 Warning 0.16mm r5.90551 rect25.197x21.26":
+        - cell "50"
+        - cell "Warning"
+        - cell "0.16mm"
+        - cell "r5.90551"
+        - cell "rect25.197x21.26"
+  - checkbox "Smart layer display" [checked]
+  - text: Smart layer display
+  - checkbox "Auto fit view" [checked]
+  - text: Auto fit view
+  - button "First"
+  - button "Previous"
+  - button "Next"
+  - button "Last"
+  - button "All"
+  - generic: "Note: This analysis item has 141 results, only showing the first 50 results 。"
+  - 'generic "If silkscreen is too close to pads, it may print on top, affecting solderability. Note: Common practice is to remove silkscreen overlapping pads, causing character voids."'
+  - generic: Alert value：
+  - generic: Danger
+  - generic: Warning
+  - generic: Good
+  - generic: 0.13mm
+  - generic: 0.18mm
+  - text: 

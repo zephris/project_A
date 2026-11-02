@@ -1,0 +1,26 @@
+TPS2553 isolated compatibility smoke check
+.include "C:/Users/admin/Documents/KiCad/9.0/projects/project_a_latest/project_A/spice/models/vendor/TPS2553/SLVM425A/TPS2553_PSPICE_TRANS/tps2553_trans.lib"
+V1 vin 0 PWL(0 0 100u 5)
+Ven en 0 PWL(0 0 1m 0 1.001m 3.3)
+Xswitch vin 0 en 0 fault ilim vout TPS2553_TRANS
+Rilim ilim 0 200k
+Rfault vin fault 10k
+Cout vout 0 200u
+Rload vout 0 100
+.tran 5u 30m
+.meas tran output_final FIND v(vout) AT=29m
+
+.meas tran debug_0 FIND v(vin) AT=29m
+.meas tran debug_1 FIND v(en) AT=29m
+.meas tran debug_2 FIND v(vout) AT=29m
+.meas tran debug_3 FIND v(fault) AT=29m
+.meas tran debug_4 FIND v(ilim) AT=29m
+.meas tran debug_5 FIND v(xswitch.powerok) AT=29m
+.meas tran debug_6 FIND v(xswitch.u1_vccok) AT=29m
+.meas tran debug_7 FIND v(xswitch.u1_enok) AT=29m
+.meas tran debug_8 FIND v(xswitch.u2_gate) AT=29m
+.meas tran debug_9 FIND v(xswitch.gate_off) AT=29m
+.meas tran debug_10 FIND v(xswitch.ilim_int) AT=29m
+.meas tran debug_11 FIND v(xswitch.u1_n16726884) AT=29m
+.meas tran debug_12 FIND v(xswitch.u1_n16726205) AT=29m
+.end

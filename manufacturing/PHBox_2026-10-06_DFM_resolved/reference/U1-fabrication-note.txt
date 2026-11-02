@@ -1,0 +1,7 @@
+PHBox, 4-layer FR4, 1.6 mm: fill and copper-cap the NINE plated thermal holes under U1 RP2350A exposed GND pad 61. Nominal holes 0.35 mm, lands 0.60 mm. These are footprint through-hole pads in CAD and are exported as ComponentDrill objects, not ordinary ViaDrill objects. Treat these nine as via-in-pad requiring epoxy filling and copper capping, with a flat, solderable top surface.
+
+For the 2026-10-06 DFM-fixes drill file, the holes are T4C0.350 (9 holes), NOT T3C0.350 (125 ordinary vias). See u1-hole-identification.csv / u1-hole-map.png for exact identity. Gerber coordinates (mm, drill/place origin): X = -23.907320, -22.532320, -21.157320; Y = 38.508442, 37.133442, 35.758442; all nine Cartesian combinations. Current Excellon rounds these to 3 decimal places. Tool IDs may change after regenerated outputs; component identity and coordinates govern.
+
+Please explicitly confirm these nine ComponentDrill holes are included in the selected epoxy-filled and copper-capped process. Preserve functional component through-holes and plated slots elsewhere. Preserve U1's exposed solderable copper and four rounded paste apertures. Tenting or solder-mask ink plugging alone is not the requested treatment.
+
+Select confirmation of production files and review the CAM hole treatment before releasing this design to fabrication. This note is prepared for review only; no manufacturing order was submitted.

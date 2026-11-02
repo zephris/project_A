@@ -1,0 +1,20 @@
+U7 adapted XNOR truth table
+.include "C:/Users/admin/Documents/KiCad/9.0/projects/project_a_latest/project_A/spice/models/adapters/TPS2553_TRANS_ngspice.lib"
+Va0 a0 0 0
+Vb0 b0 0 0
+X0 a0 b0 y0 XNOR2_BASIC_GEN
+Va1 a1 0 0
+Vb1 b1 0 1
+X1 a1 b1 y1 XNOR2_BASIC_GEN
+Va2 a2 0 1
+Vb2 b2 0 0
+X2 a2 b2 y2 XNOR2_BASIC_GEN
+Va3 a3 0 1
+Vb3 b3 0 1
+X3 a3 b3 y3 XNOR2_BASIC_GEN
+.tran 1n 10n
+.meas tran y0 FIND v(y0) AT=9n
+.meas tran y1 FIND v(y1) AT=9n
+.meas tran y2 FIND v(y2) AT=9n
+.meas tran y3 FIND v(y3) AT=9n
+.end

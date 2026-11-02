@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 1,
+  "setupState": {
+    "layerPreset": "twoLayer",
+    "layers": [
+      {
+        "name": "F.Cu",
+        "visible": true,
+        "routingEnabled": true
+      },
+      {
+        "name": "B.Cu",
+        "visible": true,
+        "routingEnabled": true
+      },
+      {
+        "name": "F.Adhes",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.Adhes",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Paste",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.Paste",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "F.SilkS",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.SilkS",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Mask",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.Mask",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "Dwgs.User",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "Cmts.User",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "Eco1.User",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "Eco2.User",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "Edge.Cuts",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "Margin",
+        "visible": false,
+        "routingEnabled": false
+      },
+      {
+        "name": "F.CrtYd",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.CrtYd",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Fab",
+        "visible": true,
+        "routingEnabled": false
+      },
+      {
+        "name": "B.Fab",
+        "visible": true,
+        "routingEnabled": false
+      }
+    ],
+    "traceWidthPresets": [
+      {
+        "label": "0.10 mm",
+        "widthMm": 0.1
+      },
+      {
+        "label": "0.127 mm",
+        "widthMm": 0.127
+      },
+      {
+        "label": "0.15 mm",
+        "widthMm": 0.15
+      },
+      {
+        "label": "0.20 mm",
+        "widthMm": 0.2
+      },
+      {
+        "label": "0.25 mm",
+        "widthMm": 0.25
+      },
+      {
+        "label": "0.30 mm",
+        "widthMm": 0.3
+      },
+      {
+        "label": "0.40 mm",
+        "widthMm": 0.4
+      },
+      {
+        "label": "0.50 mm",
+        "widthMm": 0.5
+      },
+      {
+        "label": "0.80 mm",
+        "widthMm": 0.8
+      },
+      {
+        "label": "1.00 mm",
+        "widthMm": 1.0
+      }
+    ],
+    "viaPresets": [
+      {
+        "label": "0.45 / 0.20",
+        "diameterMm": 0.45,
+        "drillMm": 0.2
+      },
+      {
+        "label": "0.60 / 0.30",
+        "diameterMm": 0.6,
+        "drillMm": 0.3
+      },
+      {
+        "label": "0.80 / 0.40",
+        "diameterMm": 0.8,
+        "drillMm": 0.4
+      },
+      {
+        "label": "1.00 / 0.50",
+        "diameterMm": 1.0,
+        "drillMm": 0.5
+      }
+    ],
+    "activeLayerName": "F.Cu",
+    "activeTraceWidthMm": 0.25,
+    "activeViaPreset": {
+      "label": "0.60 / 0.30",
+      "diameterMm": 0.6,
+      "drillMm": 0.3
+    },
+    "defaultTextFontFace": "KiCad Font",
+    "snapToGrid": true,
+    "showGrid": true,
+    "gridSizeMm": 0.5,
+    "clearanceMm": 0.0,
+    "boardEdgeClearanceMm": 0.025
+  },
+  "stackup": {
+    "boardThicknessMm": 1.6,
+    "layers": [
+      {
+        "name": "F.SilkS",
+        "type": "Top Silk Screen",
+        "thicknessMm": 0.1,
+        "role": "mechanical",
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Paste",
+        "type": "Top Solder Paste",
+        "thicknessMm": 0.1,
+        "role": "mechanical",
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Mask",
+        "type": "Top Solder Mask",
+        "thicknessMm": 0.01,
+        "role": "mechanical",
+        "routingEnabled": false
+      },
+      {
+        "name": "F.Cu",
+        "type": "copper",
+        "thicknessMm": 0.035,
+        "role": "signal",
+        "routingEnabled": true
+      },
+      {
+        "name": "dielectric 1",
+        "type": "core",
+        "thicknessMm": 1.51,
+        "role": "mechanical",
+        "routingEnabled": false,
+        "epsilonR": 4.5,
+        "lossTangent": 0.02,
+        "material": "FR4"
+      },
+      {
+        "name": "B.Cu",
+        "type": "copper",
+        "thicknessMm": 0.035,
+        "role": "signal",
+        "routingEnabled": true
+      },
+      {
+        "name": "B.Mask",
+        "type": "Bottom Solder Mask",
+        "thicknessMm": 0.01,
+        "role": "mechanical",
+        "routingEnabled": false
+      },
+      {
+        "name": "B.Paste",
+        "type": "Bottom Solder Paste",
+        "thicknessMm": 0.1,
+        "role": "mechanical",
+        "routingEnabled": false
+      },
+      {
+        "name": "B.SilkS",
+        "type": "Bottom Silk Screen",
+        "thicknessMm": 0.1,
+        "role": "mechanical",
+        "routingEnabled": false
+      }
+    ]
+  },
+  "boardConstraints": {
+    "minTraceWidthMm": 0.15,
+    "minClearanceMm": 0.0,
+    "minViaDiameterMm": 0.4,
+    "minViaDrillMm": 0.3,
+    "minAnnularMm": 0.1,
+    "minHoleMm": 0.3,
+    "holeToHoleMm": 0.25,
+    "differentialPairs": []
+  },
+  "netClasses": [
+    {
+      "name": "Default",
+      "description": "",
+      "clearanceMm": 0.15,
+      "traceWidthMm": 0.2,
+      "viaDiameterMm": 0.6,
+      "viaDrillMm": 0.35,
+      "netNames": [
+        "+1V1",
+        "+3V3",
+        "+5V",
+        "/FLASH_SS",
+        "/QSPI_SCLK",
+        "/QSPI_SD0",
+        "/QSPI_SD1",
+        "/QSPI_SD2",
+        "/QSPI_SD3",
+        "/SWCLK",
+        "/SWD",
+        "/VREG_AVDD",
+        "/VREG_LX",
+        "/XIN",
+        "/XOUT",
+        "/~{USB_BOOT}",
+        "CIRCLE",
+        "CROSS",
+        "D+",
+        "D-",
+        "DOUT",
+        "DOWN",
+        "GND",
+        "HD+",
+        "HD-",
+        "L1",
+        "L2",
+        "LEFT",
+        "LS",
+        "Net-(C17-Pad1)",
+        "Net-(F1-Pad1)",
+        "Net-(R6-Pad1)",
+        "Net-(U1-GPIO20)",
+        "Net-(U1-GPIO21)",
+        "Net-(U1-USB_DM)",
+        "Net-(U1-USB_DP)",
+        "Net-(USB1-CC1)",
+        "Net-(USB1-CC2)",
+        "Net-(USB1-DN1)",
+        "Net-(USB1-DP1)",
+        "OPT1",
+        "OPT2",
+        "OPT3",
+        "OPT4",
+        "OPT5",
+        "OPT6",
+        "R1",
+        "R2",
+        "RESET",
+        "RGB",
+        "RGB2",
+        "RIGHT",
+        "RS",
+        "SCL",
+        "SDA",
+        "SQUARE",
+        "TRIANGLE",
+        "UP",
+        "UP2",
+        "UP3",
+        "unconnected-(U1-GPIO0-Pad2)",
+        "unconnected-(U1-GPIO17-Pad28)",
+        "unconnected-(U1-GPIO7-Pad10)",
+        "unconnected-(U2-NC-Pad4)",
+        "unconnected-(U4-ID-Pad4)"
+      ]
+    }
+  ],
+  "boardGeometry": {
+    "userOriginMm": [
+      166.8645,
+      95.15
+    ],
+    "fabUseOrigin": false
+  },
+  "pageSetup": {
+    "paperSize": "Infinite",
+    "paperPortrait": false
+  }
+}

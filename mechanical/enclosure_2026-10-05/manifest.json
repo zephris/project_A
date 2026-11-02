@@ -1,0 +1,69 @@
+{
+  "package": "PHBox Choc V1 retention FIT CANDIDATE",
+  "files": {
+    "README.md": {
+      "bytes": 2842,
+      "sha256": "fc48bfa0695f65f5fdd8b89971033cc84415d065daacf967a5c0cd91009d48b5"
+    },
+    "DESIGN-PRINCIPLES.md": {
+      "bytes": 9652,
+      "sha256": "3ca3178c585eacf8e95dabaa400bfb436c5e9983252587717b79ea47f487d26d"
+    },
+    "build_candidate.py": {
+      "bytes": 9914,
+      "sha256": "cf349f7ce1855f485d43642f735dc825c7a17630401ff27de41e6d6524610c20"
+    },
+    "candidate-parameters.json": {
+      "bytes": 5263,
+      "sha256": "bcad9042ac3897e5dcea79823e0247033ea8453abe581651ebaaf52b9930a73a"
+    },
+    "candidate-validation.json": {
+      "bytes": 786,
+      "sha256": "d586d74acf32cc7182d01e169110ff64605aa7396687833fedc7099a200d71e6"
+    },
+    "candidate-preview.png": {
+      "bytes": 122061,
+      "sha256": "3bb08f0f220725d805330fe94169ee59752075d477c3eba4262820507ab8512b"
+    },
+    "Kailh_CPG135001D01-16.pdf": {
+      "bytes": 810354,
+      "sha256": "c5d29e77f2068863ce5aa08184a08599c493b5255cf07201e7473256d7f4f661"
+    },
+    "candidate/choc-v1-fit-coupon-1p2mm.step": {
+      "bytes": 70852,
+      "sha256": "7d0cb5773c209438c81d34b8052961146e29a69b5744a8297c4558456af037bf"
+    },
+    "candidate/choc-v1-fit-coupon-1p2mm.stl": {
+      "bytes": 4684,
+      "sha256": "fa4130a49c50cb3c1722801e73239820f6437739d38ac2783940fae317137b63"
+    },
+    "candidate/choc-v1-fit-coupon-1p3mm.step": {
+      "bytes": 70852,
+      "sha256": "e20611ec8fad478c8a63b2f46e16ee9dfb4a5d0e5ee9a9c3b52bcda82747a660"
+    },
+    "candidate/choc-v1-fit-coupon-1p3mm.stl": {
+      "bytes": 4684,
+      "sha256": "17113e35f37b0dfd38fa25d63996acc0919579436a76924fd20b05be33907172"
+    },
+    "candidate/choc-v1-fit-coupon-nominal.dxf": {
+      "bytes": 21585,
+      "sha256": "cbee6cadb5a384e5fd310e048437274d30c10e8eb3afbe2bdefef10b3cd8e54f"
+    },
+    "candidate/choc-v1-retention-1p3mm.step": {
+      "bytes": 389032,
+      "sha256": "8e886cd7f0d9f7e36a7514f0fe3259bf7f15c58ff46be781494db885d049e50e"
+    },
+    "candidate/choc-v1-retention-1p3mm.stl": {
+      "bytes": 188284,
+      "sha256": "48b5c24a72bc9a09fa8989c29082ad1c53fee5cf558ed5e098e2065adf52ee34"
+    },
+    "candidate/choc-v1-retention-nominal.dxf": {
+      "bytes": 37047,
+      "sha256": "c11a5d5d4617f499f81c39681332307430c824bca8fd09ea6238d1ff1e8807f6"
+    },
+    "candidate/choc-v1-retention-preview.svg": {
+      "bytes": 44981,
+      "sha256": "a1b041b1ada8b923c74fd918ad9ef04371087956388a052f0e20da21b4553ddc"
+    }
+  }
+}

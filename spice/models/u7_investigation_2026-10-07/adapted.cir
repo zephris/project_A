@@ -1,0 +1,13 @@
+TPS2553 isolated compatibility smoke check
+.include "C:/Users/admin/Documents/KiCad/9.0/projects/project_a_latest/project_A/spice/models/adapters/TPS2553_TRANS_ngspice.lib"
+V1 vin 0 PWL(0 0 100u 5)
+Ven en 0 PWL(0 0 1m 0 1.001m 3.3)
+Xswitch vin 0 en 0 fault ilim vout TPS2553_TRANS
+Rilim ilim 0 200k
+Rfault vin fault 10k
+Cout vout 0 200u
+Rload vout 0 100
+.tran 5u 30m
+.meas tran output_final FIND v(vout) AT=29m
+.end
+

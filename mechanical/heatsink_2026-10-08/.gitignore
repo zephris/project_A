@@ -1,0 +1,6 @@
+.venv/
+.cache/
+.ocp-cache/
+.browser/
+__pycache__/
+tmp/

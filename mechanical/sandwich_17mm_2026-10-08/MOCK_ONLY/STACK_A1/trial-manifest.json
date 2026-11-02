@@ -1,0 +1,80 @@
+[
+  {
+    "name": "screen_frame_trial_1",
+    "source": "STL/screen_frame.stl",
+    "x": 108,
+    "y": 108,
+    "z": 0,
+    "size_mm": [
+      40.400000000000006,
+      38.500000000001236,
+      1.0
+    ],
+    "tier": 1
+  },
+  {
+    "name": "screen_frame_trial_2",
+    "source": "STL/screen_frame.stl",
+    "x": 108,
+    "y": 108,
+    "z": 2.0,
+    "size_mm": [
+      40.400000000000006,
+      38.500000000001236,
+      1.0
+    ],
+    "tier": 2
+  },
+  {
+    "name": "acrylic_case_washer_1_top_0p5_SURROGATE_trial_3",
+    "source": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+    "x": 85,
+    "y": 108,
+    "z": 0,
+    "size_mm": [
+      7.0,
+      7.0,
+      0.5
+    ],
+    "tier": 3
+  },
+  {
+    "name": "acrylic_case_washer_1_top_0p5_SURROGATE_trial_4",
+    "source": "STL/acrylic_case_washer_1_top_0p5_SURROGATE.stl",
+    "x": 85,
+    "y": 108,
+    "z": 1.5,
+    "size_mm": [
+      7.0,
+      7.0,
+      0.5
+    ],
+    "tier": 4
+  },
+  {
+    "name": "OPSW1_captive_cap_H5_trial_trial_5",
+    "source": "STL/OPSW1_captive_cap_H5_trial.stl",
+    "x": 85,
+    "y": 128,
+    "z": 0,
+    "size_mm": [
+      8.0,
+      8.0,
+      6.200000000000001
+    ],
+    "tier": 5
+  },
+  {
+    "name": "printed_screen_stop_1_3mm_trial_6",
+    "source": "STL/printed_screen_stop_1_3mm.stl",
+    "x": 85,
+    "y": 145,
+    "z": 0,
+    "size_mm": [
+      4.800000000000001,
+      4.800000000000001,
+      4.55
+    ],
+    "tier": 6
+  }
+]

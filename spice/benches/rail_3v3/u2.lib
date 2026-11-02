@@ -1,0 +1,119 @@
+* PSpice Model Editor - Version 16.2.0
+*$
+*
+* PSpice Model Editor - Version 16.2.0
+*
+* source TLV73333P_TRANS
+*****************************************************************************
+* (C) Copyright 2014 Texas Instruments Incorporated. All rights reserved.
+*****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of
+** merchantability or fitness for a particular purpose. The model is
+** provided solely on an "as is" basis. The entire risk as to its quality
+** and performance is with the customer
+*****************************************************************************
+*
+** Released by: WEBENCH Design Center, Texas Instruments Inc.
+* Part: TLV73333P
+* Date: 16SEP2014 
+* Model Type: Transient
+* Simulator: PSPICE
+* Simulator Version: 16.2.0.p001
+* EVM Order Number: 
+* EVM Users Guide:  
+* Datasheet: TLV713,TLV713P (SBVS195D –SEPTEMBER 2012–REVISED JULY 2013).
+*
+* Model Version: Final 1.00
+*
+*****************************************************************************
+*
+* Updates:
+*
+* Final 1.00
+* Release to Web
+*
+*****************************************************************************
+.SUBCKT TLV73333P_TRANS EN IN OUT GND
+R_R6         N242982 VYY  10 TC=0,0 
+C_U1_C2         0 U1_N05382  1n  
+V_U1_V4         U1_N12783 0 {UVLO}
+X_U1_U1         EN U1_N11911 U1_N11626 U1_N11113 COMPHYS_BASIC_GEN PARAMS:
++  VDD=1 VSS=0 VTHRESH=0.5
+E_U1_ABM4         U1_N09035 0 VALUE { V(U1_N05348)  
++ * (ABS(V(N222556)) + 1e-6)  
++ / (ABS(V(N222934)) + 1e-6)  }
+C_U1_C1         0 U1_N05348  {1e-6*SQRT(TTRN)}  
+R_U1_R1         GND U1_N05348  1G  
+X_U1_U2         IN U1_N12783 U1_N12664 U1_N13377 COMPHYS_BASIC_GEN PARAMS:
++  VDD=1 VSS=0 VTHRESH=0.5
+V_U1_V2         U1_N11911 0 {VENB}
+E_U1_E1         U1_DROP 0 TABLE { V(LOAD, 0) } 
++ ( (0,0)
++  (20m,50m)(40m,100m)(60m,140m)(80m,180m)(100m,240m)(120m,280m)(140m,330m) )
+V_U1_V3         U1_N12664 0 {UHYS}
+V_U1_V1         U1_N11626 0 {EHYS}
+R_U1_R5         U1_N09745 N222524  10 TC=0,0 
+R_U1_R3         U1_N08164 U1_N05348  {3.333e5*SQRT(TTRN)} TC=0,0 
+C_U1_C3         0 N222524  1n  
+R_U1_R2         GND U1_N05382  1G  
+E_U1_ABM6         U1_N08164 0 VALUE { IF(V(U1_N13377)> 0.6 & V(U1_N11113) >
++  0.6, {VREF}, 0)    }
+E_U1_ABM5         U1_N09745 0 VALUE { MIN(V(U1_N05382),  
++ MAX(V(IN) -V(U1_DROP), 0))   }
+R_U1_R4         U1_N09035 U1_N05382  10 TC=0,0 
+C_C3         0 VYY  1n  
+R_R5         VZZ VYY  {ROUT}  
+E_ABM1         N242982 0 VALUE { {MIN(V(VXX), (V(Vzz)+(ILIM*ROUT)))}    }
+X_U2         0 OUT d_d PARAMS:
+X_S1    EN GND N222556 GND TLV73333P_S1 
+R_R1         VXX IN  {RINP}  
+X_F1    VZZ N222556 IN VYY TLV73333P_F1 
+R_R2         N222524 VXX  {PSRR*RINP}  
+R_R3         GND N222934  500k  
+C_C1         VXX IN  {1/(6.28*RINP*POLE)}  
+R_R4         N222934 OUT  2800k  
+E_ABM2         LOAD 0 VALUE { I(V_Vload)    }
+C_C2         VXX N222524  {1/(6.28*PSRR*RINP*ZERO)}  
+V_Vload         N222556 OUT 0Vdc
+.PARAM  psrr=100u uvlo=1.3 venb=0.9 ilim=0.450 pole=100 zero=100k rinp=1e7
++  ttrn=70u rout=1.5e-2 vref=0.5 ehys=0 drop=250m uhys=0
+.ENDS TLV73333P_TRANS
+ 
+
+
+*$
+.subckt TLV73333P_S1 1 2 3 4  
+S_S1         3 4 1 2 _S1
+RS_S1         1 2 1G
+.MODEL         _S1 VSWITCH Roff=120 Ron=1E9 Voff=0.49 Von=0.5
+.ends TLV73333P_S1
+*$
+.subckt TLV73333P_F1 1 2 3 4  
+F_F1         3 4 VF_F1 1
+VF_F1         1 2 0V
+.ends TLV73333P_F1
+*$
+.SUBCKT COMPHYS_BASIC_GEN INP INM HYS OUT PARAMS: VDD=1 VSS=0 VTHRESH=0.5	
+EIN INP1 INM1 INP INM 1 
+EHYS INP1 INP2 VALUE { IF( V(1) > {VTHRESH},-V(HYS),0) }
+EOUT OUT 0 VALUE { IF( V(INP2)>V(INM1), {VDD} ,{VSS}) }
+R1 OUT 1 1
+C1 1 0 5n
+RINP1 INP1 0 1K
+.ENDS COMPHYS_BASIC_GEN
+*$
+.SUBCKT D_D1 1 2
+D1 1 2 DD1
+.MODEL DD1 D( IS=1e-15 TT=10p Rs=0.05 N=.1  )
+.ENDS D_D1
+*$
+.subckt d_d 1 2
+d1 1 2 dd
+.model dd d
++ is=1e-015
++ n=0.01
++ tt=1e-011
+.ends d_d
+*$

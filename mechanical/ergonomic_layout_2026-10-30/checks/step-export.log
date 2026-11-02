@@ -1,0 +1,5 @@
+18:37:34: Error: Can't create registry key 'HKCU\Software\kicad-cli' (error 5: Access is denied.)
+18:37:34: Error: Can't open registry key 'HKCU\Software\kicad-cli' (error 5: Access is denied.)
+STEP file 'mechanical/ergonomic_layout_2026-10-30/reference/board.step' created.
+
+Export time 5.275 s

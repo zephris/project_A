@@ -1,0 +1,375 @@
+{
+  "failures": [],
+  "part_count": 105,
+  "source_geometry_hashes_unchanged": true,
+  "bbox_min_mm": [
+    14.0,
+    14.0,
+    0.0
+  ],
+  "bbox_max_mm": [
+    241.8000002,
+    241.500000000005,
+    60.35
+  ],
+  "minimum_stacked_bbox_separation_mm": 0.9999999999999769,
+  "native_position_max_error_mm": 3.600004362169784e-06,
+  "slicer_settings_verified": {
+    "printer_model": "Bambu Lab A1",
+    "nozzle_diameter": [
+      "0.4"
+    ],
+    "printable_area": [
+      "0x0",
+      "256x0",
+      "256x256",
+      "0x256"
+    ],
+    "bed_exclude_area": [],
+    "printable_height": "256",
+    "print_sequence": "by layer",
+    "filament_type": [
+      "PLA",
+      "PETG"
+    ],
+    "layer_height": "0.1",
+    "initial_layer_print_height": "0.1",
+    "support_filament": "1",
+    "support_interface_filament": "2",
+    "support_top_z_distance": "0",
+    "support_bottom_z_distance": "0",
+    "support_interface_top_layers": "2",
+    "support_interface_bottom_layers": "2",
+    "support_interface_spacing": "0",
+    "support_bottom_interface_spacing": "0",
+    "support_on_build_plate_only": "0",
+    "enable_prime_tower": "1",
+    "wipe_tower_x": [
+      "196"
+    ],
+    "wipe_tower_y": [
+      "180"
+    ],
+    "prime_tower_width": "35",
+    "flush_into_objects": "0",
+    "flush_into_infill": "0",
+    "flush_into_support": "0",
+    "flush_volumes_matrix": [
+      "0",
+      "800",
+      "800",
+      "0"
+    ],
+    "nozzle_temperature": [
+      "220",
+      "245"
+    ],
+    "filament_max_volumetric_speed": [
+      "21",
+      "8"
+    ],
+    "filament_flow_ratio": [
+      "0.98",
+      "0.94"
+    ]
+  },
+  "stock_service_templates_unchanged": [
+    "machine_start_gcode",
+    "machine_end_gcode",
+    "change_filament_gcode",
+    "time_lapse_gcode",
+    "layer_change_gcode"
+  ],
+  "every_elevated_part_has_PETG_below": true,
+  "contacts": [
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_3",
+      "z_mm": 3.0,
+      "PETG_segments_below": 740
+    },
+    {
+      "part": "bottom_acrylic_SURROGATE_QUARTER_4",
+      "z_mm": 3.0,
+      "PETG_segments_below": 742
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_1",
+      "z_mm": 6.0,
+      "PETG_segments_below": 1508
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_2",
+      "z_mm": 6.0,
+      "PETG_segments_below": 2056
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_3",
+      "z_mm": 9.0,
+      "PETG_segments_below": 1470
+    },
+    {
+      "part": "top_acrylic_SURROGATE_QUARTER_4",
+      "z_mm": 9.0,
+      "PETG_segments_below": 1486
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_1",
+      "z_mm": 12.0,
+      "PETG_segments_below": 686
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_2",
+      "z_mm": 12.0,
+      "PETG_segments_below": 718
+    },
+    {
+      "part": "switch_plate_QUARTER_1",
+      "z_mm": 14.7,
+      "PETG_segments_below": 1284
+    },
+    {
+      "part": "switch_plate_QUARTER_2",
+      "z_mm": 14.7,
+      "PETG_segments_below": 1252
+    },
+    {
+      "part": "switch_plate_QUARTER_3",
+      "z_mm": 17.0,
+      "PETG_segments_below": 1264
+    },
+    {
+      "part": "switch_plate_QUARTER_4",
+      "z_mm": 17.0,
+      "PETG_segments_below": 1362
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_3",
+      "z_mm": 19.3,
+      "PETG_segments_below": 712
+    },
+    {
+      "part": "PCB_SELECTED_ENVELOPES_SURROGATE_QUARTER_4",
+      "z_mm": 19.3,
+      "PETG_segments_below": 724
+    },
+    {
+      "part": "bottom_spacer_QUARTER_3",
+      "z_mm": 29.0,
+      "PETG_segments_below": 2122
+    },
+    {
+      "part": "top_spacer_QUARTER_3",
+      "z_mm": 35.4,
+      "PETG_segments_below": 1184
+    },
+    {
+      "part": "bottom_spacer_QUARTER_4",
+      "z_mm": 29.0,
+      "PETG_segments_below": 1678
+    },
+    {
+      "part": "top_spacer_QUARTER_4",
+      "z_mm": 35.4,
+      "PETG_segments_below": 1148
+    },
+    {
+      "part": "bottom_spacer_QUARTER_1",
+      "z_mm": 46.3,
+      "PETG_segments_below": 1594
+    },
+    {
+      "part": "top_spacer_QUARTER_1",
+      "z_mm": 50.5,
+      "PETG_segments_below": 1106
+    },
+    {
+      "part": "bottom_spacer_QUARTER_2",
+      "z_mm": 46.3,
+      "PETG_segments_below": 1812
+    },
+    {
+      "part": "top_spacer_QUARTER_2",
+      "z_mm": 50.5,
+      "PETG_segments_below": 1102
+    },
+    {
+      "part": "acrylic_case_post_2_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 34
+    },
+    {
+      "part": "acrylic_case_post_3_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 34
+    },
+    {
+      "part": "acrylic_case_post_4_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 34
+    },
+    {
+      "part": "acrylic_case_post_5_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 34
+    },
+    {
+      "part": "acrylic_case_post_6_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 32
+    },
+    {
+      "part": "acrylic_case_post_7_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 32
+    },
+    {
+      "part": "acrylic_case_post_8_12mm_AF5_SURROGATE",
+      "z_mm": 3.0,
+      "PETG_segments_below": 38
+    },
+    {
+      "part": "printed_screen_stop_1_3mm",
+      "z_mm": 3.0,
+      "PETG_segments_below": 26
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_1_M2",
+      "z_mm": 3.0,
+      "PETG_segments_below": 26
+    },
+    {
+      "part": "printed_screen_stop_2_3mm",
+      "z_mm": 3.0,
+      "PETG_segments_below": 32
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_2_M2",
+      "z_mm": 3.0,
+      "PETG_segments_below": 42
+    },
+    {
+      "part": "printed_screen_stop_3_3mm",
+      "z_mm": 3.0,
+      "PETG_segments_below": 40
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_3_M2",
+      "z_mm": 3.0,
+      "PETG_segments_below": 26
+    },
+    {
+      "part": "printed_screen_stop_4_3mm",
+      "z_mm": 3.0,
+      "PETG_segments_below": 24
+    },
+    {
+      "part": "printed_screen_rear_tapped_cap_4_M2",
+      "z_mm": 3.0,
+      "PETG_segments_below": 30
+    }
+  ],
+  "feature_volumes_mm3": {
+    "Prime tower / PLA": 31990.15,
+    "Support / PLA": 109603.41,
+    "Brim / PLA": 406.79,
+    "Inner wall / PLA": 22253.17,
+    "Outer wall / PLA": 22099.58,
+    "Bottom surface / PLA": 3129.18,
+    "Internal solid infill / PLA": 87868.84,
+    "Top surface / PLA": 22382.98,
+    "Gap infill / PLA": 9.22,
+    "Sparse infill / PLA": 32544.56,
+    "Prime tower / PETG": 8404.59,
+    "Support interface / PETG": 82766.9,
+    "Floating vertical shell / PLA": 794.65,
+    "Support transition / PLA": 65716.15,
+    "Bridge / PLA": 80336.27
+  },
+  "feature_xy_bounds_mm": {
+    "Prime tower": [
+      193.129,
+      177.129,
+      233.871,
+      218.621
+    ],
+    "Support": [
+      10.901,
+      10.751,
+      244.9,
+      244.75
+    ],
+    "Brim": [
+      11.27,
+      11.268,
+      244.53,
+      244.232
+    ],
+    "Inner wall": [
+      14.473,
+      14.584,
+      240.676,
+      240.935
+    ],
+    "Outer wall": [
+      14.2,
+      14.2,
+      241.524,
+      241.29
+    ],
+    "Bottom surface": [
+      14.995,
+      14.995,
+      240.09,
+      233.905
+    ],
+    "Internal solid infill": [
+      14.793,
+      14.793,
+      240.506,
+      240.457
+    ],
+    "Top surface": [
+      14.429,
+      14.429,
+      240.871,
+      241.068
+    ],
+    "Gap infill": [
+      14.409,
+      14.409,
+      240.86,
+      241.037
+    ],
+    "Sparse infill": [
+      14.988,
+      14.988,
+      240.312,
+      233.762
+    ],
+    "Support interface": [
+      12.526,
+      12.02,
+      243.274,
+      243.48
+    ],
+    "Floating vertical shell": [
+      14.983,
+      14.992,
+      240.295,
+      223.372
+    ],
+    "Support transition": [
+      12.17,
+      12.02,
+      243.63,
+      243.48
+    ],
+    "Bridge": [
+      14.793,
+      14.793,
+      240.504,
+      240.52
+    ]
+  },
+  "limitations": "Geometry and file checks only. Interface segments in each elevated footprint do not prove full underside support coverage or physical release; no print was started."
+}

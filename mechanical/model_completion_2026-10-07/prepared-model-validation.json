@@ -1,0 +1,56 @@
+{
+  "AOTA_B201610S3R3_101_T_EasyEDA.step": {
+    "source": "L1-library.step",
+    "seating_translation_z_mm": 0.05,
+    "valid": true,
+    "bounds_mm": [
+      -0.9999999999999998,
+      1.0000000000000002,
+      -0.8100000999999999,
+      0.8000000000000003,
+      0.0,
+      1.0
+    ]
+  },
+  "SK6805_EC15_EasyEDA.step": {
+    "source": "LED-library.step",
+    "seating_translation_z_mm": 0.02,
+    "valid": true,
+    "bounds_mm": [
+      -0.7500001000000001,
+      0.7500001000000002,
+      -0.7600001,
+      0.7500001,
+      0.0,
+      0.67
+    ]
+  },
+  "ESDA7P120_1U1M_ST_reference": {
+    "provenance": "project-generated from ST DS14419 Rev4 or DS13913 Rev4; simplified reference only",
+    "nominal_body_xyz_mm": [
+      1.6,
+      1.0,
+      0.55
+    ],
+    "maximum_body_xyz_mm": [
+      1.65,
+      1.05,
+      0.6
+    ],
+    "valid": true
+  },
+  "ECMF2_40A100N6_ST_reference": {
+    "provenance": "project-generated from ST DS14419 Rev4 or DS13913 Rev4; simplified reference only",
+    "nominal_body_xyz_mm": [
+      1.35,
+      1.4,
+      0.45
+    ],
+    "maximum_body_xyz_mm": [
+      1.4,
+      1.45,
+      0.5
+    ],
+    "valid": true
+  }
+}

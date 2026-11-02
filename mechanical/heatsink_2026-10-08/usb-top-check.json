@@ -1,0 +1,53 @@
+{
+  "units": "mm",
+  "board_sha256": "a9df89d99a8a269b675908a7aec1f1a1e827116273188d6fd180782878081ea0",
+  "usb2_model_group": "#o1.65.1",
+  "contacts": [
+    {
+      "number": 1,
+      "net": "USB_HOST_5V",
+      "pin_section_center_pcb_xy_mm": [
+        195.5,
+        47.0
+      ],
+      "drill_mm": 0.9
+    },
+    {
+      "number": 2,
+      "net": "HD-",
+      "pin_section_center_pcb_xy_mm": [
+        193.0,
+        47.0
+      ],
+      "drill_mm": 0.9
+    },
+    {
+      "number": 3,
+      "net": "HD+",
+      "pin_section_center_pcb_xy_mm": [
+        191.0,
+        47.0
+      ],
+      "drill_mm": 0.9
+    },
+    {
+      "number": 4,
+      "net": "GND",
+      "pin_section_center_pcb_xy_mm": [
+        188.5,
+        47.0
+      ],
+      "drill_mm": 0.9
+    }
+  ],
+  "shell_pins_registered": true,
+  "PCB_seating_z_mm": 0,
+  "shell_z_mm": [
+    -3.7,
+    7.0
+  ],
+  "mating_face_cad_y_mm": -34.14,
+  "mating_gap_probe_overlap_mm3": 0,
+  "heatsink_min_distance_mm": 3.8000000000000114,
+  "scope": "Drawing-derived reference with simplified shell/plastic/contact details. Physical sample and solder clearance trial required."
+}

@@ -1,0 +1,194 @@
+{
+  "C29": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C25": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C39": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C38": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C40": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C12": {
+    "footprint": "PHBox:Samsung_1005_Tolerance015",
+    "pad_size_mm": [
+      0.56,
+      0.65
+    ],
+    "center_offset_mm": 0.5
+  },
+  "C31": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C21": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C13": {
+    "footprint": "PHBox:Samsung_1005_Tolerance015",
+    "pad_size_mm": [
+      0.56,
+      0.65
+    ],
+    "center_offset_mm": 0.5
+  },
+  "C22": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C36": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C32": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C26": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C37": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C20": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C28": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C33": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C23": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C24": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C35": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "D21": {
+    "footprint": "PHBox:ESDA7P120_1U1M_ST_Recommended",
+    "pad_size_mm": [
+      0.55,
+      0.8
+    ],
+    "center_offset_mm": 0.625
+  },
+  "C30": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C34": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  },
+  "C27": {
+    "footprint": "PHBox:Samsung_1005_Tolerance005",
+    "pad_size_mm": [
+      0.53,
+      0.55
+    ],
+    "center_offset_mm": 0.465
+  }
+}
